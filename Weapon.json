@@ -1,0 +1,2879 @@
+{
+  "476-gamedata.base": {
+    "stringId": "476-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": -0.3,
+      "attack mod": 4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana05_bare.mesh"
+      },
+      "bleed mult": 1.2,
+      "blunt damage multiplier": 0.0,
+      "can block": true,
+      "cut damage multiplier": 1.0,
+      "defence mod": -4,
+      "description": "A standard katana, one of the fastest, lightest weapons around.  They rely on skill and dexterity rather than brute strength.  Quality is more important than it is with other types of blade, so they tend to be more expensive.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.1,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.8,
+      "icon offset V": -0.1,
+      "icon zoom": 0.45,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 21,
+      "material": 0,
+      "material cost": 7,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana05.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.6,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana05_sheath.mesh"
+      },
+      "skill category": 0,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 500,
+      "weight kg": 2.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "2110-gamedata.base": {
+    "stringId": "2110-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": -2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\club04.mesh"
+      },
+      "bleed mult": 0.3,
+      "blunt damage multiplier": 1.0,
+      "can block": true,
+      "cut damage multiplier": 0.2,
+      "defence mod": 0,
+      "description": "A hefty club used by wealthier bandit types.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.4,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 18,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\club04.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.2,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 2,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 150,
+      "weight kg": 4.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "2064-gamedata.base": {
+    "stringId": "2064-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.0,
+      "attack mod": -2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\blunt01.mesh"
+      },
+      "bleed mult": 0.3,
+      "blunt damage multiplier": 0.7,
+      "can block": true,
+      "cut damage multiplier": 0.1,
+      "defence mod": -2,
+      "description": "An iron stick, used to hit things.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.47,
+      "indoors mod": 2,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 18,
+      "material": 0,
+      "material cost": 1,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\blunt01.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 2,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 40,
+      "weight kg": 2.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "922-gamedata.base": {
+    "stringId": "922-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": -0.2,
+      "attack mod": 4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\nodachi_bare.mesh"
+      },
+      "bleed mult": 1.2,
+      "blunt damage multiplier": 0.0,
+      "can block": true,
+      "cut damage multiplier": 1.2,
+      "defence mod": -4,
+      "description": "An extended katana variant with increased reach and damage.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.1,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.3,
+      "icon offset V": -0.1,
+      "icon zoom": 0.45,
+      "indoors mod": -4,
+      "inventory footprint height": 1,
+      "inventory footprint width": 10,
+      "length": 25,
+      "material": 0,
+      "material cost": 10,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\nodachi.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.6,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\nodachi_sheath.mesh"
+      },
+      "skill category": 0,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 600,
+      "weight kg": 8.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "3934-gamedata.base": {
+    "stringId": "3934-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 65,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 20,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 20.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "903-gamedata.base": {
+    "stringId": "903-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": -2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\ringo2_bare.mesh"
+      },
+      "bleed mult": 0.9,
+      "blunt damage multiplier": 0.25,
+      "can block": true,
+      "cut damage multiplier": 1.2,
+      "defence mod": 4,
+      "description": "A classic hard-hitting blade used by many legendary swordsmen, including Arc himself.  The rings are pretty noisy and mainly designed to distract and annoy the hell out of your opponent.  Beak Things hate it, but it tends to just make them more vicious.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.5,
+      "icon offset V": 0.0,
+      "icon zoom": 0.74,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 20,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\ringo2.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\ringo.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\ringo2_sheath.mesh"
+      },
+      "skill category": 1,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 300,
+      "weight kg": 8.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "924-gamedata.base": {
+    "stringId": "924-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": -0.2,
+      "attack mod": 2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana07_bare.mesh"
+      },
+      "bleed mult": 1.1,
+      "blunt damage multiplier": 0.0,
+      "can block": true,
+      "cut damage multiplier": 0.8,
+      "defence mod": -4,
+      "description": "A smaller, lighter katana with a straight blade that is easier to produce.  Popular with ninjas because they're better for stabbing people in the back with, but not the best for toe-to-toe combat.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.1,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.6,
+      "icon offset V": 0.0,
+      "icon zoom": 0.45,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 21,
+      "material": 0,
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana07.mesh"
+      },
+      "min cut damage mult": 1.5,
+      "overall scale": 0.95,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.6,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana07_sheath.mesh"
+      },
+      "skill category": 0,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 200,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "475-gamedata.base": {
+    "stringId": "475-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": -4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre05_bare.mesh"
+      },
+      "bleed mult": 0.9,
+      "blunt damage multiplier": 0.25,
+      "can block": true,
+      "cut damage multiplier": 1.0,
+      "defence mod": 4,
+      "description": "The classic sabre.  Does more damage than a regular katana, at the cost of extra weight.  The heavier blade is better for defending, but still curved for cutting damage.  They're very common, so can usually be found cheaper than other weapons of similar quality.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -2.65,
+      "icon offset V": -0.1,
+      "icon zoom": 0.65,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 18,
+      "material": 0,
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre05.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\horse01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre05_sheath.mesh"
+      },
+      "skill category": 1,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 200,
+      "weight kg": 6.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "3982-gamedata.base": {
+    "stringId": "3982-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.2,
+      "blunt damage multiplier": 0.1,
+      "can block": false,
+      "cut damage multiplier": 4.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 25,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.5,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 10,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "42075-gamedata.base": {
+    "stringId": "42075-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 35,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 12,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "478-gamedata.base": {
+    "stringId": "478-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\chopper01_bare.mesh"
+      },
+      "bleed mult": 0.75,
+      "blunt damage multiplier": 0.8,
+      "can block": true,
+      "cut damage multiplier": 0.8,
+      "defence mod": -2,
+      "description": "Close to being classed as a heavy weapon, it's the heaviest cleaver you will find.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.8,
+      "icon offset V": 0.0,
+      "icon zoom": 0.77,
+      "indoors mod": -4,
+      "inventory footprint height": 2,
+      "inventory footprint width": 9,
+      "length": 25,
+      "material": 0,
+      "material cost": 10,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\chopper01.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 0.9,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\chopper01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.2,
+      "scale length": 0.8,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\chopper01_sheath.mesh"
+      },
+      "skill category": 4,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 350,
+      "weight kg": 13.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "477-gamedata.base": {
+    "stringId": "477-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint01.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.8,
+      "can block": true,
+      "cut damage multiplier": 0.3,
+      "defence mod": 0,
+      "description": "A huge axe built to work like a sword.  Stupidly heavy, but it impresses the ladies.  Shek ladies mostly.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -6.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.1,
+      "indoors mod": -6,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "length": 32,
+      "material": 0,
+      "material cost": 15,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint01.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\flint01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 3,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 550,
+      "weight kg": 18.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "474-gamedata.base": {
+    "stringId": "474-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": -0.15,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\blade01_bare.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.1,
+      "can block": true,
+      "cut damage multiplier": 1.1,
+      "defence mod": 0,
+      "description": "A hybrid between katana and sabre, it has a top-heavy balance that feels odd to a katana user, hence the name.  It's fast and has a similar reach to a Nodachi.\n\nA mostly forgotten weapon in modern times, it was once popular among mercenaries of the old empire.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": -0.1,
+      "icon zoom": 0.45,
+      "indoors mod": -4,
+      "inventory footprint height": 1,
+      "inventory footprint width": 9,
+      "length": 25,
+      "material": 0,
+      "material cost": 8,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\blade01.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 0.95,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\blade01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\blade01_sheath.mesh"
+      },
+      "skill category": 0,
+      "skill category animation override": 1,
+      "slot": 0,
+      "value": 400,
+      "weight kg": 8.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "923-gamedata.base": {
+    "stringId": "923-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": -0.3,
+      "attack mod": 6,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana06_bare.mesh"
+      },
+      "bleed mult": 1.3,
+      "blunt damage multiplier": 0.0,
+      "can block": true,
+      "cut damage multiplier": 1.0,
+      "defence mod": -6,
+      "description": "An uncommon katana modification sacrificing defence by removing the guard.  It's more a psychological advantage than a physical one, knowing subconsciously that attack is your best defence promotes a more aggressive combat style.  Gang bosses and Jonin tend to use them to equip their underlings because it makes trouble-makers on both sides more reluctant.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.1,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.8,
+      "icon offset V": -0.1,
+      "icon zoom": 0.47,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 21,
+      "material": 0,
+      "material cost": 7,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana06.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.6,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana06_sheath.mesh"
+      },
+      "skill category": 0,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 500,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "902-gamedata.base": {
+    "stringId": "902-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint02.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.2,
+      "can block": true,
+      "cut damage multiplier": 0.8,
+      "defence mod": 0,
+      "description": "A hefty hacking weapon, with a good reach.  A nice balance for those who find fragment axes too clumsy and blunt, the plank retains some of the extra deadly traits of a regular sword, while still remaining ridiculously crude.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -5.1,
+      "icon offset V": -0.1,
+      "icon zoom": 0.96,
+      "indoors mod": -6,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "length": 30,
+      "material": 0,
+      "material cost": 12,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint02.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 0.9,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\flint02.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 3,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 500,
+      "weight kg": 10.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "901-gamedata.base": {
+    "stringId": "901-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": -0.15,
+      "attack mod": -2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker05_bare.mesh"
+      },
+      "bleed mult": 0.9,
+      "blunt damage multiplier": 0.15,
+      "can block": true,
+      "cut damage multiplier": 1.0,
+      "defence mod": 2,
+      "description": "Very light for a sabre, but too straight and heavy to classify as a katana.  They are popular among nobles as a status symbol in the empire.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.5,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 20,
+      "material": 0,
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker05.mesh"
+      },
+      "min cut damage mult": 2.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\flattopper.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.9,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker05_sheath.mesh"
+      },
+      "skill category": 1,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 250,
+      "weight kg": 4.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "1020-gamedata.base": {
+    "stringId": "1020-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": -0.3,
+      "attack mod": 2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana05_bare.mesh"
+      },
+      "bleed mult": 1.2,
+      "blunt damage multiplier": 0.0,
+      "can block": true,
+      "cut damage multiplier": 0.9,
+      "defence mod": -2,
+      "description": "Smaller and lighter, usually used as a sidearm for backup.  It's worth noting that although short, it has a major advantage when fighting indoors against longer weapons.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.1,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.2,
+      "icon offset V": -0.2,
+      "icon zoom": 0.48,
+      "indoors mod": 4,
+      "inventory footprint height": 1,
+      "inventory footprint width": 6,
+      "length": 16,
+      "material": 0,
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana05.mesh"
+      },
+      "min cut damage mult": 2.0,
+      "overall scale": 0.92,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.6,
+      "scale length": 0.8,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\katana05_sheath.mesh"
+      },
+      "skill category": 0,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 250,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "3968-gamedata.base": {
+    "stringId": "3968-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 120,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 9,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "2606-gamedata.base": {
+    "stringId": "2606-gamedata.base",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker07.mesh"
+      },
+      "bleed mult": 0.5,
+      "blunt damage multiplier": 0.6,
+      "can block": true,
+      "cut damage multiplier": 0.6,
+      "defence mod": -2,
+      "description": "A nasty weapon, designed for hacking through meat.  The crude bluntness of the weapon means victims don't bleed to death so often, they just get hacked and maimed.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.2,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -2.3,
+      "icon offset V": 0.3,
+      "icon zoom": 0.7,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 16,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker07.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\chopper01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.15,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 4,
+      "skill category animation override": 2,
+      "slot": 0,
+      "value": 150,
+      "weight kg": 6.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "56728-Dialogue.mod": {
+    "stringId": "56728-Dialogue.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint02.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.2,
+      "can block": true,
+      "craft time": 1.0,
+      "cut damage multiplier": 0.8,
+      "defence mod": 0,
+      "description": "A hefty sword once taken from a defeated Shek Guardian. \n\nWithout their name, their status, or their prized weapons, the shamed ones walk the land forever as lost ghosts.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -5.1,
+      "icon offset V": -0.1,
+      "icon zoom": 0.96,
+      "indoors mod": -6,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "length": 30,
+      "material": 0,
+      "material cost": 12,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint02.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 0.9,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\flint02.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale from weight": false,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 3,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 500,
+      "weight kg": 10.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "56729-Dialogue.mod": {
+    "stringId": "56729-Dialogue.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint01.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.8,
+      "can block": true,
+      "craft time": 1.0,
+      "cut damage multiplier": 0.3,
+      "defence mod": 0,
+      "description": "Gifted to Shager's most loyal Invincible Warrior, Ida the Flying Bull.\n\nFor him, I fight a thousand men. For him, I die a thousand deaths.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -6.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.1,
+      "indoors mod": -4,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "length": 32,
+      "material": 0,
+      "material cost": 15,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\flint01.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\flint01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale from weight": false,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 3,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 550,
+      "weight kg": 18.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "46991-rebirth.mod": {
+    "stringId": "46991-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.8,
+      "can block": false,
+      "cut damage multiplier": 0.4,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 60,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.4,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 20,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "50853-rebirth.mod": {
+    "stringId": "50853-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 18,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 13,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "43883-rebirth.mod": {
+    "stringId": "43883-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 35,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 13,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "43897-rebirth.mod": {
+    "stringId": "43897-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 0.7,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 0.5,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 30,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 16,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "43887-rebirth.mod": {
+    "stringId": "43887-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.2,
+      "blunt damage multiplier": 0.1,
+      "can block": false,
+      "cut damage multiplier": 4.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 18,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.5,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 15,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "46990-rebirth.mod": {
+    "stringId": "46990-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.5,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 60,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 20,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52287-rebirth.mod": {
+    "stringId": "52287-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": -4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre03_bare.mesh"
+      },
+      "bleed mult": 0.9,
+      "blunt damage multiplier": 0.25,
+      "can block": true,
+      "cut damage multiplier": 1.0,
+      "defence mod": 6,
+      "description": "A portion of metal cut out of the far end of the blade makes it slightly faster and more manoeuvrable.  Most swordsmen can't notice the difference, others swear by it.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.2,
+      "icon offset V": -0.3,
+      "icon zoom": 0.73,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 18,
+      "material": 0,
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre03.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.1,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\horse01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre03_sheath.mesh"
+      },
+      "skill category": 1,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 250,
+      "weight kg": 6.0,
+      "weight mult": 0.8
+    },
+    "references": {}
+  },
+  "52290-rebirth.mod": {
+    "stringId": "52290-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.1,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\jitte01_bare.mesh"
+      },
+      "bleed mult": 0.1,
+      "blunt damage multiplier": 1.3,
+      "can block": true,
+      "cut damage multiplier": 0.0,
+      "defence mod": 8,
+      "description": "A professional law-enforcement weapon.  Designed for non-lethal takedowns, it has a sword-catcher guard that gives an advantage when defending.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.47,
+      "indoors mod": -2,
+      "inventory footprint height": 1,
+      "inventory footprint width": 9,
+      "length": 21,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\jitte01.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\jitte01_sheath.mesh"
+      },
+      "skill category": 2,
+      "skill category animation override": 1,
+      "slot": 0,
+      "value": 300,
+      "weight kg": 6.0,
+      "weight mult": 0.7
+    },
+    "references": {}
+  },
+  "52292-rebirth.mod": {
+    "stringId": "52292-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker03_bare.mesh"
+      },
+      "bleed mult": 0.75,
+      "blunt damage multiplier": 0.7,
+      "can block": true,
+      "cut damage multiplier": 0.75,
+      "defence mod": 0,
+      "description": "A sword-cleaver hybrid, it's lighter and more suited to normal combat.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.8,
+      "icon offset V": 0.0,
+      "icon zoom": 0.77,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 19,
+      "material": 0,
+      "material cost": 9,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker03.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.05,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\chopper01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.25,
+      "scale length": 1.15,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker03_sheath.mesh"
+      },
+      "skill category": 4,
+      "skill category animation override": 1,
+      "slot": 0,
+      "value": 300,
+      "weight kg": 6.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52295-rebirth.mod": {
+    "stringId": "52295-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\club05.mesh"
+      },
+      "bleed mult": 0.3,
+      "blunt damage multiplier": 0.85,
+      "can block": true,
+      "cut damage multiplier": 0.1,
+      "defence mod": 0,
+      "description": "A basic iron stick with a wrapped handle.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.5,
+      "icon offset V": 0.0,
+      "icon zoom": 0.36,
+      "indoors mod": 2,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 18,
+      "material": 0,
+      "material cost": 2,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\club05.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 2,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 80,
+      "weight kg": 2.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52297-rebirth.mod": {
+    "stringId": "52297-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": -2,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\club03.mesh"
+      },
+      "bleed mult": 2.0,
+      "blunt damage multiplier": 1.0,
+      "can block": true,
+      "cut damage multiplier": 0.3,
+      "defence mod": 0,
+      "description": "A nasty weapon that causes bleeding in addition to crushing damage.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.4,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 18,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\club03.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 2,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 160,
+      "weight kg": 4.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52299-rebirth.mod": {
+    "stringId": "52299-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker04_bare.mesh"
+      },
+      "bleed mult": 0.75,
+      "blunt damage multiplier": 0.8,
+      "can block": true,
+      "cut damage multiplier": 0.8,
+      "defence mod": 2,
+      "description": "The Cross is the revered holy weapon and symbol of the Paladins.  With it they have been slaying skeletons and people they think might be skeletons for centuries.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 0.9,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.8,
+      "icon offset V": 0.0,
+      "icon zoom": 0.77,
+      "indoors mod": -2,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "length": 23,
+      "material": 0,
+      "material cost": 11,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker04.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.05,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\chopper01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.5,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker04_sheath.mesh"
+      },
+      "skill category": 4,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 400,
+      "weight kg": 8.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52300-rebirth.mod": {
+    "stringId": "52300-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.3,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker06.mesh"
+      },
+      "bleed mult": 0.5,
+      "blunt damage multiplier": 0.8,
+      "can block": true,
+      "cut damage multiplier": 0.7,
+      "defence mod": -2,
+      "description": "Most blades, like katanas and sabres, use their curvature to \"slide\" off the target, increasing the amount of cut damage. The reverse curvature of a Moon Cleaver does the opposite, catching limbs and necks, keeping the force of the blow driving inwards.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -2.3,
+      "icon offset V": 0.3,
+      "icon zoom": 0.75,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 9,
+      "length": 18,
+      "material": 0,
+      "material cost": 10,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker06.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.2,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\chopper01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.2,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 4,
+      "skill category animation override": 2,
+      "slot": 0,
+      "value": 350,
+      "weight kg": 6.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52301-rebirth.mod": {
+    "stringId": "52301-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.5,
+      "armour penetration": 0.3,
+      "attack mod": 6,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm02.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.5,
+      "can block": true,
+      "cut damage multiplier": 0.5,
+      "defence mod": 0,
+      "description": "Unusual weapons that are sometimes used by hunters as their reach makes them good for taking down animals.  Due to their cumbersome length however they are at a serious disadvantage when used indoors.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.6,
+      "indoors mod": -8,
+      "inventory footprint height": 1,
+      "inventory footprint width": 10,
+      "length": 28,
+      "material": 0,
+      "material cost": 8,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm02.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 8,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 300,
+      "weight kg": 5.0,
+      "weight mult": 0.75
+    },
+    "references": {}
+  },
+  "52302-rebirth.mod": {
+    "stringId": "52302-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 8,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm01.mesh"
+      },
+      "bleed mult": 0.1,
+      "blunt damage multiplier": 0.8,
+      "can block": true,
+      "cut damage multiplier": 0.05,
+      "defence mod": 0,
+      "description": "Popular with poor farmers, pacifists and drifters.  It's usually seen as a weapon for those who can't afford a blade, but sometimes can make a fool of a good swordsman.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.6,
+      "indoors mod": -6,
+      "inventory footprint height": 1,
+      "inventory footprint width": 10,
+      "length": 23,
+      "material": 0,
+      "material cost": 2,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm01.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 8,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 100,
+      "weight kg": 1.0,
+      "weight mult": 0.25
+    },
+    "references": {}
+  },
+  "52303-rebirth.mod": {
+    "stringId": "52303-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\jitte01_bare.mesh"
+      },
+      "bleed mult": 0.1,
+      "blunt damage multiplier": 0.9,
+      "can block": true,
+      "cut damage multiplier": 0.0,
+      "defence mod": 8,
+      "description": "A professional law-enforcement weapon.  Designed for non-lethal takedowns, it has a sword-catcher guard that gives an advantage when defending.  The smaller 1-handed version makes a good sidearm and has an advantage in tight indoor situations.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.37,
+      "indoors mod": 4,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 18,
+      "material": 0,
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\jitte01.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 0.9,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\katana04.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 0.9,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\jitte01_sheath.mesh"
+      },
+      "skill category": 2,
+      "skill category animation override": 0,
+      "slot": 0,
+      "value": 200,
+      "weight kg": 3.0,
+      "weight mult": 0.7
+    },
+    "references": {}
+  },
+  "52304-rebirth.mod": {
+    "stringId": "52304-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": -4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre02_bare.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.15,
+      "can block": true,
+      "cut damage multiplier": 1.2,
+      "defence mod": 8,
+      "description": "A pretty exotic weapon, thought to have originated from the Black Desert.  Not very popular for some reason and people will probably laugh at you in bars, but is actually a defensive masterpiece and shouldn't be underestimated.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.7,
+      "icon offset V": -0.5,
+      "icon zoom": 0.8,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 20,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre02.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\ringo.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre02_sheath.mesh"
+      },
+      "skill category": 1,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 500,
+      "weight kg": 8.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "52305-rebirth.mod": {
+    "stringId": "52305-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre01_bare.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.25,
+      "can block": true,
+      "cut damage multiplier": 1.1,
+      "defence mod": 2,
+      "description": "An unusual weapon design that supposedly came from the deserts.  Usually hard to find, but they have a distinct ability to gut spiders really well, making them popular with certain specialists.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.8,
+      "indoors mod": 0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "length": 22,
+      "material": 0,
+      "material cost": 5,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre01.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\ringo.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\sabre01_sheath.mesh"
+      },
+      "skill category": 1,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 500,
+      "weight kg": 8.0,
+      "weight mult": 1.0
+    },
+    "references": {
+      "race damage": {
+        "43870-rebirth.mod": [
+          200,
+          0,
+          0
+        ],
+        "50641-rebirth.mod": [
+          150,
+          0,
+          0
+        ],
+        "3976-gamedata.base": [
+          125,
+          0,
+          0
+        ],
+        "56088-rebirth.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52306-rebirth.mod": {
+    "stringId": "52306-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\heavy03.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": true,
+      "cut damage multiplier": 1.2,
+      "defence mod": 0,
+      "description": "A ridiculously unwieldy weapon sometimes used by Skeletons.  Requiring both dexterity and strength to use properly, they are widely known as \"Suicide Blades\", because they often get their users killed.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -5.1,
+      "icon offset V": -0.1,
+      "icon zoom": 0.96,
+      "indoors mod": -6,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "length": 25,
+      "material": 0,
+      "material cost": 14,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\heavy03.mesh"
+      },
+      "min cut damage mult": 0.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\flint02.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 3,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 600,
+      "weight kg": 10.0,
+      "weight mult": 1.0
+    },
+    "references": {
+      "race damage": {
+        "2860-gamedata.base": [
+          150,
+          0,
+          0
+        ],
+        "43898-rebirth.mod": [
+          150,
+          0,
+          0
+        ],
+        "3966-gamedata.base": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52307-rebirth.mod": {
+    "stringId": "52307-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.25,
+      "armour penetration": 0.3,
+      "attack mod": 4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm03.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.4,
+      "can block": true,
+      "cut damage multiplier": 0.7,
+      "defence mod": 0,
+      "description": "An unusual sabre-polearm hybrid that mitigates the disadvantages of using a polearm.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.6,
+      "indoors mod": -4,
+      "inventory footprint height": 1,
+      "inventory footprint width": 10,
+      "length": 26,
+      "material": 0,
+      "material cost": 8,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm03.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 8,
+      "skill category animation override": 1,
+      "slot": 0,
+      "value": 300,
+      "weight kg": 5.0,
+      "weight mult": 0.75
+    },
+    "references": {}
+  },
+  "52308-rebirth.mod": {
+    "stringId": "52308-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.5,
+      "armour penetration": 0.0,
+      "attack mod": 6,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm05.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.2,
+      "can block": true,
+      "cut damage multiplier": 0.8,
+      "defence mod": 0,
+      "description": "A samurai hunter's weapon that can be deceptively fast and hard to defend against.  Too long to use effectively in cramped environments, but good against animals.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.6,
+      "indoors mod": -8,
+      "inventory footprint height": 1,
+      "inventory footprint width": 10,
+      "length": 28,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm05.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 8,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 350,
+      "weight kg": 3.0,
+      "weight mult": 0.75
+    },
+    "references": {}
+  },
+  "52309-rebirth.mod": {
+    "stringId": "52309-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.25,
+      "armour penetration": -0.15,
+      "attack mod": 4,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm04.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.2,
+      "can block": true,
+      "cut damage multiplier": 0.85,
+      "defence mod": 0,
+      "description": "A katana-polearm hybrid that mitigates the disadvantages of using a naginata, but still too long to be comfortable indoors.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.25,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 0.6,
+      "indoors mod": -4,
+      "inventory footprint height": 1,
+      "inventory footprint width": 9,
+      "length": 26,
+      "material": 0,
+      "material cost": 8,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\polearm04.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.8,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 8,
+      "skill category animation override": 1,
+      "slot": 0,
+      "value": 300,
+      "weight kg": 1.0,
+      "weight mult": 0.75
+    },
+    "references": {}
+  },
+  "FISTS": {
+    "stringId": "FISTS",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": false,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 0.05,
+      "blunt damage multiplier": 1.0,
+      "can block": true,
+      "cut damage multiplier": 1.0,
+      "defence mod": 0,
+      "description": "default, do not delete",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 8,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 18,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 0.6,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 5,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "53668-rebirth.mod": {
+    "stringId": "53668-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": false,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 0.2,
+      "blunt damage multiplier": 1.0,
+      "can block": true,
+      "cut damage multiplier": 1.2,
+      "defence mod": 0,
+      "description": "default, do not delete",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 8,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 18,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 5,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "56092-rebirth.mod": {
+    "stringId": "56092-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 1.0,
+      "can block": false,
+      "cut damage multiplier": 0.8,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 55,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 1.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 13,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "56124-rebirth.mod": {
+    "stringId": "56124-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 1.0,
+      "armour penetration": 0.0,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ""
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.8,
+      "can block": false,
+      "cut damage multiplier": 0.4,
+      "defence mod": 0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -4.0,
+      "icon offset V": 0.0,
+      "icon zoom": 1.0,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "length": 60,
+      "material": 1,
+      "material cost": 4,
+      "mesh": {
+        "path": ""
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage multiplier": 0.4,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "skill category": 17,
+      "skill category animation override": 21,
+      "slot": 0,
+      "value": 0,
+      "weight kg": 1.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  },
+  "65260-rebirth.mod": {
+    "stringId": "65260-rebirth.mod",
+    "type": "Weapon",
+    "values": {
+      "animal damage mult": 0.9,
+      "armour penetration": 0.1,
+      "attack mod": 0,
+      "auto icon image": true,
+      "bare sword": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker03thin_bare.mesh"
+      },
+      "bleed mult": 1.0,
+      "blunt damage multiplier": 0.7,
+      "can block": true,
+      "cut damage multiplier": 0.7,
+      "defence mod": 0,
+      "description": "A lightweight version of the combat cleaver that can be worn on the hip.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.8,
+      "icon offset V": 0.0,
+      "icon zoom": 0.4,
+      "indoors mod": 0,
+      "inventory footprint height": 1,
+      "inventory footprint width": 7,
+      "length": 17,
+      "material": 0,
+      "material cost": 6,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker03thin.mesh"
+      },
+      "min cut damage mult": 1.0,
+      "overall scale": 0.94,
+      "physics file": {
+        "path": ".\\data\\items\\weapons\\phs\\chopper01.xml"
+      },
+      "pierce damage multiplier": 0.0,
+      "robot damage mult": 1.2,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ".\\data\\items\\weapons\\mesh\\hacker03_sheath.mesh"
+      },
+      "skill category": 4,
+      "skill category animation override": 2,
+      "slot": 0,
+      "value": 250,
+      "weight kg": 6.0,
+      "weight mult": 1.0
+    },
+    "references": {}
+  }
+}

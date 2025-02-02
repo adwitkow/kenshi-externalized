@@ -1,0 +1,6908 @@
+{
+  "3405-otto.mod": {
+    "stringId": "3405-otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\signs_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\signs_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "491-gamedata.base": {
+    "stringId": "491-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\wall02_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\wall02.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1856-gamedata.base": {
+    "stringId": "1856-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\TdriveN_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Tdrive_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5261-lanterns_otto.mod": {
+    "stringId": "5261-lanterns_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "512-gamedata.base": {
+    "stringId": "512-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\wall_sandstone_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\wall_sandstone.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "606-gamedata.base": {
+    "stringId": "606-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS02_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS02.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2930-Walls2.mod": {
+    "stringId": "2930-Walls2.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate4_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 10.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Gate4_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3391-TwoStorey.mod": {
+    "stringId": "3391-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Plaster-Walls_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Plaster-Walls_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2615-Cannibals.mod": {
+    "stringId": "2615-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_B_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_B_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {
+      "material": {
+        "2615-Cannibals.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5198-TwoStorey.mod": {
+    "stringId": "5198-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps04_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps04_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2929-Walls2.mod": {
+    "stringId": "2929-Walls2.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 10.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1852-gamedata.base": {
+    "stringId": "1852-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Battery_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Battery_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3388-TwoStorey.mod": {
+    "stringId": "3388-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Plaster-Concrete_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Plaster-Walls_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Plaster-Concrete_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Plaster-Walls_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "344-gamedata.base": {
+    "stringId": "344-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\ATLAS1_NRM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\ATLAS1.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5324-TwoStorey.mod": {
+    "stringId": "5324-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\PrisonAwnings_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\PrisonAwnings_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5178-TwoStorey.mod": {
+    "stringId": "5178-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps01_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps01_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "502-gamedata.base": {
+    "stringId": "502-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Scratch_C_45_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Scratch_C_45.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5414-lights_otto.mod": {
+    "stringId": "5414-lights_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\indoor_lamp1_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\indoor_lamp1_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 0.0
+    },
+    "references": {}
+  },
+  "355-gamedata.base": {
+    "stringId": "355-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Scratch_C_13_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Scratch_C_13.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "2612-Cannibals.mod": {
+    "stringId": "2612-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_C_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_C_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2032-gamedata.base": {
+    "stringId": "2032-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Smithy_Bench_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 16.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Smithy_Bench_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5287-D-TwoStorey.mod": {
+    "stringId": "5287-D-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostConcrete02_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostConcrete01_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostConcrete02_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostConcrete01_DIF.dds"
+      },
+      "tile X": 3.0,
+      "tile Y": 3.0
+    },
+    "references": {}
+  },
+  "505-gamedata.base": {
+    "stringId": "505-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\sandstone3_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\sandstone3.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "2934-gamedata.base": {
+    "stringId": "2934-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\storages_N_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\storages_D_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "362-gamedata.base": {
+    "stringId": "362-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\redpaintrust_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\redpaintrust.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "361-gamedata.base": {
+    "stringId": "361-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Corrosion_C_12_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Corrosion_C_12.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "497-gamedata.base": {
+    "stringId": "497-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\20051009_0052_0001_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\20051009_0052_0001.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "872-gamedata.base": {
+    "stringId": "872-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\chest1_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\chest1.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1024-gamedata.base": {
+    "stringId": "1024-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\greywall02.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.5,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5246-TwoStorey.mod": {
+    "stringId": "5246-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\misc\\market _n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 0.2,
+      "texture map": {
+        "path": ".\\data\\buildings\\misc\\market _d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "712-gamedata.base": {
+    "stringId": "712-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\ConcreteBunker0478_5_L-1024.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {
+      "material": {
+        "353-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "502-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "1023-gamedata.base": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2882-gamedata.base": {
+    "stringId": "2882-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\tower\\Crossbow Turret_NM_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.5,
+      "texture map": {
+        "path": ".\\data\\buildings\\tower\\Crossbow Turret_Diff_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "12848-nodes_otto.mod": {
+    "stringId": "12848-nodes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Tiling_Cloth_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Tiling_Cloth_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "728-gamedata.base": {
+    "stringId": "728-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\moor\\ConcreteDirty0081_1_L.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.75,
+      "tile Y": 1.0
+    },
+    "references": {
+      "material": {
+        "742-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "743-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "1023-gamedata.base": [
+          100,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "358-gamedata.base": {
+    "stringId": "358-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\horange1-cropped_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\horange1-cropped.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "357-gamedata.base": {
+    "stringId": "357-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\blackyellowstripes_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\blackyellowstripes.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "3009-Walls.mod": {
+    "stringId": "3009-Walls.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall-Gate1_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall-Gate1_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "709-gamedata.base": {
+    "stringId": "709-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\materials\\grandmisc_metal_HI.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\grandmisc_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\grandmisc.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "745-gamedata.base": {
+    "stringId": "745-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\moor\\moordetailsatlass2x4_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\moor\\moordetailsatlass2x4.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "354-gamedata.base": {
+    "stringId": "354-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\METAL0059_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\METAL0059.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "639-gamedata.base": {
+    "stringId": "639-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Diamondplate2.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "705-gamedata.base": {
+    "stringId": "705-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1909-gamedata.base": {
+    "stringId": "1909-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\farm01.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\farm01.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3119-Walls2.mod": {
+    "stringId": "3119-Walls2.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1850-gamedata.base": {
+    "stringId": "1850-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\StoneMine_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 10.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\StoneMine_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.5,
+      "tile Y": 0.5
+    },
+    "references": {}
+  },
+  "360-gamedata.base": {
+    "stringId": "360-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\test_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Severe_C_10.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "3109-Newwworld.mod": {
+    "stringId": "3109-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate4_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Gate4_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1953-gamedata.base": {
+    "stringId": "1953-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\toweratlas_n_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\toweratlas_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "603-gamedata.base": {
+    "stringId": "603-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\misc\\watertower_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\misc\\watertower.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2019-gamedata.base": {
+    "stringId": "2019-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Crops\\Textures\\hemp_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Crops\\Textures\\hemp_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1942-gamedata.base": {
+    "stringId": "1942-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Fparheldt_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Fparheldt_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2637-Cannibals.mod": {
+    "stringId": "2637-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp Butchery Table_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp Butchery Table_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3092-walls.mod": {
+    "stringId": "3092-walls.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall4Tower_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall4Tower_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2832-gamedata.base": {
+    "stringId": "2832-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\tower\\Turret_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\tower\\Turret_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2624-Cannibals.mod": {
+    "stringId": "2624-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\cage_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\cage_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "14525-rebirth.mod": {
+    "stringId": "14525-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\ResourceRock_Copper_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\ResourceRock_Copper_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2621-Cannibals.mod": {
+    "stringId": "2621-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_G_Trophy_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_G_Trophy_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "12844-emissive_fix_otto.mod": {
+    "stringId": "12844-emissive_fix_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "345-gamedata.base": {
+    "stringId": "345-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\tilestone_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\tilestone.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "646-gamedata.base": {
+    "stringId": "646-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\blackmarket\\concrete13.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "717-gamedata.base": {
+    "stringId": "717-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\ConcretePlates0097_23_M_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\ConcretePlates0097_23_M.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.6,
+      "tile Y": 0.6
+    },
+    "references": {}
+  },
+  "1873-gamedata.base": {
+    "stringId": "1873-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\ResearchBench_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 32.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\ResearchBench_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3118-Walls2.mod": {
+    "stringId": "3118-Walls2.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall4_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall4_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5195-TwoStorey.mod": {
+    "stringId": "5195-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps05_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps05_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "12618-Newwworld.mod": {
+    "stringId": "12618-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\lights\\Street_Lamp_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\lights\\Street_Lamp_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2828-Walls.mod": {
+    "stringId": "2828-Walls.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate2_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 10.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Gate2_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "874-gamedata.base": {
+    "stringId": "874-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\bed_tex_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\bed_tex.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1934-gamedata.base": {
+    "stringId": "1934-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\rumstill_n_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\rumstill_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2048-gamedata.base": {
+    "stringId": "2048-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\basicGate_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\basicGate.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "638-gamedata.base": {
+    "stringId": "638-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\GalvRoof.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1919-gamedata.base": {
+    "stringId": "1919-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Well_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Well_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3112-Newwworld.mod": {
+    "stringId": "3112-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall5_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall5_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "973-gamedata.base": {
+    "stringId": "973-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\sign_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.5,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\sign.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2013-gamedata.base": {
+    "stringId": "2013-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\texBench_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 16.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\texBench_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3390-TwoStorey.mod": {
+    "stringId": "3390-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\New_House_Interior_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\New_House_Interior_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3117-Walls2.mod": {
+    "stringId": "3117-Walls2.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall5_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall5_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3106-Newwworld.mod": {
+    "stringId": "3106-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall4_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall4_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1851-gamedata.base": {
+    "stringId": "1851-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\generator_N_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Generator_D_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5197-TwoStorey.mod": {
+    "stringId": "5197-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps03_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps03_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1023-gamedata.base": {
+    "stringId": "1023-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\ConcreteBunker0478_5_L-1024_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\ConcreteBunker0478_5_L-1024.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2931-Walls2.mod": {
+    "stringId": "2931-Walls2.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate5_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Gate5_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2631-Cannibals.mod": {
+    "stringId": "2631-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp_SpikeyCage_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp_SpikeyCage_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "596-gamedata.base": {
+    "stringId": "596-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "353-gamedata.base": {
+    "stringId": "353-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\20051009_0052_0001_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\20051009_0052_0001.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "3100-Newwworld.mod": {
+    "stringId": "3100-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "359-gamedata.base": {
+    "stringId": "359-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\test_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Severe_C_01.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "2327-Cannibals.mod": {
+    "stringId": "2327-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_D_N_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\Cannibal_Camp_D_D_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "4028-gamedata.base": {
+    "stringId": "4028-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\nests\\animal_refuse_normal_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\nests\\animal_refuse_diffuse_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "347-gamedata.base": {
+    "stringId": "347-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Severe_C_25_n-2.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Severe_C_25.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "5186-TwoStorey.mod": {
+    "stringId": "5186-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps Doors_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps Doors_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5196-TwoStorey.mod": {
+    "stringId": "5196-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps02_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps02_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5317-TwoStorey.mod": {
+    "stringId": "5317-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostConcrete02_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostConcrete02_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "501-gamedata.base": {
+    "stringId": "501-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Scratch_C_82.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1997-gamedata.base": {
+    "stringId": "1997-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\windmill\\windmill_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\windmill\\Windmill_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3093-walls.mod": {
+    "stringId": "3093-walls.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall5Tower_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall5Tower_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "503-gamedata.base": {
+    "stringId": "503-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\greywall02.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3386-TwoStorey.mod": {
+    "stringId": "3386-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\_New-House_components_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\_New-House_components_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "589-gamedata.base": {
+    "stringId": "589-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS01.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3101-Newwworld.mod": {
+    "stringId": "3101-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall3_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1861-gamedata.base": {
+    "stringId": "1861-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\silo_a_nm_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\silo_a_dif_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "363-gamedata.base": {
+    "stringId": "363-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\test_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\ATLAS3-smooth.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3091-walls.mod": {
+    "stringId": "3091-walls.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall3Tower_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall3Tower_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "18971-small_changes_otto.mod": {
+    "stringId": "18971-small_changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Crops\\Textures\\farm_crops_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Crops\\Textures\\farm_crops_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1022-gamedata.base": {
+    "stringId": "1022-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\stoneSlats_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\stoneSlats.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {
+      "material": {
+        "49567-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "743-gamedata.base": {
+    "stringId": "743-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\moor\\ConcreteDirty0081_1_L_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\moor\\ConcreteDirty0081_1_L.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.75,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "873-gamedata.base": {
+    "stringId": "873-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\chest2_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\chest2.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "652-gamedata.base": {
+    "stringId": "652-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "REMOVED": true,
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\ATLAS_interior_1024.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "651-gamedata.base": {
+    "stringId": "651-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\ATLAS_interior_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 2.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\ATLAS_interior.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "641-gamedata.base": {
+    "stringId": "641-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\metalstep.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "500-gamedata.base": {
+    "stringId": "500-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\wall_sandstone_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\wall_sandstone.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5289-TwoStorey.mod": {
+    "stringId": "5289-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostParts_Non-Concrete_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\OutpostParts_Non-Concrete_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2634-Cannibals.mod": {
+    "stringId": "2634-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp Cooking Pit_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp Cooking Pit_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1495-gamedata.base": {
+    "stringId": "1495-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\doors\\door_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\doors\\Door_Texture.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3963-gamedata.base": {
+    "stringId": "3963-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\corpse_furnace_normal_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\corpse_furnace_diffuse_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3958-gamedata.base": {
+    "stringId": "3958-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Foundry_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\Foundry_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "504-gamedata.base": {
+    "stringId": "504-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\greybump_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\greybump.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.5,
+      "tile Y": 0.5
+    },
+    "references": {}
+  },
+  "5288-TwoStorey.mod": {
+    "stringId": "5288-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1947-gamedata.base": {
+    "stringId": "1947-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\storagetank01_n_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\storagetank01_diffuse_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1939-gamedata.base": {
+    "stringId": "1939-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\sacks_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\sacks_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "742-gamedata.base": {
+    "stringId": "742-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\moor\\theorig_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\moor\\theorig.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "343-gamedata.base": {
+    "stringId": "343-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\concrete01_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\concrete01.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "3008-Walls.mod": {
+    "stringId": "3008-Walls.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Wall2_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Wall2_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2264-gamedata.base": {
+    "stringId": "2264-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\medicrate_nm.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\medicrate_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "857-gamedata.base": {
+    "stringId": "857-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\chest_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.2,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\chest.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5199-TwoStorey.mod": {
+    "stringId": "5199-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps Indoors_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps Indoors_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3403-otto.mod": {
+    "stringId": "3403-otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_metalness.dds"
+      },
+      "metalness map 2": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_metalness.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_normal.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_worn_normal.dds"
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_worn_diffuse.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5219-TwoStorey.mod": {
+    "stringId": "5219-TwoStorey.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps06_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Camps06_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "14524-rebirth.mod": {
+    "stringId": "14524-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Rock-Iron_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Rock-Iron_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2627-Cannibals.mod": {
+    "stringId": "2627-Cannibals.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp E_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp E_D_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2037-gamedata.base": {
+    "stringId": "2037-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\wallbasic01_n_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\wallbasic01_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "716-gamedata.base": {
+    "stringId": "716-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\bravofloor_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\bravofloor.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.5,
+      "tile Y": 0.5
+    },
+    "references": {}
+  },
+  "2065-gamedata.base": {
+    "stringId": "2065-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\automine_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\automine_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "5331-gamedata.base": {
+    "stringId": "5331-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2924-gamedata.base": {
+    "stringId": "2924-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\chainleathermachinebench_atlas_NM_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\chainleathermachinebench_atlas_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "648-gamedata.base": {
+    "stringId": "648-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\blackmarket\\metal14_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\blackmarket\\metal14.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "657-gamedata.base": {
+    "stringId": "657-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\stoneSlats.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {
+      "material": {
+        "1022-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "49567-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12820-nodes_otto.mod": {
+    "stringId": "12820-nodes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "647-gamedata.base": {
+    "stringId": "647-gamedata.base",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\blackmarket\\metal20.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "47947-Newwworld.mod": {
+    "stringId": "47947-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\land\\textures\\Cut-CliffRocks_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\land\\textures\\Cut-CliffRocks_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "18936-Newwworld.mod": {
+    "stringId": "18936-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\Pontoon_Bridge_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\Pontoon_Bridge_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48465-Newwworld.mod": {
+    "stringId": "48465-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Old-World_Flouresc-Light_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Old-World_Flouresc-Light_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 0.0
+    },
+    "references": {}
+  },
+  "47173-Newwworld.mod": {
+    "stringId": "47173-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\character\\skins\\robot\\robot_METAL.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Robot_BARSIGN_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\robot_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "46977-Newwworld.mod": {
+    "stringId": "46977-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Indoor_GasLamp_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 3.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Indoor_GasLamp_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 0.0
+    },
+    "references": {}
+  },
+  "50529-Newwworld.mod": {
+    "stringId": "50529-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\FishNet-Loop_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\FishNet-Loop_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "47925-Newwworld.mod": {
+    "stringId": "47925-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\DirtPLates-RUSTY_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\DirtPLates-RUSTY_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "50568-Newwworld.mod": {
+    "stringId": "50568-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Fishing-Set_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Fishing-Set_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "49550-Newwworld.mod": {
+    "stringId": "49550-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\land\\textures\\RubbleLoop_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\land\\textures\\RubbleLoop_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43878-Newwworld.mod": {
+    "stringId": "43878-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Bench Machinery_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Bench Machinery_Diff_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "14396-Newwworld.mod": {
+    "stringId": "14396-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\CrateFind_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 32.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\CrateFind_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43877-Newwworld.mod": {
+    "stringId": "43877-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Biofuel_Distillery_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Biofuel_Distillery_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "46984-Newwworld.mod": {
+    "stringId": "46984-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN3_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN3_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "47177-Newwworld.mod": {
+    "stringId": "47177-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\tower\\HarpoonLight_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.5,
+      "texture map": {
+        "path": ".\\data\\buildings\\tower\\HarpoonLight_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "49567-Newwworld.mod": {
+    "stringId": "49567-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\FLoorPanels_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\FLoorPanels_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "40606-Newwworld.mod": {
+    "stringId": "40606-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Extras_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Wattle_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Extras_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Wattle_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "50523-Newwworld.mod": {
+    "stringId": "50523-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Fish01_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Fish01_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42178-Newwworld.mod": {
+    "stringId": "42178-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Metal_Buildings\\Metal_Wall-House_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Metal_Buildings\\Metal_Wall-House_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "46975-Newwworld.mod": {
+    "stringId": "46975-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp Cooking Pit_[HEARTH]_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Cannibal_Camp\\CannibalCamp Cooking Pit_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "46999-Newwworld.mod": {
+    "stringId": "46999-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN2_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN2_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42314-Newwworld.mod": {
+    "stringId": "42314-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Metal_Plate_Wall_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Metal_Plate_Wall_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "45564-Newwworld.mod": {
+    "stringId": "45564-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\CrateFind_DIF.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\CrateFind_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\CrateFind_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "46983-Newwworld.mod": {
+    "stringId": "46983-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43883-Newwworld.mod": {
+    "stringId": "43883-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Robotic_Bench_normal_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Robotic_Bench_diffuse_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3113-Newwworld.mod": {
+    "stringId": "3113-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate5_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Gate5_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "40601-Newwworld.mod": {
+    "stringId": "40601-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Walls_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Wattle_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Walls_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Wattle_DIF.dds"
+      },
+      "tile X": 2.0,
+      "tile Y": 2.0
+    },
+    "references": {}
+  },
+  "14539-Newwworld.mod": {
+    "stringId": "14539-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate5_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Industrial_Parts.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "47176-Newwworld.mod": {
+    "stringId": "47176-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN4_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\BARSIGN4_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2339-Newwworld.mod": {
+    "stringId": "2339-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Rocks\\Fractured_Rock_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Rocks\\Fractured_Rock_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "45567-Newwworld.mod": {
+    "stringId": "45567-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\tower\\FireAnt-AutoTurret_MET.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\tower\\FireAnt-AutoTurret_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\tower\\FireAnt-AutoTurret_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "3107-Newwworld.mod": {
+    "stringId": "3107-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\walls\\Gate4_NM.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\walls\\Gate4_Diff.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "47926-Newwworld.mod": {
+    "stringId": "47926-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\ScaffEquip_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\ScaffEquip_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42313-Newwworld.mod": {
+    "stringId": "42313-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Storm_Adobe_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Storm_Adobe_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "40589-Newwworld.mod": {
+    "stringId": "40589-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\MetalHouse_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 24.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\MetalHouse_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43864-Newwworld.mod": {
+    "stringId": "43864-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\Leatheresque_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Leatheresque_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "2800-Newwworld.mod": {
+    "stringId": "2800-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Bridgehead_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Bridgehead_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "50629-Newwworld.mod": {
+    "stringId": "50629-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Swamp_Board_Path_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Swamp_Board_Path_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "52169-Newwworld.mod": {
+    "stringId": "52169-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\Fractal-Distiller_SKIN_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\Fractal-Distiller_SKIN_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "52182-Newwworld.mod": {
+    "stringId": "52182-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03_NML_RESKIN.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03_RESKIN.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "52193-Newwworld.mod": {
+    "stringId": "52193-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\doors\\door_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\doors\\Door_RESKIN_Texture.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "54022-Newwworld.mod": {
+    "stringId": "54022-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDomeComplex_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDomeComplex_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "54023-Newwworld.mod": {
+    "stringId": "54023-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDomeComplex-METALNESS.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDomeComplex-INT_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDomeComplex-INT_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "54028-Newwworld.mod": {
+    "stringId": "54028-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDome_Spokes_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\AshDome_Spokes_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "54551-Newwworld.mod": {
+    "stringId": "54551-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_TRADERS_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "56162-Newwworld.mod": {
+    "stringId": "56162-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\RustyJunkPile_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\RustyJunkPile_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "56184-Newwworld.mod": {
+    "stringId": "56184-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Robot_Crushed_Rusty_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Robot_Crushed_Rusty_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "56726-Newwworld.mod": {
+    "stringId": "56726-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\LAgoon_Rig_Leg_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Buildings\\LAgoon_Rig_Leg_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "56980-Newwworld.mod": {
+    "stringId": "56980-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Barge01_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Barge01_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "56981-Newwworld.mod": {
+    "stringId": "56981-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\CraftPanel_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\CraftPanel_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "56988-Newwworld.mod": {
+    "stringId": "56988-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Things\\Barge01_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Things\\Barge01_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "57338-Newwworld.mod": {
+    "stringId": "57338-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\Hive_Queen_body_NML - Copy.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\Hive_Queen_body_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "57340-Newwworld.mod": {
+    "stringId": "57340-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\Hive_Queen_Head_NML - Copy.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\Hive_Queen_Head_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "57763-Newwworld.mod": {
+    "stringId": "57763-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\AshTekPanel_DIF.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_NML_HI.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\AshTekPanel_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_DIF_HI.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "57764-Newwworld.mod": {
+    "stringId": "57764-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Walls_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Walls_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Concrete_Damaged_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "57766-Newwworld.mod": {
+    "stringId": "57766-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Extras_NML.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Wattle_NML.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Extras_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Hive_Wattle_DIF.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "63230-Newwworld.mod": {
+    "stringId": "63230-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Stobe_Texture_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 32.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Stobe_Texture_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "63232-Newwworld.mod": {
+    "stringId": "63232-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Textures\\FaceRobot_V1_NML_blue_HI.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V1_DIF_HI.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "95512-Newwworld.mod": {
+    "stringId": "95512-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\animal\\textures\\robot_worker_normal_blued_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\robot_worker_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "96182-Newwworld.mod": {
+    "stringId": "96182-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Bench_Crossbow_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\Bench_Crossbow_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "96367-Newwworld.mod": {
+    "stringId": "96367-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\BENCH Robot Limbs_NML.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\crafting\\textures\\BENCH Robot Limbs_DIF.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "96395-Newwworld.mod": {
+    "stringId": "96395-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\Bin-of-ScreamerHeadsNML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\Bin-of-ScreamerHeadsDIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "96398-Newwworld.mod": {
+    "stringId": "96398-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\Peeler_Metal_HI.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\Peeler_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\Peeler_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "98553-Newwworld.mod": {
+    "stringId": "98553-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 3,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Large Dock Base RUSTED _NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ".\\data\\newland\\Assets\\Things\\Large Dock Base NML_HI.dds"
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Large Dock Base RUSTED _DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ".\\data\\newland\\Assets\\Things\\Large Dock Base DIF_HI.dds"
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "98555-Newwworld.mod": {
+    "stringId": "98555-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\land\\textures\\RustSheet02_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1533491-Newwworld.mod": {
+    "stringId": "1533491-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Com Tower centre_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Com Tower centre_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "1533493-Newwworld.mod": {
+    "stringId": "1533493-Newwworld.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Com Tower Boards_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\newland\\Assets\\Things\\Com Tower Boards_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48458-rebirth.mod": {
+    "stringId": "48458-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\engcrate01_m.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\engcrate01_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\engcrate01_d_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43316-changes_otto.mod": {
+    "stringId": "43316-changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_swamp_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48470-rebirth.mod": {
+    "stringId": "48470-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate01_m.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate01_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate01_d_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43314-changes_otto.mod": {
+    "stringId": "43314-changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_holy_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48730-rebirth.mod": {
+    "stringId": "48730-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\window_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 8.0,
+      "tile Y": 8.0
+    },
+    "references": {}
+  },
+  "42252-small_changes_otto.mod": {
+    "stringId": "42252-small_changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_bone_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_bone_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48448-rebirth.mod": {
+    "stringId": "48448-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\ConcreteBarrier_01_N.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\ConcreteBarrier_01_D.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "49359-rebirth.mod": {
+    "stringId": "49359-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Corrosion_C_33.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.5,
+      "tile Y": 6.0
+    },
+    "references": {}
+  },
+  "48464-rebirth.mod": {
+    "stringId": "48464-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scisafe_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scisafe_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48737-rebirth.mod": {
+    "stringId": "48737-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\stoneSlats_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\stoneSlats_green_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 3.0,
+      "tile Y": 3.0
+    },
+    "references": {}
+  },
+  "48728-rebirth.mod": {
+    "stringId": "48728-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS04.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48461-rebirth.mod": {
+    "stringId": "48461-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate03_m.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate03_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate03_d_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42073-small_changes_otto.mod": {
+    "stringId": "42073-small_changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\signs_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\signs2_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48454-rebirth.mod": {
+    "stringId": "48454-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\engcrate08_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\engcrate08_d_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43313-changes_otto.mod": {
+    "stringId": "43313-changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_bone_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_bone_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42254-small_changes_otto.mod": {
+    "stringId": "42254-small_changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_empire_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42253-small_changes_otto.mod": {
+    "stringId": "42253-small_changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_holy_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48467-rebirth.mod": {
+    "stringId": "48467-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate05_m.dds"
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate05_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 12.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\furniture\\materials\\scicrate05_d.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "42255-small_changes_otto.mod": {
+    "stringId": "42255-small_changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 1,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_swamp_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "43315-changes_otto.mod": {
+    "stringId": "43315-changes_otto.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 2,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\banners_normal.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\banners_empire_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "48739-rebirth.mod": {
+    "stringId": "48739-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\bravofloor_n.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\interiors\\bravofloor_green.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 0.5,
+      "tile Y": 0.5
+    },
+    "references": {}
+  },
+  "48674-rebirth.mod": {
+    "stringId": "48674-rebirth.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 0,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\animal\\textures\\robot_worker_normal_blued_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 8.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\robot_worker_diffuse.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "96157-Boneyard Wolf.mod": {
+    "stringId": "96157-Boneyard Wolf.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\Neon Strip material.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  },
+  "96159-Boneyard Wolf.mod": {
+    "stringId": "96159-Boneyard Wolf.mod",
+    "type": "MaterialSpec",
+    "values": {
+      "material type": 4,
+      "metalness map": {
+        "path": ""
+      },
+      "metalness map 2": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\RoboticsSHopSIgn_NML_HI.dds"
+      },
+      "normal map 2": {
+        "path": ""
+      },
+      "scaffolding tex scale": 4.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\RoboticsSHopSIgn_DIF_HI.dds"
+      },
+      "texture map 2": {
+        "path": ""
+      },
+      "tile X": 1.0,
+      "tile Y": 1.0
+    },
+    "references": {}
+  }
+}

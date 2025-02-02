@@ -1,0 +1,575 @@
+{
+  "5339-gamedata.base": {
+    "stringId": "5339-gamedata.base",
+    "type": "FactionTemplate",
+    "values": {
+      "armour cap": 4,
+      "armour max": 2,
+      "armour min": 2,
+      "combat stats max": 40,
+      "combat stats min": 20,
+      "default relation": 0,
+      "face weirdness": 0.1,
+      "fundamental type": 8,
+      "leader increase max": 10,
+      "leader increase min": 5,
+      "leader levels max": 2,
+      "leader levels min": 2,
+      "skill cap": 60,
+      "squad size max": 4,
+      "squad size min": 3,
+      "strength/size balanced": true
+    },
+    "references": {
+      "clothing": {
+        "2200-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2154-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2222-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "2214-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2326-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2197-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2194-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2151-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2221-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "575-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "927-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon models": {
+        "923-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "924-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1020-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3102-gamedata.base": {
+    "stringId": "3102-gamedata.base",
+    "type": "FactionTemplate",
+    "values": {
+      "armour cap": 4,
+      "armour max": 2,
+      "armour min": 0,
+      "combat stats max": 50,
+      "combat stats min": 15,
+      "default relation": -80,
+      "face weirdness": 0.1,
+      "fundamental type": 8,
+      "leader increase max": 10,
+      "leader increase min": 5,
+      "leader levels max": 1,
+      "leader levels min": 1,
+      "skill cap": 60,
+      "squad size max": 20,
+      "squad size min": 1,
+      "strength/size balanced": true
+    },
+    "references": {}
+  },
+  "14538-gamedata.base": {
+    "stringId": "14538-gamedata.base",
+    "type": "FactionTemplate",
+    "values": {
+      "armour cap": 4,
+      "armour max": 2,
+      "armour min": 0,
+      "combat stats max": 40,
+      "combat stats min": 20,
+      "default relation": 0,
+      "face weirdness": 0.1,
+      "fundamental type": 1,
+      "leader increase max": 10,
+      "leader increase min": 5,
+      "leader levels max": 1,
+      "leader levels min": 1,
+      "skill cap": 60,
+      "squad size max": 8,
+      "squad size min": 1,
+      "strength/size balanced": false
+    },
+    "references": {
+      "clothing": {
+        "2306-clothes_v1.mod": [
+          0,
+          0,
+          0
+        ],
+        "2305-clothes_v1.mod": [
+          0,
+          0,
+          0
+        ],
+        "2182-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2180-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2227-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "544-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1169-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2213-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2212-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "927-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon models": {
+        "901-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "477-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "475-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "476-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "478-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "924-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "922-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "902-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "903-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "923-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "474-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1020-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3101-gamedata.base": {
+    "stringId": "3101-gamedata.base",
+    "type": "FactionTemplate",
+    "values": {
+      "armour cap": 4,
+      "armour max": 1,
+      "armour min": 0,
+      "combat stats max": 25,
+      "combat stats min": 1,
+      "default relation": -80,
+      "face weirdness": 0.1,
+      "fundamental type": 8,
+      "leader increase max": 10,
+      "leader increase min": 4,
+      "leader levels max": 4,
+      "leader levels min": 2,
+      "skill cap": 60,
+      "squad size max": 10,
+      "squad size min": 1,
+      "strength/size balanced": true
+    },
+    "references": {
+      "clothing": {
+        "550-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "551-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "554-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "556-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "557-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "575-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1167-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1168-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1311-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1393-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1394-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1395-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2148-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2149-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2156-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2158-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2159-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2163-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2164-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2167-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2168-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2169-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2200-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2201-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2202-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2203-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2212-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2219-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2220-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2222-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2223-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2224-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2227-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2228-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2229-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2283-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2304-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2305-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2306-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2307-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2308-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2309-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ]
+      },
+      "weapon level": {
+        "912-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "917-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "927-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "weapon models": {
+        "474-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "475-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "477-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "478-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2064-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2110-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2606-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

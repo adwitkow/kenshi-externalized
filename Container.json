@@ -1,0 +1,1109 @@
+{
+  "576-gamedata.base": {
+    "stringId": "576-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -2,
+      "combat speed mult": 0.95,
+      "description": "A small and light backpack that will help you carry extra supplies, and can be ditched in an emergency.  The comfortable weight distribution allows you to carry a lot more weight, and will only slow you down very slightly in a fight.",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.5,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 3,
+      "inventory footprint width": 3,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.85,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 1000,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1389-gamedata.base": {
+    "stringId": "1389-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -10,
+      "combat speed mult": 0.5,
+      "description": "A bag designed for shopkeepers.  Not for travelling around with.",
+      "dont colorise": true,
+      "encumbrance effect": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.0,
+      "storage size height": 20,
+      "storage size width": 20,
+      "value": 5000,
+      "weight kg": 100.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "635-gamedata.base": {
+    "stringId": "635-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -5,
+      "combat speed mult": 0.9,
+      "description": "A medium sized backpack, with a good weight distribution, so you can handle more weight.  It will hinder you a bit in combat though.",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.5,
+      "storage size height": 14,
+      "storage size width": 10,
+      "value": 1500,
+      "weight kg": 4.0
+    },
+    "references": {
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1286-gamedata.base": {
+    "stringId": "1286-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": 0,
+      "combat speed mult": 1.0,
+      "description": "",
+      "dont colorise": false,
+      "encumbrance effect": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.5,
+      "storage size height": 14,
+      "storage size width": 10,
+      "value": 300,
+      "weight kg": 8.0
+    },
+    "references": {
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1019-gamedata.base": {
+    "stringId": "1019-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": 0,
+      "combat speed mult": 1.0,
+      "description": "A small and light backpack that will help you carry extra supplies, and can be ditched in an emergency.",
+      "dont colorise": true,
+      "encumbrance effect": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.5,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 4,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "REMOVED": true,
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.5,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 300,
+      "weight kg": 3.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1017-gamedata.base": {
+    "stringId": "1017-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": 0,
+      "combat speed mult": 1.0,
+      "description": "A specialist backpack for traders.  Allows better stacking of large items within a smaller space, particularly trade goods",
+      "dont colorise": true,
+      "encumbrance effect": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.0,
+      "icon offset yaw": -90.0,
+      "icon zoom": 2.0,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_large_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_large_f.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "REMOVED": true,
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.0,
+      "storage size height": 20,
+      "storage size width": 12,
+      "value": 1000,
+      "weight kg": 14.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1498-gamedata.base": {
+    "stringId": "1498-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -5,
+      "combat speed mult": 0.9,
+      "description": "A specialist backpack for traders.  Allows better stacking of large items within a smaller space, particularly trade goods",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 2,
+      "stackable bonus mult": 3.0,
+      "stealth mult": 0.5,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 2500,
+      "weight kg": 4.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "910-gamedata.base": {
+    "stringId": "910-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -10,
+      "combat speed mult": 0.5,
+      "description": "A bag designed for shopkeepers.  Not designed for travelling around with.",
+      "dont colorise": true,
+      "encumbrance effect": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.0,
+      "storage size height": 20,
+      "storage size width": 20,
+      "value": 5000,
+      "weight kg": 50.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1018-gamedata.base": {
+    "stringId": "1018-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": 0,
+      "combat speed mult": 1.0,
+      "description": "A specialist backpack for traders.  Allows better stacking of large items within a smaller space, particularly trade goods",
+      "dont colorise": true,
+      "encumbrance effect": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "REMOVED": true,
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.5,
+      "storage size height": 14,
+      "storage size width": 10,
+      "value": 600,
+      "weight kg": 8.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1012-gamedata.base": {
+    "stringId": "1012-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -10,
+      "combat speed mult": 0.8,
+      "description": "This backpack is huge.  Don't even think about fighting with this on your back.  The thing weighs a ton just when its empty.  Do you seriously think you can fill it full of iron or something and be able to lift it?  Let alone carry it across the desert!?  Go get a smaller one.",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.0,
+      "icon offset yaw": -90.0,
+      "icon zoom": 2.0,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_large_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_large_f.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.25,
+      "storage size height": 20,
+      "storage size width": 12,
+      "value": 3000,
+      "weight kg": 8.0
+    },
+    "references": {
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "4002-gamedata.base": {
+    "stringId": "4002-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -4,
+      "combat speed mult": 0.8,
+      "description": "Backpack designed to fit Gars",
+      "dont colorise": true,
+      "encumbrance effect": 0.1,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.15,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -23.7,
+      "icon offset yaw": -90.0,
+      "icon zoom": 4.35,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\pack_beast_luggage.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\pack_beast_luggage.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 6.0,
+      "stealth mult": 1.0,
+      "storage size height": 20,
+      "storage size width": 20,
+      "value": 2000,
+      "weight kg": 6.0
+    },
+    "references": {
+      "material": {
+        "4003-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "physics attachment": {
+        "5340-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "races": {
+        "3998-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1499-gamedata.base": {
+    "stringId": "1499-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -10,
+      "combat speed mult": 0.8,
+      "description": "A specialist backpack for traders.  Allows better stacking of large items within a smaller space, particularly trade goods.  Not designed to wear during a sword fight though.",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.0,
+      "icon offset yaw": -90.0,
+      "icon zoom": 2.0,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_large_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_large_f.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 2,
+      "stackable bonus mult": 3.0,
+      "stealth mult": 0.2,
+      "storage size height": 14,
+      "storage size width": 10,
+      "value": 4500,
+      "weight kg": 8.0
+    },
+    "references": {
+      "material": {
+        "911-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1288-gamedata.base": {
+    "stringId": "1288-gamedata.base",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": 0,
+      "combat speed mult": 1.0,
+      "description": "A bag used by professional thieves and ninjas.  Well made and designed not to hinder your stealth while you fill it with other people's posessions.",
+      "dont colorise": false,
+      "encumbrance effect": 0.4,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.5,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 4,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 1.0,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 3000,
+      "weight kg": 1.0
+    },
+    "references": {
+      "color": {
+        "96456-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "43948-rebirth.mod": {
+    "stringId": "43948-rebirth.mod",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -4,
+      "combat speed mult": 0.8,
+      "description": "Backpack designed to fit Bulls",
+      "dont colorise": true,
+      "encumbrance effect": 0.1,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.5,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -18.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 3.84,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\bull_bags.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\bull_bags.mesh"
+      },
+      "overall scale": 2.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 5.0,
+      "stealth mult": 1.0,
+      "storage size height": 20,
+      "storage size width": 20,
+      "value": 2000,
+      "weight kg": 6.0
+    },
+    "references": {
+      "material": {
+        "4003-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "races": {
+        "3985-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43947-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "45555-changes_otto.mod": {
+    "stringId": "45555-changes_otto.mod",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -5,
+      "combat speed mult": 0.9,
+      "description": "A wooden backpack with a built in sun shade. It's the height of luxury for the travelling trader.",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -15.55,
+      "icon offset yaw": -90.0,
+      "icon zoom": 3.35,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\wooden_backpack_covered_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\wooden_backpack_covered_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 3,
+      "stackable bonus mult": 3.0,
+      "stealth mult": 0.4,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 800,
+      "weight kg": 4.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46036-rebirth.mod": {
+    "stringId": "46036-rebirth.mod",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -2,
+      "combat speed mult": 1.0,
+      "description": "A bag used by professional thieves and ninjas.  Well made and designed not to hinder your stealth while you fill it with other people's posessions.",
+      "dont colorise": false,
+      "encumbrance effect": 0.4,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.2,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_med_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 1.0,
+      "storage size height": 14,
+      "storage size width": 10,
+      "value": 5000,
+      "weight kg": 2.0
+    },
+    "references": {
+      "color": {
+        "96456-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "46037-rebirth.mod": {
+    "stringId": "46037-rebirth.mod",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -2,
+      "combat speed mult": 0.95,
+      "description": "A small and light backpack that will help you carry extra supplies, and can be ditched in an emergency.  The comfortable weight distribution allows you to carry a lot more weight, and will only slow you down very slightly in a fight.",
+      "dont colorise": false,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.5,
+      "icon offset yaw": -90.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 3,
+      "inventory footprint width": 3,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\backpack_small_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.85,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 1000,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "686-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "46042-rebirth.mod": {
+    "stringId": "46042-rebirth.mod",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -5,
+      "combat speed mult": 0.9,
+      "description": "A backpack that allows for better stacking of large items within a smaller space, particularly trade goods.",
+      "dont colorise": true,
+      "encumbrance effect": 0.5,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.35,
+      "icon offset yaw": -90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\wooden_backpack_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\wooden_backpack_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 3,
+      "stackable bonus mult": 3.0,
+      "stealth mult": 0.5,
+      "storage size height": 8,
+      "storage size width": 8,
+      "value": 800,
+      "weight kg": 4.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "45554-changes_otto.mod": {
+    "stringId": "45554-changes_otto.mod",
+    "type": "Container",
+    "values": {
+      "athletics mult": 1.0,
+      "auto icon image": true,
+      "combat skill bonus": -5,
+      "combat speed mult": 0.9,
+      "description": "A cheap and useful backpack, commonly associated with peasants and scavengers.",
+      "dont colorise": true,
+      "encumbrance effect": 0.7,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.1,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -14.4,
+      "icon offset yaw": -90.0,
+      "icon zoom": 2.6,
+      "inventory footprint height": 4,
+      "inventory footprint width": 5,
+      "inventory sound": 0,
+      "mesh": {
+        "path": ".\\data\\items\\armour\\meshes\\basket_backpack_m.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\items\\armour\\meshes\\basket_backpack_f.mesh"
+      },
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 12,
+      "stackable bonus minimum": 1,
+      "stackable bonus mult": 1.0,
+      "stealth mult": 0.5,
+      "storage size height": 14,
+      "storage size width": 10,
+      "value": 250,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

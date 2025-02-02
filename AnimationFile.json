@@ -1,0 +1,16 @@
+{
+  "1533847-gamedata.base": {
+    "stringId": "1533847-gamedata.base",
+    "type": "AnimationFile",
+    "values": {
+      "female animation": {
+        "path": ".\\data\\character\\meshes\\female_skeleton\\female_skeleton.skeleton"
+      },
+      "male animation": {
+        "path": ".\\data\\character\\meshes\\male_skeleton\\male_skeleton.skeleton"
+      },
+      "preprocess": true
+    },
+    "references": {}
+  }
+}

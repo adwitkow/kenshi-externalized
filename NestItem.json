@@ -1,0 +1,771 @@
+{
+  "4029-gamedata.base": {
+    "stringId": "4029-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 3,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "Nobles pay a lot of money for this rare delicacy.  Many people die trying to steal them.",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\big_egg.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -3.5,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\items\\nests\\big_egg.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ".\\data\\items\\nests\\collision\\big_egg.xml"
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 7000,
+      "weight kg": 6.0
+    },
+    "references": {
+      "cluster": {
+        "4027-gamedata.base": [
+          15,
+          0,
+          0
+        ],
+        "4032-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "egg": {
+        "2859-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4032-gamedata.base": {
+    "stringId": "4032-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "A worthless egg shell",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\big_egg_broken.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\items\\nests\\big_egg_broken.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 10,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4035-gamedata.base": {
+    "stringId": "4035-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 8,
+      "cluster min": 1,
+      "cluster range": 30,
+      "description": "",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\bone1.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 3,
+      "inventory footprint width": 3,
+      "mesh": {
+        "path": ".\\data\\items\\nests\\bone1.mesh"
+      },
+      "number of meshes": 6,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": false,
+      "value": 0,
+      "weight kg": 4.0
+    },
+    "references": {
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16841-gamedata.base": {
+    "stringId": "16841-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "",
+      "ground mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\carpet1.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "mesh": {
+        "path": ""
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": false,
+      "value": 0,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "12820-nodes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16852-nodes_otto1.mod": {
+    "stringId": "16852-nodes_otto1.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "Trash",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\trash5.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 10,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16849-nodes_otto1.mod": {
+    "stringId": "16849-nodes_otto1.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "Trash",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\trash2.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 10,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16851-nodes_otto1.mod": {
+    "stringId": "16851-nodes_otto1.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "Trash",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\trash4.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 10,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16843-nodes_otto1.mod": {
+    "stringId": "16843-nodes_otto1.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "Trash",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\trash1.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 10,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16840-gamedata.base": {
+    "stringId": "16840-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "",
+      "ground mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\awning1.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "mesh": {
+        "path": ""
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": false,
+      "value": 0,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "12820-nodes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4027-gamedata.base": {
+    "stringId": "4027-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 4,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\bone1.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 3,
+      "inventory footprint width": 3,
+      "mesh": {
+        "path": ".\\data\\items\\nests\\bone1.mesh"
+      },
+      "number of meshes": 14,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": false,
+      "value": 0,
+      "weight kg": 4.0
+    },
+    "references": {
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4030-gamedata.base": {
+    "stringId": "4030-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 7,
+      "cluster min": 1,
+      "cluster range": 25,
+      "description": "You're touching poo.",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\poo2.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 1,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ""
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 25,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4031-gamedata.base": {
+    "stringId": "4031-gamedata.base",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 5,
+      "cluster min": 1,
+      "cluster range": 25,
+      "description": "You're touching poo.",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\poo1.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 1,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ""
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 25,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "4028-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16850-nodes_otto1.mod": {
+    "stringId": "16850-nodes_otto1.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "Trash",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 5,
+      "inventory footprint width": 4,
+      "mesh": {
+        "path": ".\\data\\buildings\\furniture\\new_furniture01\\trash3.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 10,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48739-Newwworld.mod": {
+    "stringId": "48739-Newwworld.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 1,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "",
+      "ground mesh": {
+        "path": ".\\data\\newland\\Assets\\Things\\RoboFoliagePIECE1.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 1,
+      "inventory footprint width": 1,
+      "mesh": {
+        "path": ".\\data\\newland\\Assets\\Things\\RoboFoliagePIECE1.mesh"
+      },
+      "number of meshes": 11,
+      "physics file": {
+        "path": ""
+      },
+      "slot": 7,
+      "trade item": false,
+      "value": 0,
+      "weight kg": 1.0
+    },
+    "references": {
+      "material": {
+        "95512-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56099-Newwworld.mod": {
+    "stringId": "56099-Newwworld.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 7,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "A live crab egg, worth a little bit of money.",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\Crab Egg.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -1.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 1.7,
+      "inventory footprint height": 3,
+      "inventory footprint width": 3,
+      "mesh": {
+        "path": ".\\data\\items\\nests\\Crab Egg.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ".\\data\\items\\nests\\collision\\Crab Egg.xml"
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 400,
+      "weight kg": 3.0
+    },
+    "references": {
+      "egg": {
+        "56088-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97662-rebirth.mod": {
+    "stringId": "97662-rebirth.mod",
+    "type": "NestItem",
+    "values": {
+      "auto icon image": true,
+      "cluster max": 2,
+      "cluster min": 1,
+      "cluster range": 40,
+      "description": "A creepy Fishman egg, stolen from the Gurglers.",
+      "ground mesh": {
+        "path": ".\\data\\items\\nests\\Crab Egg.mesh"
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -1.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 1.7,
+      "inventory footprint height": 3,
+      "inventory footprint width": 3,
+      "mesh": {
+        "path": ".\\data\\items\\nests\\Crab Egg.mesh"
+      },
+      "number of meshes": 0,
+      "physics file": {
+        "path": ".\\data\\items\\nests\\collision\\Crab Egg.xml"
+      },
+      "slot": 7,
+      "trade item": true,
+      "value": 400,
+      "weight kg": 3.0
+    },
+    "references": {
+      "egg": {
+        "56088-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "4028-gamedata.baseold": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

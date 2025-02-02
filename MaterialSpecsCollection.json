@@ -1,0 +1,276 @@
+{
+  "346-gamedata.base": {
+    "stringId": "346-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "343-gamedata.base": [
+          50,
+          100,
+          0
+        ],
+        "345-gamedata.base": [
+          150,
+          100,
+          0
+        ],
+        "347-gamedata.base": [
+          15,
+          100,
+          0
+        ],
+        "353-gamedata.base": [
+          150,
+          100,
+          0
+        ],
+        "354-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "355-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "357-gamedata.base": [
+          30,
+          100,
+          0
+        ],
+        "360-gamedata.base": [
+          10,
+          100,
+          0
+        ],
+        "361-gamedata.base": [
+          40,
+          100,
+          0
+        ],
+        "362-gamedata.base": [
+          15,
+          100,
+          0
+        ],
+        "504-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "505-gamedata.base": [
+          150,
+          100,
+          0
+        ],
+        "512-gamedata.base": [
+          150,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "365-gamedata.base": {
+    "stringId": "365-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "343-gamedata.base": [
+          50,
+          100,
+          0
+        ],
+        "345-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "361-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "502-gamedata.base": [
+          200,
+          100,
+          0
+        ],
+        "501-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "593-gamedata.base": {
+    "stringId": "593-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "512-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "493-gamedata.base": {
+    "stringId": "493-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "500-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "503-gamedata.base": [
+          -1,
+          100,
+          0
+        ],
+        "501-gamedata.base": [
+          -1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "481-gamedata.base": {
+    "stringId": "481-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "357-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "604-gamedata.base": {
+    "stringId": "604-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "603-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "608-gamedata.base": {
+    "stringId": "608-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "606-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "480-gamedata.base": {
+    "stringId": "480-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "345-gamedata.base": [
+          150,
+          100,
+          0
+        ],
+        "353-gamedata.base": [
+          150,
+          100,
+          0
+        ],
+        "354-gamedata.base": [
+          70,
+          100,
+          0
+        ],
+        "355-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "504-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "512-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "505-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "356-gamedata.base": {
+    "stringId": "356-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "344-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "591-gamedata.base": {
+    "stringId": "591-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "589-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "492-gamedata.base": {
+    "stringId": "492-gamedata.base",
+    "type": "MaterialSpecsCollection",
+    "values": {},
+    "references": {
+      "material": {
+        "491-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

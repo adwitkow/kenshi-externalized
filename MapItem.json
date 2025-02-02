@@ -1,0 +1,1292 @@
+{
+  "44919-rebirth.mod": {
+    "stringId": "44919-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A no-man's land between the three great nations, conflict prevents civilised settlement.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 500,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "18919-Newwworld.mod": [
+          0,
+          100,
+          0
+        ],
+        "44854-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "42271-Newwworld.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "49358-rebirth.mod": {
+    "stringId": "49358-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "This looks like it could be a valuable find, it details the location of an Old Empire military cache.  It might have some valuable equipment",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\docs.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Book.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 1000,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "49930-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "49935-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "48693-rebirth.mod": {
+    "stringId": "48693-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A treasure map for some ancient ruin.  Likely full of treasure or lost technology or horrible death.  The map is insanely old and hard to understand, but from what you can gather it appears to be something science or technology related.  It could have Ancient Science Books, or possibly even AI Cores.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem2.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 0.0,
+      "icon offset V": 0.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.0,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 2,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Map.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 2000,
+      "weight kg": 0.0
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "1075-gamedata.base": [
+          1,
+          300,
+          0
+        ],
+        "49369-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "51398-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "51400-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "51383-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "58703-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "96390-Dialogue.mod": [
+          1,
+          100,
+          0
+        ],
+        "51396-rebirth.mod": [
+          1,
+          200,
+          0
+        ],
+        "62846-rebirth.mod": [
+          1,
+          200,
+          0
+        ],
+        "64919-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "95726-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1532834-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "64561-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1532835-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "56153-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1032-gamedata.base": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "44915-rebirth.mod": {
+    "stringId": "44915-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A map of the Holy Nation homelands around Okran's Valley.  Some of the farms and mines can be good for trading.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 500,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "18024-Newwworld.mod": [
+          0,
+          100,
+          0
+        ],
+        "18923-Newwworld.mod": [
+          0,
+          100,
+          0
+        ],
+        "18948-Newwworld.mod": [
+          0,
+          100,
+          0
+        ],
+        "18021-Newwworld.mod": [
+          0,
+          100,
+          0
+        ],
+        "12628-Newwworld.mod": [
+          0,
+          100,
+          0
+        ],
+        "18925-Newwworld.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "44918-rebirth.mod": {
+    "stringId": "44918-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "The mysterious homelands of the Western Hive.  Humans don't tend to venture there.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 500,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "40631-Newwworld.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "49944-rebirth.mod": {
+    "stringId": "49944-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A treasure map for some ancient ruin.  If you haven't just pee'd yourself, you're not a true adventurer.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 2,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Map.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 8000,
+      "weight kg": 0.0
+    },
+    "references": {
+      "towns": {
+        "49935-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "48796-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "47958-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "49765-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44917-rebirth.mod": {
+    "stringId": "44917-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "For those desperate enough to face a fate worse than death, a promise of isolated safety and a future without slavery.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 500,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "18022-Newwworld.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "51403-rebirth.mod": {
+    "stringId": "51403-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 2,
+      "mesh": {
+        "path": ""
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 500,
+      "weight kg": 1.0
+    },
+    "references": {
+      "towns": {
+        "2608-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "51005-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "50994-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1079-gamedata.base": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "51404-rebirth.mod": {
+    "stringId": "51404-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "An easy place to get lost, well worth buying a map for.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 2,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 500,
+      "weight kg": 1.0
+    },
+    "references": {
+      "towns": {
+        "50321-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "42272-Newwworld.mod": [
+          6,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "51405-rebirth.mod": {
+    "stringId": "51405-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A hand-drawn map marking a location of interest to the Tech Hunters.  It's likely to be an oldworld information source that could reveal the locations of Labs.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 2,
+      "mesh": {
+        "path": ""
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 100,
+      "weight kg": 1.0
+    },
+    "references": {
+      "towns": {
+        "48796-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "51406-rebirth.mod": {
+    "stringId": "51406-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "World's End is an outland stronghold of the Machinist's University.  Tech Hunters use it as the main homebase when exploring the north.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 750,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "49386-rebirth.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "51410-rebirth.mod": {
+    "stringId": "51410-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "This seems to be a top secret military document from the Holy Nation.  It contains orders for a secret special unit of sentinels that guard some kind of secret that they refer to as \"Narko's Trap\".\r\nThe location of the base is included with a map.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\docs.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 2,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Book.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 3000,
+      "weight kg": 1.0
+    },
+    "references": {
+      "towns": {
+        "51396-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "96157-rebirth.mod": {
+    "stringId": "96157-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A map of all the main towns of the United Cities around the Great Desert area",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 400,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "1078-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "1074-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "964-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "1220-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "55396-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1785-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "962-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "961-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "55650-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "55656-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1076-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "55651-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "2601-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "55653-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "55655-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "55654-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "96158-rebirth.mod": {
+    "stringId": "96158-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "Shows the outland UC towns of the far south",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Parchment.mesh"
+      },
+      "physics file": {
+        "path": ""
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 0,
+      "value": 400,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "45548-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "55651-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "51402-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1364-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "1073-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "1080-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "33-gamedata.quack": [
+          1,
+          100,
+          0
+        ],
+        "963-gamedata.base": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1532843-rebirth.mod": {
+    "stringId": "1532843-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "This is an ancient document by an engineer of the old empire, it details potential sites where you could find Engineering Research.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem2.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Book.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 1000,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "49930-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "48446-rebirth.mod": [
+          1,
+          500,
+          0
+        ],
+        "62796-rebirth.mod": [
+          1,
+          200,
+          0
+        ],
+        "55644-rebirth.mod": [
+          1,
+          400,
+          0
+        ],
+        "51362-rebirth.mod": [
+          1,
+          50,
+          0
+        ]
+      }
+    }
+  },
+  "1532844-rebirth.mod": {
+    "stringId": "1532844-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "A map from a Tech Hunter scout, detailing a possible location to find Ancient Science Books.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Book.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 1000,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "49930-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "51398-rebirth.mod": [
+          1,
+          400,
+          0
+        ],
+        "51400-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "96390-Dialogue.mod": [
+          1,
+          100,
+          0
+        ],
+        "1366-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "49369-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "51383-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "58703-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "64903-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "95725-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1082-gamedata.base": [
+          1,
+          100,
+          0
+        ],
+        "44884-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1533730-rebirth.mod": {
+    "stringId": "1533730-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "An actual map of a known location in the fabled Ashlands.  This could be worth a fortune.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Book.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 10000,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "49930-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "1532834-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1533506-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "64561-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1533507-rebirth.mod": [
+          1,
+          100,
+          0
+        ],
+        "1532824-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1533877-rebirth.mod": {
+    "stringId": "1533877-rebirth.mod",
+    "type": "MapItem",
+    "values": {
+      "artifact": false,
+      "auto icon image": false,
+      "charges": 1.0,
+      "description": "It's a map pointing to a certain location in the Ashlands.  It's covered in gibberish writing and pictograms.\nThough the Bugmaster was obviously insane, he seemed to have lived long and knew a lot of the world's secrets. \nYou can piece together enough scraps of information to understand that the Bugmaster was training himself in preparation to go here and kill someone.  It seems to have been his obsession.\n\nWhoever is there waiting in the Ashlands, it must be someone insanely dangerous.",
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "icon": {
+        "path": ".\\data\\items\\icons\\mapitem.png"
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 2,
+      "inventory footprint width": 2,
+      "inventory sound": 18,
+      "mesh": {
+        "path": ".\\data\\items\\meshes\\Item_Book.mesh"
+      },
+      "physics file": {
+        "path": ".\\data\\items\\meshes\\Item_Generic.xml"
+      },
+      "profitability": 0.2,
+      "quality": 1.0,
+      "stackable": 1,
+      "trade item": false,
+      "unlock count": 1,
+      "value": 10000,
+      "weight kg": 0.2
+    },
+    "references": {
+      "material": {
+        "49930-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "towns": {
+        "1532824-rebirth.mod": [
+          1,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

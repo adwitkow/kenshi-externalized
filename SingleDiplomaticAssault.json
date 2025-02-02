@@ -1,0 +1,470 @@
+{
+  "2839-gamedata.base": {
+    "stringId": "2839-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 400,
+      "repeat timer hours min": 100
+    },
+    "references": {
+      "AI packages": {
+        "2668-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "conditions": {
+        "2840-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      },
+      "delivery AI package": {
+        "2666-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "RETREAT_AND_REFRESH": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "1130-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2611-gamedata.base": {
+    "stringId": "2611-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 500,
+      "repeat timer hours min": 200
+    },
+    "references": {
+      "dialogue announce": {
+        "2612-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2605-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2463-gamedata.base": {
+    "stringId": "2463-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 400,
+      "repeat timer hours min": 200
+    },
+    "references": {
+      "conditions": {
+        "2464-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      },
+      "delivery AI package": {
+        "2665-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue": {
+        "2488-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue announce": {
+        "2524-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue squad": {
+        "2842-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "RETREAT_AND_REFRESH": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2486-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2586-gamedata.base": {
+    "stringId": "2586-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 400,
+      "repeat timer hours min": 200
+    },
+    "references": {
+      "conditions": {
+        "2587-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      },
+      "delivery AI package": {
+        "2665-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue announce": {
+        "2579-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "RETREAT_AND_REFRESH": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2578-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2956-gamedata.base": {
+    "stringId": "2956-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 10,
+      "repeat timer hours min": 10
+    },
+    "references": {
+      "conditions": {
+        "2958-gamedata.base": [
+          20,
+          0,
+          0
+        ]
+      },
+      "delivery AI package": {
+        "2957-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2406-gamedata.base": {
+    "stringId": "2406-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 10,
+      "repeat timer hours min": 10
+    },
+    "references": {
+      "conditions": {
+        "2407-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2512-gamedata.base": {
+    "stringId": "2512-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 48,
+      "repeat timer hours min": 48
+    },
+    "references": {
+      "conditions": {
+        "2515-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2548-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "delivery AI package": {
+        "2664-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue": {
+        "2516-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue announce": {
+        "2465-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue squad": {
+        "2842-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "2668-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2511-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2458-gamedata.base": {
+    "stringId": "2458-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 1000,
+      "repeat timer hours min": 900
+    },
+    "references": {
+      "conditions": {
+        "2462-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2551-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "delivery AI package": {
+        "2664-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue": {
+        "2432-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue announce": {
+        "2465-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue squad": {
+        "2842-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "2668-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2511-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2853-gamedata.base": {
+    "stringId": "2853-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 600,
+      "repeat timer hours min": 200
+    },
+    "references": {
+      "delivery AI package": {
+        "2666-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "RETREAT_AND_REFRESH": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2852-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2362-gamedata.base": {
+    "stringId": "2362-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 10,
+      "repeat timer hours min": 10
+    },
+    "references": {
+      "conditions": {
+        "2363-gamedata.base": [
+          -10,
+          0,
+          0
+        ],
+        "2366-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2404-gamedata.base": [
+          1000,
+          0,
+          0
+        ],
+        "2405-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "dialogue": {
+        "2327-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "dialogue announce": {
+        "2367-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "2364-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2851-gamedata.base": {
+    "stringId": "2851-gamedata.base",
+    "type": "SingleDiplomaticAssault",
+    "values": {
+      "is aggressive": true,
+      "repeat timer hours max": 400,
+      "repeat timer hours min": 200
+    },
+    "references": {
+      "delivery AI package": {
+        "2666-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "fallback AI package": {
+        "RETREAT_AND_REFRESH": [
+          0,
+          100,
+          0
+        ]
+      },
+      "main squad": {
+        "1308-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

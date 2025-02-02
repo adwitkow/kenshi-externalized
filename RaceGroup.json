@@ -1,0 +1,183 @@
+{
+  "55639-Newwworld.mod": {
+    "stringId": "55639-Newwworld.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": "",
+      "REMOVED": true
+    },
+    "references": {
+      "races": {
+        "55396-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "65269-Newwworld.mod": {
+    "stringId": "65269-Newwworld.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": "",
+      "REMOVED": true
+    },
+    "references": {
+      "races": {
+        "65266-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66530-Newwworld.mod": {
+    "stringId": "66530-Newwworld.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": "",
+      "REMOVED": true
+    },
+    "references": {
+      "races": {
+        "66529-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42903-rebirth.mod": {
+    "stringId": "42903-rebirth.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": ""
+    },
+    "references": {
+      "races": {
+        "17946-stick_people.mod": [
+          0,
+          0,
+          0
+        ],
+        "57774-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "57778-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "57782-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "65266-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "66529-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42902-rebirth.mod": {
+    "stringId": "42902-rebirth.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": ""
+    },
+    "references": {
+      "races": {
+        "5276-chareditor.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42900-rebirth.mod": {
+    "stringId": "42900-rebirth.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": ""
+    },
+    "references": {
+      "races": {
+        "17-gamedata.quack": [
+          0,
+          0,
+          0
+        ],
+        "18019-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42901-rebirth.mod": {
+    "stringId": "42901-rebirth.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": ""
+    },
+    "references": {
+      "races": {
+        "5346-stick_people.mod": [
+          0,
+          0,
+          0
+        ],
+        "18961-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "18960-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533856-rebirth.mod": {
+    "stringId": "1533856-rebirth.mod",
+    "type": "RaceGroup",
+    "values": {
+      "description": ""
+    },
+    "references": {
+      "races": {
+        "57770-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "57771-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "57772-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

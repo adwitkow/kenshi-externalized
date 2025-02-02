@@ -1,0 +1,1246 @@
+{
+  "40545-small_changes_otto.mod": {
+    "stringId": "40545-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 25,
+      "arid": 0.5,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 2.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 48.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 22.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 9.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18974-small_changes_otto.mod": [
+          0,
+          25,
+          0
+        ],
+        "18975-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40555-small_changes_otto.mod": {
+    "stringId": "40555-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 10,
+      "arid": 0.0,
+      "aspect": 0.7,
+      "clear rate": 100.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.0,
+      "green": 1.0,
+      "growth time": 18.0,
+      "harvest rate": 200.0,
+      "harvest time": 16.0,
+      "inside": true,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": -1.0,
+      "output per plant": 5.0,
+      "spacing": 10.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18980-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18981-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18982-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40554-small_changes_otto.mod": {
+    "stringId": "40554-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 20,
+      "arid": 1.0,
+      "aspect": 0.7,
+      "clear rate": 1000.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 12.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.0,
+      "green": 1.0,
+      "growth time": 10.0,
+      "harvest rate": 256.0,
+      "harvest time": 24.0,
+      "inside": true,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": -1.0,
+      "output per plant": 3.0,
+      "spacing": 5.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "18976-small_changes_otto.mod": [
+          0,
+          20,
+          0
+        ],
+        "18977-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18978-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18979-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40567-small_changes_otto.mod": {
+    "stringId": "40567-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 64,
+      "arid": 0.4,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.15,
+      "green": 1.0,
+      "growth time": 18.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "40565-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "40566-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40544-small_changes_otto.mod": {
+    "stringId": "40544-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 81,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 12.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 15.0,
+      "harvest rate": 256.0,
+      "harvest time": 12.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 10.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "18976-small_changes_otto.mod": [
+          0,
+          20,
+          0
+        ],
+        "18977-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18978-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18979-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40568-small_changes_otto.mod": {
+    "stringId": "40568-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 10,
+      "arid": 1.0,
+      "aspect": 0.7,
+      "clear rate": 1000.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.0,
+      "green": 1.0,
+      "growth time": 10.0,
+      "harvest rate": 256.0,
+      "harvest time": 10.0,
+      "inside": true,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": -1.0,
+      "output per plant": 3.0,
+      "spacing": 10.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "40565-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "40566-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40549-small_changes_otto.mod": {
+    "stringId": "40549-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 20,
+      "arid": 1.0,
+      "aspect": 0.7,
+      "clear rate": 1000.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 4.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.0,
+      "green": 1.0,
+      "growth time": 15.0,
+      "harvest rate": 400.0,
+      "harvest time": 12.0,
+      "inside": true,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": -1.0,
+      "output per plant": 2.0,
+      "spacing": 5.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "18970-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18972-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18973-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40543-small_changes_otto.mod": {
+    "stringId": "40543-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 64,
+      "arid": 1.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 2.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.1,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 24.0,
+      "harvest rate": 128.0,
+      "harvest time": 64.0,
+      "inside": false,
+      "jitter": 0.7,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.5,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18983-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18984-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18985-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40556-small_changes_otto.mod": {
+    "stringId": "40556-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 10,
+      "arid": 0.0,
+      "aspect": 0.7,
+      "clear rate": 100.0,
+      "consumption rate": 2.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.0,
+      "green": 1.0,
+      "growth time": 18.0,
+      "harvest rate": 200.0,
+      "harvest time": 10.0,
+      "inside": true,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": -1.0,
+      "output per plant": 4.0,
+      "spacing": 10.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18983-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18984-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18985-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "18987-small_changes_otto.mod": {
+    "stringId": "18987-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 121,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 26.0,
+      "harvest rate": 256.0,
+      "harvest time": 16.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 8.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18980-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18981-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18982-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "18969-small_changes_otto.mod": {
+    "stringId": "18969-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 49,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 800.0,
+      "consumption rate": 10.0,
+      "death colour": 8747619,
+      "death threshold": 0.5,
+      "death time": 12.0,
+      "drought death time": 4.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 20.0,
+      "harvest rate": 256.0,
+      "harvest time": 12.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.25,
+      "output per plant": 2.0,
+      "spacing": 13.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18970-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18972-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18973-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40557-small_changes_otto.mod": {
+    "stringId": "40557-small_changes_otto.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 20,
+      "arid": 1.0,
+      "aspect": 0.7,
+      "clear rate": 1000.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 48.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.0,
+      "green": 1.0,
+      "growth time": 14.0,
+      "harvest rate": 400.0,
+      "harvest time": 24.0,
+      "inside": true,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": -1.0,
+      "output per plant": 2.0,
+      "spacing": 5.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "18974-small_changes_otto.mod": [
+          0,
+          25,
+          0
+        ],
+        "18975-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56896-farm.mod": {
+    "stringId": "56896-farm.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 100,
+      "arid": 0.5,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 48.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 22.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 9.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18974-small_changes_otto.mod": [
+          0,
+          25,
+          0
+        ],
+        "18975-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56894-farm.mod": {
+    "stringId": "56894-farm.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 50,
+      "arid": 0.5,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 3.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 48.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 22.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 9.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18974-small_changes_otto.mod": [
+          0,
+          25,
+          0
+        ],
+        "18975-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56895-farm.mod": {
+    "stringId": "56895-farm.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 75,
+      "arid": 0.5,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 4.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 48.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 22.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 9.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18974-small_changes_otto.mod": [
+          0,
+          25,
+          0
+        ],
+        "18975-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56901-rebirth.mod": {
+    "stringId": "56901-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 35,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 800.0,
+      "consumption rate": 10.0,
+      "death colour": 8747619,
+      "death threshold": 0.5,
+      "death time": 12.0,
+      "drought death time": 4.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 20.0,
+      "harvest rate": 256.0,
+      "harvest time": 12.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.25,
+      "output per plant": 2.0,
+      "spacing": 13.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18970-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18972-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18973-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56902-rebirth.mod": {
+    "stringId": "56902-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 20,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 800.0,
+      "consumption rate": 10.0,
+      "death colour": 8747619,
+      "death threshold": 0.5,
+      "death time": 12.0,
+      "drought death time": 4.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 20.0,
+      "harvest rate": 256.0,
+      "harvest time": 12.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.25,
+      "output per plant": 2.0,
+      "spacing": 13.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18970-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18972-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18973-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56905-rebirth.mod": {
+    "stringId": "56905-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 55,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 12.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 15.0,
+      "harvest rate": 256.0,
+      "harvest time": 12.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 10.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "18976-small_changes_otto.mod": [
+          0,
+          20,
+          0
+        ],
+        "18977-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18978-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18979-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56906-rebirth.mod": {
+    "stringId": "56906-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 25,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 12.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 15.0,
+      "harvest rate": 256.0,
+      "harvest time": 12.0,
+      "inside": false,
+      "jitter": 0.5,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 10.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "18976-small_changes_otto.mod": [
+          0,
+          20,
+          0
+        ],
+        "18977-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18978-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18979-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56907-rebirth.mod": {
+    "stringId": "56907-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 48,
+      "arid": 1.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 2.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.1,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 24.0,
+      "harvest rate": 128.0,
+      "harvest time": 64.0,
+      "inside": false,
+      "jitter": 0.7,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.5,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18983-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18984-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18985-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56908-rebirth.mod": {
+    "stringId": "56908-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 32,
+      "arid": 1.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 2.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.1,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 24.0,
+      "harvest rate": 128.0,
+      "harvest time": 64.0,
+      "inside": false,
+      "jitter": 0.7,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.5,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18983-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18984-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18985-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56909-rebirth.mod": {
+    "stringId": "56909-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 16,
+      "arid": 1.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 2.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.1,
+      "fertility effect": 0.25,
+      "green": 0.0,
+      "growth time": 24.0,
+      "harvest rate": 128.0,
+      "harvest time": 64.0,
+      "inside": false,
+      "jitter": 0.7,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.5,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18983-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18984-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18985-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56913-rebirth.mod": {
+    "stringId": "56913-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 40,
+      "arid": 0.4,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.15,
+      "green": 1.0,
+      "growth time": 18.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "40565-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "40566-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56914-rebirth.mod": {
+    "stringId": "56914-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 25,
+      "arid": 0.4,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 5.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.15,
+      "green": 1.0,
+      "growth time": 18.0,
+      "harvest rate": 256.0,
+      "harvest time": 48.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 11.0,
+      "swamp": 1.0
+    },
+    "references": {
+      "plants": {
+        "40565-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "40566-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56915-rebirth.mod": {
+    "stringId": "56915-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 90,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 26.0,
+      "harvest rate": 256.0,
+      "harvest time": 16.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 8.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18980-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18981-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18982-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56916-rebirth.mod": {
+    "stringId": "56916-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 60,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 26.0,
+      "harvest rate": 256.0,
+      "harvest time": 16.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 8.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18980-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18981-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18982-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "56917-rebirth.mod": {
+    "stringId": "56917-rebirth.mod",
+    "type": "FarmData",
+    "values": {
+      "amount": 30,
+      "arid": 0.0,
+      "aspect": 1.0,
+      "clear rate": 500.0,
+      "consumption rate": 10.0,
+      "death colour": 16777215,
+      "death threshold": 0.4,
+      "death time": 8.0,
+      "drought death time": 0.0,
+      "drought multiplier": 0.0,
+      "fertility effect": 0.25,
+      "green": 1.0,
+      "growth time": 26.0,
+      "harvest rate": 256.0,
+      "harvest time": 16.0,
+      "inside": false,
+      "jitter": 0.3,
+      "layout": 0,
+      "minimum fertility": 0.0,
+      "output per plant": 1.0,
+      "spacing": 8.0,
+      "swamp": 0.0
+    },
+    "references": {
+      "plants": {
+        "18980-small_changes_otto.mod": [
+          0,
+          50,
+          0
+        ],
+        "18981-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ],
+        "18982-small_changes_otto.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

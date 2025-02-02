@@ -1,0 +1,285 @@
+{
+  "32-gamedata.quack": {
+    "stringId": "32-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 0.6,
+      "body part type": 3,
+      "bone name": "Bip01 Head",
+      "bone name 2": "",
+      "bone name 3": "",
+      "collapse part": 1,
+      "collapses": true,
+      "death": true,
+      "KO mult": 2.0,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "114-gamedata.quack": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "28-gamedata.quack": {
+    "stringId": "28-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 0.25,
+      "body part type": 2,
+      "bone name": "Bip01 L UpperArm",
+      "bone name 2": "Bip01 L Forearm",
+      "bone name 3": "",
+      "collapse part": 4,
+      "collapses": true,
+      "death": false,
+      "KO mult": 0.5,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "117-gamedata.quack": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "31-gamedata.quack": {
+    "stringId": "31-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 0.0,
+      "body part type": 1,
+      "bone name": "Bip01 R Thigh",
+      "bone name 2": "Bip01 R Calf",
+      "bone name 3": "",
+      "collapse part": 16,
+      "collapses": true,
+      "death": false,
+      "KO mult": 0.5,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4019-gamedata.base": {
+    "stringId": "4019-gamedata.base",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 0.25,
+      "body part type": 2,
+      "bone name": "Bip01 L UpperArm",
+      "bone name 2": "Bip01 L Forearm",
+      "bone name 3": "",
+      "collapse part": 4,
+      "collapses": false,
+      "death": false,
+      "KO mult": 0.5,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "117-gamedata.quack": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "101-gamedata.quack": {
+    "stringId": "101-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 0.0,
+      "body part type": 0,
+      "bone name": "Bip01 Spine2",
+      "bone name 2": "",
+      "bone name 3": "",
+      "collapse part": 1,
+      "collapses": true,
+      "death": true,
+      "KO mult": 1.0,
+      "severance": false
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "112-gamedata.quack": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "100-gamedata.quack": {
+    "stringId": "100-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.3,
+      "affects skills": 0.0,
+      "body part type": 0,
+      "bone name": "Bip01 Spine1",
+      "bone name 2": "",
+      "bone name 3": "",
+      "collapse part": 1,
+      "collapses": true,
+      "death": true,
+      "KO mult": 1.0,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "111-gamedata.quack": [
+          65,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "30-gamedata.quack": {
+    "stringId": "30-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 0.0,
+      "body part type": 1,
+      "bone name": "Bip01 L Thigh",
+      "bone name 2": "Bip01 L Calf",
+      "bone name 3": "",
+      "collapse part": 32,
+      "collapses": true,
+      "death": false,
+      "KO mult": 0.5,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4018-gamedata.base": {
+    "stringId": "4018-gamedata.base",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 1.0,
+      "body part type": 2,
+      "bone name": "Bip01 R UpperArm",
+      "bone name 2": "Bip01 R Forearm",
+      "bone name 3": "",
+      "collapse part": 2,
+      "collapses": false,
+      "death": false,
+      "KO mult": 0.5,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "113-gamedata.quack": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "29-gamedata.quack": {
+    "stringId": "29-gamedata.quack",
+    "type": "LocationalDamage",
+    "values": {
+      "affects move speed": 0.0,
+      "affects skills": 1.0,
+      "body part type": 2,
+      "bone name": "Bip01 R UpperArm",
+      "bone name 2": "Bip01 R Forearm",
+      "bone name 3": "",
+      "collapse part": 2,
+      "collapses": true,
+      "death": false,
+      "KO mult": 0.5,
+      "severance": true
+    },
+    "references": {
+      "injury anims": {
+        "95-gamedata.quack": [
+          0,
+          0,
+          0
+        ]
+      },
+      "pain anim": {
+        "113-gamedata.quack": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

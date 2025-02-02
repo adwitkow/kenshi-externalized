@@ -1,0 +1,7726 @@
+{
+  "2995-gamedata.base": {
+    "stringId": "2995-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "This would solve a fundamental engineering problem and enable us to build larger, sturdier structures.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2915-gamedata.base": {
+    "stringId": "2915-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Solid walls that we can actually stand and build turrets on.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3004-Walls.mod": [
+          0,
+          0,
+          0
+        ],
+        "3006-Walls.mod": [
+          0,
+          0,
+          0
+        ],
+        "2829-Walls.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2910-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2933-gamedata.base": {
+    "stringId": "2933-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "More types of clothing available to craft.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable armour": {
+        "564-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1168-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2158-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2193-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "557-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "18917-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "543-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1167-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "550-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2932-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2008-gamedata.base": {
+    "stringId": "2008-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "A bigger, better research desk would allow us to research bigger, better things. ",
+      "is level upgrade": true,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2006-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1892-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1928-gamedata.base": {
+    "stringId": "1928-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Upgrading our wells to reach deeper and access more water.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1925-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2888-gamedata.base": {
+    "stringId": "2888-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "An all-round better design that improves speed, range, reload and damage.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2887-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2838-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "RESEARCH_TEMPLATE": {
+    "stringId": "RESEARCH_TEMPLATE",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {}
+  },
+  "2793-gamedata.base": {
+    "stringId": "2793-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "We could build cages. This would allow us to capture and interrogate certain people, temporarily store bounties, or even keep hostages for ransom.  Actually this is starting to sound pretty wrong, be careful we don't end up going down the wrong path.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1783-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1938-gamedata.base": {
+    "stringId": "1938-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "If we have water, and we have cactus, then we could brew rum...",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1936-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5353-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2111-gamedata.base": {
+    "stringId": "2111-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "A nice balance for those who find fragment axes too clumsy and blunt, the plank retains some of the extra deadly traits of a regular sword, while still remaining ridiculously crude.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 4000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "902-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2233-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2233-gamedata.base": {
+    "stringId": "2233-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Heavy weapons.  Ridiculed by many and often hailed as \"cock extensions\", nothing is more amusing than watching some idiot try to fight with a weapon he can barely lift.  But, if you work very, very hard, if you master it and build the necessary strength... maybe, just maybe you could become something very dangerous...",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable weapon type": {
+        "2110-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3008-gamedata.base": {
+    "stringId": "3008-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Contains theories for ridiculous looking, advanced harpoon turret designs that can supposedly fire multiple shots.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 25000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3007-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2024-gamedata.base": {
+    "stringId": "2024-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "Hemp is a much more efficient source of fabrics, and can also be used for narcotics or medicine.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "1965-gamedata.base": [
+          2,
+          0,
+          0
+        ],
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2021-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2946-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "56919-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56918-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3965-gamedata.base": {
+    "stringId": "3965-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Corpses make a mess and attract scavengers and predators and all kinds of trouble.  Incineration would be the most effective solution.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "enable buildings": {
+        "3962-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1898-gamedata.base": {
+    "stringId": "1898-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "A specially made training dummy, its pretty clever. It will let rookies train their attack skills to about level 15.  There's no way a rookie can take his training any further than this without facing real combat.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 3
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1896-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1897-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2107-gamedata.base": {
+    "stringId": "2107-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "A shorter variant of the Katana, they are fast and sharp but generally used as backup weapons.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 5000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "enable weapon type": {
+        "1020-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2234-gamedata.base": {
+    "stringId": "2234-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "Frustrated by heavily armoured opponents?  Want to cut them in half with a single sweep?  This is the weapon is for you!  (Disclaimer: super human strength not included).",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 8000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "477-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2233-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3064-gamedata.base": {
+    "stringId": "3064-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Splint kits would allow medics to add support to leg injuries, helping you out-run cannibals and stuff.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "1435-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2263-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3006-gamedata.base": {
+    "stringId": "3006-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "A practice turret would be a quick way to train up some basic competence in the use of mounted turret weapons.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3004-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3005-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2091-gamedata.base": {
+    "stringId": "2091-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "A bigger, better research desk would allow us to research bigger, better things. ",
+      "is level upgrade": true,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 16
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2084-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2090-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14445-gamedata.base": {
+    "stringId": "14445-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A more energy-efficient light post",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "14442-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "14444-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2838-gamedata.base": {
+    "stringId": "2838-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Heavy ranged weapons could defend the walls and keep bandits off our gates.  Mounting on the walls would be best, because once an enemy gets too close you would be vulnerable to attack.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2881-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2297-gamedata.base": {
+    "stringId": "2297-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Serious armour needs solid buggerin' plates of steel stuck on to it.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable armour": {
+        "2156-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5346-armor_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "2307-clothes_v1.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2257-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2261-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1878-gamedata.base": {
+    "stringId": "1878-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "Much larger building shells with more secure workspace",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3809-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "4030-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "4104-D-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "4063-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "4078-D-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1879-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2889-gamedata.base": {
+    "stringId": "2889-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "A fancier crossbow string technology that could increase the power of all mounted crossbows by 10%.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.1,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "2881-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2887-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "requirements": {
+        "2838-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2228-gamedata.base": {
+    "stringId": "2228-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "A classic weapon, light, sharp and fast.  Deadly and beautiful, but the fine skill they require makes them less commonly used than other blades.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 10000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "enable weapon type": {
+        "476-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "923-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2948-gamedata.base": {
+    "stringId": "2948-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Things will go a lot smoother if we organise an efficient method to store and distribute our raw materials.  Otherwise things are going to get jammed up. ",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "2939-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2941-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42187-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43390-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1881-gamedata.base": {
+    "stringId": "1881-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1111-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1880-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2995-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2112-gamedata.base": {
+    "stringId": "2112-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "The heavy cleaver, it bridges the gap between sabres and heavy weapons.  Some people like 'em.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 5000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "478-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3010-gamedata.base": {
+    "stringId": "3010-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "This crazy design could fire 6 shots in rapid succession, although it would probably sacrifice some power and accuracy.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2874-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3008-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3009-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3009-gamedata.base": {
+    "stringId": "3009-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Two shots instead of one, how great would that be?",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2869-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3008-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2225-gamedata.base": {
+    "stringId": "2225-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "A good all-round sturdy crop, though it needs grinding before you can make food.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          100,
+          0
+        ]
+      },
+      "cost": {
+        "1913-gamedata.base": [
+          2,
+          0,
+          0
+        ],
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40548-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "2945-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "56897-farm.mod": [
+          0,
+          0,
+          0
+        ],
+        "56893-farm.mod": [
+          0,
+          0,
+          0
+        ],
+        "56898-farm.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2230-gamedata.base": {
+    "stringId": "2230-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 8000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "enable weapon type": {
+        "52308-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2088-gamedata.base": {
+    "stringId": "2088-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 2,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2075-gamedata.base": [
+          1,
+          4,
+          0
+        ],
+        "2074-gamedata.base": [
+          0,
+          4,
+          0
+        ]
+      },
+      "requirements": {
+        "2089-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2087-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1892-gamedata.base": {
+    "stringId": "1892-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "We need something bigger than a shack if we are going to get any work done.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3384-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2890-gamedata.base": {
+    "stringId": "2890-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Using a lower friction material for the slide of a crossbow could increase the power by another 5%.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.05,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "2881-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2887-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2092-gamedata.base": {
+    "stringId": "2092-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "A bigger, better research desk would allow us to research bigger, better things. ",
+      "is level upgrade": true,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 24
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          8,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2085-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2091-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2099-gamedata.base": {
+    "stringId": "2099-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "This would speed up mining a great deal",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 2,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2096-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2062-gamedata.base": {
+    "stringId": "2062-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "A good heavy bladed sabre.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 1500,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "enable weapon type": {
+        "475-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5346-gamedata.base": {
+    "stringId": "5346-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Some basic lighting so we're not working in the darkness",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "5418-lights_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "45551-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "5438-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1887-gamedata.base": {
+    "stringId": "1887-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Building regular old houses isn't going to get us far.  We need to study some new fundamental engineering concepts that will allow us to build something bigger that can stand up to assaults from anything and everything.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 15000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "requirements": {
+        "1878-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1879-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2050-gamedata.base": {
+    "stringId": "2050-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A further 15kw upgrade to all small generators.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 15,
+      "production mult": 1.0,
+      "repeat mult": 1.3,
+      "repeats": 2,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "1976-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "requirements": {
+        "42175-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2996-gamedata.base": {
+    "stringId": "2996-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2934-Walls2.mod": [
+          0,
+          0,
+          0
+        ],
+        "2939-Walls2.mod": [
+          0,
+          0,
+          0
+        ],
+        "2992-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2994-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1884-gamedata.base": {
+    "stringId": "1884-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Things will go a lot smoother if we organise an efficient method to store and distribute our raw materials.  Otherwise things are going to get jammed up.  If a dude wants to haul a load of raw stone to the Stone Processor, and his inventory is full of iron ore, what's he gonna do?  Exactly.  He needs some kind of storage box.  Geez!",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "2938-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2940-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2087-gamedata.base": {
+    "stringId": "2087-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.5,
+      "repeats": 3,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2071-gamedata.base": [
+          0,
+          1,
+          0
+        ],
+        "2072-gamedata.base": [
+          1,
+          2,
+          0
+        ],
+        "2073-gamedata.base": [
+          2,
+          3,
+          0
+        ]
+      }
+    }
+  },
+  "3005-gamedata.base": {
+    "stringId": "3005-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "A practice turret would be a quick way to train up some basic competence in the use of mounted turret weapons.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3003-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3001-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3007-gamedata.base": {
+    "stringId": "3007-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "A new weapon technology that should be more powerful and accurate than crossbow technology can achieve.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 5
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2069-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3002-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2231-gamedata.base": {
+    "stringId": "2231-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "A smaller, lighter katana popular with ninjas because they're so good for stabbing.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 2500,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "924-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1933-gamedata.base": {
+    "stringId": "1933-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "A refinery to grind wheatstraw into flour that could then be used for food.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 3
+    },
+    "references": {
+      "enable buildings": {
+        "1930-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1941-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14444-gamedata.base": {
+    "stringId": "14444-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A stand-alone electrical light. On a post.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "14443-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "5346-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5366-gamedata.base": {
+    "stringId": "5366-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A powerful searchlight for mounting on gates and walls",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "enable buildings": {
+        "5363-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "5360-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5346-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2058-gamedata.base": {
+    "stringId": "2058-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "One day we will have the greatest swordsmiths in the world and blades that can cut a man clean in half with a single cut.  Today though, we will have rusted junk.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.5,
+      "repeats": 5,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable weapon model": {
+        "925-gamedata.base": [
+          2,
+          2,
+          0
+        ],
+        "926-gamedata.base": [
+          3,
+          2,
+          0
+        ],
+        "1058-gamedata.base": [
+          4,
+          3,
+          0
+        ],
+        "918-gamedata.base": [
+          1,
+          2,
+          0
+        ],
+        "914-gamedata.base": [
+          0,
+          1,
+          0
+        ]
+      },
+      "requirements": {
+        "52323-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2731-gamedata.base": {
+    "stringId": "2731-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Learning to picklocks is hard to get started in.  It's too late to learn once you're locked in a cage, training is needed to get your foot on the ladder.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2727-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2730-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2729-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1962-gamedata.base": {
+    "stringId": "1962-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "Wheatstraw isn't edible until you bake it into bread.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1941-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "868-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1930-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5368-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1890-gamedata.base": {
+    "stringId": "1890-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "The Stone Processor requires too much manpower, we need to improve the design so we can get more output with less workers.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.1,
+      "repeats": 3,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1904-gamedata.base": [
+          0,
+          3,
+          0
+        ],
+        "1905-gamedata.base": [
+          1,
+          4,
+          0
+        ],
+        "1906-gamedata.base": [
+          2,
+          4,
+          0
+        ]
+      },
+      "requirements": {
+        "42174-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1897-gamedata.base": {
+    "stringId": "1897-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "A better training dummy would let rookies train their attack skills up to about level 10.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1893-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1889-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2949-gamedata.base": {
+    "stringId": "2949-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Farms by nature take a long time to grow, then suddenly harvest season comes and you have mountains of crops everywhere and nowhere to put them.  Storage is important, be ready for harvest.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "1941-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43911-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "12840-nodes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2089-gamedata.base": {
+    "stringId": "2089-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "We're not going to get any further mining resources by hand.  It's time to take it to the next level!",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2087-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2025-gamedata.base": {
+    "stringId": "2025-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "If we can make our own fabric it makes clothing and armour crafting more cost-effective.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "858-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42183-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2910-gamedata.base": {
+    "stringId": "2910-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "Defensive walls that would keep all those bastard bandits out.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3005-Walls.mod": [
+          0,
+          0,
+          0
+        ],
+        "3007-Walls.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1880-gamedata.base": {
+    "stringId": "1880-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "727-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1887-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2995-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2051-gamedata.base": {
+    "stringId": "2051-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "It would save us a lot of running around to sell goods if we could get the customers to come to us.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable buildings": {
+        "3469-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2271-gamedata.base": {
+    "stringId": "2271-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Advanced first aid kits would last longer and save more lives.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.6,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "1359-gamedata.base": [
+          1,
+          4,
+          4
+        ]
+      },
+      "requirements": {
+        "2270-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2947-gamedata.base": {
+    "stringId": "2947-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Things will go a lot smoother if we organise an efficient method to store and distribute our raw materials.  Otherwise things are going to get jammed up. ",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "2942-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2943-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2944-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "858-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43389-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "47240-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2270-gamedata.base": {
+    "stringId": "2270-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Better first aid kits would last longer and save more lives.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.6,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2267-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "515-gamedata.base": [
+          0,
+          3,
+          0
+        ]
+      },
+      "requirements": {
+        "2263-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3961-gamedata.base": {
+    "stringId": "3961-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "A big furnace that could melt down old metal weapons and armour back into raw iron.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3959-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2994-gamedata.base": {
+    "stringId": "2994-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "To make our walls any bigger we would need to rebuild them with stronger foundations.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2916-Walls2.mod": [
+          0,
+          0,
+          0
+        ],
+        "2932-Walls2.mod": [
+          0,
+          0,
+          0
+        ],
+        "2988-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2915-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2995-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2090-gamedata.base": {
+    "stringId": "2090-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "A bigger, better research desk would allow us to research bigger, better things. ",
+      "is level upgrade": true,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 10
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2079-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2008-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1929-gamedata.base": {
+    "stringId": "1929-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Upgrading our wells to reach deeper and access more water.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1924-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1928-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2263-gamedata.base": {
+    "stringId": "2263-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "First aid kits save lives, we need to look at being able to create our own.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1966-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2266-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "209-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1886-gamedata.base": {
+    "stringId": "1886-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable buildings": {
+        "1459-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5193-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "3466-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "882-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "64596-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2120-gamedata.base": {
+    "stringId": "2120-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Steel bars are used to craft advanced weapons and gear, we can refine them from raw iron ore.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.25,
+      "repeats": 3,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2116-gamedata.base": [
+          0,
+          3,
+          0
+        ],
+        "2118-gamedata.base": [
+          1,
+          4,
+          0
+        ],
+        "2119-gamedata.base": [
+          2,
+          6,
+          0
+        ]
+      }
+    }
+  },
+  "2070-gamedata.base": {
+    "stringId": "2070-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Can't make much without metal can we?",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "repeat mult": 2.0,
+      "repeats": 3,
+      "time": 6
+    },
+    "references": {
+      "enable buildings": {
+        "2056-gamedata.base": [
+          0,
+          1,
+          1
+        ],
+        "2094-gamedata.base": [
+          1,
+          2,
+          2
+        ],
+        "2095-gamedata.base": [
+          2,
+          3,
+          3
+        ]
+      }
+    }
+  },
+  "1888-gamedata.base": {
+    "stringId": "1888-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "Somewhere to rest and heal faster",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable buildings": {
+        "880-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1879-gamedata.base": {
+    "stringId": "1879-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "Bigger buildings with more space.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "4014-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "4028-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "3795-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1892-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3065-gamedata.base": {
+    "stringId": "3065-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Splint kits would allow medics to add support to leg injuries, helping you out-run cannibals and stuff.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "1436-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3064-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2229-gamedata.base": {
+    "stringId": "2229-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "An extended katana.  Heavier, with increase range and damage at the expense of speed.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 15000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "enable weapon type": {
+        "922-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2228-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3001-gamedata.base": {
+    "stringId": "3001-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "A practice turret would be a quick way to train up some basic competence in the use of mounted turret weapons.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2999-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2108-gamedata.base": {
+    "stringId": "2108-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 3000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "52307-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2093-gamedata.base": {
+    "stringId": "2093-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "The ultimate level, the best equipment, the best scientists.",
+      "is level upgrade": true,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 32
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2086-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2092-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2026-gamedata.base": {
+    "stringId": "2026-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "With this we would have the basis to make our own clothing and light armour.  The same equipment could also be used to make under-armour and bandages.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable armour": {
+        "2163-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2262-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2927-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2729-gamedata.base": {
+    "stringId": "2729-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Learning to picklocks is hard to get started in.  It's too late to learn once you're locked in a cage, training is needed to get your foot on the ladder.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 5
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2727-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3002-gamedata.base": {
+    "stringId": "3002-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "A new weapon technology that should be more powerful and accurate than crossbow technology can achieve.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2870-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2838-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2106-gamedata.base": {
+    "stringId": "2106-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "A better bench is needed to make the higher level stuff.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.5,
+      "repeats": 2,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2102-gamedata.base": [
+          0,
+          3,
+          0
+        ],
+        "2105-gamedata.base": [
+          1,
+          5,
+          0
+        ]
+      }
+    }
+  },
+  "2224-gamedata.base": {
+    "stringId": "2224-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Wind generators can generate power out of nothing!  Free energy!  At this stage we will have to buy the components needed to build it with.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          100,
+          0
+        ]
+      },
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1999-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1979-gamedata.base": {
+    "stringId": "1979-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "This could give us a 50% boost to the power output of our generators.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 5,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "improve buildings": {
+        "1976-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5360-gamedata.base": {
+    "stringId": "5360-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Some basic lighting so we're not working in the darkness",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "5361-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5359-gamedata.base": {
+    "stringId": "5359-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Default start",
+      "is level upgrade": false,
+      "level": 0,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "enable buildings": {
+        "4092-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "1875-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1509-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1863-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5437-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "16845-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ],
+        "16848-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ],
+        "1921-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "18968-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "56900-farm.mod": [
+          0,
+          0,
+          0
+        ],
+        "56899-farm.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "42334-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2232-gamedata.base": {
+    "stringId": "2232-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 3000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "901-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2932-gamedata.base": {
+    "stringId": "2932-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "With this we could craft clothes and stuff.  For wearing.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable armour": {
+        "2308-clothes_v1.mod": [
+          0,
+          0,
+          0
+        ],
+        "2309-clothes_v1.mod": [
+          0,
+          0,
+          0
+        ],
+        "2326-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2929-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2298-gamedata.base": {
+    "stringId": "2298-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "Chainmail eh? That's going to be bloody fiddly isn't it?",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2260-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2299-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2109-gamedata.base": {
+    "stringId": "2109-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 6000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "903-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1889-gamedata.base": {
+    "stringId": "1889-gamedata.base",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Damn rookies are useless.  Keep getting beat up because they can't hit anything.  A basic training dummy would let them train their attack skills up to about level 5.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "898-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43963-rebirth.mod": {
+    "stringId": "43963-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "Food that can be produced in desert environments",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "43956-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43961-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50020-rebirth.mod": {
+    "stringId": "50020-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "Copper Alloy Plates are required for more high-tech engineering projects.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "50018-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "50022-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47761-rebirth.mod": {
+    "stringId": "47761-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "A spotlight fitting for the double-barrel harpoon turrets",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "47752-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3009-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43317-rebirth.mod": {
+    "stringId": "43317-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "A crop suitable for dry environments.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "42304-changes_otto.mod": [
+          2,
+          0,
+          0
+        ],
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40546-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43909-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56911-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56910-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56912-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2225-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46045-rebirth.mod": {
+    "stringId": "46045-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "The basic ability to mine and create building materials",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable buildings": {
+        "1509-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1863-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50024-rebirth.mod": {
+    "stringId": "50024-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40569-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "50023-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2024-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43913-rebirth.mod": {
+    "stringId": "43913-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "An ancient way of turning crops into generator fuel.  Choose between electricity or starvation!",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 3
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "43914-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1865-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43918-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43876-rebirth.mod": {
+    "stringId": "43876-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Train like a ninja and learn to knock people out from behind.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 5
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "43873-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43875-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42175-rebirth.mod": {
+    "stringId": "42175-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "An electricity generator that runs on fuel.  ",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          100,
+          0
+        ]
+      },
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1976-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52313-rebirth.mod": {
+    "stringId": "52313-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 5000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "52299-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43318-rebirth.mod": {
+    "stringId": "43318-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "A common crop in the swamps",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "42307-changes_otto.mod": [
+          2,
+          0,
+          0
+        ],
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40547-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43912-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56904-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56903-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50023-rebirth.mod": {
+    "stringId": "50023-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "A way to reliably grow crops indoors would be the ultimate advantage for survival outposts deep in the inhospitable zones where food can not normally be grown.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46967-rebirth.mod": {
+    "stringId": "46967-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Smaller lighter generators would work better in environments with low wind, or provide more consistent power where the weather is erratic.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          100,
+          0
+        ]
+      },
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40636-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2224-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43965-rebirth.mod": {
+    "stringId": "43965-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "43967-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43968-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43982-rebirth.mod": {
+    "stringId": "43982-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Each advancement in this study can increase battery capacity by 60",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 60,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.5,
+      "repeats": 6,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "1855-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43923-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43972-rebirth.mod": {
+    "stringId": "43972-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A potential 10kw increase to battery output power",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 10,
+      "production mult": 1.0,
+      "repeat mult": 2.0,
+      "repeats": 4,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "1855-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43923-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52311-rebirth.mod": {
+    "stringId": "52311-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 3500,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "52287-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43921-rebirth.mod": {
+    "stringId": "43921-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Here we could craft fundamental electrical components and parts.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "42166-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "48465-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "42164-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47239-rebirth.mod": {
+    "stringId": "47239-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "An alternative source of fabric manufacture, much more efficient but may be illegal in some parts.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "858-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2016-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43983-rebirth.mod": {
+    "stringId": "43983-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A potential 10kw increase to battery output power",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 10,
+      "production mult": 1.0,
+      "repeat mult": 2.0,
+      "repeats": 6,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "1855-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43923-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43964-rebirth.mod": {
+    "stringId": "43964-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "Better food can be made if more ingredients are available",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "43959-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43960-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42191-rebirth.mod": {
+    "stringId": "42191-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "An improved fuel generator.  Larger and more powerful.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.25,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1978-gamedata.base": [
+          1,
+          4,
+          0
+        ]
+      },
+      "requirements": {
+        "42175-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2050-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43924-rebirth.mod": {
+    "stringId": "43924-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Regular first aid kits are no help for Skeletons, we would need to craft special machinery kits to repair any damage.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "43881-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "56129-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "583-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "18020-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43397-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43399-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2120-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43921-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50028-rebirth.mod": {
+    "stringId": "50028-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40561-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "50023-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2225-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43973-rebirth.mod": {
+    "stringId": "43973-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Each advancement in this study can increase battery capacity by 60",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 60,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.5,
+      "repeats": 4,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "1855-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43923-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50025-rebirth.mod": {
+    "stringId": "50025-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40560-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "50023-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43318-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43968-rebirth.mod": {
+    "stringId": "43968-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Why bother with 2 machines that could be combined into one?  A stone mine that immediately produces building materials",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2078-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2088-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1890-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42174-rebirth.mod": {
+    "stringId": "42174-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "The Stone Processor requires too much manpower, we need to improve the design so we can get more output with less workers, but it's going to need to be powered by a generator.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1903-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50027-rebirth.mod": {
+    "stringId": "50027-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "40550-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "50023-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52317-rebirth.mod": {
+    "stringId": "52317-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 6000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "52290-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47762-rebirth.mod": {
+    "stringId": "47762-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "A spotlight that can be fitted to the mounted crossbow to help against night attacks",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "47753-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2888-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43981-rebirth.mod": {
+    "stringId": "43981-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A further 15kw upgrade to all large generators.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 15,
+      "production mult": 1.0,
+      "repeat mult": 1.3,
+      "repeats": 2,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "improve buildings": {
+        "1978-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "42175-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46043-rebirth.mod": {
+    "stringId": "46043-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "enable buildings": {
+        "3384-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "2945-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "40548-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47760-rebirth.mod": {
+    "stringId": "47760-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Defence",
+      "description": "An option to fit a spotlight to turrets for aiding against night attacks",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "47751-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "3007-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42176-rebirth.mod": {
+    "stringId": "42176-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "If we can farm cotton we can use it to manufacture fabrics.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "42178-rebirth.mod": [
+          2,
+          0,
+          0
+        ],
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "18988-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "42186-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56920-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56921-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56922-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52316-rebirth.mod": {
+    "stringId": "52316-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 14000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "52304-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43875-rebirth.mod": {
+    "stringId": "43875-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Train like a ninja and learn to knock people out from behind.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 5
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "43872-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43874-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43874-rebirth.mod": {
+    "stringId": "43874-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Train like a ninja and learn to knock people out from behind.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 5
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "43868-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47920-rebirth.mod": {
+    "stringId": "47920-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "A more powerful large wind generator, with double the potential output",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "42188-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "46967-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2224-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43962-rebirth.mod": {
+    "stringId": "43962-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1944-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42185-rebirth.mod": {
+    "stringId": "42185-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Iron plates are a fundamental building material for machinery.  It's vital that we can make our own.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.25,
+      "repeats": 4,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "42167-gamedata.base": [
+          1,
+          2,
+          0
+        ],
+        "42168-gamedata.base": [
+          2,
+          3,
+          0
+        ],
+        "42169-gamedata.base": [
+          3,
+          4,
+          0
+        ],
+        "47237-rebirth.mod": [
+          0,
+          1,
+          0
+        ]
+      }
+    }
+  },
+  "52310-rebirth.mod": {
+    "stringId": "52310-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "One day we will have the greatest swordsmiths in the world and blades that can cut a man clean in half with a single cut.  Today though, we will have generic rubbish.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.1,
+      "repeats": 5,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2033-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable weapon model": {
+        "1059-gamedata.base": [
+          2,
+          5,
+          0
+        ],
+        "1060-gamedata.base": [
+          1,
+          4,
+          0
+        ],
+        "1061-gamedata.base": [
+          0,
+          4,
+          0
+        ],
+        "930-gamedata.base": [
+          4,
+          5,
+          0
+        ],
+        "1067-gamedata.base": [
+          3,
+          5,
+          0
+        ]
+      },
+      "requirements": {
+        "2058-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46044-rebirth.mod": {
+    "stringId": "46044-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Default start",
+      "is level upgrade": false,
+      "level": 0,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "enable buildings": {
+        "4092-TwoStorey.mod": [
+          0,
+          0,
+          0
+        ],
+        "1875-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5437-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "16845-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ],
+        "16848-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ],
+        "1921-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "18968-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "56900-farm.mod": [
+          0,
+          0,
+          0
+        ],
+        "56899-farm.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "42334-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43923-rebirth.mod": {
+    "stringId": "43923-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Batteries can store excess power and keep things running during emergencies.  They are especially important if you rely on wind power.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1855-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42179-rebirth.mod": {
+    "stringId": "42179-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "Somewhere to rest and heal faster",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 5
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "3460-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50923-rebirth.mod": {
+    "stringId": "50923-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "Refining of hemp oil for an alternative method of biofuel production.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 3
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "50922-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43913-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52315-rebirth.mod": {
+    "stringId": "52315-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 2000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "2606-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52314-rebirth.mod": {
+    "stringId": "52314-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 12000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable weapon type": {
+        "52305-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52161-rebirth.mod": {
+    "stringId": "52161-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "Sake is a traditional Swamper's drink, but also very popular in the United Cities.  Alcohol production is often a good source of income.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "52160-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52162-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52281-rebirth.mod": {
+    "stringId": "52281-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "A very common alchoholic drink, it would be a good source of income if we could produce it.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "52159-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52280-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52323-rebirth.mod": {
+    "stringId": "52323-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "The starting point of crafting our own weapons.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2033-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable weapon model": {
+        "913-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable weapon type": {
+        "52295-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52321-rebirth.mod": {
+    "stringId": "52321-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 5000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "enable weapon type": {
+        "52292-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52322-rebirth.mod": {
+    "stringId": "52322-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 20000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "enable weapon type": {
+        "52306-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52332-rebirth.mod": {
+    "stringId": "52332-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "A whole load of hats that could be crafted.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable armour": {
+        "2222-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "45556-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "2167-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2185-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2220-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "2219-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "2164-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2932-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "53083-rebirth.mod": {
+    "stringId": "53083-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable weapon model": {
+        "1068-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "52310-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2106-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55235-rebirth.mod": {
+    "stringId": "55235-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "The production of hashish is dangerous, but potentially the most profitable.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "52163-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "55236-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56646-rebirth.mod": {
+    "stringId": "56646-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Useful things for any traveller.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1966-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "56645-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62165-rebirth.mod": {
+    "stringId": "62165-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Stools and tables and stuff, totally useless really.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 500,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 3
+    },
+    "references": {
+      "enable buildings": {
+        "3468-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "3461-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "16858-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ],
+        "5359-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "668-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "900-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3471-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "3472-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "52213-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "3470-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62167-rebirth.mod": {
+    "stringId": "62167-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "More useless furniture to clog up your house with.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 500,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 3
+    },
+    "references": {
+      "enable buildings": {
+        "5361-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "5362-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "3465-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "5431-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "52211-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50645-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "40560-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "52215-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62380-rebirth.mod": {
+    "stringId": "62380-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "An automatic version of the loom that requires minimal human work",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "62379-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "47239-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62381-rebirth.mod": {
+    "stringId": "62381-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "An automatic version of the loom that requires minimal human work",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "62378-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2025-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64562-rebirth.mod": {
+    "stringId": "64562-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2098-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "64563-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2089-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64563-rebirth.mod": {
+    "stringId": "64563-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "A semi-automatic drilling machine that only needs a single operator",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2097-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2099-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2089-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64616-rebirth.mod": {
+    "stringId": "64616-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Electrics",
+      "description": "As skeletons get constantly damaged and repaired their bodies start to wear down.  When this wear becomes too much it can be repaired at a repair bed.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "64614-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96564-rebirth.mod": {
+    "stringId": "96564-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Important for any traveller, these tents are easily constructed out of spare fabrics and could save your life in an acid storm.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 200,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "18026-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96565-rebirth.mod": {
+    "stringId": "96565-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Important for any traveller, these tents are easily constructed out of spare fabrics and could save your life in an acid storm.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 200,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "18027-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96566-rebirth.mod": {
+    "stringId": "96566-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Core",
+      "description": "Important for any traveller, these tents are easily constructed out of spare fabrics and could save your life in an acid storm.",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 300,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "enable buildings": {
+        "18028-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97084-rebirth.mod": {
+    "stringId": "97084-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "A bench that would enable us to craft ammunition for crossbows",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "96184-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "97243-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "96014-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43396-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97085-rebirth.mod": {
+    "stringId": "97085-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "Enables the crafting of Regular bolts",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 400,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "95781-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97086-rebirth.mod": {
+    "stringId": "97086-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "Enables the crafting of Heavy bolts",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 1000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "95872-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97087-rebirth.mod": {
+    "stringId": "97087-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "Enables the crafting of long-bolts",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 1000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 2
+    },
+    "references": {
+      "blueprint item": {
+        "BLUEPRINT_ITEM": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "96000-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97088-rebirth.mod": {
+    "stringId": "97088-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Smithing",
+      "description": "A bench where we could craft our own crossbows",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "43951-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "96183-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable crossbow": {
+        "95724-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable item": {
+        "97089-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "97090-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "97084-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97245-rebirth.mod": {
+    "stringId": "97245-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Core",
+      "description": "Storage for various types of weapons and armour",
+      "is level upgrade": false,
+      "level": 1,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 4
+    },
+    "references": {
+      "enable buildings": {
+        "870-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "660-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3462-otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "97246-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1532622-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97502-rebirth.mod": {
+    "stringId": "97502-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Learning to picklocks is hard to get started in.  It's too late to learn once you're locked in a cage, training is needed to get your foot on the ladder.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "2727-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2730-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "97503-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "2731-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97504-rebirth.mod": {
+    "stringId": "97504-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Something to train your ability to steal things without making noise",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "97498-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97505-rebirth.mod": {
+    "stringId": "97505-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Something to train your ability to steal things without making noise",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "97500-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "97504-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97506-rebirth.mod": {
+    "stringId": "97506-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Training",
+      "description": "Something to train your ability to steal things without making noise",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          8,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "97501-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "97505-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97859-rebirth.mod": {
+    "stringId": "97859-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Placing these on the roofs of buildings can collect the rainwater in areas where wells can't be used.",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "cost": {
+        "16855-nodes_otto1.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "97583-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1928-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "98802-rebirth.mod": {
+    "stringId": "98802-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 5000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "enable weapon type": {
+        "65260-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532660-rebirth.mod": {
+    "stringId": "1532660-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Smithing",
+      "description": "A forgotten weapon of the old empire.",
+      "is level upgrade": false,
+      "level": 2,
+      "money": 6000,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "enable weapon type": {
+        "474-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532832-rebirth.mod": {
+    "stringId": "1532832-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Industry",
+      "description": "Iron plates are a fundamental building material for machinery.  It's vital that we can make our own.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.25,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1532831-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "42185-rebirth.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533315-rebirth.mod": {
+    "stringId": "1533315-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Farming",
+      "description": "",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "1533314-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1962-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533518-rebirth.mod": {
+    "stringId": "1533518-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "A copy of the Hiver's \"Economy Legs\" technology, this will be the stepping stone to replacement limb production.",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "96365-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "96136-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96135-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "43924-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533519-rebirth.mod": {
+    "stringId": "1533519-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "A copy of the Hiver's \"Economy Arms\"",
+      "is level upgrade": false,
+      "level": 4,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 6
+    },
+    "references": {
+      "cost": {
+        "43953-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "96134-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96137-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533518-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533520-rebirth.mod": {
+    "stringId": "1533520-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Advanced high-tech legs like what the skeletons have.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "95872-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "96022-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533519-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533521-rebirth.mod": {
+    "stringId": "1533521-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Advanced high-tech arms like what the skeletons have.",
+      "is level upgrade": false,
+      "level": 5,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "95747-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95748-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533519-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533522-rebirth.mod": {
+    "stringId": "1533522-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Advanced high-tech legs like what the skeletons have.",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "96020-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96021-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533520-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533523-rebirth.mod": {
+    "stringId": "1533523-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Advanced high-tech legs like what the skeletons have.",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "95579-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95742-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533520-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533524-rebirth.mod": {
+    "stringId": "1533524-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "Advanced high-tech legs like what the skeletons have.",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "96188-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96189-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533520-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533525-rebirth.mod": {
+    "stringId": "1533525-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "96186-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96187-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533521-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533526-rebirth.mod": {
+    "stringId": "1533526-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": false,
+      "category": "Crafting",
+      "description": "",
+      "is level upgrade": false,
+      "level": 6,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 12
+    },
+    "references": {
+      "cost": {
+        "43392-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "enable robotics": {
+        "96022-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96024-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "requirements": {
+        "1533521-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534079-rebirth.mod": {
+    "stringId": "1534079-rebirth.mod",
+    "type": "Research",
+    "values": {
+      "blueprint only": true,
+      "category": "Crafting",
+      "description": "Savant's secret alchemical formula for turning skeletons into humans",
+      "is level upgrade": false,
+      "level": 3,
+      "money": 0,
+      "power capacity increase": 0,
+      "power increase": 0,
+      "production mult": 1.0,
+      "repeat mult": 1.0,
+      "repeats": 0,
+      "time": 8
+    },
+    "references": {
+      "blueprint item": {
+        "2223-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable armour": {
+        "63235-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "enable buildings": {
+        "96396-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "2951-gamedata.base": {
+    "stringId": "2951-gamedata.base",
+    "type": "UniqueSquadTemplate",
+    "values": {
+      "animal age random": 0.1,
+      "bed usage cost": 100,
+      "blood smell mult": 0.0,
+      "building designation": 0,
+      "building name": "",
+      "building ruined": false,
+      "crossbow levels": 1,
+      "dont multiply": false,
+      "force speed": 3,
+      "initial door state": 0,
+      "layout exterior": "",
+      "layout interior": "",
+      "malnourished": false,
+      "num random chars": 0,
+      "num random chars max": 0,
+      "patrol approaches towns": true,
+      "persistent": true,
+      "public beds": false,
+      "public day": true,
+      "public night": false,
+      "replacement time": 2,
+      "roaming military": false,
+      "robotics levels": 1
+    },
+    "references": {
+      "fallback AI package": {
+        "2672-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "leader": {
+        "2849-gamedata.base": [
+          1,
+          100,
+          0
+        ]
+      },
+      "missions": {
+        "2457-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "squad": {
+        "510-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2954-gamedata.base": {
+    "stringId": "2954-gamedata.base",
+    "type": "UniqueSquadTemplate",
+    "values": {
+      "animal age random": 0.1,
+      "bed usage cost": 100,
+      "blood smell mult": 0.0,
+      "building designation": 0,
+      "building name": "",
+      "building ruined": false,
+      "crossbow levels": 1,
+      "dont multiply": false,
+      "force speed": 3,
+      "initial door state": 0,
+      "layout exterior": "",
+      "layout interior": "",
+      "malnourished": false,
+      "num random chars": 0,
+      "num random chars max": 0,
+      "patrol approaches towns": true,
+      "persistent": true,
+      "public beds": false,
+      "public day": true,
+      "public night": false,
+      "replacement time": 6,
+      "roaming military": false,
+      "robotics levels": 1
+    },
+    "references": {
+      "fallback AI package": {
+        "2668-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "leader": {
+        "2792-gamedata.base": [
+          1,
+          100,
+          0
+        ]
+      },
+      "missions": {
+        "2955-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "squad": {
+        "2160-gamedata.base": [
+          20,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

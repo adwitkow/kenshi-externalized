@@ -1,0 +1,4714 @@
+{
+  "2295-gamedata.base": {
+    "stringId": "2295-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "armour crafts": {
+        "544-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "577-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1392-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1395-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2200-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2210-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2211-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2225-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2228-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2229-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "1532828-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "1532813-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533852-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1534061-Newwworld Plus.mod": [
+          0,
+          0,
+          0
+        ],
+        "1534053-Newwworld Plus.mod": [
+          0,
+          0,
+          0
+        ],
+        "1534062-Newwworld Plus.mod": [
+          0,
+          0,
+          0
+        ],
+        "18018-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "18019-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "2289-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1926-gamedata.base": {
+    "stringId": "1926-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 18.0,
+      "world resource mining": 5
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "1914-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1968-gamedata.base": {
+    "stringId": "1968-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 0,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "produces": {
+        "209-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2678-gamedata.base": {
+    "stringId": "2678-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 11,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "Cooking!",
+      "tech level": 0,
+      "use range": 16.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "75-gamedata.quack": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1937-gamedata.base": {
+    "stringId": "1937-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          5,
+          200,
+          0
+        ],
+        "42304-changes_otto.mod": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "1015-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1912-gamedata.base": {
+    "stringId": "1912-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 64.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          10,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "1913-gamedata.base": [
+          20,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5357-gamedata.base": {
+    "stringId": "5357-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "2837-gamedata.base": {
+    "stringId": "2837-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 12,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 11,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "75-gamedata.quack": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "40561-gamedata.base": {
+    "stringId": "40561-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 8,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": true,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation dazed": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation KO": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation lockpick": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation medic": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2950-gamedata.base": {
+    "stringId": "2950-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 13,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 5,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "2219-gamedata.base": {
+    "stringId": "2219-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 25,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "armour crafts": {
+        "684-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2151-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2154-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2165-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1169-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2159-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2163-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2185-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2212-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2213-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2214-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2221-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2283-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2304-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2305-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2306-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "1415-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3061-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "62178-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "55393-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "55395-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56042-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64906-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "64907-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "1534050-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "51640-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2168-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "2292-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2035-gamedata.base": {
+    "stringId": "2035-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 7,
+      "string": "",
+      "tech level": 25,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95388-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42159-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "weapon crafts": {
+        "925-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "926-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "918-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "913-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "914-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2083-gamedata.base": {
+    "stringId": "2083-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 3,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 3,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5358-gamedata.base": {
+    "stringId": "5358-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 15,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "2728-gamedata.base": {
+    "stringId": "2728-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 7,
+      "has progress bar when used": true,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 37,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2005-gamedata.base": {
+    "stringId": "2005-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 3,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 2,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1519-gamedata.base": {
+    "stringId": "1519-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 7,
+      "has progress bar when used": true,
+      "hunger rate": 1.2,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 2,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "1520-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95383-sfx.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2117-gamedata.base": {
+    "stringId": "2117-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42159-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "579-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3000-gamedata.base": {
+    "stringId": "3000-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 7,
+      "has progress bar when used": true,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 11,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "98-gamedata.quack": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2296-gamedata.base": {
+    "stringId": "2296-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "armour crafts": {
+        "2223-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2224-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2226-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2227-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "549-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "556-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2122-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2145-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2148-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2149-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2150-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2156-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2166-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2180-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2182-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2198-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2201-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2202-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2203-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "53299-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "53301-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "18962-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5346-armor_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "2307-clothes_v1.mod": [
+          0,
+          0,
+          0
+        ],
+        "64892-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "64888-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "64890-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "64891-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533849-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42260-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42052-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "18029-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "18034-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "62795-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "18033-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "2288-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1945-gamedata.base": {
+    "stringId": "1945-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1932-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "1914-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "1946-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1521-gamedata.base": {
+    "stringId": "1521-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 6,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "1522-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42251-gamedata.base": {
+    "stringId": "42251-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.2,
+      "is production building": true,
+      "max operators": 6,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 72.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 100.0,
+      "world resource mining": 3
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95375-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "42158-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46981-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1872-gamedata.base": {
+    "stringId": "1872-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42159-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "579-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2290-gamedata.base": {
+    "stringId": "2290-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 12.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 5,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation events": {
+        "95388-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1866-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "2288-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2931-gamedata.base": {
+    "stringId": "2931-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 25,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "armour crafts": {
+        "543-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "550-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "551-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "554-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "557-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "564-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "575-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1167-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1168-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1311-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1392-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1393-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1394-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1395-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2158-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2159-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2164-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2167-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2169-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2188-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2189-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2193-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2194-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2197-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2219-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2222-chris_r.mod": [
+          0,
+          100,
+          0
+        ],
+        "2308-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2309-clothes_v1.mod": [
+          0,
+          100,
+          0
+        ],
+        "2326-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "2220-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "18917-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2221-chris_r.mod": [
+          0,
+          0,
+          0
+        ],
+        "50391-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1273-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "64492-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1534055-Newwworld Plus.mod": [
+          0,
+          0,
+          0
+        ],
+        "63235-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "45556-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "98563-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42060-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51642-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51707-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "51746-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "54582-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51643-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64923-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51663-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "51662-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "98562-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "18911-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1517-gamedata.base": {
+    "stringId": "1517-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.2,
+      "is production building": true,
+      "max operators": 6,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 128.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 2
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95373-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "1515-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46981-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14498-gamedata.base": {
+    "stringId": "14498-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 16,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "3960-gamedata.base": {
+    "stringId": "3960-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 14,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 0.25,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "1866-gamedata.base": [
+          2000,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1869-gamedata.base": {
+    "stringId": "1869-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.2,
+      "is production building": true,
+      "max operators": 3,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 64.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 50.0,
+      "world resource mining": 1
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95374-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "1866-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "special tool": {
+        "46981-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2291-gamedata.base": {
+    "stringId": "2291-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 12.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 5,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "consumes": {
+        "579-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "2289-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2082-gamedata.base": {
+    "stringId": "2082-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 3,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 4,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2103-gamedata.base": {
+    "stringId": "2103-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 7,
+      "string": "",
+      "tech level": 45,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95388-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          10,
+          100,
+          0
+        ],
+        "42159-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "weapon crafts": {
+        "1058-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1060-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1061-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "926-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "918-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "925-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "914-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2027-gamedata.base": {
+    "stringId": "2027-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 6.0,
+      "REMOVED": true,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "consumes": {
+        "584-gamedata.base": [
+          5,
+          25,
+          0
+        ]
+      },
+      "produces": {
+        "209-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1516-gamedata.base": {
+    "stringId": "1516-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 64.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1515-gamedata.base": [
+          20,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "580-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1972-gamedata.base": {
+    "stringId": "1972-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 9,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "75-gamedata.quack": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1784-gamedata.base": {
+    "stringId": "1784-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 8,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "75-gamedata.quack": [
+          0,
+          100,
+          0
+        ],
+        "2623-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation dazed": {
+        "2624-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation KO": {
+        "2621-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2080-gamedata.base": {
+    "stringId": "2080-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 3,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 5,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2115-gamedata.base": {
+    "stringId": "2115-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 9,
+      "string": "",
+      "tech level": 100,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "1965-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "item crafts": {
+        "515-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1359-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1435-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1436-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "209-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "56645-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2104-gamedata.base": {
+    "stringId": "2104-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 7,
+      "string": "",
+      "tech level": 100,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95388-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          10,
+          100,
+          0
+        ],
+        "579-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "weapon crafts": {
+        "1068-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1069-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1071-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1059-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "1067-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "930-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1060-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1058-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1061-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "925-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "926-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1969-gamedata.base": {
+    "stringId": "1969-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 0,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "REMOVED": true,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "consumes": {
+        "1965-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "1359-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2022-gamedata.base": {
+    "stringId": "2022-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          10,
+          50,
+          0
+        ]
+      },
+      "produces": {
+        "1965-gamedata.base": [
+          20,
+          100,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2268-gamedata.base": {
+    "stringId": "2268-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 9,
+      "string": "",
+      "tech level": 100,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "584-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "item crafts": {
+        "209-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "56645-rebirth.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1931-gamedata.base": {
+    "stringId": "1931-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 72.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1913-gamedata.base": [
+          25,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "1932-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1518-gamedata.base": {
+    "stringId": "1518-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 2,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "2928-gamedata.base": {
+    "stringId": "2928-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 8,
+      "string": "",
+      "tech level": 5,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42241-rebirth.mod": [
+          10,
+          50,
+          0
+        ]
+      },
+      "produces": {
+        "2292-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14497-gamedata.base": {
+    "stringId": "14497-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 1,
+      "function": 17,
+      "has progress bar when used": false,
+      "hunger rate": 0.66,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "14533-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2018-gamedata.base": {
+    "stringId": "2018-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": true,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1965-gamedata.base": [
+          10,
+          300,
+          0
+        ]
+      },
+      "produces": {
+        "584-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2081-gamedata.base": {
+    "stringId": "2081-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 3,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 6,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4004-gamedata.base": {
+    "stringId": "4004-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 11,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "Incinerating",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "75-gamedata.quack": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "16850-gamedata.base": {
+    "stringId": "16850-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 1,
+      "function": 17,
+      "has progress bar when used": false,
+      "hunger rate": 0.75,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "2623-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1970-gamedata.base": {
+    "stringId": "1970-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 5,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 0.00125,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "consumes": {
+        "1514-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1876-gamedata.base": {
+    "stringId": "1876-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 3,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "is production building": false,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 1,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43915-rebirth.mod": {
+    "stringId": "43915-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": true,
+      "production mult": 32.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1913-gamedata.base": [
+          20,
+          400,
+          0
+        ]
+      },
+      "produces": {
+        "1514-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50019-rebirth.mod": {
+    "stringId": "50019-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 5,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation events": {
+        "95388-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42158-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "42159-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "42160-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42177-rebirth.mod": {
+    "stringId": "42177-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          10,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "42178-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46958-rebirth.mod": {
+    "stringId": "46958-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 5,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 80.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "42170-gamedata.base": {
+    "stringId": "42170-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1866-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "42159-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43966-rebirth.mod": {
+    "stringId": "43966-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 64.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 140.0,
+      "world resource mining": 2
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "580-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "43314-rebirth.mod": {
+    "stringId": "43314-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          10,
+          200,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42330-rebirth.mod": {
+    "stringId": "42330-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 192.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42243-rebirth.mod": [
+          5,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "42334-changes_otto.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43315-rebirth.mod": {
+    "stringId": "43315-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "42304-changes_otto.mod": [
+          20,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42182-rebirth.mod": {
+    "stringId": "42182-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": true,
+      "production mult": 32.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 40.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42178-rebirth.mod": [
+          10,
+          600,
+          0
+        ]
+      },
+      "produces": {
+        "584-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43954-rebirth.mod": {
+    "stringId": "43954-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 2.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "item crafts": {
+        "42334-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "42337-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43956-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43961-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43959-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43960-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42066-rebirth.mod": {
+    "stringId": "42066-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 2,
+      "function": 17,
+      "has progress bar when used": false,
+      "hunger rate": 0.66,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "14533-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43313-rebirth.mod": {
+    "stringId": "43313-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 64.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 30.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "42309-changes_otto.mod": [
+          20,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43312-rebirth.mod": {
+    "stringId": "43312-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 1,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 12,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 6
+    },
+    "references": {
+      "animation": {
+        "208-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animation events": {
+        "95386-sfx.mod": [
+          30,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          10,
+          400,
+          0
+        ]
+      },
+      "produces": {
+        "42307-changes_otto.mod": [
+          20,
+          0,
+          0
+        ]
+      },
+      "special tool": {
+        "46982-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43869-rebirth.mod": {
+    "stringId": "43869-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 7,
+      "has progress bar when used": true,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 22,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "95385-sfx.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation events": {
+        "95383-sfx.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42165-gamedata.base": {
+    "stringId": "42165-gamedata.base",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 6,
+      "string": "",
+      "tech level": 100,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42158-gamedata.base": [
+          5,
+          50,
+          0
+        ],
+        "42159-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "item crafts": {
+        "583-gamedata.base": [
+          5,
+          0,
+          0
+        ],
+        "18020-gamedata.base": [
+          5,
+          0,
+          0
+        ],
+        "42318-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43397-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43399-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43393-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43396-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43404-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43919-rebirth.mod": {
+    "stringId": "43919-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": true,
+      "production mult": 32.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42309-changes_otto.mod": [
+          20,
+          400,
+          0
+        ]
+      },
+      "produces": {
+        "1514-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47922-rebirth.mod": {
+    "stringId": "47922-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 17,
+      "has progress bar when used": false,
+      "hunger rate": 0.66,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "14533-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43926-rebirth.mod": {
+    "stringId": "43926-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 23,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 0.00125,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 30.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "43925-rebirth.mod": {
+    "stringId": "43925-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42158-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "42164-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42331-rebirth.mod": {
+    "stringId": "42331-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 6,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "44920-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation lockpick": {
+        "66503-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation medic": {
+        "66503-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50921-rebirth.mod": {
+    "stringId": "50921-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": true,
+      "production mult": 64.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1965-gamedata.base": [
+          20,
+          400,
+          0
+        ]
+      },
+      "produces": {
+        "1514-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52156-rebirth.mod": {
+    "stringId": "52156-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          5,
+          200,
+          0
+        ],
+        "1913-gamedata.base": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "42311-changes_otto.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52157-rebirth.mod": {
+    "stringId": "52157-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          5,
+          200,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          5,
+          200,
+          0
+        ]
+      },
+      "produces": {
+        "42310-changes_otto.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52158-rebirth.mod": {
+    "stringId": "52158-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 24.0,
+      "restrains movement": false,
+      "stat used": 4,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1914-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "1965-gamedata.base": [
+          10,
+          500,
+          0
+        ]
+      },
+      "produces": {
+        "1230-gamedata.base": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57289-rebirth.mod": {
+    "stringId": "57289-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 24,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 10.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "14533-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64615-rebirth.mod": {
+    "stringId": "64615-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 25,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "1522-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96451-crafting.mod": {
+    "stringId": "96451-crafting.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 38,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "1946-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "item crafts": {
+        "95872-Newwworld.mod": [
+          5,
+          0,
+          0
+        ],
+        "96000-Newwworld.mod": [
+          5,
+          0,
+          0
+        ],
+        "95781-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "96014-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43396-changes_otto.mod": [
+          5,
+          0,
+          0
+        ],
+        "97090-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96449-crafting.mod": {
+    "stringId": "96449-crafting.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 38,
+      "string": "",
+      "tech level": 100,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "579-gamedata.base": [
+          10,
+          800,
+          0
+        ],
+        "97089-rebirth.mod": [
+          5,
+          400,
+          0
+        ]
+      },
+      "crossbow crafts": {
+        "66290-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95724-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "65870-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "53643-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "66169-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95764-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "66534-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96529-crafting.mod": {
+    "stringId": "96529-crafting.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 6,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "583-gamedata.base": [
+          5,
+          400,
+          0
+        ],
+        "42164-gamedata.base": [
+          5,
+          1000,
+          0
+        ]
+      },
+      "robotics crafts": {
+        "96134-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96137-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96136-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96135-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96022-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96024-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96186-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96187-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96188-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96189-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96020-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "96021-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95747-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95748-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95872-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "96022-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "95871-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "95579-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95742-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "95870-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96796-limbs.mod": {
+    "stringId": "96796-limbs.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 8,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": true,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation dazed": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation KO": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation lockpick": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "animation medic": {
+        "40562-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "42241-rebirth.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97092-rebirth.mod": {
+    "stringId": "97092-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 10,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 38,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "43871-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "42159-gamedata.base": [
+          5,
+          100,
+          0
+        ]
+      },
+      "item crafts": {
+        "95872-Newwworld.mod": [
+          5,
+          0,
+          0
+        ],
+        "96000-Newwworld.mod": [
+          5,
+          0,
+          0
+        ],
+        "95781-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "96014-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43396-changes_otto.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97499-rebirth.mod": {
+    "stringId": "97499-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 7,
+      "has progress bar when used": true,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 10,
+      "string": "",
+      "tech level": 0,
+      "use range": 30.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "97856-rebirth.mod": {
+    "stringId": "97856-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 26,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 48.0,
+      "restrains movement": false,
+      "stat used": 3,
+      "string": "",
+      "tech level": 0,
+      "use range": 20.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "produces": {
+        "1914-gamedata.base": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97857-rebirth.mod": {
+    "stringId": "97857-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 4,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": true,
+      "overrides ingredients": false,
+      "production mult": 192.0,
+      "restrains movement": false,
+      "stat used": 13,
+      "string": "",
+      "tech level": 0,
+      "use range": 15.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "205-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "consumes": {
+        "50517-Newwworld.mod": [
+          5,
+          100,
+          0
+        ]
+      },
+      "produces": {
+        "50517-Newwworld.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99124-rebirth.mod": {
+    "stringId": "99124-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 1,
+      "function": 2,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 0,
+      "occupant selection": false,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {}
+  },
+  "1531904-rebirth.mod": {
+    "stringId": "1531904-rebirth.mod",
+    "type": "BuildingFunctionality",
+    "values": {
+      "flags": 0,
+      "function": 11,
+      "has progress bar when used": false,
+      "hunger rate": 1.0,
+      "max operators": 1,
+      "occupant selection": true,
+      "output per day": false,
+      "overrides ingredients": false,
+      "production mult": 1.0,
+      "restrains movement": false,
+      "stat used": 0,
+      "string": "Shredding",
+      "tech level": 0,
+      "use range": 25.0,
+      "world resource mining": 0
+    },
+    "references": {
+      "animation": {
+        "75-gamedata.quack": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

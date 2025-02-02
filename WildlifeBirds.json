@@ -1,0 +1,159 @@
+{
+  "4425-Newwworld.mod": {
+    "stringId": "4425-Newwworld.mod",
+    "type": "WildlifeBirds",
+    "values": {
+      "circling": true,
+      "contour strength": 0.1,
+      "distance": 50000.0,
+      "flocking": true,
+      "ground height": 2600.0,
+      "ground strength": 1.0,
+      "height": 1200.0,
+      "mesh": {
+        "path": ".\\data\\meshes\\birdtype1.mesh"
+      },
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "spawn count": 10,
+      "spawn height max": 4000.0,
+      "spawn height min": 0.0,
+      "speed": 100.0,
+      "texture": {
+        "path": ".\\data\\meshes\\bird01.dds"
+      }
+    },
+    "references": {}
+  },
+  "2218-gamedata.base": {
+    "stringId": "2218-gamedata.base",
+    "type": "WildlifeBirds",
+    "values": {
+      "circling": true,
+      "contour strength": 1.0,
+      "distance": 500000.0,
+      "flocking": true,
+      "ground height": 1000.0,
+      "ground strength": 1.0,
+      "height": 800.0,
+      "mesh": {
+        "path": ".\\data\\meshes\\birdtype1.mesh"
+      },
+      "REMOVED": true,
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "spawn count": 10,
+      "spawn height max": 4000.0,
+      "spawn height min": 0.0,
+      "speed": 500.0,
+      "texture": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "48743-rebirth.mod": {
+    "stringId": "48743-rebirth.mod",
+    "type": "WildlifeBirds",
+    "values": {
+      "circling": true,
+      "contour strength": 1.0,
+      "distance": 50000.0,
+      "flocking": false,
+      "ground height": 500.0,
+      "ground strength": 1.0,
+      "height": 350.0,
+      "mesh": {
+        "path": ".\\data\\meshes\\birdtype1.mesh"
+      },
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "spawn count": 10,
+      "spawn height max": 4000.0,
+      "spawn height min": 0.0,
+      "speed": 100.0,
+      "texture": {
+        "path": ".\\data\\meshes\\bird01.dds"
+      }
+    },
+    "references": {}
+  },
+  "47950-rebirth.mod": {
+    "stringId": "47950-rebirth.mod",
+    "type": "WildlifeBirds",
+    "values": {
+      "circling": true,
+      "contour strength": 0.0,
+      "distance": 50000.0,
+      "flocking": false,
+      "ground height": 1000.0,
+      "ground strength": 0.3,
+      "height": 800.0,
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\robobird.mesh"
+      },
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "spawn count": 1,
+      "spawn height max": 4000.0,
+      "spawn height min": 200.0,
+      "speed": 45.0,
+      "texture": {
+        "path": ".\\data\\animal\\textures\\robot_worker_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "49389-rebirth.mod": {
+    "stringId": "49389-rebirth.mod",
+    "type": "WildlifeBirds",
+    "values": {
+      "circling": true,
+      "contour strength": 0.0,
+      "distance": 50000.0,
+      "flocking": true,
+      "ground height": 2600.0,
+      "ground strength": 1.0,
+      "height": 1200.0,
+      "mesh": {
+        "path": ".\\data\\meshes\\birdtype1.mesh"
+      },
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "spawn count": 10,
+      "spawn height max": 4000.0,
+      "spawn height min": 0.0,
+      "speed": 100.0,
+      "texture": {
+        "path": ".\\data\\meshes\\bird01.dds"
+      }
+    },
+    "references": {}
+  },
+  "63885-rebirth.mod": {
+    "stringId": "63885-rebirth.mod",
+    "type": "WildlifeBirds",
+    "values": {
+      "circling": true,
+      "contour strength": 1.0,
+      "distance": 50000.0,
+      "flocking": false,
+      "ground height": 1000.0,
+      "ground strength": 1.0,
+      "height": 600.0,
+      "mesh": {
+        "path": ".\\data\\meshes\\birdtype1.mesh"
+      },
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "spawn count": 10,
+      "spawn height max": 4000.0,
+      "spawn height min": 0.0,
+      "speed": 100.0,
+      "texture": {
+        "path": ".\\data\\meshes\\bird01.dds"
+      }
+    },
+    "references": {}
+  }
+}

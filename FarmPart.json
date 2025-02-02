@@ -1,0 +1,434 @@
+{
+  "18986-small_changes_otto.mod": {
+    "stringId": "18986-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Base.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 1.0,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18977-small_changes_otto.mod": {
+    "stringId": "18977-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Seaweed2.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18973-small_changes_otto.mod": {
+    "stringId": "18973-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Zuchini3.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18972-small_changes_otto.mod": {
+    "stringId": "18972-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Zuchini2.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18976-small_changes_otto.mod": {
+    "stringId": "18976-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Seaweed1.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18980-small_changes_otto.mod": {
+    "stringId": "18980-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Cotton1.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18984-small_changes_otto.mod": {
+    "stringId": "18984-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Cactus2.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18970-small_changes_otto.mod": {
+    "stringId": "18970-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Zuchini1.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18974-small_changes_otto.mod": {
+    "stringId": "18974-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Wheat1.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18978-small_changes_otto.mod": {
+    "stringId": "18978-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Seaweed3.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18981-small_changes_otto.mod": {
+    "stringId": "18981-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Cotton2.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "40565-small_changes_otto.mod": {
+    "stringId": "40565-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Hemp1.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "2019-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18985-small_changes_otto.mod": {
+    "stringId": "18985-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Cactus3.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18979-small_changes_otto.mod": {
+    "stringId": "18979-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Seaweed4.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18982-small_changes_otto.mod": {
+    "stringId": "18982-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Cotton3.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18975-small_changes_otto.mod": {
+    "stringId": "18975-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Wheat2.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "40566-small_changes_otto.mod": {
+    "stringId": "40566-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Hemp2.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "2019-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18983-small_changes_otto.mod": {
+    "stringId": "18983-small_changes_otto.mod",
+    "type": "FarmPart",
+    "values": {
+      "delay": 0.0,
+      "mesh": {
+        "path": ".\\data\\buildings\\Crops\\Meshes\\Crop_Cactus1.mesh"
+      },
+      "offset end": 0.0,
+      "offset start": 0.0,
+      "scale end": 1.0,
+      "scale start": 0.1,
+      "scale variance": 0.0
+    },
+    "references": {
+      "material": {
+        "18971-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "2871-gamedata.base": {
+    "stringId": "2871-gamedata.base",
+    "type": "GunData",
+    "values": {
+      "accuracy deviation at 0 skill": 5.0,
+      "accuracy perfect skill": 80,
+      "aim speed": 1.0,
+      "barrel pos Y": -0.833,
+      "barrel pos Z": 9.0,
+      "extra mesh loaded": {
+        "path": ""
+      },
+      "extra mesh unloaded": {
+        "path": ""
+      },
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive01.mesh"
+      },
+      "num shots": 2,
+      "radius": 0.79,
+      "range": 750,
+      "reload time max": 6.0,
+      "reload time min": 2.0,
+      "shoot sound": 3,
+      "shot speed": 1000.0
+    },
+    "references": {}
+  },
+  "2886-gamedata.base": {
+    "stringId": "2886-gamedata.base",
+    "type": "GunData",
+    "values": {
+      "accuracy deviation at 0 skill": 5.0,
+      "accuracy perfect skill": 70,
+      "aim speed": 0.7,
+      "barrel pos Y": 1.351,
+      "barrel pos Z": 7.726,
+      "extra mesh loaded": {
+        "path": ".\\data\\buildings\\tower\\crossturret-string01_back.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\buildings\\tower\\crossturret-string01_slack.mesh"
+      },
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive02.mesh"
+      },
+      "num shots": 1,
+      "radius": 1.0,
+      "range": 650,
+      "reload time max": 8.0,
+      "reload time min": 2.0,
+      "shoot sound": 2,
+      "shot speed": 1000.0
+    },
+    "references": {}
+  },
+  "2858-gamedata.base": {
+    "stringId": "2858-gamedata.base",
+    "type": "GunData",
+    "values": {
+      "accuracy deviation at 0 skill": 3.0,
+      "accuracy perfect skill": 80,
+      "aim speed": 1.0,
+      "barrel pos Y": -0.833,
+      "barrel pos Z": 9.0,
+      "extra mesh loaded": {
+        "path": ""
+      },
+      "extra mesh unloaded": {
+        "path": ""
+      },
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive01.mesh"
+      },
+      "num shots": 1,
+      "radius": 1.0,
+      "range": 1200,
+      "reload time max": 4.0,
+      "reload time min": 2.0,
+      "shoot sound": 3,
+      "shot speed": 1000.0
+    },
+    "references": {}
+  },
+  "2875-gamedata.base": {
+    "stringId": "2875-gamedata.base",
+    "type": "GunData",
+    "values": {
+      "accuracy deviation at 0 skill": 10.0,
+      "accuracy perfect skill": 95,
+      "aim speed": 1.0,
+      "barrel pos Y": 0.0,
+      "barrel pos Z": 8.0,
+      "extra mesh loaded": {
+        "path": ""
+      },
+      "extra mesh unloaded": {
+        "path": ""
+      },
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive01.mesh"
+      },
+      "num shots": 6,
+      "radius": 1.7,
+      "range": 650,
+      "reload time max": 12.0,
+      "reload time min": 2.5,
+      "shoot sound": 3,
+      "shot speed": 1000.0
+    },
+    "references": {}
+  },
+  "2883-gamedata.base": {
+    "stringId": "2883-gamedata.base",
+    "type": "GunData",
+    "values": {
+      "accuracy deviation at 0 skill": 5.0,
+      "accuracy perfect skill": 70,
+      "aim speed": 1.0,
+      "barrel pos Y": 1.351,
+      "barrel pos Z": 7.726,
+      "extra mesh loaded": {
+        "path": ".\\data\\buildings\\tower\\crossturret-string_back.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\buildings\\tower\\crossturret-string_slack.mesh"
+      },
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive02.mesh"
+      },
+      "num shots": 1,
+      "radius": 1.0,
+      "range": 1000,
+      "reload time max": 6.0,
+      "reload time min": 1.5,
+      "shoot sound": 2,
+      "shot speed": 1000.0
+    },
+    "references": {}
+  },
+  "65267-rebirth.mod": {
+    "stringId": "65267-rebirth.mod",
+    "type": "GunData",
+    "values": {
+      "accuracy deviation at 0 skill": 4.0,
+      "accuracy perfect skill": 70,
+      "aim speed": 1.0,
+      "barrel pos Y": 0.0,
+      "barrel pos Z": 5.0,
+      "extra mesh loaded": {
+        "path": ""
+      },
+      "extra mesh unloaded": {
+        "path": ""
+      },
+      "live ammo": {
+        "path": ""
+      },
+      "num shots": 1,
+      "radius": 1.0,
+      "range": 1000,
+      "reload time max": 5.0,
+      "reload time min": 1.0,
+      "shoot sound": 3,
+      "shot speed": 1.0
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "12615-nodes_otto.mod": {
+    "stringId": "12615-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "1932-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1913-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1914-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "42304-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16853-nodes_otto1.mod": {
+    "stringId": "16853-nodes_otto1.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "16855-nodes_otto1.mod": [
+          100,
+          0,
+          0
+        ],
+        "16856-nodes_otto1.mod": [
+          100,
+          0,
+          0
+        ],
+        "42322-changes_otto.mod": [
+          50,
+          0,
+          0
+        ],
+        "43927-rebirth.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12616-nodes_otto.mod": {
+    "stringId": "12616-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "1359-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "1436-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "209-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "582-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "515-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1435-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12610-nodes_otto.mod": {
+    "stringId": "12610-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "weapon manufacturers": {
+        "917-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "912-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapons": {
+        "902-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12614-nodes_otto.mod": {
+    "stringId": "12614-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "2288-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "580-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2289-gamedata.base": [
+          33,
+          0,
+          0
+        ],
+        "584-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1514-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1866-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1515-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "579-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "42318-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42158-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "97090-rebirth.mod": [
+          11,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12608-nodes_otto.mod": {
+    "stringId": "12608-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "1946-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1015-gamedata.base": [
+          200,
+          0,
+          0
+        ],
+        "12617-nodes_otto.mod": [
+          500,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          200,
+          0,
+          0
+        ],
+        "42311-changes_otto.mod": [
+          200,
+          0,
+          0
+        ],
+        "42316-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42317-changes_otto.mod": [
+          400,
+          0,
+          0
+        ],
+        "42334-changes_otto.mod": [
+          50,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          50,
+          0,
+          0
+        ],
+        "42337-changes_otto.mod": [
+          10,
+          0,
+          0
+        ],
+        "42319-changes_otto.mod": [
+          400,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          25,
+          0,
+          0
+        ],
+        "43956-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "43961-rebirth.mod": [
+          25,
+          0,
+          0
+        ],
+        "43959-rebirth.mod": [
+          25,
+          0,
+          0
+        ],
+        "43960-rebirth.mod": [
+          25,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "50518-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12612-nodes_otto.mod": {
+    "stringId": "12612-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "clothing": {
+        "2167-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2307-clothes_v1.mod": [
+          100,
+          0,
+          0
+        ],
+        "550-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1168-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2306-clothes_v1.mod": [
+          100,
+          0,
+          0
+        ],
+        "2304-clothes_v1.mod": [
+          100,
+          0,
+          0
+        ],
+        "2305-clothes_v1.mod": [
+          100,
+          0,
+          0
+        ],
+        "3061-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1169-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2309-clothes_v1.mod": [
+          100,
+          0,
+          0
+        ],
+        "2308-clothes_v1.mod": [
+          100,
+          0,
+          0
+        ],
+        "2185-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "575-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2164-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "557-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12611-nodes_otto.mod": {
+    "stringId": "12611-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "weapon manufacturers": {
+        "917-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "912-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapons": {
+        "923-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5257-gamedata.base": {
+    "stringId": "5257-gamedata.base",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "clothing": {
+        "5255-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "SHACKLES": [
+          25,
+          0,
+          0
+        ]
+      },
+      "items": {
+        "515-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1435-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "1946-gamedata.base": [
+          250,
+          0,
+          0
+        ],
+        "581-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "42334-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12607-nodes_otto.mod": {
+    "stringId": "12607-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "581-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "1435-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "1514-gamedata.base": [
+          30,
+          0,
+          0
+        ],
+        "2292-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "584-gamedata.base": [
+          60,
+          0,
+          0
+        ],
+        "42322-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42316-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42317-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42319-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "43404-changes_otto.mod": [
+          40,
+          0,
+          0
+        ],
+        "43862-changes_otto.mod": [
+          30,
+          0,
+          0
+        ],
+        "43863-changes_otto.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12613-nodes_otto.mod": {
+    "stringId": "12613-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "clothing": {
+        "577-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2211-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "544-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2210-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2198-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2156-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2166-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2228-chris_r.mod": [
+          100,
+          0,
+          0
+        ],
+        "2283-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2182-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2180-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12609-nodes_otto.mod": {
+    "stringId": "12609-nodes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "585-gamedata.base": [
+          30,
+          0,
+          0
+        ],
+        "42330-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42331-changes_otto.mod": [
+          20,
+          0,
+          0
+        ],
+        "42332-changes_otto.mod": [
+          50,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          30,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          10,
+          0,
+          0
+        ],
+        "43391-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42316-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "54033-Newwworld.mod": {
+    "stringId": "54033-Newwworld.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 72,
+      "min respawn time": 72,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "54030-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "54548-Newwworld.mod": {
+    "stringId": "54548-Newwworld.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "54547-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "54546-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "54549-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534065-Newwworld.mod": {
+    "stringId": "1534065-Newwworld.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 72,
+      "min respawn time": 72,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "1534063-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43403-changes_otto.mod": {
+    "stringId": "43403-changes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "43394-changes_otto.mod": [
+          80,
+          0,
+          0
+        ],
+        "43398-changes_otto.mod": [
+          70,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "45557-changes_otto.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "49372-rebirth.mod": {
+    "stringId": "49372-rebirth.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "1359-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "1436-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "209-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "16855-nodes_otto1.mod": [
+          100,
+          0,
+          0
+        ],
+        "1946-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "43393-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "42334-changes_otto.mod": [
+          400,
+          0,
+          0
+        ],
+        "42164-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "43397-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50344-rebirth.mod": {
+    "stringId": "50344-rebirth.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "43316-rebirth.mod": [
+          25,
+          0,
+          0
+        ],
+        "43956-rebirth.mod": [
+          25,
+          0,
+          0
+        ],
+        "42319-changes_otto.mod": [
+          400,
+          0,
+          0
+        ],
+        "44429-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "44428-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "42311-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "1015-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "12617-nodes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "49928-rebirth.mod": {
+    "stringId": "49928-rebirth.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "16855-nodes_otto1.mod": [
+          40,
+          0,
+          0
+        ],
+        "43927-rebirth.mod": [
+          1000,
+          0,
+          0
+        ],
+        "16856-nodes_otto1.mod": [
+          200,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "45549-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43401-changes_otto.mod": {
+    "stringId": "43401-changes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "42318-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "43396-changes_otto.mod": [
+          80,
+          0,
+          0
+        ],
+        "43399-changes_otto.mod": [
+          30,
+          0,
+          0
+        ],
+        "43927-rebirth.mod": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43402-changes_otto.mod": {
+    "stringId": "43402-changes_otto.mod",
+    "type": "ItemPlacementGroup",
+    "values": {
+      "max respawn time": 48,
+      "min respawn time": 24,
+      "placeholder": "",
+      "random yaw": true
+    },
+    "references": {
+      "items": {
+        "43393-changes_otto.mod": [
+          100,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          80,
+          0,
+          0
+        ],
+        "43397-changes_otto.mod": [
+          30,
+          0,
+          0
+        ],
+        "97090-rebirth.mod": [
+          50,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

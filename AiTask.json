@@ -1,0 +1,1390 @@
+{
+  "12598-gamedata.base": {
+    "stringId": "12598-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 207,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "14500-gamedata.base": {
+    "stringId": "14500-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 1,
+      "ending": 0,
+      "enum": 214,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1165-gamedata.base": {
+    "stringId": "1165-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 45,
+      "targeting": 2
+    },
+    "references": {}
+  },
+  "18914-gamedata.base": {
+    "stringId": "18914-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 218,
+      "REMOVED": true,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2818-gamedata.base": {
+    "stringId": "2818-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 47,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "957-gamedata.base": {
+    "stringId": "957-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 15,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "3397-gamedata.base": {
+    "stringId": "3397-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 172,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3944-gamedata.base": {
+    "stringId": "3944-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 21,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5301-gamedata.base": {
+    "stringId": "5301-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 194,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5234-gamedata.base": {
+    "stringId": "5234-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 158,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5262-gamedata.base": {
+    "stringId": "5262-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 188,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3394-gamedata.base": {
+    "stringId": "3394-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 171,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "4038-gamedata.base": {
+    "stringId": "4038-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 175,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5219-gamedata.base": {
+    "stringId": "5219-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 149,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2826-gamedata.base": {
+    "stringId": "2826-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 144,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3390-gamedata.base": {
+    "stringId": "3390-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 168,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2679-gamedata.base": {
+    "stringId": "2679-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 137,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1617-gamedata.base": {
+    "stringId": "1617-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 1,
+      "enum": 128,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2577-gamedata.base": {
+    "stringId": "2577-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 1,
+      "enum": 129,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "2791-gamedata.base": {
+    "stringId": "2791-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 106,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5430-gamedata.base": {
+    "stringId": "5430-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 202,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "5429-gamedata.base": {
+    "stringId": "5429-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 178,
+      "REMOVED": true,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3391-gamedata.base": {
+    "stringId": "3391-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 169,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5282-gamedata.base": {
+    "stringId": "5282-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 254,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3109-gamedata.base": {
+    "stringId": "3109-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 157,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1136-gamedata.base": {
+    "stringId": "1136-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 43,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "14552-gamedata.base": {
+    "stringId": "14552-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 216,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2617-gamedata.base": {
+    "stringId": "2617-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 254,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5006-gamedata.base": {
+    "stringId": "5006-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 176,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1010-gamedata.base": {
+    "stringId": "1010-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 30,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "5424-gamedata.base": {
+    "stringId": "5424-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 133,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2680-gamedata.base": {
+    "stringId": "2680-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 138,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3105-gamedata.base": {
+    "stringId": "3105-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 153,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "12608-gamedata.base": {
+    "stringId": "12608-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 209,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3400-gamedata.base": {
+    "stringId": "3400-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 173,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "965-gamedata.base": {
+    "stringId": "965-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 36,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "959-gamedata.base": {
+    "stringId": "959-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 34,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5222-gamedata.base": {
+    "stringId": "5222-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 183,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3388-gamedata.base": {
+    "stringId": "3388-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 167,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1166-gamedata.base": {
+    "stringId": "1166-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 141,
+      "targeting": 2
+    },
+    "references": {}
+  },
+  "5091-gamedata.base": {
+    "stringId": "5091-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 45,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "5261-gamedata.base": {
+    "stringId": "5261-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 189,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "14543-gamedata.base": {
+    "stringId": "14543-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 214,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1360-gamedata.base": {
+    "stringId": "1360-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 58,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "5132-gamedata.base": {
+    "stringId": "5132-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 42,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2620-gamedata.base": {
+    "stringId": "2620-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 112,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1525-gamedata.base": {
+    "stringId": "1525-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 1,
+      "enum": 129,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "2790-gamedata.base": {
+    "stringId": "2790-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 142,
+      "targeting": 2
+    },
+    "references": {}
+  },
+  "5486-gamedata.base": {
+    "stringId": "5486-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 130,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "958-gamedata.base": {
+    "stringId": "958-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 32,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "5314-gamedata.base": {
+    "stringId": "5314-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 195,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5218-gamedata.base": {
+    "stringId": "5218-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 180,
+      "targeting": 4
+    },
+    "references": {}
+  },
+  "1170-gamedata.base": {
+    "stringId": "1170-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 20,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1524-gamedata.base": {
+    "stringId": "1524-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 101,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "5092-gamedata.base": {
+    "stringId": "5092-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 44,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "2590-gamedata.base": {
+    "stringId": "2590-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 1,
+      "enum": 131,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "198-gamedata.base": {
+    "stringId": "198-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 18,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "197-gamedata.base": {
+    "stringId": "197-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 16,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1188-gamedata.base": {
+    "stringId": "1188-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 38,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2543-gamedata.base": {
+    "stringId": "2543-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 1,
+      "enum": 35,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "5283-gamedata.base": {
+    "stringId": "5283-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 192,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5345-gamedata.base": {
+    "stringId": "5345-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 197,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1089-gamedata.base": {
+    "stringId": "1089-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 39,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "18915-gamedata.base": {
+    "stringId": "18915-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 217,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2825-gamedata.base": {
+    "stringId": "2825-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 143,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "12822-gamedata.base": {
+    "stringId": "12822-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 211,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2541-gamedata.base": {
+    "stringId": "2541-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 2,
+      "enum": 101,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "12587-gamedata.base": {
+    "stringId": "12587-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 204,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3103-gamedata.base": {
+    "stringId": "3103-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 155,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "202-gamedata.base": {
+    "stringId": "202-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 22,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "12609-gamedata.base": {
+    "stringId": "12609-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 210,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "12607-gamedata.base": {
+    "stringId": "12607-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 208,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "14542-gamedata.base": {
+    "stringId": "14542-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 215,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "12829-gamedata.base": {
+    "stringId": "12829-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 212,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2542-gamedata.base": {
+    "stringId": "2542-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 1,
+      "enum": 127,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "3104-gamedata.base": {
+    "stringId": "3104-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 86,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "43867-gamedata.base": {
+    "stringId": "43867-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 230,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "969-gamedata.base": {
+    "stringId": "969-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 118,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2721-gamedata.base": {
+    "stringId": "2721-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 135,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5196-gamedata.base": {
+    "stringId": "5196-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 177,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "199-gamedata.base": {
+    "stringId": "199-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 21,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "5232-gamedata.base": {
+    "stringId": "5232-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 184,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "14547-gamedata.base": {
+    "stringId": "14547-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 53,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "2891-gamedata.base": {
+    "stringId": "2891-gamedata.base",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 222,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "43932-rebirth.mod": {
+    "stringId": "43932-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 190,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "18889-rebirth.mod": {
+    "stringId": "18889-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 41,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "47921-rebirth.mod": {
+    "stringId": "47921-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 243,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "44935-rebirth.mod": {
+    "stringId": "44935-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 237,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "43893-rebirth.mod": {
+    "stringId": "43893-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 233,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "42898-rebirth.mod": {
+    "stringId": "42898-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 224,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "42897-rebirth.mod": {
+    "stringId": "42897-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 223,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "49573-rebirth.mod": {
+    "stringId": "49573-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 245,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "46053-rebirth.mod": {
+    "stringId": "46053-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 239,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "42037-rebirth.mod": {
+    "stringId": "42037-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 139,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "43892-rebirth.mod": {
+    "stringId": "43892-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 232,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "51395-rebirth.mod": {
+    "stringId": "51395-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 148,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "55390-rebirth.mod": {
+    "stringId": "55390-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 253,
+      "targeting": 3
+    },
+    "references": {}
+  },
+  "55391-rebirth.mod": {
+    "stringId": "55391-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 15,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "57291-rebirth.mod": {
+    "stringId": "57291-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 255,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "57336-__dont commit.mod": {
+    "stringId": "57336-__dont commit.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 1,
+      "ending": 0,
+      "enum": 36,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "59290-rebirth.mod": {
+    "stringId": "59290-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 256,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "62009-rebirth.mod": {
+    "stringId": "62009-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 143,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "62008-rebirth.mod": {
+    "stringId": "62008-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 58,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "62007-rebirth.mod": {
+    "stringId": "62007-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 141,
+      "targeting": 2
+    },
+    "references": {}
+  },
+  "63478-rebirth.mod": {
+    "stringId": "63478-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 218,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "64595-rebirth.mod": {
+    "stringId": "64595-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 14,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "64613-rebirth.mod": {
+    "stringId": "64613-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 260,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "64966-rebirth.mod": {
+    "stringId": "64966-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 1,
+      "ending": 0,
+      "enum": 14,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "96796-rebirth.mod": {
+    "stringId": "96796-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 276,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "95534-rebirth.mod": {
+    "stringId": "95534-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 268,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "96153-rebirth.mod": {
+    "stringId": "96153-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 269,
+      "targeting": 1
+    },
+    "references": {}
+  },
+  "96449-rebirth.mod": {
+    "stringId": "96449-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 270,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "96452-rebirth.mod": {
+    "stringId": "96452-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 273,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "96453-rebirth.mod": {
+    "stringId": "96453-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 274,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "96454-rebirth.mod": {
+    "stringId": "96454-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 275,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "96901-rebirth.mod": {
+    "stringId": "96901-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 277,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "97082-rebirth.mod": {
+    "stringId": "97082-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 278,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "97093-rebirth.mod": {
+    "stringId": "97093-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 279,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "97899-rebirth.mod": {
+    "stringId": "97899-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 281,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "97900-rebirth.mod": {
+    "stringId": "97900-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 282,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1531898-rebirth.mod": {
+    "stringId": "1531898-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 2,
+      "ending": 0,
+      "enum": 283,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1531905-rebirth.mod": {
+    "stringId": "1531905-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 112,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1532845-rebirth.mod": {
+    "stringId": "1532845-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 255,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1535034-rebirth.mod": {
+    "stringId": "1535034-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 1,
+      "ending": 1,
+      "enum": 127,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1535061-rebirth.mod": {
+    "stringId": "1535061-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 1,
+      "ending": 1,
+      "enum": 128,
+      "targeting": 0
+    },
+    "references": {}
+  },
+  "1535072-rebirth.mod": {
+    "stringId": "1535072-rebirth.mod",
+    "type": "AiTask",
+    "values": {
+      "classification": 3,
+      "ending": 0,
+      "enum": 288,
+      "targeting": 1
+    },
+    "references": {}
+  }
+}

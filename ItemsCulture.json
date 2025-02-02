@@ -1,0 +1,1367 @@
+{
+  "50924-rebirth.mod": {
+    "stringId": "50924-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49050-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "50383-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "50382-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "1946-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42304-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43956-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42178-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43961-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "44429-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "44428-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43959-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43863-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "42311-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43960-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1015-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "1913-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "43316-rebirth.mod": [
+          125,
+          0,
+          0
+        ],
+        "1946-gamedata.base": [
+          125,
+          0,
+          0
+        ],
+        "43959-rebirth.mod": [
+          125,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          75,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          75,
+          0,
+          0
+        ],
+        "43960-rebirth.mod": [
+          125,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          75,
+          0,
+          0
+        ],
+        "1015-gamedata.base": [
+          125,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          75,
+          0,
+          0
+        ],
+        "1913-gamedata.base": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51315-rebirth.mod": {
+    "stringId": "51315-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "1359-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1436-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "49050-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43393-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43394-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43959-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1514-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42189-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43863-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43397-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43398-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "1946-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42311-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "44429-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal goods": {
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "1230-gamedata.base": [
+          350,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51761-rebirth.mod": {
+    "stringId": "51761-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "50518-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50514-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50517-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal buildings": {
+        "50922-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2021-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "56919-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56918-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52163-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "40569-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal goods": {
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "43316-rebirth.mod": [
+          400,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          1200,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          400,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51785-rebirth.mod": {
+    "stringId": "51785-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "1359-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1436-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43393-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "42158-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42160-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43394-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43863-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43398-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "583-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1015-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "45557-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "18020-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "49360-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "49361-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "44921-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43961-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43956-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42304-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43951-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "97903-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal buildings": {
+        "43881-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "64614-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42166-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2084-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2085-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2086-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal goods": {
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43953-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49058-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "51312-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "51313-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "50381-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49057-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "1230-gamedata.base": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56155-rebirth.mod": {
+    "stringId": "56155-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49051-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56176-rebirth.mod": {
+    "stringId": "56176-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "50518-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50514-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50517-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal goods": {
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "43316-rebirth.mod": [
+          400,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          600,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          400,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          150,
+          0,
+          0
+        ],
+        "1515-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "580-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "42159-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "1866-gamedata.base": [
+          50,
+          0,
+          0
+        ],
+        "1913-gamedata.base": [
+          40,
+          0,
+          0
+        ],
+        "42304-changes_otto.mod": [
+          40,
+          0,
+          0
+        ],
+        "42178-rebirth.mod": [
+          40,
+          0,
+          0
+        ],
+        "42158-gamedata.base": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62174-rebirth.mod": {
+    "stringId": "62174-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "50518-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50514-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50517-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62824-rebirth.mod": {
+    "stringId": "62824-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "50518-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50514-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50517-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62854-rebirth.mod": {
+    "stringId": "62854-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "trade prices": {
+        "1230-gamedata.base": [
+          500,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          300,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95780-rebirth.mod": {
+    "stringId": "95780-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42307-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43957-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42309-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "50518-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50514-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50517-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal goods": {
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "43316-rebirth.mod": [
+          400,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          1200,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          400,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532813-rebirth.mod": {
+    "stringId": "1532813-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "42322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "49052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "49053-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1016-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "50514-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "50517-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "43955-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42320-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal buildings": {
+        "50922-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2021-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "56919-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56918-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "52163-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "40569-small_changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "illegal goods": {
+        "1230-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43316-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "trade prices": {
+        "43316-rebirth.mod": [
+          400,
+          0,
+          0
+        ],
+        "1230-gamedata.base": [
+          1200,
+          0,
+          0
+        ],
+        "1965-gamedata.base": [
+          400,
+          0,
+          0
+        ],
+        "42310-changes_otto.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532815-rebirth.mod": {
+    "stringId": "1532815-rebirth.mod",
+    "type": "ItemsCulture",
+    "values": {},
+    "references": {
+      "forbidden items": {
+        "16855-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

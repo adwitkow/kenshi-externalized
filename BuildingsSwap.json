@@ -1,0 +1,1169 @@
+{
+  "44908-rebirth.mod": {
+    "stringId": "44908-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "to replace": {
+        "5357-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44907-rebirth.mod": {
+    "stringId": "44907-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "2881-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2887-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "2869-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2870-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2069-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2874-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44924-rebirth.mod": {
+    "stringId": "44924-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "16858-nodes_otto1.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "665-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3468-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "49371-rebirth.mod": {
+    "stringId": "49371-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "16851-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5359-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "45551-rebirth.mod": {
+    "stringId": "45551-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "45551-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5418-lights_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44923-rebirth.mod": {
+    "stringId": "44923-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "2266-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5465-new_furniture_otto.mod": [
+          50,
+          0,
+          0
+        ],
+        "868-gamedata.base": [
+          50,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "868-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5465-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44927-rebirth.mod": {
+    "stringId": "44927-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "44926-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "3462-otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "44926-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "3462-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44906-rebirth.mod": {
+    "stringId": "44906-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "5437-new_furniture_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5438-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44904-rebirth.mod": {
+    "stringId": "44904-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "42309-Newwworld.mod": [
+          33,
+          0,
+          0
+        ],
+        "45557-Newwworld.mod": [
+          33,
+          0,
+          0
+        ],
+        "45556-Newwworld.mod": [
+          33,
+          0,
+          0
+        ],
+        "53651-rebirth.mod": [
+          33,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5348-lights_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "12623-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "14443-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "14441-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "14442-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42309-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "45557-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "53651-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "45556-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44925-rebirth.mod": {
+    "stringId": "44925-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "16845-nodes_otto1.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "3460-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50573-rebirth.mod": {
+    "stringId": "50573-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "50606-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5357-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44922-rebirth.mod": {
+    "stringId": "44922-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "879-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "1459-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50969-rebirth.mod": {
+    "stringId": "50969-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "43325-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "43323-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43324-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50970-rebirth.mod": {
+    "stringId": "50970-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "43322-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "43323-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43324-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43325-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50991-rebirth.mod": {
+    "stringId": "50991-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "898-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "1893-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1896-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51288-rebirth.mod": {
+    "stringId": "51288-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "5348-lights_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "42309-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51309-rebirth.mod": {
+    "stringId": "51309-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "43323-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "43324-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43325-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52278-rebirth.mod": {
+    "stringId": "52278-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "2069-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "47751-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2887-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "47753-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "46056-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "46057-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "46058-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "46059-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52286-rebirth.mod": {
+    "stringId": "52286-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "43324-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "43323-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43325-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52333-rebirth.mod": {
+    "stringId": "52333-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "5438-new_furniture_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5437-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "54581-rebirth.mod": {
+    "stringId": "54581-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {}
+  },
+  "55118-rebirth.mod": {
+    "stringId": "55118-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "2870-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "46056-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "2869-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "47752-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "46057-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "46058-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "2069-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "46059-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "2874-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56102-rebirth.mod": {
+    "stringId": "56102-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "56058-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5355-furniture_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5355-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56103-rebirth.mod": {
+    "stringId": "56103-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "56048-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5465-new_furniture_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5465-new_furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56104-rebirth.mod": {
+    "stringId": "56104-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "56056-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5351-furniture_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "5351-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56105-rebirth.mod": {
+    "stringId": "56105-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "56044-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "1459-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "1459-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56134-rebirth.mod": {
+    "stringId": "56134-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "54552-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "43323-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43324-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43322-changes_otto.mod": [
+          0,
+          0,
+          0
+        ],
+        "43325-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56162-rebirth.mod": {
+    "stringId": "56162-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "46996-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "46997-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "47169-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "47751-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62797-rebirth.mod": {
+    "stringId": "62797-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "to replace": {
+        "3460-otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62798-rebirth.mod": {
+    "stringId": "62798-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "to replace": {
+        "5359-furniture_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62800-rebirth.mod": {
+    "stringId": "62800-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "62799-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "867-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "45551-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64490-rebirth.mod": {
+    "stringId": "64490-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "18913-small_changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "1783-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2633-Cannibals.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64654-rebirth.mod": {
+    "stringId": "64654-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "3460-otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "64614-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96498-__February 18.mod": {
+    "stringId": "96498-__February 18.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "to replace": {
+        "46056-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "2869-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "47752-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "46057-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "46058-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "2870-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2069-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "47751-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "46059-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "2874-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2998-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2999-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3003-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3004-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97846-__March 18.mod": {
+    "stringId": "97846-__March 18.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "97586-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "16848-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97896-rebirth.mod": {
+    "stringId": "97896-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "97588-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "16845-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97897-rebirth.mod": {
+    "stringId": "97897-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "97586-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "16848-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ],
+        "97847-__March 18.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97946-__March 18.mod": {
+    "stringId": "97946-__March 18.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "97588-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "16845-nodes_otto1.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533505-rebirth.mod": {
+    "stringId": "1533505-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "2881-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "2869-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2870-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2069-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2874-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "47751-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2887-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "47753-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1535062-rebirth.mod": {
+    "stringId": "1535062-rebirth.mod",
+    "type": "BuildingsSwap",
+    "values": {},
+    "references": {
+      "replace with": {
+        "44940-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "to replace": {
+        "42325-changes_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

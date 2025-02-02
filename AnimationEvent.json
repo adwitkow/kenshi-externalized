@@ -1,0 +1,254 @@
+{
+  "95378-sfx.mod": {
+    "stringId": "95378-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Attack",
+      "ground effect": false,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95379-sfx.mod": {
+    "stringId": "95379-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Attack",
+      "ground effect": false,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95376-sfx.mod": {
+    "stringId": "95376-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "Bip01 R Foot",
+      "event": "Footsteps",
+      "ground effect": true,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95377-sfx.mod": {
+    "stringId": "95377-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "Bip01 L Foot",
+      "event": "Footsteps",
+      "ground effect": true,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95381-sfx.mod": {
+    "stringId": "95381-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Attack",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Weapons",
+      "override value": "Gorillo_Fhand",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95382-sfx.mod": {
+    "stringId": "95382-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Attack",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Weapons",
+      "override value": "Gorillo_Bhand",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95380-sfx.mod": {
+    "stringId": "95380-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Attack",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Weapons",
+      "override value": "Gorillo_Bite",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95375-sfx.mod": {
+    "stringId": "95375-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Impact",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Impacts",
+      "override value": "Copper",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95386-sfx.mod": {
+    "stringId": "95386-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Character_farm",
+      "ground effect": true,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95383-sfx.mod": {
+    "stringId": "95383-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Impact",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Impacts",
+      "override value": "Dummy",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95374-sfx.mod": {
+    "stringId": "95374-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Impact",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Impacts",
+      "override value": "Ore",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95373-sfx.mod": {
+    "stringId": "95373-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Impact",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Impacts",
+      "override value": "Stone",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95372-sfx.mod": {
+    "stringId": "95372-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Attack",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Weapons",
+      "override value": "Work_Pick",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95388-sfx.mod": {
+    "stringId": "95388-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Impact",
+      "ground effect": false,
+      "other": 0,
+      "override state": "Impacts",
+      "override value": "Plate",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95389-sfx.mod": {
+    "stringId": "95389-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Character_Water_Swim_Start",
+      "ground effect": false,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95394-sfx.mod": {
+    "stringId": "95394-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Character_Farm",
+      "ground effect": false,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95396-sfx.mod": {
+    "stringId": "95396-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Character_Water_Swim_Start",
+      "ground effect": false,
+      "other": 0,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  },
+  "95767-sfx.mod": {
+    "stringId": "95767-sfx.mod",
+    "type": "AnimationEvent",
+    "values": {
+      "bone": "",
+      "event": "Reload",
+      "ground effect": false,
+      "other": 1,
+      "override state": "",
+      "override value": "",
+      "stop": ""
+    },
+    "references": {}
+  }
+}

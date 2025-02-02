@@ -1,0 +1,793 @@
+{
+  "66169-Newwworld.mod": {
+    "stringId": "66169-Newwworld.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 5.0,
+      "accuracy deviation at 0 skill 1": 3.0,
+      "accuracy perfect skill": 60,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": true,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 5.9,
+      "bleed mult": 0.6,
+      "bleed mult 1": 0.6,
+      "craft time hrs": 14,
+      "description": "A reliable mid-range weapon that's easy to use, especially for amateurs.  It deals out consistent damage at a reasonable rate.  The standard support weapon in mercenary units.",
+      "equip offset": 1.4,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Handheld Crossbow_Loaded.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Handheld Crossbow_Unloaded.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -1.6,
+      "icon offset pitch": 0.0,
+      "icon offset roll": -90.0,
+      "icon offset V": -0.5,
+      "icon offset yaw": 90.0,
+      "icon zoom": 0.8,
+      "inventory footprint height": 2,
+      "inventory footprint width": 7,
+      "live ammo": {
+        "path": ".\\data\\items\\weapons\\crossbow\\HandHeld Crossbow Bolt.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Handheld Crossbow.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 30.0,
+      "pierce damage max 0": 30.0,
+      "pierce damage max 1": 45.0,
+      "pierce damage min 0": 20.0,
+      "pierce damage min 1": 30.0,
+      "radius": 0.0,
+      "range": 600,
+      "range 1": 800,
+      "reload time max": 4.5,
+      "reload time max 1": 4.0,
+      "reload time min": 3.0,
+      "reload time min 1": 2.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 0,
+      "shot speed": 400.0,
+      "shot speed 1": 500.0,
+      "skill mod": 0,
+      "slot": 0,
+      "value": 1500,
+      "value 1": 20000,
+      "weight": 5.0,
+      "weight kg": 7.0
+    },
+    "references": {
+      "ammo": {
+        "95781-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          600,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "66170-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66290-Newwworld.mod": {
+    "stringId": "66290-Newwworld.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 2.5,
+      "accuracy deviation at 0 skill 1": 1.5,
+      "accuracy perfect skill": 80,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": true,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 5.9,
+      "bleed mult": 1.0,
+      "bleed mult 1": 1.5,
+      "craft time hrs": 24,
+      "description": "A rare, extreme long-range weapon for snipers.  It's possible to do a lot of damage with one of these before an enemy even realises what is happening to them.  Takes skill to use effectively, and not much use at short range.",
+      "equip offset": 2.2,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Eagle's_Cross_Loaded.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Eagle's_Cross_Unloaded.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -3.2,
+      "icon offset pitch": 0.0,
+      "icon offset roll": -90.0,
+      "icon offset V": -1.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 0.8,
+      "inventory footprint height": 2,
+      "inventory footprint width": 10,
+      "live ammo": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Eagle's Cross  Bolt.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Eagle's_Cross.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 30.0,
+      "pierce damage max 0": 70.0,
+      "pierce damage max 1": 100.0,
+      "pierce damage min 0": 50.0,
+      "pierce damage min 1": 60.0,
+      "radius": 0.0,
+      "range": 1500,
+      "range 1": 1900,
+      "reload time max": 10.0,
+      "reload time max 1": 8.0,
+      "reload time min": 5.0,
+      "reload time min 1": 4.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 0,
+      "shot speed": 700.0,
+      "shot speed 1": 800.0,
+      "skill mod": 0,
+      "slot": 0,
+      "value": 2500,
+      "value 1": 34000,
+      "weight": 0.0,
+      "weight kg": 18.0
+    },
+    "references": {
+      "ammo": {
+        "96000-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          800,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          400,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "66291-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reload anim": {
+        "66548-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66534-Newwworld.mod": {
+    "stringId": "66534-Newwworld.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 11.0,
+      "accuracy deviation at 0 skill 1": 6.0,
+      "accuracy perfect skill": 90,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": false,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 5.9,
+      "bleed mult": 0.5,
+      "bleed mult 1": 0.5,
+      "craft time hrs": 10,
+      "description": "A cheap and lightweight weapon from the swamps.  It's not very powerful, but it can be used to spray an opponent with bolts at close range before switching to a sword.",
+      "equip offset": 1.4,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Tooth-Pick LOADED.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Tooth-Pick UNLOADED.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ".\\data\\items\\icons\\ToothPick-ICON.png"
+      },
+      "icon offset H": -2.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 90.0,
+      "icon offset V": 0.9,
+      "icon offset yaw": -90.0,
+      "icon zoom": 0.9,
+      "inventory footprint height": 2,
+      "inventory footprint width": 6,
+      "live ammo": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Toothpick Bolt.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Tooth-Pick.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 30.0,
+      "pierce damage max 0": 20.0,
+      "pierce damage max 1": 25.0,
+      "pierce damage min 0": 10.0,
+      "pierce damage min 1": 15.0,
+      "radius": 0.0,
+      "range": 375,
+      "range 1": 500,
+      "reload time max": 3.0,
+      "reload time max 1": 3.0,
+      "reload time min": 2.0,
+      "reload time min 1": 1.25,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 0,
+      "shot speed": 350.0,
+      "shot speed 1": 450.0,
+      "skill mod": 0,
+      "slot": 7,
+      "value": 1000,
+      "value 1": 15000,
+      "weight": 0.0,
+      "weight kg": 4.0
+    },
+    "references": {
+      "ammo": {
+        "96014-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          400,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "66533-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95724-Dialogue.mod": {
+    "stringId": "95724-Dialogue.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 12.0,
+      "accuracy deviation at 0 skill 1": 6.0,
+      "accuracy perfect skill": 90,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": false,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 5.9,
+      "bleed mult": 0.5,
+      "bleed mult 1": 0.5,
+      "craft time hrs": 8,
+      "description": "A poor quality attempt at crafting a Toothpick.  A pretty worthless bow.",
+      "equip offset": 1.4,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Tooth-Pick LOADED.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Tooth-Pick UNLOADED.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ".\\data\\items\\icons\\junkbow-ICON.png"
+      },
+      "icon offset H": -2.5,
+      "icon offset pitch": 0.0,
+      "icon offset roll": -90.0,
+      "icon offset V": -1.1,
+      "icon offset yaw": 90.0,
+      "icon zoom": 0.8,
+      "inventory footprint height": 2,
+      "inventory footprint width": 6,
+      "live ammo": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Toothpick Bolt.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Tooth-Pick.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 30.0,
+      "pierce damage max 0": 20.0,
+      "pierce damage max 1": 24.0,
+      "pierce damage min 0": 10.0,
+      "pierce damage min 1": 15.0,
+      "radius": 0.0,
+      "range": 300,
+      "range 1": 400,
+      "reload time max": 4.0,
+      "reload time max 1": 3.0,
+      "reload time min": 3.0,
+      "reload time min 1": 2.0,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 0,
+      "shot speed": 350.0,
+      "shot speed 1": 450.0,
+      "skill mod": 0,
+      "slot": 7,
+      "value": 500,
+      "value 1": 6000,
+      "weight": 0.0,
+      "weight kg": 4.0
+    },
+    "references": {
+      "ammo": {
+        "96014-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          400,
+          0,
+          0
+        ],
+        "43396-changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "66533-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reload anim": {
+        "66547-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "53643-rebirth.mod": {
+    "stringId": "53643-rebirth.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 4.0,
+      "accuracy deviation at 0 skill 1": 2.2,
+      "accuracy perfect skill": 80,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": true,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 5.9,
+      "bleed mult": 1.0,
+      "bleed mult 1": 1.0,
+      "craft time hrs": 28.0,
+      "description": "A more advanced version than the MkI, it's more complicated to use and unskilled users have a hard time reloading smoothly.  For the experienced archer however it's one of the best long-range weapons available.",
+      "equip offset": 1.4,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\crossbow02_drawn.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Crossbow02_slack.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -2.5,
+      "icon offset pitch": 0.0,
+      "icon offset roll": -90.0,
+      "icon offset V": -0.7,
+      "icon offset yaw": 90.0,
+      "icon zoom": 0.8,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive02.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\crossbow02.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 50.0,
+      "pierce damage max 0": 45.0,
+      "pierce damage max 1": 60.0,
+      "pierce damage min 0": 35.0,
+      "pierce damage min 1": 45.0,
+      "radius": 0.0,
+      "range": 800,
+      "range 1": 1200,
+      "reload time max": 8.0,
+      "reload time max 1": 6.5,
+      "reload time min": 4.0,
+      "reload time min 1": 2.2,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 0,
+      "shot speed": 500.0,
+      "shot speed 1": 600.0,
+      "skill mod": 0,
+      "slot": 0,
+      "value": 2500,
+      "value 1": 28000,
+      "weight": 8.0,
+      "weight kg": 15.0
+    },
+    "references": {
+      "ammo": {
+        "95781-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          600,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          600,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "53644-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reload anim": {
+        "66547-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "65870-rebirth.mod": {
+    "stringId": "65870-rebirth.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 4.0,
+      "accuracy deviation at 0 skill 1": 2.5,
+      "accuracy perfect skill": 70,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": true,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 5.9,
+      "bleed mult": 1.0,
+      "bleed mult 1": 1.0,
+      "craft time hrs": 20.0,
+      "description": "Based on salvaged old-world blueprints and manufactured by the Tech Hunters.  It's an advanced weapon with a good range and accuracy.  \nMore expensive and less common than a Ranger, it's usually used by Tech Hunter expeditions venturing into the dangerous \"3 Corners\" regions of the continent.",
+      "equip offset": 1.4,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\crossbow01_drawn.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Crossbow01_slack.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -2.5,
+      "icon offset pitch": 0.0,
+      "icon offset roll": -90.0,
+      "icon offset V": -0.7,
+      "icon offset yaw": 90.0,
+      "icon zoom": 0.8,
+      "inventory footprint height": 2,
+      "inventory footprint width": 8,
+      "live ammo": {
+        "path": ".\\data\\buildings\\tower\\harpoonLive02.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Crossbow01.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 50.0,
+      "pierce damage max 0": 35.0,
+      "pierce damage max 1": 50.0,
+      "pierce damage min 0": 20.0,
+      "pierce damage min 1": 35.0,
+      "radius": 0.0,
+      "range": 800,
+      "range 1": 1100,
+      "reload time max": 4.5,
+      "reload time max 1": 4.0,
+      "reload time min": 3.5,
+      "reload time min 1": 2.5,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 0,
+      "shot speed": 500.0,
+      "shot speed 1": 600.0,
+      "skill mod": 0,
+      "slot": 0,
+      "value": 2000,
+      "value 1": 24000,
+      "weight": 5.0,
+      "weight kg": 13.0
+    },
+    "references": {
+      "ammo": {
+        "95781-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          600,
+          0,
+          0
+        ],
+        "97089-rebirth.mod": [
+          400,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "53644-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95764-rebirth.mod": {
+    "stringId": "95764-rebirth.mod",
+    "type": "Crossbow",
+    "values": {
+      "accuracy deviation at 0 skill": 8.0,
+      "accuracy deviation at 0 skill 1": 4.0,
+      "accuracy perfect skill": 70,
+      "aim speed": 1.0,
+      "animal damage mult": 1.0,
+      "auto icon image": true,
+      "barrel pos Y": -1.0,
+      "barrel pos Z": 1.75,
+      "bleed mult": 1.0,
+      "bleed mult 1": 1.0,
+      "craft time hrs": 12.0,
+      "description": "The Spring Bat is a modern invention. Designed by rebels in the formative years of the United Cities, it's easy to build and designed to have the power to punch through the heavy armour of dominating military forces.  It pays for this with short range and poor accuracy.",
+      "equip offset": 1.4,
+      "extra mesh loaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Spring-Bat_LOADED.mesh"
+      },
+      "extra mesh unloaded": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Spring-Bat_UNLOADED.mesh"
+      },
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "human damage mult": 1.0,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": -1.6,
+      "icon offset pitch": 0.0,
+      "icon offset roll": -90.0,
+      "icon offset V": -0.5,
+      "icon offset yaw": 90.0,
+      "icon zoom": 0.8,
+      "inventory footprint height": 2,
+      "inventory footprint width": 7,
+      "live ammo": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Spring-Bat Chisel bolt.mesh"
+      },
+      "material cost": 4,
+      "mesh": {
+        "path": ".\\data\\items\\weapons\\crossbow\\Spring-Bat.mesh"
+      },
+      "num shots": 1,
+      "overall scale": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "pierce damage": 40.0,
+      "pierce damage max 0": 40.0,
+      "pierce damage max 1": 80.0,
+      "pierce damage min 0": 30.0,
+      "pierce damage min 1": 50.0,
+      "radius": 0.0,
+      "range": 400,
+      "range 1": 550,
+      "reload time max": 6.0,
+      "reload time max 1": 8.0,
+      "reload time min": 4.5,
+      "reload time min 1": 3.5,
+      "robot damage mult": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "sheath": {
+        "path": ""
+      },
+      "shoot sound": 1,
+      "shot speed": 500.0,
+      "shot speed 1": 600.0,
+      "skill mod": 0,
+      "slot": 0,
+      "value": 1000,
+      "value 1": 15000,
+      "weight": 5.0,
+      "weight kg": 12.0
+    },
+    "references": {
+      "ammo": {
+        "95872-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ingredients": {
+        "579-gamedata.base": [
+          600,
+          0,
+          0
+        ],
+        "97090-rebirth.mod": [
+          200,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "95869-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "reload anim": {
+        "66547-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

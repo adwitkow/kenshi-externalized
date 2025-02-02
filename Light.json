@@ -1,0 +1,812 @@
+{
+  "5420-lights_otto.mod": {
+    "stringId": "5420-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 75.0,
+      "landscape": false,
+      "outer": 90.0,
+      "radius": 200.0,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "42312-Newwworld.mod": {
+    "stringId": "42312-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.7,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16764510,
+      "effect": 2,
+      "falloff": 1.0,
+      "inner": 45.0,
+      "landscape": false,
+      "outer": 60.0,
+      "radius": 150.0,
+      "type": 0,
+      "variance": 0.1
+    },
+    "references": {}
+  },
+  "12619-Newwworld.mod": {
+    "stringId": "12619-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "12614-Newwworld.mod": {
+    "stringId": "12614-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 11009781,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 45.0,
+      "landscape": false,
+      "outer": 60.0,
+      "radius": 25.0,
+      "type": 1,
+      "variance": 0.02
+    },
+    "references": {}
+  },
+  "14380-Newwworld.mod": {
+    "stringId": "14380-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.35,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 13565424,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 100.0,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "12620-Newwworld.mod": {
+    "stringId": "12620-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "5430-lights_otto.mod": {
+    "stringId": "5430-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.7,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 9697279,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 90.0,
+      "landscape": false,
+      "outer": 100.0,
+      "radius": 150.0,
+      "type": 1,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "5436-lights_otto.mod": {
+    "stringId": "5436-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.5,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16774312,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 70.0,
+      "landscape": false,
+      "outer": 90.0,
+      "radius": 100.0,
+      "type": 1,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "14383-Newwworld.mod": {
+    "stringId": "14383-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "18966-gamedata.base": {
+    "stringId": "18966-gamedata.base",
+    "type": "Light",
+    "values": {
+      "brightness": 0.6,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 15853748,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 40.0,
+      "landscape": false,
+      "outer": 90.0,
+      "radius": 300.0,
+      "type": 1,
+      "variance": 0.3
+    },
+    "references": {}
+  },
+  "5353-lights_otto.mod": {
+    "stringId": "5353-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.6,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 11075554,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 75.0,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 170.0,
+      "type": 1,
+      "variance": 0.25
+    },
+    "references": {}
+  },
+  "14382-Newwworld.mod": {
+    "stringId": "14382-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "5434-lights_otto.mod": {
+    "stringId": "5434-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.8,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 15859622,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 80.0,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 150.0,
+      "type": 1,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "12627-Newwworld.mod": {
+    "stringId": "12627-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "12622-Newwworld.mod": {
+    "stringId": "12622-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "5365-lights_otto.mod": {
+    "stringId": "5365-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.4,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16764510,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 70.0,
+      "landscape": false,
+      "outer": 90.0,
+      "radius": 150.0,
+      "type": 1,
+      "variance": 0.6
+    },
+    "references": {}
+  },
+  "5437-lights_otto.mod": {
+    "stringId": "5437-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.5,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16769124,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 90.0,
+      "landscape": false,
+      "outer": 100.0,
+      "radius": 200.0,
+      "type": 1,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "5335-gamedata.base": {
+    "stringId": "5335-gamedata.base",
+    "type": "Light",
+    "values": {
+      "brightness": 0.2,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16119196,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 45.0,
+      "landscape": false,
+      "outer": 70.0,
+      "radius": 300.0,
+      "type": 0,
+      "variance": 0.1
+    },
+    "references": {}
+  },
+  "40545-weather_otto1.mod": {
+    "stringId": "40545-weather_otto1.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 15.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16758698,
+      "effect": 2,
+      "falloff": 1.0,
+      "inner": 10.0,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 3000.0,
+      "type": 0,
+      "variance": 50.0
+    },
+    "references": {}
+  },
+  "12625-Newwworld.mod": {
+    "stringId": "12625-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "5365-gamedata.base": {
+    "stringId": "5365-gamedata.base",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 15859652,
+      "effect": 0,
+      "falloff": 0.5,
+      "inner": 60.0,
+      "landscape": false,
+      "outer": 80.0,
+      "radius": 750.0,
+      "type": 1,
+      "variance": 0.2
+    },
+    "references": {}
+  },
+  "14381-Newwworld.mod": {
+    "stringId": "14381-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "12621-Newwworld.mod": {
+    "stringId": "12621-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "14446-nodes_otto.mod": {
+    "stringId": "14446-nodes_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.4,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 11336699,
+      "effect": 0,
+      "falloff": 0.0,
+      "inner": 0.0,
+      "landscape": false,
+      "outer": 0.0,
+      "radius": 40.0,
+      "type": 0,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "5436-new_furniture_otto.mod": {
+    "stringId": "5436-new_furniture_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.4,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16764510,
+      "effect": 2,
+      "falloff": 0.0,
+      "inner": 0.0,
+      "landscape": false,
+      "outer": 0.0,
+      "radius": 70.0,
+      "type": 0,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "14448-nodes_otto.mod": {
+    "stringId": "14448-nodes_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.8,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 10349561,
+      "effect": 0,
+      "falloff": 0.0,
+      "inner": 0.0,
+      "landscape": false,
+      "outer": 0.0,
+      "radius": 60.0,
+      "type": 0,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "5417-lights_otto.mod": {
+    "stringId": "5417-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.7,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 15335323,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 90.0,
+      "landscape": false,
+      "outer": 100.0,
+      "radius": 120.0,
+      "type": 1,
+      "variance": 0.2
+    },
+    "references": {}
+  },
+  "12624-Newwworld.mod": {
+    "stringId": "12624-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "40562-small_changes_otto.mod": {
+    "stringId": "40562-small_changes_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16511935,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 60.6,
+      "landscape": false,
+      "outer": 76.9,
+      "radius": 30.0,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "5428-lights_otto.mod": {
+    "stringId": "5428-lights_otto.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.4,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 11336699,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 80.0,
+      "landscape": false,
+      "outer": 100.0,
+      "radius": 110.0,
+      "type": 1,
+      "variance": 0.4
+    },
+    "references": {}
+  },
+  "12626-Newwworld.mod": {
+    "stringId": "12626-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 74.7,
+      "landscape": false,
+      "outer": 120.0,
+      "radius": 587.39,
+      "REMOVED": true,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "16852-gamedata.base": {
+    "stringId": "16852-gamedata.base",
+    "type": "Light",
+    "values": {
+      "brightness": 0.6,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16764510,
+      "effect": 3,
+      "falloff": 0.0,
+      "inner": 0.0,
+      "landscape": false,
+      "outer": 0.0,
+      "radius": 140.0,
+      "type": 0,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "47938-Newwworld.mod": {
+    "stringId": "47938-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 0.0,
+      "inner": 0.0,
+      "landscape": false,
+      "outer": 0.0,
+      "radius": 200.0,
+      "type": 0,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "47179-Newwworld.mod": {
+    "stringId": "47179-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 12.5,
+      "landscape": false,
+      "outer": 24.2,
+      "radius": 587.39,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "51007-Newwworld.mod": {
+    "stringId": "51007-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 8.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16765328,
+      "effect": 3,
+      "falloff": 0.12,
+      "inner": 89.0,
+      "landscape": false,
+      "outer": 89.0,
+      "radius": 500.0,
+      "type": 0,
+      "variance": 80.0
+    },
+    "references": {}
+  },
+  "51850-Newwworld.mod": {
+    "stringId": "51850-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.3,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 14462827,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 17.0,
+      "landscape": false,
+      "outer": 75.0,
+      "radius": 300.0,
+      "type": 0,
+      "variance": 0.3
+    },
+    "references": {}
+  },
+  "56116-Newwworld.mod": {
+    "stringId": "56116-Newwworld.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.75,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 15853748,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 40.0,
+      "landscape": false,
+      "outer": 90.0,
+      "radius": 300.0,
+      "specular": 16777215,
+      "type": 1,
+      "variance": 0.3
+    },
+    "references": {}
+  },
+  "47750-rebirth.mod": {
+    "stringId": "47750-rebirth.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777196,
+      "effect": 0,
+      "falloff": 0.5,
+      "inner": 35.0,
+      "landscape": false,
+      "outer": 50.0,
+      "radius": 350.0,
+      "type": 1,
+      "variance": 0.2
+    },
+    "references": {}
+  },
+  "47919-rebirth.mod": {
+    "stringId": "47919-rebirth.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 1.0,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 16777215,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 12.5,
+      "landscape": false,
+      "outer": 24.2,
+      "radius": 587.39,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "50392-rebirth.mod": {
+    "stringId": "50392-rebirth.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.9,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 12641508,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 90.0,
+      "landscape": false,
+      "outer": 100.0,
+      "radius": 200.0,
+      "type": 1,
+      "variance": 0.2
+    },
+    "references": {}
+  },
+  "48676-rebirth.mod": {
+    "stringId": "48676-rebirth.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.9,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 10349561,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 45.0,
+      "landscape": false,
+      "outer": 40.0,
+      "radius": 70.0,
+      "type": 1,
+      "variance": 0.0
+    },
+    "references": {}
+  },
+  "55110-rebirth.mod": {
+    "stringId": "55110-rebirth.mod",
+    "type": "Light",
+    "values": {
+      "brightness": 0.6,
+      "buildings": false,
+      "characters": false,
+      "diffuse": 15859622,
+      "effect": 0,
+      "falloff": 1.0,
+      "inner": 50.0,
+      "landscape": false,
+      "outer": 100.0,
+      "radius": 140.0,
+      "type": 0,
+      "variance": 0.4
+    },
+    "references": {}
+  }
+}

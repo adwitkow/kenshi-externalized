@@ -1,0 +1,421 @@
+{
+  "3308-gamedata.base": {
+    "stringId": "3308-gamedata.base",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags always1": 0,
+      "tags common0": 10,
+      "tags common1": 14,
+      "tags common2": 6,
+      "tags common3": 9,
+      "tags common4": 2,
+      "tags never0": 1,
+      "tags never1": 0,
+      "tags never2": 0,
+      "tags rare0": 5,
+      "tags rare1": 0
+    },
+    "references": {}
+  },
+  "blank personality": {
+    "stringId": "blank personality",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0,
+      "tags rare1": 0
+    },
+    "references": {}
+  },
+  "12499-Dialogue (10) (2).mod": {
+    "stringId": "12499-Dialogue (10) (2).mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "19508-Dialogue.mod": {
+    "stringId": "19508-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 2,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "13273-Escapes.mod": {
+    "stringId": "13273-Escapes.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 1,
+      "tags common0": 0,
+      "tags never0": 10,
+      "tags never1": 2,
+      "tags never2": 14,
+      "tags never3": 1,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "51877-Dialogue.mod": {
+    "stringId": "51877-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 2,
+      "tags common1": 1,
+      "tags common2": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "17196-Dialogue.mod": {
+    "stringId": "17196-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 1,
+      "tags common1": 2,
+      "tags common2": 5,
+      "tags common3": 6,
+      "tags common4": 9,
+      "tags common5": 10,
+      "tags common6": 14,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "17698-Dialogue.mod": {
+    "stringId": "17698-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 10,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "48770-Dialogue.mod": {
+    "stringId": "48770-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 6,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "47936-Dialogue.mod": {
+    "stringId": "47936-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 1,
+      "tags common1": 2,
+      "tags common2": 5,
+      "tags common3": 6,
+      "tags common4": 9,
+      "tags never0": 14,
+      "tags never1": 10,
+      "tags never2": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "14995-Dialogue.mod": {
+    "stringId": "14995-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 0,
+      "tags never0": 14,
+      "tags never1": 0,
+      "tags never2": 10,
+      "tags never3": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "41178-Dialogue.mod": {
+    "stringId": "41178-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 5,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "16237-Dialogue.mod": {
+    "stringId": "16237-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 14,
+      "tags common0": 0,
+      "tags never0": 10,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "18098-Dialogue.mod": {
+    "stringId": "18098-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 1,
+      "tags common1": 9,
+      "tags never0": 0,
+      "tags rare0": 2,
+      "tags rare1": 14,
+      "tags rare2": 10
+    },
+    "references": {}
+  },
+  "16727-Dialogue.mod": {
+    "stringId": "16727-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 2,
+      "tags common1": 5,
+      "tags common2": 6,
+      "tags common3": 9,
+      "tags common4": 10,
+      "tags common5": 14,
+      "tags never0": 1,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "18242-Dialogue.mod": {
+    "stringId": "18242-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 2,
+      "tags common1": 9,
+      "tags common2": 14,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "18401-Dialogue.mod": {
+    "stringId": "18401-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 2,
+      "tags common1": 1,
+      "tags common2": 5,
+      "tags common3": 6,
+      "tags common4": 9,
+      "tags common5": 14,
+      "tags never0": 10,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "19578-Dialogue.mod": {
+    "stringId": "19578-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 9,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "18402-Dialogue.mod": {
+    "stringId": "18402-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 10,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "18419-Dialogue.mod": {
+    "stringId": "18419-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 1,
+      "tags common1": 2,
+      "tags common2": 9,
+      "tags common3": 14,
+      "tags common4": 6,
+      "tags common5": 5,
+      "tags common6": 1,
+      "tags never0": 10,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "16728-Dialogue.mod": {
+    "stringId": "16728-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 5,
+      "tags common0": 0,
+      "tags never0": 6,
+      "tags never1": 2,
+      "tags never2": 14,
+      "tags rare0": 0,
+      "tags rare1": 0
+    },
+    "references": {}
+  },
+  "53390-Dialogue.mod": {
+    "stringId": "53390-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 0,
+      "tags common1": 0,
+      "tags common2": 9,
+      "tags common3": 0,
+      "tags common4": 6,
+      "tags common5": 0,
+      "tags common6": 1,
+      "tags never0": 5,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "54467-Dialogue.mod": {
+    "stringId": "54467-Dialogue.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 5,
+      "tags common1": 9,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "50342-rebirth.mod": {
+    "stringId": "50342-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 0,
+      "tags never0": 14,
+      "tags never1": 2,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "50965-rebirth.mod": {
+    "stringId": "50965-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 6,
+      "tags common1": 14,
+      "tags common2": 10,
+      "tags never0": 5,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "51358-rebirth.mod": {
+    "stringId": "51358-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 2,
+      "tags common1": 6,
+      "tags common2": 14,
+      "tags never0": 1,
+      "tags rare0": 10
+    },
+    "references": {}
+  },
+  "52154-rebirth.mod": {
+    "stringId": "52154-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 1,
+      "tags common1": 2,
+      "tags never0": 0,
+      "tags rare0": 14
+    },
+    "references": {}
+  },
+  "53571-rebirth.mod": {
+    "stringId": "53571-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 2,
+      "tags common1": 10,
+      "tags common2": 1,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "53818-rebirth.mod": {
+    "stringId": "53818-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 5,
+      "tags common1": 6,
+      "tags common2": 2,
+      "tags common3": 1,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "57391-rebirth.mod": {
+    "stringId": "57391-rebirth.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 6,
+      "tags always1": 1,
+      "tags always2": 9,
+      "tags common0": 0,
+      "tags never0": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  },
+  "58075-Seto.mod": {
+    "stringId": "58075-Seto.mod",
+    "type": "Personality",
+    "values": {
+      "tags always0": 0,
+      "tags common0": 1,
+      "tags common1": 9,
+      "tags common2": 14,
+      "tags common3": 2,
+      "tags never0": 10,
+      "tags never1": 6,
+      "tags never2": 0,
+      "tags rare0": 0
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,3896 @@
+{
+  "2627-clothes_v2.mod": {
+    "stringId": "2627-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male10.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female10.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5368-hair_fix_otto.mod": {
+    "stringId": "5368-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female01.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2624-clothes_v2.mod": {
+    "stringId": "2624-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 30,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male06.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female06.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5390-hair_fix_otto.mod": {
+    "stringId": "5390-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 3,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male23.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female23.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2709-clothes_v2.mod": {
+    "stringId": "2709-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5391-hair_fix_otto.mod": {
+    "stringId": "5391-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 0,
+      "head alpha channel female": 0,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2652-clothes_v2.mod": {
+    "stringId": "2652-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male15.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female15.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2625-clothes_v2.mod": {
+    "stringId": "2625-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male07.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female07.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2626-clothes_v2.mod": {
+    "stringId": "2626-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 90,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 1,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male09.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female09.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5373-hair_fix_otto.mod": {
+    "stringId": "5373-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 30,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male06.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female06.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "3983-gamedata.base": {
+    "stringId": "3983-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\dog_fur.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\dog_fur.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\Dog1_Fur_D_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\animal\\textures\\Dog1_Fur_D_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2610-clothes_v2.mod": {
+    "stringId": "2610-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 1,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_01_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\beard03.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2653-clothes_v2.mod": {
+    "stringId": "2653-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 160,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male14.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female14.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2614-clothes_v2.mod": {
+    "stringId": "2614-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Beard07.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5386-hair_fix_otto.mod": {
+    "stringId": "5386-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 3,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male19.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female19.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2919-gamedata.base": {
+    "stringId": "2919-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2649-clothes_v2.mod": {
+    "stringId": "2649-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 30,
+      "attach slot": 2,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 3,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male21.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female21.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female05_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female05_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2629-clothes_v2.mod": {
+    "stringId": "2629-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male04.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female04.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2622-clothes_v2.mod": {
+    "stringId": "2622-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 130,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male03.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female03.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2609-clothes_v2.mod": {
+    "stringId": "2609-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_01_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5376-hair_fix_otto.mod": {
+    "stringId": "5376-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 90,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male09.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female09.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5385-hair_fix_otto.mod": {
+    "stringId": "5385-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 1,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male18.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female18.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5392-hair_fix_otto.mod": {
+    "stringId": "5392-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2650-clothes_v2.mod": {
+    "stringId": "2650-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 140,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 1,
+      "head alpha channel": 0,
+      "head alpha channel female": 0,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male22.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female22.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2172-gamedata.base": {
+    "stringId": "2172-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5394-hair_fix_otto.mod": {
+    "stringId": "5394-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 3,
+      "head alpha channel female": 3,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2612-clothes_v2.mod": {
+    "stringId": "2612-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 1,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\beard05.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2628-clothes_v2.mod": {
+    "stringId": "2628-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male08.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female08.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2623-clothes_v2.mod": {
+    "stringId": "2623-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male05.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female05.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2616-clothes_v2.mod": {
+    "stringId": "2616-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2619-clothes_v2.mod": {
+    "stringId": "2619-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 1,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Beard12.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2621-clothes_v2.mod": {
+    "stringId": "2621-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male02.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female02.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2613-clothes_v2.mod": {
+    "stringId": "2613-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5369-hair_fix_otto.mod": {
+    "stringId": "5369-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male02.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female02.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "3996-gamedata.base": {
+    "stringId": "3996-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\goat_fur.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\goat_fur.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\goat_diffuse_HI.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\animal\\textures\\goat_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2722-gamedata.base": {
+    "stringId": "2722-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5377-hair_fix_otto.mod": {
+    "stringId": "5377-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male10.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female10.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male05_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2920-gamedata.base": {
+    "stringId": "2920-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 1,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5370-hair_fix_otto.mod": {
+    "stringId": "5370-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 130,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male03.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female03.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2655-clothes_v2.mod": {
+    "stringId": "2655-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male12.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female12.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female01_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female01_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2615-clothes_v2.mod": {
+    "stringId": "2615-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 3,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Beard08.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5384-hair_fix_otto.mod": {
+    "stringId": "5384-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 20,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male17.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female17.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2617-clothes_v2.mod": {
+    "stringId": "2617-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\beard10.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2651-clothes_v2.mod": {
+    "stringId": "2651-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 3,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male23.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female23.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2618-clothes_v2.mod": {
+    "stringId": "2618-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2646-clothes_v2.mod": {
+    "stringId": "2646-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 1,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male18.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female18.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5389-hair_fix_otto.mod": {
+    "stringId": "5389-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 140,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 1,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male22.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female22.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female06_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5374-hair_fix_otto.mod": {
+    "stringId": "5374-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male07.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female07.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2921-gamedata.base": {
+    "stringId": "2921-gamedata.base",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 1,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2620-clothes_v2.mod": {
+    "stringId": "2620-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female01.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male01_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5393-hair_fix_otto.mod": {
+    "stringId": "5393-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 1,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "5371-hair_fix_otto.mod": {
+    "stringId": "5371-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male04.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female04.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2643-clothes_v2.mod": {
+    "stringId": "2643-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 20,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male11.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female11.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female01_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female01_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2644-clothes_v2.mod": {
+    "stringId": "2644-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male16.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female16.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2645-clothes_v2.mod": {
+    "stringId": "2645-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 20,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male17.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female17.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2608-clothes_v2.mod": {
+    "stringId": "2608-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 1,
+      "head channel female": 1,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_01_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\beard02.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\BeardMod_Male01_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2611-clothes_v2.mod": {
+    "stringId": "2611-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 180,
+      "attach slot": 13,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_01_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ""
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "2648-clothes_v2.mod": {
+    "stringId": "2648-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 100,
+      "attach slot": 2,
+      "hair alpha channel": 0,
+      "hair diffuse channel": 1,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male20.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female20.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female05_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female05_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2654-clothes_v2.mod": {
+    "stringId": "2654-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 30,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male13.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female13.mesh"
+      },
+      "mipmap bias": -1.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2647-clothes_v2.mod": {
+    "stringId": "2647-clothes_v2.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 120,
+      "attach slot": 2,
+      "hair alpha channel": 2,
+      "hair diffuse channel": 3,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male19.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female19.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female04_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "5372-hair_fix_otto.mod": {
+    "stringId": "5372-hair_fix_otto.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 1,
+      "hair diffuse channel": 0,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Bone_Female_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Male05.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\Haircut_Female05.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\HairMod_Male03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "97569-Newwworld.mod": {
+    "stringId": "97569-Newwworld.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ".\\data\\animal\\textures\\Land_Bat_DIF_HI.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\animal\\textures\\Land_Bat_DIF_HI.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\land_bat_fur.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\land_bat_fur.mesh"
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\Land_Bat_DIF_HI.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\animal\\textures\\Land_Bat_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "43894-rebirth.mod": {
+    "stringId": "43894-rebirth.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ""
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\flesh_insect_spikes.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\flesh_insect_diffuse.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\animal\\textures\\flesh_insect_normal.dds"
+      }
+    },
+    "references": {}
+  },
+  "43903-rebirth.mod": {
+    "stringId": "43903-rebirth.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 128,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\frog_gorilla_fur.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\frog_gorilla_fur.mesh"
+      },
+      "mipmap bias": 0.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\frog_gorilla_diffuse.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\animal\\textures\\frog_gorilla_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "59454-Ark Haircuts.mod": {
+    "stringId": "59454-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard01.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59456-Ark Haircuts.mod": {
+    "stringId": "59456-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard01.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59444-Ark Haircuts.mod": {
+    "stringId": "59444-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard02.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59457-Ark Haircuts.mod": {
+    "stringId": "59457-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard02.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59445-Ark Haircuts.mod": {
+    "stringId": "59445-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard03.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59458-Ark Haircuts.mod": {
+    "stringId": "59458-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard03.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59433-Ark Haircuts.mod": {
+    "stringId": "59433-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard04.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59459-Ark Haircuts.mod": {
+    "stringId": "59459-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard04.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59446-Ark Haircuts.mod": {
+    "stringId": "59446-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard05.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59455-Ark Haircuts.mod": {
+    "stringId": "59455-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ""
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard05.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59447-Ark Haircuts.mod": {
+    "stringId": "59447-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard06.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59460-Ark Haircuts.mod": {
+    "stringId": "59460-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard06.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59448-Ark Haircuts.mod": {
+    "stringId": "59448-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard07.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59461-Ark Haircuts.mod": {
+    "stringId": "59461-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 64,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard07.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59449-Ark Haircuts.mod": {
+    "stringId": "59449-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard08.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59462-Ark Haircuts.mod": {
+    "stringId": "59462-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_03_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard08.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59450-Ark Haircuts.mod": {
+    "stringId": "59450-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard09.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "59463-Ark Haircuts.mod": {
+    "stringId": "59463-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 70,
+      "attach slot": 13,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\BeardBaseHead_02_LO.dds"
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkbeard10.mesh"
+      },
+      "mesh female": {
+        "path": ""
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "58697-Ark Haircuts.mod": {
+    "stringId": "58697-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59425-Ark Haircuts.mod": {
+    "stringId": "59425-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ""
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female02_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59426-Ark Haircuts.mod": {
+    "stringId": "59426-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ""
+      },
+      "head multiply female": {
+        "path": ""
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59427-Ark Haircuts.mod": {
+    "stringId": "59427-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59429-Ark Haircuts.mod": {
+    "stringId": "59429-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 1,
+      "head channel": 0,
+      "head channel female": 0,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhair01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59435-Ark Haircuts.mod": {
+    "stringId": "59435-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59451-Ark Haircuts.mod": {
+    "stringId": "59451-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut01.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut01F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59436-Ark Haircuts.mod": {
+    "stringId": "59436-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut02.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut02F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59452-Ark Haircuts.mod": {
+    "stringId": "59452-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut02.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut02F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59437-Ark Haircuts.mod": {
+    "stringId": "59437-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut03.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut03F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59438-Ark Haircuts.mod": {
+    "stringId": "59438-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut04.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut04F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59439-Ark Haircuts.mod": {
+    "stringId": "59439-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut05.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut05F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59440-Ark Haircuts.mod": {
+    "stringId": "59440-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male02_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female02_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut06.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut06F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59453-Ark Haircuts.mod": {
+    "stringId": "59453-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 2,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut06.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut06F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59441-Ark Haircuts.mod": {
+    "stringId": "59441-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut07.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut07Fem.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59442-Ark Haircuts.mod": {
+    "stringId": "59442-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 2,
+      "head channel": 0,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut08.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut08Fem.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "59443-Ark Haircuts.mod": {
+    "stringId": "59443-Ark Haircuts.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut09.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut09F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "65829-rebirth.mod": {
+    "stringId": "65829-rebirth.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 2,
+      "head alpha channel female": 2,
+      "head channel": 3,
+      "head channel female": 3,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut07.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut07F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "65830-rebirth.mod": {
+    "stringId": "65830-rebirth.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 2,
+      "head alpha channel": 1,
+      "head alpha channel female": 2,
+      "head channel": 0,
+      "head channel female": 2,
+      "head multiply": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head multiply female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "head texture": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Male01_LO.dds"
+      },
+      "head texture female": {
+        "path": ".\\data\\character\\hair\\textures\\HairBaseHead_Female01_LO.dds"
+      },
+      "mesh": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut08.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\hair\\meshes\\arkhaircut08F.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": true,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\character\\hair\\textures\\Texture HairMod_Female03_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "66299-Boneyard Wolf.mod": {
+    "stringId": "66299-Boneyard Wolf.mod",
+    "type": "Attachment",
+    "values": {
+      "alpha rejection": 80,
+      "attach slot": 2,
+      "hair alpha channel": 3,
+      "hair diffuse channel": 1,
+      "head alpha channel": 0,
+      "head alpha channel female": 0,
+      "head channel": 0,
+      "head channel female": 0,
+      "head texture": {
+        "path": ""
+      },
+      "head texture female": {
+        "path": ""
+      },
+      "mesh": {
+        "path": ".\\data\\animal\\meshes\\dog_fur.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\animal\\meshes\\dog_fur.mesh"
+      },
+      "mipmap bias": -2.0,
+      "playable": false,
+      "specular": 0.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\Dog1_Fur2_D_LO.dds"
+      },
+      "texture map female": {
+        "path": ".\\data\\animal\\textures\\Dog1_Fur2_D_LO.dds"
+      }
+    },
+    "references": {}
+  }
+}

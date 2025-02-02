@@ -1,0 +1,3023 @@
+{
+  "18032-small_changes_otto.mod": {
+    "stringId": "18032-small_changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\mask3_normal_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\mask3_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1262-gamedata.base": {
+    "stringId": "1262-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_color.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d.dds"
+      }
+    },
+    "references": {}
+  },
+  "1335-gamedata.base": {
+    "stringId": "1335-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\stripe.dds"
+      }
+    },
+    "references": {}
+  },
+  "1340-gamedata.base": {
+    "stringId": "1340-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\corrosion_pirate.dds"
+      }
+    },
+    "references": {}
+  },
+  "1153-gamedata.base": {
+    "stringId": "1153-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d5c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d5-blue.dds"
+      }
+    },
+    "references": {}
+  },
+  "2191-gamedata.base": {
+    "stringId": "2191-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_D_black_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1958-gamedata.base": {
+    "stringId": "1958-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\loaf.dds"
+      }
+    },
+    "references": {}
+  },
+  "1284-gamedata.base": {
+    "stringId": "1284-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_N.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.04,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\coat\\coat03-medic.dds"
+      }
+    },
+    "references": {}
+  },
+  "1263-gamedata.base": {
+    "stringId": "1263-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\head\\blackstrawhat_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\head\\blackstrawhat.dds"
+      }
+    },
+    "references": {}
+  },
+  "688-gamedata.base": {
+    "stringId": "688-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\head\\strawhat_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\head\\strawhat.dds"
+      }
+    },
+    "references": {}
+  },
+  "1154-gamedata.base": {
+    "stringId": "1154-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\boots\\boots02-dark.dds"
+      }
+    },
+    "references": {}
+  },
+  "687-gamedata.base": {
+    "stringId": "687-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\head\\blackstrawhat_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\head\\blackstrawhat.dds"
+      }
+    },
+    "references": {}
+  },
+  "2147-gamedata.base": {
+    "stringId": "2147-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\barbarian_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\barbarian_n_HI.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\barbarian_d_plain_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2186-gamedata.base": {
+    "stringId": "2186-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\hat3_N.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\hat3_D.dds"
+      }
+    },
+    "references": {}
+  },
+  "2207-gamedata.base": {
+    "stringId": "2207-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\hat3_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\hat3_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2170-gamedata.base": {
+    "stringId": "2170-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\DrifterCoat_Male_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\DrifterCoat_Male_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "693-gamedata.base": {
+    "stringId": "693-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\boots\\boots02.dds"
+      }
+    },
+    "references": {}
+  },
+  "699-gamedata.base": {
+    "stringId": "699-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\sword01_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\sword01.dds"
+      }
+    },
+    "references": {}
+  },
+  "1334-gamedata.base": {
+    "stringId": "1334-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\tracked.dds"
+      }
+    },
+    "references": {}
+  },
+  "1319-gamedata.base": {
+    "stringId": "1319-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\orange.dds"
+      }
+    },
+    "references": {}
+  },
+  "2162-gamedata.base": {
+    "stringId": "2162-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter3_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter3_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2285-gamedata.base": {
+    "stringId": "2285-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "1251-gamedata.base": {
+    "stringId": "1251-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_N.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.05,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02-lizard.dds"
+      }
+    },
+    "references": {}
+  },
+  "2284-gamedata.base": {
+    "stringId": "2284-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\barbarian_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\barbarian_n_HI.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 1.0,
+      "specular mult": 0.5,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\barbarian_d_leather_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1264-gamedata.base": {
+    "stringId": "1264-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack.dds"
+      }
+    },
+    "references": {}
+  },
+  "1867-gamedata.base": {
+    "stringId": "1867-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\TALL_ATLAS03.dds"
+      }
+    },
+    "references": {}
+  },
+  "2187-gamedata.base": {
+    "stringId": "2187-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_C_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "18030-small_changes_otto.mod": {
+    "stringId": "18030-small_changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\mask1_normal_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\mask1_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1138-gamedata.base": {
+    "stringId": "1138-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d7.dds"
+      }
+    },
+    "references": {}
+  },
+  "1328-gamedata.base": {
+    "stringId": "1328-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\greenplates.dds"
+      }
+    },
+    "references": {}
+  },
+  "4028-gamedata.baseold": {
+    "stringId": "4028-gamedata.baseold",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\nests\\animal_refuse_normal_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\nests\\animal_refuse_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1014-gamedata.base": {
+    "stringId": "1014-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\ATLAS_interior.dds"
+      }
+    },
+    "references": {}
+  },
+  "2311-clothes_v1.mod": {
+    "stringId": "2311-clothes_v1.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\RagArmored_COL_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\RagArmored_N_HI.dds"
+      },
+      "paint factor 1": 0.2,
+      "paint factor 2": 0.2,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\RagArmored_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2312-clothes_v1.mod": {
+    "stringId": "2312-clothes_v1.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Slave_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Slave_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1325-gamedata.base": {
+    "stringId": "1325-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\bronze.dds"
+      }
+    },
+    "references": {}
+  },
+  "1327-gamedata.base": {
+    "stringId": "1327-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\imprintred.dds"
+      }
+    },
+    "references": {}
+  },
+  "696-gamedata.base": {
+    "stringId": "696-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\medicsack.dds"
+      }
+    },
+    "references": {}
+  },
+  "1330-gamedata.base": {
+    "stringId": "1330-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\sheets.dds"
+      }
+    },
+    "references": {}
+  },
+  "1261-gamedata.base": {
+    "stringId": "1261-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d4.dds"
+      }
+    },
+    "references": {}
+  },
+  "1265-gamedata.base": {
+    "stringId": "1265-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02-fabric_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02-fabric.dds"
+      }
+    },
+    "references": {}
+  },
+  "689-gamedata.base": {
+    "stringId": "689-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_N.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.05,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02.dds"
+      }
+    },
+    "references": {}
+  },
+  "1322-gamedata.base": {
+    "stringId": "1322-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\green.dds"
+      }
+    },
+    "references": {}
+  },
+  "1149-gamedata.base": {
+    "stringId": "1149-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d.dds"
+      }
+    },
+    "references": {}
+  },
+  "2190-gamedata.base": {
+    "stringId": "2190-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Monk_D_gi_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2152-gamedata.base": {
+    "stringId": "2152-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\colormap_all.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Assassin1_n_HI.dds"
+      },
+      "paint factor 1": 0.5,
+      "paint factor 2": 0.5,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Assassin1_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "968-gamedata.base": {
+    "stringId": "968-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_red.dds"
+      }
+    },
+    "references": {}
+  },
+  "1140-gamedata.base": {
+    "stringId": "1140-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.5,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_d2.dds"
+      }
+    },
+    "references": {}
+  },
+  "1281-gamedata.base": {
+    "stringId": "1281-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_N.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.05,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02-darker.dds"
+      }
+    },
+    "references": {}
+  },
+  "967-gamedata.base": {
+    "stringId": "967-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_d-black.dds"
+      }
+    },
+    "references": {}
+  },
+  "5263-lanterns_otto.mod": {
+    "stringId": "5263-lanterns_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "1336-gamedata.base": {
+    "stringId": "1336-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\whites.dds"
+      }
+    },
+    "references": {}
+  },
+  "2714-D-clothes_v2.mod": {
+    "stringId": "2714-D-clothes_v2.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Haircut_Attachments.dds"
+      }
+    },
+    "references": {}
+  },
+  "1142-gamedata.base": {
+    "stringId": "1142-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\head\\tricorner.dds"
+      }
+    },
+    "references": {}
+  },
+  "1145-gamedata.base": {
+    "stringId": "1145-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d2.dds"
+      }
+    },
+    "references": {}
+  },
+  "1139-gamedata.base": {
+    "stringId": "1139-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\clothing\\m-vest2-ninja_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\clothing\\fabric1.dds"
+      }
+    },
+    "references": {}
+  },
+  "686-gamedata.base": {
+    "stringId": "686-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack.dds"
+      }
+    },
+    "references": {}
+  },
+  "14519-gamedata.base": {
+    "stringId": "14519-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\samurai_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_n_HI.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2155-gamedata.base": {
+    "stringId": "2155-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter1_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter1_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2183-gamedata.base": {
+    "stringId": "2183-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\helmets_N_LO.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\helmets_D_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "2310-clothes_v1.mod": {
+    "stringId": "2310-clothes_v1.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter2_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter2_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2171-gamedata.base": {
+    "stringId": "2171-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_N_HI.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2153-gamedata.base": {
+    "stringId": "2153-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Assassin2_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Assassin2_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "18031-small_changes_otto.mod": {
+    "stringId": "18031-small_changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\mask2_normal_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\mask2_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "692-gamedata.base": {
+    "stringId": "692-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\boots\\boots_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\boots\\boots.dds"
+      }
+    },
+    "references": {}
+  },
+  "1956-gamedata.base": {
+    "stringId": "1956-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\potatosack.dds"
+      }
+    },
+    "references": {}
+  },
+  "691-gamedata.base": {
+    "stringId": "691-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\jacket\\jacket-trader-01_color.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\jacket\\jacket-trader-01_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\jacket\\jacket-trader-01.dds"
+      }
+    },
+    "references": {}
+  },
+  "1150-gamedata.base": {
+    "stringId": "1150-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d3.dds"
+      }
+    },
+    "references": {}
+  },
+  "911-gamedata.base": {
+    "stringId": "911-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\bags\\backpack_trader.dds"
+      }
+    },
+    "references": {}
+  },
+  "2181-gamedata.base": {
+    "stringId": "2181-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\police_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\police_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\police_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1326-gamedata.base": {
+    "stringId": "1326-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\orange.dds"
+      }
+    },
+    "references": {}
+  },
+  "695-gamedata.base": {
+    "stringId": "695-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\pants\\cargo01_color.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\pants\\cargo01_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\pants\\cargo01.dds"
+      }
+    },
+    "references": {}
+  },
+  "2199-gamedata.base": {
+    "stringId": "2199-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\helmets_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\helmets_N_LO.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\helmets_D_LO.dds"
+      }
+    },
+    "references": {}
+  },
+  "18910-gamedata.base": {
+    "stringId": "18910-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1337-gamedata.base": {
+    "stringId": "1337-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\bandanas_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\bandanas.dds"
+      }
+    },
+    "references": {}
+  },
+  "3060-gamedata.base": {
+    "stringId": "3060-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\DrifterCoat_Male_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\DrifterCoat_robotblack_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "2023-gamedata.base": {
+    "stringId": "2023-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\bale3hemp.dds"
+      }
+    },
+    "references": {}
+  },
+  "1959-gamedata.base": {
+    "stringId": "1959-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\bale3.dds"
+      }
+    },
+    "references": {}
+  },
+  "1323-gamedata.base": {
+    "stringId": "1323-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\blackyellow.dds"
+      }
+    },
+    "references": {}
+  },
+  "1338-gamedata.base": {
+    "stringId": "1338-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\yellowmetal.dds"
+      }
+    },
+    "references": {}
+  },
+  "4003-gamedata.base": {
+    "stringId": "4003-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\animal\\textures\\pack_beast_luggage_bags_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\animal\\textures\\pack_beast_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1961-gamedata.base": {
+    "stringId": "1961-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\potatosack.dds"
+      }
+    },
+    "references": {}
+  },
+  "690-gamedata.base": {
+    "stringId": "690-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02-fabric_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\coat\\coat02-fabric.dds"
+      }
+    },
+    "references": {}
+  },
+  "698-gamedata.base": {
+    "stringId": "698-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_color.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d4.dds"
+      }
+    },
+    "references": {}
+  },
+  "1151-gamedata.base": {
+    "stringId": "1151-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d5.dds"
+      }
+    },
+    "references": {}
+  },
+  "1321-gamedata.base": {
+    "stringId": "1321-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\green.dds"
+      }
+    },
+    "references": {}
+  },
+  "697-gamedata.base": {
+    "stringId": "697-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_c.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_n2.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\pants\\f_pants_d.dds"
+      }
+    },
+    "references": {}
+  },
+  "1329-gamedata.base": {
+    "stringId": "1329-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\corrosion.dds"
+      }
+    },
+    "references": {}
+  },
+  "1331-gamedata.base": {
+    "stringId": "1331-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\rubber.dds"
+      }
+    },
+    "references": {}
+  },
+  "1955-gamedata.base": {
+    "stringId": "1955-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\rumjug.dds"
+      }
+    },
+    "references": {}
+  },
+  "694-gamedata.base": {
+    "stringId": "694-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\boots\\sandals.dds"
+      }
+    },
+    "references": {}
+  },
+  "1957-gamedata.base": {
+    "stringId": "1957-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\misc\\medkit05_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.4,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\medkit05.dds"
+      }
+    },
+    "references": {}
+  },
+  "1152-gamedata.base": {
+    "stringId": "1152-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d5-red.dds"
+      }
+    },
+    "references": {}
+  },
+  "2146-gamedata.base": {
+    "stringId": "2146-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "3392-gamedata.base": {
+    "stringId": "3392-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\atlas_regular_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "REMOVED": true,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\atlas_regular_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "1324-gamedata.base": {
+    "stringId": "1324-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\copper.dds"
+      }
+    },
+    "references": {}
+  },
+  "700-gamedata.base": {
+    "stringId": "700-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\bigsword01_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\bigsword01.dds"
+      }
+    },
+    "references": {}
+  },
+  "1954-gamedata.base": {
+    "stringId": "1954-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\buildings\\mining\\tex\\sacks_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\mining\\tex\\sacks_d.dds"
+      }
+    },
+    "references": {}
+  },
+  "1332-gamedata.base": {
+    "stringId": "1332-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\pirate.dds"
+      }
+    },
+    "references": {}
+  },
+  "966-gamedata.base": {
+    "stringId": "966-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d-black.dds"
+      }
+    },
+    "references": {}
+  },
+  "1141-gamedata.base": {
+    "stringId": "1141-gamedata.base",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_n.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\medplate\\f_medplate_d6.dds"
+      }
+    },
+    "references": {}
+  },
+  "50516-Newwworld.mod": {
+    "stringId": "50516-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": "coloring"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Fish01_NML.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Fish01_DIF.dds"
+      }
+    },
+    "references": {}
+  },
+  "51661-Newwworld.mod": {
+    "stringId": "51661-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\FANCY-CLOTHES_mask_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\FANCY-CLOTHES_N_HI.dds"
+      },
+      "paint factor 1": 0.3,
+      "paint factor 2": 0.3,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\FANCY-CLOTHES_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "51666-Newwworld.mod": {
+    "stringId": "51666-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\FANCY-CLOTHES_mask_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\FANCY-CLOTHES_N_HI.dds"
+      },
+      "paint factor 1": 0.3,
+      "paint factor 2": 0.3,
+      "specular mult": 0.1,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\FANCY-CLOTHES_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "54032-Newwworld.mod": {
+    "stringId": "54032-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\misc\\Fancy-Rug_COLOURMAP.dds"
+      },
+      "material type": 1,
+      "normal map": {
+        "path": ".\\data\\items\\misc\\Fancy-Rug_NML.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\Fancy-Rug_DIF.dds"
+      }
+    },
+    "references": {}
+  },
+  "54545-Newwworld.mod": {
+    "stringId": "54545-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\misc\\Coin_NML.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\Coin_DIF.dds"
+      }
+    },
+    "references": {}
+  },
+  "62796-Newwworld.mod": {
+    "stringId": "62796-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\RobotMask_METAL_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\RobotMask_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\RobotMask_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "63236-Newwworld.mod": {
+    "stringId": "63236-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 2,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Human_Skin_Suit_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Human_Skin_Suit_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "63745-Newwworld.mod": {
+    "stringId": "63745-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\ManSkin_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\ManSkin_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "64889-Newwworld.mod": {
+    "stringId": "64889-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 2,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Tank_Iron-Clad_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Tank_Iron-Clad_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "64908-Newwworld.mod": {
+    "stringId": "64908-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 1,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Hack Stopper_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Hack Stopper_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "95580-Newwworld.mod": {
+    "stringId": "95580-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\Skeleton_MarkII_NML_BLUE_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\Skeleton_MarkII_Limb-Replacer_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "95999-Newwworld.mod": {
+    "stringId": "95999-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Eagles_Cross_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Eagles_Cross_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "95998-Newwworld.mod": {
+    "stringId": "95998-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Spring-Bat_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Spring-Bat_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96002-Newwworld.mod": {
+    "stringId": "96002-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Tooth-Pick_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Tooth-Pick_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96003-Newwworld.mod": {
+    "stringId": "96003-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Crossbow01_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Crossbow01_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96019-Newwworld.mod": {
+    "stringId": "96019-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\Replacement_RUNNER_Leg_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\Replacement_RUNNER_Leg_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96023-Newwworld.mod": {
+    "stringId": "96023-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\Robotic_Strong_Arm_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\Robotic_Strong_Arm_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96138-Newwworld.mod": {
+    "stringId": "96138-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\Robotic_Economy_Legs_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\Robotic_Economy_Legs_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96190-Newwworld.mod": {
+    "stringId": "96190-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\Robotic-Tough-Limbs_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\Robotic-Tough-Limbs_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1532814-Newwworld.mod": {
+    "stringId": "1532814-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter2_pants_Light Armour_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 4.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Drifter2_pants_Light Armour_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1532829-Newwworld.mod": {
+    "stringId": "1532829-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Tagelmust_Chainmail_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Tagelmust_Chainmail_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1533512-Newwworld.mod": {
+    "stringId": "1533512-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_RUSTED_NML_HI.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_RUSTED_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1534064-Newwworld.mod": {
+    "stringId": "1534064-Newwworld.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 1,
+      "normal map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\materials\\props_atlas_regular_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "96172-Dialogue.mod": {
+    "stringId": "96172-Dialogue.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "49929-rebirth.mod": {
+    "stringId": "49929-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": "coloring"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\book01.dds"
+      }
+    },
+    "references": {}
+  },
+  "18885-rebirth.mod": {
+    "stringId": "18885-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_N_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_D_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "42312-changes_otto.mod": {
+    "stringId": "42312-changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\nests\\animal_refuse_normal_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\nests\\animal_refuse_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "49930-rebirth.mod": {
+    "stringId": "49930-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": "coloring"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\book02.dds"
+      }
+    },
+    "references": {}
+  },
+  "42327-changes_otto.mod": {
+    "stringId": "42327-changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\general_items_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\general_items_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "42305-changes_otto.mod": {
+    "stringId": "42305-changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 2,
+      "normal map": {
+        "path": ".\\data\\buildings\\Crops\\Textures\\farm_crops_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\Crops\\Textures\\farm_crops_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "49931-rebirth.mod": {
+    "stringId": "49931-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": "coloring"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\book03.dds"
+      }
+    },
+    "references": {}
+  },
+  "46042-foodstuff.mod": {
+    "stringId": "46042-foodstuff.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\misc\\FoodUnits_NML.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\misc\\FoodUnits_DIF.dds"
+      }
+    },
+    "references": {}
+  },
+  "44909-rebirth.mod": {
+    "stringId": "44909-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": "coloring"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ""
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "45548-changes_otto.mod": {
+    "stringId": "45548-changes_otto.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\map_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\map_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "51319-rebirth.mod": {
+    "stringId": "51319-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\samurai_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\samurai01\\Samurai_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "55394-rebirth.mod": {
+    "stringId": "55394-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\dusthat_n_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\dusthat_d_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96015-rebirth.mod": {
+    "stringId": "96015-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Tooth-Pick_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Tooth-Pick_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96016-rebirth.mod": {
+    "stringId": "96016-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Spring-Bat_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Spring-Bat_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "96009-limbs.mod": {
+    "stringId": "96009-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_body_mask.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_body_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "96010-limbs.mod": {
+    "stringId": "96010-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_body_mask.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_body_2_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "120-limbs.mod": {
+    "stringId": "120-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_body_mask_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_body_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "96007-limbs.mod": {
+    "stringId": "96007-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_body_mask_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_body_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "96910-limbs.mod": {
+    "stringId": "96910-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_body_pale_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "96905-limbs.mod": {
+    "stringId": "96905-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_body_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "96915-limbs.mod": {
+    "stringId": "96915-limbs.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_body_normal.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_body_diffuse_South_Hive.dds"
+      }
+    },
+    "references": {}
+  },
+  "1533853-rebirth.mod": {
+    "stringId": "1533853-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Tagelmust_Chainmail_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Tagelmust_Chainmail_dark_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1533854-rebirth.mod": {
+    "stringId": "1533854-rebirth.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_masks_HI.dds"
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_N_HI.dds"
+      },
+      "paint factor 1": 1.0,
+      "paint factor 2": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Samurai6_dark_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1534054-Newwworld Plus.mod": {
+    "stringId": "1534054-Newwworld Plus.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\undershirt\\Chain Vest ExtraBits+_ NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\undershirt\\Chain Vest ExtraBits+_ DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1534059-Newwworld Plus.mod": {
+    "stringId": "1534059-Newwworld Plus.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\textures\\Outlander Jacket_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\textures\\Outlander Jacket_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1534056-Newwworld Plus.mod": {
+    "stringId": "1534056-Newwworld Plus.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\armour\\head\\Umbrella Hat_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\armour\\head\\Umbrella Hat_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1534060-Newwworld Plus.mod": {
+    "stringId": "1534060-Newwworld Plus.mod",
+    "type": "MaterialSpecsClothing",
+    "values": {
+      "color map": {
+        "path": ""
+      },
+      "material type": 0,
+      "normal map": {
+        "path": ".\\data\\items\\undershirt\\Hive_leather shirt_Belt-bit_NML_HI.dds"
+      },
+      "paint factor 1": 0.0,
+      "paint factor 2": 0.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\undershirt\\Hive_leather shirt_Belt-bit_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  }
+}

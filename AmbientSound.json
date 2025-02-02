@@ -1,0 +1,353 @@
+{
+  "95408-sfx.mod": {
+    "stringId": "95408-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Auto_Mine",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95409-sfx.mod": {
+    "stringId": "95409-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Battery_Bank",
+      "intensity": 1.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95407-sfx.mod": {
+    "stringId": "95407-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "BioFuel",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95404-sfx.mod": {
+    "stringId": "95404-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Fire",
+      "intensity": 0.1,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95410-sfx.mod": {
+    "stringId": "95410-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Ceiling_Fan",
+      "intensity": 1.0,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95411-sfx.mod": {
+    "stringId": "95411-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Electronics_Bench",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95412-sfx.mod": {
+    "stringId": "95412-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Furnace",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95398-sfx.mod": {
+    "stringId": "95398-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Generator",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95406-sfx.mod": {
+    "stringId": "95406-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Silo_Grind",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95413-sfx.mod": {
+    "stringId": "95413-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Leather_Tanning",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95414-sfx.mod": {
+    "stringId": "95414-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Light_Hum",
+      "intensity": 1.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95415-sfx.mod": {
+    "stringId": "95415-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Loom",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95416-sfx.mod": {
+    "stringId": "95416-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Medical_Bench",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95397-sfx.mod": {
+    "stringId": "95397-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.6,
+      "emitter": "Oven",
+      "intensity": 0.0,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95417-sfx.mod": {
+    "stringId": "95417-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Research_bench",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95418-sfx.mod": {
+    "stringId": "95418-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Robotics_Bench",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95419-sfx.mod": {
+    "stringId": "95419-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Rum_Still",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95405-sfx.mod": {
+    "stringId": "95405-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.75,
+      "emitter": "Stone_Processor",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95420-sfx.mod": {
+    "stringId": "95420-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Water_Tank",
+      "intensity": 1.0,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95421-sfx.mod": {
+    "stringId": "95421-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Water_Well",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95422-sfx.mod": {
+    "stringId": "95422-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Windmill_Large",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "95423-sfx.mod": {
+    "stringId": "95423-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 1.0,
+      "emitter": "Windmill_Small",
+      "intensity": 0.0,
+      "needs power": true
+    },
+    "references": {}
+  },
+  "56163-rebirth.mod": {
+    "stringId": "56163-rebirth.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Fire",
+      "intensity": 0.1,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95424-sfx.mod": {
+    "stringId": "95424-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Fire",
+      "intensity": 0.0,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95425-sfx.mod": {
+    "stringId": "95425-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Corpse_Flies",
+      "intensity": 1.0,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "95426-sfx.mod": {
+    "stringId": "95426-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 300.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Sun_Beams",
+      "intensity": 1.0,
+      "needs power": false
+    },
+    "references": {}
+  },
+  "96139-sfx.mod": {
+    "stringId": "96139-sfx.mod",
+    "type": "AmbientSound",
+    "values": {
+      "chance": 1.0,
+      "cutoff": 50.0,
+      "efficiency multiplier": 0.0,
+      "emitter": "Iron_Spider",
+      "intensity": 0.0,
+      "needs power": false
+    },
+    "references": {}
+  }
+}

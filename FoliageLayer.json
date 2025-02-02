@@ -1,0 +1,7271 @@
+{
+  "4422-Newwworld.mod": {
+    "stringId": "4422-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4421-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1452-vurt.mod": {
+    "stringId": "1452-vurt.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "1462-vurt.mod": [
+          70,
+          0,
+          0
+        ],
+        "1466-vurt.mod": [
+          1,
+          0,
+          0
+        ],
+        "1467-vurt.mod": [
+          1,
+          0,
+          0
+        ],
+        "1470-vurt.mod": [
+          2,
+          0,
+          0
+        ],
+        "1471-vurt.mod": [
+          33,
+          0,
+          0
+        ],
+        "1474-vurt.mod": [
+          1,
+          0,
+          0
+        ],
+        "1475-vurt.mod": [
+          1,
+          0,
+          0
+        ],
+        "1476-vurt.mod": [
+          2,
+          0,
+          0
+        ],
+        "1477-D-vurt.mod": [
+          40,
+          0,
+          0
+        ],
+        "1478-vurt.mod": [
+          70,
+          0,
+          0
+        ],
+        "1482-vurt.mod": [
+          40,
+          0,
+          0
+        ],
+        "1490-vurt.mod": [
+          20,
+          0,
+          0
+        ],
+        "2247-vurt.mod": [
+          25,
+          0,
+          0
+        ],
+        "2248-vurt.mod": [
+          100,
+          0,
+          0
+        ],
+        "2249-vurt.mod": [
+          100,
+          0,
+          0
+        ],
+        "2250-vurt.mod": [
+          22,
+          0,
+          0
+        ],
+        "2251-vurt.mod": [
+          100,
+          0,
+          0
+        ],
+        "2252-vurt.mod": [
+          44,
+          0,
+          0
+        ],
+        "2253-vurt.mod": [
+          1,
+          0,
+          0
+        ],
+        "2254-vurt.mod": [
+          12,
+          0,
+          0
+        ],
+        "2255-vurt.mod": [
+          70,
+          0,
+          0
+        ],
+        "2256-vurt.mod": [
+          70,
+          0,
+          0
+        ],
+        "2258-vurt.mod": [
+          100,
+          0,
+          0
+        ],
+        "2257-D-vurt.mod": [
+          2,
+          0,
+          0
+        ],
+        "2256-D-vurt.mod": [
+          10,
+          0,
+          0
+        ],
+        "2258-D-vurt.mod": [
+          9,
+          0,
+          0
+        ],
+        "2259-D-vurt.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43884-Newwworld.mod": {
+    "stringId": "43884-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "43886-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "43887-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "43888-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "43889-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5509-Newwworld.mod": {
+    "stringId": "5509-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5497-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5498-Newwworld.mod": [
+          120,
+          0,
+          0
+        ],
+        "5499-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "5500-Newwworld.mod": [
+          120,
+          0,
+          0
+        ],
+        "5501-Newwworld.mod": [
+          120,
+          0,
+          0
+        ],
+        "5502-Newwworld.mod": [
+          120,
+          0,
+          0
+        ],
+        "5503-Newwworld.mod": [
+          120,
+          0,
+          0
+        ],
+        "5504-Newwworld.mod": [
+          120,
+          0,
+          0
+        ],
+        "5505-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "5506-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "5507-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "5508-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2215-gamedata.base": {
+    "stringId": "2215-gamedata.base",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {}
+  },
+  "43869-Newwworld.mod": {
+    "stringId": "43869-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "43870-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "43871-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "43872-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "43873-Newwworld.mod": [
+          35,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5639-Newwworld.mod": {
+    "stringId": "5639-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "5638-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5552-Newwworld.mod": {
+    "stringId": "5552-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5551-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4429-Newwworld.mod": {
+    "stringId": "4429-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4428-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3204-Newwworld.mod": {
+    "stringId": "3204-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "3205-Newwworld.mod": [
+          300,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3423-Newwworld.mod": {
+    "stringId": "3423-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3616-Newwworld.mod": [
+          12,
+          0,
+          0
+        ],
+        "3617-Newwworld.mod": [
+          12,
+          0,
+          0
+        ],
+        "3618-Newwworld.mod": [
+          12,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3215-Newwworld.mod": {
+    "stringId": "3215-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "3216-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "3217-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "3218-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "3219-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "3220-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "3221-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2734-Newwworld.mod": {
+    "stringId": "2734-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 300,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48709-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5695-Newwworld.mod": {
+    "stringId": "5695-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5696-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43891-Newwworld.mod": {
+    "stringId": "43891-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "43890-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16851-Newwworld.mod": {
+    "stringId": "16851-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 4700,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "16850-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3231-Newwworld.mod": {
+    "stringId": "3231-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3230-Newwworld.mod": [
+          17,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5730-Newwworld.mod": {
+    "stringId": "5730-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5729-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "5584-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "5585-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "5586-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "5587-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "5588-Newwworld.mod": [
+          35,
+          0,
+          0
+        ],
+        "5589-Newwworld.mod": [
+          35,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3417-Newwworld.mod": {
+    "stringId": "3417-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3414-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "3415-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "3416-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4388-Newwworld.mod": {
+    "stringId": "4388-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4387-Newwworld.mod": [
+          7,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5592-Newwworld.mod": {
+    "stringId": "5592-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5591-Newwworld.mod": [
+          80,
+          0,
+          0
+        ],
+        "5594-Newwworld.mod": [
+          80,
+          0,
+          0
+        ],
+        "5595-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2723-Newwworld.mod": {
+    "stringId": "2723-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2707-Newwworld.mod": [
+          31,
+          0,
+          0
+        ],
+        "2708-Newwworld.mod": [
+          31,
+          0,
+          0
+        ],
+        "2709-Newwworld.mod": [
+          31,
+          0,
+          0
+        ],
+        "2712-Newwworld.mod": [
+          31,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4444-Newwworld.mod": {
+    "stringId": "4444-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4443-Newwworld.mod": [
+          75,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3612-Newwworld.mod": {
+    "stringId": "3612-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3611-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5590-Newwworld.mod": {
+    "stringId": "5590-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5584-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5585-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5586-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5587-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5588-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5589-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3622-Newwworld.mod": {
+    "stringId": "3622-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 60,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3621-Newwworld.mod": [
+          13,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2809-Newwworld.mod": {
+    "stringId": "2809-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2807-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3233-Newwworld.mod": {
+    "stringId": "3233-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3232-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5631-Newwworld.mod": {
+    "stringId": "5631-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5630-Newwworld.mod": [
+          270,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18957-Newwworld.mod": {
+    "stringId": "18957-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "18956-Newwworld.mod": [
+          112,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14547-Newwworld.mod": {
+    "stringId": "14547-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14548-Newwworld.mod": [
+          15,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5572-Newwworld.mod": {
+    "stringId": "5572-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5571-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "5573-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4434-Newwworld.mod": {
+    "stringId": "4434-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4433-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14557-Newwworld.mod": {
+    "stringId": "14557-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14556-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5567-Newwworld.mod": {
+    "stringId": "5567-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "5566-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5575-Newwworld.mod": {
+    "stringId": "5575-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5574-Newwworld.mod": [
+          90,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4420-Newwworld.mod": {
+    "stringId": "4420-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4419-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3236-Newwworld.mod": {
+    "stringId": "3236-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3235-Newwworld.mod": [
+          8,
+          0,
+          0
+        ],
+        "3237-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "3238-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2994-Newwworld.mod": {
+    "stringId": "2994-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "3440-Newwworld.mod": [
+          700,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5721-Newwworld.mod": {
+    "stringId": "5721-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5711-Newwworld.mod": [
+          8,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5547-Newwworld.mod": {
+    "stringId": "5547-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5544-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14545-Newwworld.mod": {
+    "stringId": "14545-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14543-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3777-Newwworld.mod": {
+    "stringId": "3777-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 1800,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "3776-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5748-Newwworld.mod": {
+    "stringId": "5748-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5747-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5749-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5750-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14555-Newwworld.mod": {
+    "stringId": "14555-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14554-Newwworld.mod": [
+          12,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4436-Newwworld.mod": {
+    "stringId": "4436-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4435-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4449-Newwworld.mod": {
+    "stringId": "4449-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4447-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4448-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4450-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4451-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4452-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4453-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4454-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4455-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4456-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4457-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4458-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4459-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4460-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "4461-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2981-Newwworld.mod": {
+    "stringId": "2981-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2980-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3771-Newwworld.mod": {
+    "stringId": "3771-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "3771-D-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3772-D-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3772-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3773-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3774-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2721-Newwworld.mod": {
+    "stringId": "2721-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2700-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3373-Newwworld.mod": {
+    "stringId": "3373-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3374-Newwworld.mod": [
+          500,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "2949-Newwworld.mod": {
+    "stringId": "2949-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2944-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1456-vurt.mod": {
+    "stringId": "1456-vurt.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "1488-vurt.mod": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "4424-Newwworld.mod": {
+    "stringId": "4424-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4423-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5556-Newwworld.mod": {
+    "stringId": "5556-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5555-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4488-Newwworld.mod": {
+    "stringId": "4488-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4487-Newwworld.mod": [
+          45,
+          0,
+          0
+        ],
+        "4489-Newwworld.mod": [
+          45,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3442-Newwworld.mod": {
+    "stringId": "3442-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3441-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14392-Newwworld.mod": {
+    "stringId": "14392-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14391-Newwworld.mod": [
+          75,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3225-Newwworld.mod": {
+    "stringId": "3225-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "3224-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "3228-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "3229-Newwworld.mod": [
+          200,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5812-Newwworld.mod": {
+    "stringId": "5812-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5811-Newwworld.mod": [
+          90,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43868-Newwworld.mod": {
+    "stringId": "43868-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "43867-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2722-Newwworld.mod": {
+    "stringId": "2722-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2714-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3625-Newwworld.mod": {
+    "stringId": "3625-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 1400,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3430-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "3623-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "3624-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2821-Newwworld.mod": {
+    "stringId": "2821-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2820-Newwworld.mod": [
+          120,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3606-Newwworld.mod": {
+    "stringId": "3606-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2714-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2932-Newwworld.mod": {
+    "stringId": "2932-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2929-Newwworld.mod": [
+          15,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3439-Newwworld.mod": {
+    "stringId": "3439-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 800,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3438-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3381-Newwworld.mod": {
+    "stringId": "3381-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3382-Newwworld.mod": [
+          300,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5543-Newwworld.mod": {
+    "stringId": "5543-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5542-Newwworld.mod": [
+          90,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2802-Newwworld.mod": {
+    "stringId": "2802-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "2803-Newwworld.mod": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "3444-Newwworld.mod": {
+    "stringId": "3444-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "1464-vurt.mod": [
+          45,
+          0,
+          0
+        ],
+        "1465-vurt.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5649-Newwworld.mod": {
+    "stringId": "5649-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5643-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "5644-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "5645-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "5646-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "5647-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "5648-Newwworld.mod": [
+          450,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5709-Newwworld.mod": {
+    "stringId": "5709-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5700-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "5701-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14386-Newwworld.mod": {
+    "stringId": "14386-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14385-Newwworld.mod": [
+          1200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5518-Newwworld.mod": {
+    "stringId": "5518-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5517-Newwworld.mod": [
+          135,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5846-Newwworld.mod": {
+    "stringId": "5846-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5845-Newwworld.mod": [
+          65,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5559-Newwworld.mod": {
+    "stringId": "5559-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5557-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3203-Newwworld.mod": {
+    "stringId": "3203-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3202-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5783-Newwworld.mod": {
+    "stringId": "5783-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod range": 450,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5784-Newwworld.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5626-Newwworld.mod": {
+    "stringId": "5626-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5625-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3448-Newwworld.mod": {
+    "stringId": "3448-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3447-Newwworld.mod": [
+          270,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5554-Newwworld.mod": {
+    "stringId": "5554-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5553-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5731-Newwworld.mod": {
+    "stringId": "5731-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5734-Newwworld.mod": [
+          35,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3385-Newwworld.mod": {
+    "stringId": "3385-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3384-Newwworld.mod": [
+          8,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "14388-Newwworld.mod": {
+    "stringId": "14388-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 250,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14387-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3634-Newwworld.mod": {
+    "stringId": "3634-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3633-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5534-Newwworld.mod": {
+    "stringId": "5534-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 900,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5533-Newwworld.mod": [
+          90,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3431-Newwworld.mod": {
+    "stringId": "3431-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3430-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14560-Newwworld.mod": {
+    "stringId": "14560-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 500,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14559-Newwworld.mod": [
+          8,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5520-Newwworld.mod": {
+    "stringId": "5520-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5517-Newwworld.mod": [
+          75,
+          0,
+          0
+        ],
+        "5519-Newwworld.mod": [
+          75,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4427-Newwworld.mod": {
+    "stringId": "4427-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4426-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5804-Newwworld.mod": {
+    "stringId": "5804-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5802-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "49570-Newwworld.mod": {
+    "stringId": "49570-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "49569-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5807-Newwworld.mod": {
+    "stringId": "5807-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5806-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2964-Newwworld.mod": {
+    "stringId": "2964-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2963-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3127-Newwworld.mod": {
+    "stringId": "3127-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3119-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3118-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3120-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3121-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3122-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3123-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3124-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "3125-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18942-Newwworld.mod": {
+    "stringId": "18942-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 500,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "18941-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5820-Newwworld.mod": {
+    "stringId": "5820-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5819-Newwworld.mod": [
+          450,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3242-Newwworld.mod": {
+    "stringId": "3242-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3241-Newwworld.mod": [
+          45,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5733-Newwworld.mod": {
+    "stringId": "5733-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5734-Newwworld.mod": [
+          35,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2738-Newwworld.mod": {
+    "stringId": "2738-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2739-Newwworld.mod": [
+          1400,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "4482-Newwworld.mod": {
+    "stringId": "4482-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1000,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4476-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4477-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4478-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4479-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4480-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4481-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4418-Newwworld.mod": {
+    "stringId": "4418-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 350,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4417-Newwworld.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5523-Newwworld.mod": {
+    "stringId": "5523-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5522-Newwworld.mod": [
+          750,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48688-Newwworld.mod": {
+    "stringId": "48688-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48683-Newwworld.mod": [
+          4,
+          0,
+          0
+        ],
+        "48684-Newwworld.mod": [
+          4,
+          0,
+          0
+        ],
+        "48685-Newwworld.mod": [
+          4,
+          0,
+          0
+        ],
+        "48686-Newwworld.mod": [
+          4,
+          0,
+          0
+        ],
+        "48687-Newwworld.mod": [
+          4,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2927-Newwworld.mod": {
+    "stringId": "2927-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2926-Newwworld.mod": [
+          900,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "48782-Newwworld.mod": {
+    "stringId": "48782-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48781-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5831-Newwworld.mod": {
+    "stringId": "5831-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5827-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3244-Newwworld.mod": {
+    "stringId": "3244-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3243-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4432-Newwworld.mod": {
+    "stringId": "4432-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4431-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3223-Newwworld.mod": {
+    "stringId": "3223-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "3222-Newwworld.mod": [
+          150,
+          100,
+          0
+        ],
+        "3226-Newwworld.mod": [
+          150,
+          100,
+          0
+        ],
+        "3227-Newwworld.mod": [
+          150,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "47185-Newwworld.mod": {
+    "stringId": "47185-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47184-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44955-Newwworld.mod": {
+    "stringId": "44955-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "44952-Newwworld.mod": [
+          750,
+          0,
+          0
+        ],
+        "44953-Newwworld.mod": [
+          750,
+          0,
+          0
+        ],
+        "44954-Newwworld.mod": [
+          750,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50570-Newwworld.mod": {
+    "stringId": "50570-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 320,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "50569-Newwworld.mod": [
+          9,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4446-Newwworld.mod": {
+    "stringId": "4446-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 4500,
+      "page size": 100,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4445-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5564-Newwworld.mod": {
+    "stringId": "5564-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 250,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5563-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46971-Newwworld.mod": {
+    "stringId": "46971-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "44952-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "44953-Newwworld.mod": [
+          450,
+          0,
+          0
+        ],
+        "44954-Newwworld.mod": [
+          450,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5665-Newwworld.mod": {
+    "stringId": "5665-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5664-Newwworld.mod": [
+          14,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3390-Newwworld.mod": {
+    "stringId": "3390-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3389-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16844-Newwworld.mod": {
+    "stringId": "16844-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1500,
+      "page size": 500,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "16843-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4437-Newwworld.mod": {
+    "stringId": "4437-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "grass": {
+        "4438-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "4439-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5637-Newwworld.mod": {
+    "stringId": "5637-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5636-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48729-Newwworld.mod": {
+    "stringId": "48729-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "48730-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42327-Newwworld.mod": {
+    "stringId": "42327-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2744-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3437-Newwworld.mod": {
+    "stringId": "3437-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3436-Newwworld.mod": [
+          900,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5799-Newwworld.mod": {
+    "stringId": "5799-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5798-Newwworld.mod": [
+          500,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4495-Newwworld.mod": {
+    "stringId": "4495-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 180,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4494-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4497-Newwworld.mod": {
+    "stringId": "4497-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4496-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "4498-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "4499-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5842-Newwworld.mod": {
+    "stringId": "5842-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5841-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5670-Newwworld.mod": {
+    "stringId": "5670-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 50,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2714-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5817-Newwworld.mod": {
+    "stringId": "5817-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5816-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5793-Newwworld.mod": {
+    "stringId": "5793-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "grass": {
+        "5792-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14542-Newwworld.mod": {
+    "stringId": "14542-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "2249-vurt.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48728-Newwworld.mod": {
+    "stringId": "48728-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 140,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "48727-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5577-Newwworld.mod": {
+    "stringId": "5577-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5576-Newwworld.mod": [
+          22,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14398-Newwworld.mod": {
+    "stringId": "14398-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14397-Newwworld.mod": [
+          800,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "17969-Newwworld.mod": {
+    "stringId": "17969-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "17966-Newwworld.mod": [
+          45,
+          0,
+          0
+        ],
+        "17967-Newwworld.mod": [
+          45,
+          0,
+          0
+        ],
+        "17968-Newwworld.mod": [
+          45,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42332-Newwworld.mod": {
+    "stringId": "42332-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "42328-Newwworld.mod": [
+          235,
+          0,
+          0
+        ],
+        "42329-Newwworld.mod": [
+          235,
+          0,
+          0
+        ],
+        "42330-Newwworld.mod": [
+          235,
+          0,
+          0
+        ],
+        "42331-Newwworld.mod": [
+          235,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5754-Newwworld.mod": {
+    "stringId": "5754-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5753-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5561-Newwworld.mod": {
+    "stringId": "5561-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5560-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46968-Newwworld.mod": {
+    "stringId": "46968-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "46967-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56738-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47748-Newwworld.mod": {
+    "stringId": "47748-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 2500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47747-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5629-Newwworld.mod": {
+    "stringId": "5629-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5628-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48691-Newwworld.mod": {
+    "stringId": "48691-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 2,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48692-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48693-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48694-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48695-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48696-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48697-Newwworld.mod": [
+          350,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2808-Newwworld.mod": {
+    "stringId": "2808-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2807-Newwworld.mod": [
+          300,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3421-Newwworld.mod": {
+    "stringId": "3421-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3418-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "3419-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "3420-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3632-Newwworld.mod": {
+    "stringId": "3632-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3631-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "49572-Newwworld.mod": {
+    "stringId": "49572-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 270,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "49571-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5618-Newwworld.mod": {
+    "stringId": "5618-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 350,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5614-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "5615-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "5616-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "5617-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4503-Newwworld.mod": {
+    "stringId": "4503-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4502-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42324-Newwworld.mod": {
+    "stringId": "42324-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "42322-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "42323-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "42325-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "42326-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3240-Newwworld.mod": {
+    "stringId": "3240-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3239-Newwworld.mod": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5805-Newwworld.mod": {
+    "stringId": "5805-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5803-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50576-Newwworld.mod": {
+    "stringId": "50576-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "50575-Newwworld.mod": [
+          22,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42263-Newwworld.mod": {
+    "stringId": "42263-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "42262-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14541-Newwworld.mod": {
+    "stringId": "14541-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "2251-vurt.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3445-Newwworld.mod": {
+    "stringId": "3445-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "1470-vurt.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48750-Newwworld.mod": {
+    "stringId": "48750-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48749-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "48751-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "48752-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "48753-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "48754-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5815-Newwworld.mod": {
+    "stringId": "5815-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5814-Newwworld.mod": [
+          50,
+          0,
+          0
+        ],
+        "5816-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5764-Newwworld.mod": {
+    "stringId": "5764-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5761-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "5762-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "5763-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5760-Newwworld.mod": [
+          600,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4486-Newwworld.mod": {
+    "stringId": "4486-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "4483-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4484-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "4485-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3207-Newwworld.mod": {
+    "stringId": "3207-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "3206-Newwworld.mod": [
+          30,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5565-Newwworld.mod": {
+    "stringId": "5565-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "5565-D-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3615-Newwworld.mod": {
+    "stringId": "3615-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3614-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "4430-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "45553-Newwworld.mod": {
+    "stringId": "45553-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 550,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "45554-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5603-Newwworld.mod": {
+    "stringId": "5603-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 120,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5602-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47238-Newwworld.mod": {
+    "stringId": "47238-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 170,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47237-Newwworld.mod": [
+          7,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2925-Newwworld.mod": {
+    "stringId": "2925-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2924-Newwworld.mod": [
+          10,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "48473-Newwworld.mod": {
+    "stringId": "48473-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 120,
+      "page size": 75,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48472-Newwworld.mod": [
+          850,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5605-Newwworld.mod": {
+    "stringId": "5605-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 220,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5604-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4386-Newwworld.mod": {
+    "stringId": "4386-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1000,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4385-Newwworld.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3429-Newwworld.mod": {
+    "stringId": "3429-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3428-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48745-Newwworld.mod": {
+    "stringId": "48745-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48740-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "48741-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "48742-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "48743-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "48744-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "48746-Newwworld.mod": [
+          1800,
+          0,
+          0
+        ],
+        "48747-Newwworld.mod": [
+          1800,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5640-Newwworld.mod": {
+    "stringId": "5640-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4430-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48711-Newwworld.mod": {
+    "stringId": "48711-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48710-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48712-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48713-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48714-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48715-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48716-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48717-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48718-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48719-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48720-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48721-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48722-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48723-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48724-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48725-Newwworld.mod": [
+          14,
+          0,
+          0
+        ],
+        "48726-Newwworld.mod": [
+          14,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3393-Newwworld.mod": {
+    "stringId": "3393-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3392-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48458-Newwworld.mod": {
+    "stringId": "48458-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48457-Newwworld.mod": [
+          350,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5848-Newwworld.mod": {
+    "stringId": "5848-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5847-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4472-Newwworld.mod": {
+    "stringId": "4472-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4471-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "4473-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "4474-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "4475-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14549-Newwworld.mod": {
+    "stringId": "14549-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1500,
+      "page size": 500,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14548-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2973-Newwworld.mod": {
+    "stringId": "2973-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2972-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2745-Newwworld.mod": {
+    "stringId": "2745-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2744-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47757-Newwworld.mod": {
+    "stringId": "47757-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47752-Newwworld.mod": [
+          80,
+          0,
+          0
+        ],
+        "47753-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "47754-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "47755-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "47756-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3426-Newwworld.mod": {
+    "stringId": "3426-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3425-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5775-Newwworld.mod": {
+    "stringId": "5775-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 800,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5771-Newwworld.mod": [
+          420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5739-Newwworld.mod": {
+    "stringId": "5739-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5740-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "5741-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "5742-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "5743-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "5744-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4493-Newwworld.mod": {
+    "stringId": "4493-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4492-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46969-Newwworld.mod": {
+    "stringId": "46969-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "46970-Newwworld.mod": [
+          120,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5797-Newwworld.mod": {
+    "stringId": "5797-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5796-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3446-Newwworld.mod": {
+    "stringId": "3446-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 550,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3446-D-Newwworld.mod": [
+          90,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5514-Newwworld.mod": {
+    "stringId": "5514-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5512-Newwworld.mod": [
+          1800,
+          0,
+          0
+        ],
+        "5513-Newwworld.mod": [
+          1800,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5770-Newwworld.mod": {
+    "stringId": "5770-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5765-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5766-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5767-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5768-Newwworld.mod": [
+          100,
+          0,
+          0
+        ],
+        "5769-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4441-Newwworld.mod": {
+    "stringId": "4441-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4440-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3627-Newwworld.mod": {
+    "stringId": "3627-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3628-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5759-Newwworld.mod": {
+    "stringId": "5759-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 850,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5758-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "17952-Newwworld.mod": {
+    "stringId": "17952-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 2,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "44865-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "44866-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "44867-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "44868-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "44869-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "44870-Newwworld.mod": [
+          250,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48732-Newwworld.mod": {
+    "stringId": "48732-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 180,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "48731-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5608-Newwworld.mod": {
+    "stringId": "5608-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5607-Newwworld.mod": [
+          19,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3619-Newwworld.mod": {
+    "stringId": "3619-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "3422-Newwworld.mod": [
+          5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2798-Newwworld.mod": {
+    "stringId": "2798-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2797-Newwworld.mod": [
+          7,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3214-Newwworld.mod": {
+    "stringId": "3214-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "3208-Newwworld.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48701-Newwworld.mod": {
+    "stringId": "48701-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48698-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "48699-Newwworld.mod": [
+          250,
+          0,
+          0
+        ],
+        "48700-Newwworld.mod": [
+          250,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4491-Newwworld.mod": {
+    "stringId": "4491-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 100,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4490-Newwworld.mod": [
+          25,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5795-Newwworld.mod": {
+    "stringId": "5795-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5794-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5580-Newwworld.mod": {
+    "stringId": "5580-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5579-Newwworld.mod": [
+          75,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5801-Newwworld.mod": {
+    "stringId": "5801-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5800-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5826-Newwworld.mod": {
+    "stringId": "5826-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "5825-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4465-Newwworld.mod": {
+    "stringId": "4465-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4462-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "4463-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "4464-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5687-Newwworld.mod": {
+    "stringId": "5687-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5688-Newwworld.mod": [
+          4,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2922-Newwworld.mod": {
+    "stringId": "2922-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2921-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2996-Newwworld.mod": {
+    "stringId": "2996-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "2995-Newwworld.mod": [
+          300,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5633-Newwworld.mod": {
+    "stringId": "5633-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5632-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2971-Newwworld.mod": {
+    "stringId": "2971-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2968-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "2969-Newwworld.mod": [
+          20,
+          0,
+          0
+        ],
+        "2970-Newwworld.mod": [
+          15,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5824-Newwworld.mod": {
+    "stringId": "5824-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "5821-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44938-Newwworld.mod": {
+    "stringId": "44938-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "44935-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "44936-Newwworld.mod": [
+          400,
+          0,
+          0
+        ],
+        "44937-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3246-Newwworld.mod": {
+    "stringId": "3246-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "3245-Newwworld.mod": [
+          2000,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "5738-Newwworld.mod": {
+    "stringId": "5738-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "4430-Newwworld.mod": [
+          8,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5791-Newwworld.mod": {
+    "stringId": "5791-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5790-Newwworld.mod": [
+          15,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5839-Newwworld.mod": {
+    "stringId": "5839-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "5838-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48708-Newwworld.mod": {
+    "stringId": "48708-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 2,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "48702-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48703-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48704-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48705-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48706-Newwworld.mod": [
+          350,
+          0,
+          0
+        ],
+        "48707-Newwworld.mod": [
+          350,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "17959-Newwworld.mod": {
+    "stringId": "17959-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "17958-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5601-Newwworld.mod": {
+    "stringId": "5601-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5599-Newwworld.mod": [
+          75,
+          0,
+          0
+        ],
+        "5600-Newwworld.mod": [
+          75,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "40622-Newwworld.mod": {
+    "stringId": "40622-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "40621-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40623-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40624-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40625-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40626-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40627-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40628-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40629-Newwworld.mod": [
+          30,
+          0,
+          0
+        ],
+        "40630-Newwworld.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3396-Newwworld.mod": {
+    "stringId": "3396-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "2980-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47182-Newwworld.mod": {
+    "stringId": "47182-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 50,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47180-Newwworld.mod": [
+          70,
+          0,
+          0
+        ],
+        "47181-Newwworld.mod": [
+          9,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5598-Newwworld.mod": {
+    "stringId": "5598-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5597-Newwworld.mod": [
+          600,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "17947-Newwworld.mod": {
+    "stringId": "17947-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "17946-Newwworld.mod": [
+          700,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50636-Newwworld.mod": {
+    "stringId": "50636-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 150,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "50635-Newwworld.mod": [
+          95,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50638-Newwworld.mod": {
+    "stringId": "50638-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 800,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "50637-Newwworld.mod": [
+          24,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50644-Newwworld.mod": {
+    "stringId": "50644-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "50643-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50925-Newwworld.mod": {
+    "stringId": "50925-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "50921-Newwworld.mod": [
+          80,
+          0,
+          0
+        ],
+        "50922-Newwworld.mod": [
+          80,
+          0,
+          0
+        ],
+        "50923-Newwworld.mod": [
+          80,
+          0,
+          0
+        ],
+        "50924-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50927-Newwworld.mod": {
+    "stringId": "50927-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 120,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "50926-Newwworld.mod": [
+          700,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50991-Newwworld.mod": {
+    "stringId": "50991-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "50990-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "50993-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "50994-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "50995-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "50996-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "50997-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "50998-Newwworld.mod": [
+          32,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51017-Newwworld.mod": {
+    "stringId": "51017-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 920,
+      "page size": 100,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "51016-Newwworld.mod": [
+          7,
+          0,
+          0
+        ],
+        "51018-Newwworld.mod": [
+          13,
+          0,
+          0
+        ],
+        "51019-Newwworld.mod": [
+          13,
+          0,
+          0
+        ],
+        "51020-Newwworld.mod": [
+          13,
+          0,
+          0
+        ],
+        "51021-Newwworld.mod": [
+          9,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51368-Newwworld.mod": {
+    "stringId": "51368-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51367-Newwworld.mod": [
+          15,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51388-Newwworld.mod": {
+    "stringId": "51388-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 300,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51387-Newwworld.mod": [
+          18,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51391-Newwworld.mod": {
+    "stringId": "51391-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51389-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51392-Newwworld.mod": {
+    "stringId": "51392-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51390-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51398-Newwworld.mod": {
+    "stringId": "51398-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 350,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5737-Newwworld.mod": [
+          1500,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51400-Newwworld.mod": {
+    "stringId": "51400-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51399-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51402-Newwworld.mod": {
+    "stringId": "51402-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51401-Newwworld.mod": [
+          25,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51404-Newwworld.mod": {
+    "stringId": "51404-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 50,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51403-Newwworld.mod": [
+          125,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51418-Newwworld.mod": {
+    "stringId": "51418-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51417-Newwworld.mod": [
+          250,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51496-Newwworld.mod": {
+    "stringId": "51496-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "51497-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51633-Newwworld.mod": {
+    "stringId": "51633-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 2,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51634-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51635-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51636-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51637-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51638-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51639-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51643-Newwworld.mod": {
+    "stringId": "51643-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51640-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51641-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51642-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51660-Newwworld.mod": {
+    "stringId": "51660-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 120,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51644-Newwworld.mod": [
+          8,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51809-Newwworld.mod": {
+    "stringId": "51809-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "14548-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "14550-Newwworld.mod": [
+          7,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51814-Newwworld.mod": {
+    "stringId": "51814-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 2,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51815-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51816-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51818-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51819-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51820-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "51821-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51825-Newwworld.mod": {
+    "stringId": "51825-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 30,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "51822-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "51823-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "51824-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51828-Newwworld.mod": {
+    "stringId": "51828-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 30,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "51827-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51830-Newwworld.mod": {
+    "stringId": "51830-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 30,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "51829-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "51831-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "51832-Newwworld.mod": [
+          40,
+          0,
+          0
+        ],
+        "51833-Newwworld.mod": [
+          90,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51835-Newwworld.mod": {
+    "stringId": "51835-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 100,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51834-Newwworld.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51837-Newwworld.mod": {
+    "stringId": "51837-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 100,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51836-Newwworld.mod": [
+          1000,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51844-Newwworld.mod": {
+    "stringId": "51844-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51842-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51849-Newwworld.mod": {
+    "stringId": "51849-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "51845-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "51846-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "51847-Newwworld.mod": [
+          2,
+          0,
+          0
+        ],
+        "51848-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52157-Newwworld.mod": {
+    "stringId": "52157-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 100,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "52156-Newwworld.mod": [
+          18,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "53192-Newwworld.mod": {
+    "stringId": "53192-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "53191-Newwworld.mod": [
+          4,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55114-Newwworld.mod": {
+    "stringId": "55114-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 700,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55111-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55232-Newwworld.mod": {
+    "stringId": "55232-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 600,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55228-Newwworld.mod": [
+          85,
+          0,
+          0
+        ],
+        "55229-Newwworld.mod": [
+          85,
+          0,
+          0
+        ],
+        "55230-Newwworld.mod": [
+          85,
+          0,
+          0
+        ],
+        "55231-Newwworld.mod": [
+          85,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55234-Newwworld.mod": {
+    "stringId": "55234-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 160,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "55233-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55236-Newwworld.mod": {
+    "stringId": "55236-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55235-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55237-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55238-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55239-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55240-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55241-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55242-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55243-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55244-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55245-Newwworld.mod": [
+          180,
+          0,
+          0
+        ],
+        "55246-Newwworld.mod": [
+          180,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55247-Newwworld.mod": {
+    "stringId": "55247-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55248-Newwworld.mod": [
+          130,
+          0,
+          0
+        ],
+        "55249-Newwworld.mod": [
+          130,
+          0,
+          0
+        ],
+        "55250-Newwworld.mod": [
+          130,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55251-Newwworld.mod": {
+    "stringId": "55251-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "4433-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55252-Newwworld.mod": {
+    "stringId": "55252-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "grass": {
+        "55253-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55255-Newwworld.mod": {
+    "stringId": "55255-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55254-Newwworld.mod": [
+          730,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55257-Newwworld.mod": {
+    "stringId": "55257-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1100,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55256-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55261-Newwworld.mod": {
+    "stringId": "55261-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 4000,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55258-Newwworld.mod": [
+          25,
+          0,
+          0
+        ],
+        "55259-Newwworld.mod": [
+          25,
+          0,
+          0
+        ],
+        "55260-Newwworld.mod": [
+          25,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55265-Newwworld.mod": {
+    "stringId": "55265-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 2500,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55262-Newwworld.mod": [
+          60,
+          0,
+          0
+        ],
+        "55263-Newwworld.mod": [
+          60,
+          0,
+          0
+        ],
+        "55264-Newwworld.mod": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55401-Newwworld.mod": {
+    "stringId": "55401-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 250,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "55402-Newwworld.mod": [
+          9,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56187-Newwworld.mod": {
+    "stringId": "56187-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "56186-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56588-Newwworld.mod": {
+    "stringId": "56588-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "5696-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56735-Newwworld.mod": {
+    "stringId": "56735-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 80,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "56734-Newwworld.mod": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56737-Newwworld.mod": {
+    "stringId": "56737-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 90,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "56736-Newwworld.mod": [
+          35,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56742-Newwworld.mod": {
+    "stringId": "56742-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 270,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "56741-Newwworld.mod": [
+          800,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56902-Newwworld.mod": {
+    "stringId": "56902-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "56897-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56899-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56896-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56900-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56894-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56898-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "56895-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57288-Newwworld.mod": {
+    "stringId": "57288-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "57287-Newwworld.mod": [
+          3,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57307-Newwworld.mod": {
+    "stringId": "57307-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 2,
+      "lod range": 200,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "57308-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "57309-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "57310-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "57311-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "57312-Newwworld.mod": [
+          200,
+          0,
+          0
+        ],
+        "57313-Newwworld.mod": [
+          200,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57314-Newwworld.mod": {
+    "stringId": "57314-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "57315-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "57316-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57317-Newwworld.mod": {
+    "stringId": "57317-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 1400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 2,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "57318-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "57319-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "57320-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "57321-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "57322-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "57323-Newwworld.mod": [
+          32,
+          0,
+          0
+        ],
+        "57324-Newwworld.mod": [
+          32,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57326-Newwworld.mod": {
+    "stringId": "57326-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 270,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "57325-Newwworld.mod": [
+          80,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64599-Newwworld.mod": {
+    "stringId": "64599-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 3,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "64596-Newwworld.mod": [
+          10,
+          0,
+          0
+        ],
+        "64597-Newwworld.mod": [
+          4,
+          0,
+          0
+        ],
+        "64598-Newwworld.mod": [
+          4,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64606-Newwworld.mod": {
+    "stringId": "64606-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "64600-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "64601-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "64602-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "64603-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "64604-Newwworld.mod": [
+          150,
+          0,
+          0
+        ],
+        "64605-Newwworld.mod": [
+          150,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64866-Newwworld.mod": {
+    "stringId": "64866-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "64867-Newwworld.mod": [
+          1,
+          0,
+          0
+        ],
+        "64868-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532243-Newwworld.mod": {
+    "stringId": "1532243-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 270,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "1532242-Newwworld.mod": [
+          55,
+          0,
+          0
+        ],
+        "1532244-Newwworld.mod": [
+          10,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532245-Newwworld.mod": {
+    "stringId": "1532245-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 270,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "1532244-Newwworld.mod": [
+          160,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533074-Newwworld.mod": {
+    "stringId": "1533074-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "lod levels": 1,
+      "lod range": 400,
+      "page size": 50,
+      "uses foliage system": true,
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "1533075-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "1533076-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "1533077-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "1533078-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ],
+        "1533079-Newwworld.mod": [
+          3500,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533276-Newwworld.mod": {
+    "stringId": "1533276-Newwworld.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": true
+    },
+    "references": {
+      "meshes": {
+        "1533277-Newwworld.mod": [
+          20,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47953-rebirth.mod": {
+    "stringId": "47953-rebirth.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47954-rebirth.mod": [
+          20,
+          0,
+          0
+        ],
+        "47955-rebirth.mod": [
+          30,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47952-rebirth.mod": {
+    "stringId": "47952-rebirth.mod",
+    "type": "FoliageLayer",
+    "values": {
+      "visibility range": 1,
+      "wind": false
+    },
+    "references": {
+      "meshes": {
+        "47951-rebirth.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "2457-gamedata.base": {
+    "stringId": "2457-gamedata.base",
+    "type": "DiplomaticAssaults",
+    "values": {},
+    "references": {
+      "assaults": {
+        "2458-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2463-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2512-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2839-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2361-gamedata.base": {
+    "stringId": "2361-gamedata.base",
+    "type": "DiplomaticAssaults",
+    "values": {},
+    "references": {
+      "assaults": {
+        "2362-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2406-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2955-gamedata.base": {
+    "stringId": "2955-gamedata.base",
+    "type": "DiplomaticAssaults",
+    "values": {},
+    "references": {
+      "assaults": {
+        "2956-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2610-gamedata.base": {
+    "stringId": "2610-gamedata.base",
+    "type": "DiplomaticAssaults",
+    "values": {},
+    "references": {
+      "assaults": {
+        "2611-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "2585-gamedata.base": {
+    "stringId": "2585-gamedata.base",
+    "type": "DiplomaticAssaults",
+    "values": {},
+    "references": {
+      "assaults": {
+        "2586-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2851-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2853-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

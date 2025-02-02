@@ -1,0 +1,515 @@
+{
+  "1367-gamedata.base": {
+    "stringId": "1367-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "2177-gamedata.base": {
+    "stringId": "2177-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "1297-gamedata.base": {
+    "stringId": "1297-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 5329233,
+      "color 2": 3881787
+    },
+    "references": {}
+  },
+  "16862-gamedata.base": {
+    "stringId": "16862-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4526096,
+      "color 2": 7474704
+    },
+    "references": {}
+  },
+  "1256-gamedata.base": {
+    "stringId": "1256-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4227200,
+      "color 2": 32896
+    },
+    "references": {}
+  },
+  "1290-gamedata.base": {
+    "stringId": "1290-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "14536-gamedata.base": {
+    "stringId": "14536-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 9276813,
+      "color 2": 16777215
+    },
+    "references": {}
+  },
+  "3984-gamedata.base": {
+    "stringId": "3984-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 10460829,
+      "color 2": 2631720
+    },
+    "references": {}
+  },
+  "3997-gamedata.base": {
+    "stringId": "3997-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 16777215,
+      "color 2": 16777215
+    },
+    "references": {}
+  },
+  "1291-gamedata.base": {
+    "stringId": "1291-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 6710886,
+      "color 2": 6503464
+    },
+    "references": {}
+  },
+  "2175-gamedata.base": {
+    "stringId": "2175-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "1255-gamedata.base": {
+    "stringId": "1255-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 7474704,
+      "color 2": 16052279
+    },
+    "references": {}
+  },
+  "1257-gamedata.base": {
+    "stringId": "1257-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 9676405,
+      "color 2": 9560460
+    },
+    "references": {}
+  },
+  "1253-gamedata.base": {
+    "stringId": "1253-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 9137198,
+      "color 2": 3627614
+    },
+    "references": {}
+  },
+  "14535-gamedata.base": {
+    "stringId": "14535-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4210752,
+      "color 2": 7566195
+    },
+    "references": {}
+  },
+  "1254-gamedata.base": {
+    "stringId": "1254-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "2174-gamedata.base": {
+    "stringId": "2174-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "18913-gamedata.base": {
+    "stringId": "18913-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 14252382,
+      "color 2": 13991979
+    },
+    "references": {}
+  },
+  "1363-gamedata.base": {
+    "stringId": "1363-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 15518306,
+      "color 2": 2565927
+    },
+    "references": {}
+  },
+  "2176-gamedata.base": {
+    "stringId": "2176-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 16777215,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "1266-gamedata.base": {
+    "stringId": "1266-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 14145495,
+      "color 2": 8487297
+    },
+    "references": {}
+  },
+  "16861-gamedata.base": {
+    "stringId": "16861-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4206672,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "2173-gamedata.base": {
+    "stringId": "2173-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 2894892,
+      "color 2": 6250335
+    },
+    "references": {}
+  },
+  "18912-gamedata.base": {
+    "stringId": "18912-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 12560440,
+      "color 2": 2833227
+    },
+    "references": {}
+  },
+  "51664-Newwworld.mod": {
+    "stringId": "51664-Newwworld.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 2480831,
+      "color 2": 15295766
+    },
+    "references": {}
+  },
+  "51665-Newwworld.mod": {
+    "stringId": "51665-Newwworld.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 16426106,
+      "color 2": 14014569
+    },
+    "references": {}
+  },
+  "14534-gamedata.base": {
+    "stringId": "14534-gamedata.base",
+    "type": "ColorData",
+    "values": {
+      "color 1": 16777215,
+      "color 2": 0
+    },
+    "references": {}
+  },
+  "43408-changes_otto.mod": {
+    "stringId": "43408-changes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 14404507,
+      "color 2": 2377297
+    },
+    "references": {}
+  },
+  "43409-changes_otto.mod": {
+    "stringId": "43409-changes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 10705737,
+      "color 2": 2377297
+    },
+    "references": {}
+  },
+  "42261-rebirth.mod": {
+    "stringId": "42261-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 8405056,
+      "color 2": 8405056
+    },
+    "references": {}
+  },
+  "18913-color_schemes_otto.mod": {
+    "stringId": "18913-color_schemes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 6375747,
+      "color 2": 12961221
+    },
+    "references": {}
+  },
+  "43410-changes_otto.mod": {
+    "stringId": "43410-changes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 9924435,
+      "color 2": 2377297
+    },
+    "references": {}
+  },
+  "43406-changes_otto.mod": {
+    "stringId": "43406-changes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 16250098,
+      "color 2": 15003891
+    },
+    "references": {}
+  },
+  "14536-rebirth.mod": {
+    "stringId": "14536-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 0,
+      "color 2": 16777215
+    },
+    "references": {}
+  },
+  "18914-color_schemes_otto.mod": {
+    "stringId": "18914-color_schemes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4391701,
+      "color 2": 7482665
+    },
+    "references": {}
+  },
+  "42023-rebirth.mod": {
+    "stringId": "42023-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 13991979,
+      "color 2": 13991979
+    },
+    "references": {}
+  },
+  "18915-color_schemes_otto.mod": {
+    "stringId": "18915-color_schemes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 14998959,
+      "color 2": 10450204
+    },
+    "references": {}
+  },
+  "18916-color_schemes_otto.mod": {
+    "stringId": "18916-color_schemes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 7366234,
+      "color 2": 15255656
+    },
+    "references": {}
+  },
+  "43407-changes_otto.mod": {
+    "stringId": "43407-changes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 5848616,
+      "color 2": 2377297
+    },
+    "references": {}
+  },
+  "14537-rebirth.mod": {
+    "stringId": "14537-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 13948116,
+      "color 2": 1315860
+    },
+    "references": {}
+  },
+  "43405-changes_otto.mod": {
+    "stringId": "43405-changes_otto.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 3086863,
+      "color 2": 2377297
+    },
+    "references": {}
+  },
+  "51316-rebirth.mod": {
+    "stringId": "51316-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 8078386,
+      "color 2": 8078386
+    },
+    "references": {}
+  },
+  "51636-rebirth.mod": {
+    "stringId": "51636-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 11451015,
+      "color 2": 11451015
+    },
+    "references": {}
+  },
+  "51649-rebirth.mod": {
+    "stringId": "51649-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 15431766,
+      "color 2": 15431766
+    },
+    "references": {}
+  },
+  "52285-rebirth.mod": {
+    "stringId": "52285-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 3487029,
+      "color 2": 14145495
+    },
+    "references": {}
+  },
+  "52329-rebirth.mod": {
+    "stringId": "52329-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 1582874,
+      "color 2": 1582874
+    },
+    "references": {}
+  },
+  "54583-rebirth.mod": {
+    "stringId": "54583-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4221824,
+      "color 2": 6382620
+    },
+    "references": {}
+  },
+  "55669-rebirth.mod": {
+    "stringId": "55669-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 2105376,
+      "color 2": 2105376
+    },
+    "references": {}
+  },
+  "62193-rebirth.mod": {
+    "stringId": "62193-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 8421568,
+      "color 2": 8421568
+    },
+    "references": {}
+  },
+  "62823-rebirth.mod": {
+    "stringId": "62823-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 15562301,
+      "color 2": 15562301
+    },
+    "references": {}
+  },
+  "63152-rebirth.mod": {
+    "stringId": "63152-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 5457472,
+      "color 2": 3815994
+    },
+    "references": {}
+  },
+  "66298-Boneyard Wolf.mod": {
+    "stringId": "66298-Boneyard Wolf.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 11301977,
+      "color 2": 6371881
+    },
+    "references": {}
+  },
+  "95528-rebirth.mod": {
+    "stringId": "95528-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 4809586,
+      "color 2": 4809586
+    },
+    "references": {}
+  },
+  "96176-rebirth.mod": {
+    "stringId": "96176-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 9112588,
+      "color 2": 14671616
+    },
+    "references": {}
+  },
+  "96456-rebirth.mod": {
+    "stringId": "96456-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 5789784,
+      "color 2": 5855577
+    },
+    "references": {}
+  },
+  "98801-rebirth.mod": {
+    "stringId": "98801-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 7474704,
+      "color 2": 7474704
+    },
+    "references": {}
+  },
+  "1533581-rebirth.mod": {
+    "stringId": "1533581-rebirth.mod",
+    "type": "ColorData",
+    "values": {
+      "color 1": 5329233,
+      "color 2": 14540253
+    },
+    "references": {}
+  }
+}

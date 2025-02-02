@@ -1,0 +1,727 @@
+{
+  "1068-gamedata.base": {
+    "stringId": "1068-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\12_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\12_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1063-gamedata.base": {
+    "stringId": "1063-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1069-gamedata.base": {
+    "stringId": "1069-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": true,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\14_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\14_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "925-gamedata.base": {
+    "stringId": "925-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\04_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\04_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1064-gamedata.base": {
+    "stringId": "1064-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "913-gamedata.base": {
+    "stringId": "913-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": -1,
+      "craft list fixed": false,
+      "defence mod": -1,
+      "description": "This weapon is long dead.  Give it a proper burial.",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1067-gamedata.base": {
+    "stringId": "1067-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\10_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\10_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "916-gamedata.base": {
+    "stringId": "916-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": -1,
+      "craft list fixed": false,
+      "defence mod": -1,
+      "description": "This weapon probably used to be decent enough, but is long past retirement",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1062-gamedata.base": {
+    "stringId": "1062-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "930-gamedata.base": {
+    "stringId": "930-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": true,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\11_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\11_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1072-gamedata.base": {
+    "stringId": "1072-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\tech5r.dds"
+      }
+    },
+    "references": {}
+  },
+  "1058-gamedata.base": {
+    "stringId": "1058-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\06_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\06_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "920-gamedata.base": {
+    "stringId": "920-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 0.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\plain2.dds"
+      }
+    },
+    "references": {}
+  },
+  "1060-gamedata.base": {
+    "stringId": "1060-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": true,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\08_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\08_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1059-gamedata.base": {
+    "stringId": "1059-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\09_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\09_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1061-gamedata.base": {
+    "stringId": "1061-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\07_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\07_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "929-gamedata.base": {
+    "stringId": "929-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "926-gamedata.base": {
+    "stringId": "926-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": true,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\05_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\05_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1065-gamedata.base": {
+    "stringId": "1065-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": true,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\01_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1071-gamedata.base": {
+    "stringId": "1071-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\13_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\13_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "918-gamedata.base": {
+    "stringId": "918-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\03_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\03_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "914-gamedata.base": {
+    "stringId": "914-gamedata.base",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "The condition of this weapon is terrible.  Its barely worth using it to dig holes with.",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\02_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\02_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "66170-Newwworld.mod": {
+    "stringId": "66170-Newwworld.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Crossbow01_NML_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Crossbow01_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "66291-Newwworld.mod": {
+    "stringId": "66291-Newwworld.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Eagles_Cross_NML_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Eagles_Cross_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "66533-Newwworld.mod": {
+    "stringId": "66533-Newwworld.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Tooth-Pick_NML_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Tooth-Pick_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "95869-Newwworld.mod": {
+    "stringId": "95869-Newwworld.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\materials\\Spring-Bat_NML_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\materials\\Spring-Bat_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "48678-rebirth.mod": {
+    "stringId": "48678-rebirth.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": true,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\med4.dds"
+      }
+    },
+    "references": {}
+  },
+  "52293-rebirth.mod": {
+    "stringId": "52293-rebirth.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\items\\weapons\\tex\\15_n_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\items\\weapons\\tex\\15_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "53644-rebirth.mod": {
+    "stringId": "53644-rebirth.mod",
+    "type": "MaterialSpecsWeapon",
+    "values": {
+      "attack mod": 0,
+      "craft list fixed": false,
+      "defence mod": 0,
+      "description": "",
+      "metalness map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ".\\data\\buildings\\tower\\Crossbow Turret_NM_HI.dds"
+      },
+      "overall scale": 1.0,
+      "scale length": 1.0,
+      "scale thickness": 1.0,
+      "scale width": 1.0,
+      "specular mult": 1.0,
+      "texture map": {
+        "path": ".\\data\\buildings\\tower\\Crossbow Turret_Diff_HI.dds"
+      }
+    },
+    "references": {}
+  }
+}

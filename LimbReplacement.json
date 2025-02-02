@@ -1,0 +1,1904 @@
+{
+  "95510-Newwworld.mod": {
+    "stringId": "95510-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Human Male_LEFT_ARM-Stump.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\human_female_Left_Arm_STUMP.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 50,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "95513-Newwworld.mod": {
+    "stringId": "95513-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Human Male_RIGHT_ARM-Stump.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\human_female_Right_Arm_STUMP.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 51,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "95514-Newwworld.mod": {
+    "stringId": "95514-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Human Male RIGHT_LEG.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\human_female_Right_Leg_STUMP.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "95515-Newwworld.mod": {
+    "stringId": "95515-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Human Male_LEFT_LEG.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\human_female_Left_Leg_STUMP.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "95579-Newwworld.mod": {
+    "stringId": "95579-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.7,
+      "athletics mult 1": 1.05,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "An old leg from one of the specialised assassination units from the war.  The rubberised footing has been renewed at some point in recent history, allowing for quiet movement instead of the usual CLANK sounds that most skeletons make when walking.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 175,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.25,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Human Male_LEFT_ROBOT-LEG.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Female_LEFT_ROBOT-LEG.mesh"
+      },
+      "offset": -0.2,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "speed limit": 100,
+      "stealth mult": 0.75,
+      "stealth mult 1": 1.25,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 4000,
+      "value 1": 20000,
+      "weight kg": 15.0
+    },
+    "references": {
+      "material": {
+        "95580-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95742-Newwworld.mod": {
+    "stringId": "95742-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.7,
+      "athletics mult 1": 1.05,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "An old leg from one of the specialised assassination units from the war.  The rubberised footing has been renewed at some point in recent history, allowing for quiet movement instead of the usual CLANK sounds that most skeletons make when walking.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 175,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.25,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Human Male_RIGHT_ROBOT-LEG.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Female_RIGHT_ROBOT-LEG.mesh"
+      },
+      "offset": -0.2,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "speed limit": 100,
+      "stealth mult": 0.75,
+      "stealth mult 1": 1.25,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 4000,
+      "value 1": 20000,
+      "weight kg": 15.0
+    },
+    "references": {
+      "material": {
+        "95580-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95747-Newwworld.mod": {
+    "stringId": "95747-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 20.0,
+      "description": "A common skeleton arm.  Though a few thousand years old, those that have survived in good condition can be more dexterous than human hands.",
+      "dexterity mult": 0.75,
+      "dexterity mult 1": 1.25,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 175,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.2,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\ROBOT-ARM_LEFT_Male.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\ROBOT-ARM_LEFT_Female.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 50,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.75,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.6,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.75,
+      "thievery mult 1": 0.9,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 4,
+      "value": 3500,
+      "value 1": 18000,
+      "weight kg": 9.0
+    },
+    "references": {
+      "material": {
+        "95580-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95748-Newwworld.mod": {
+    "stringId": "95748-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 20.0,
+      "description": "A common skeleton arm.  Though a few thousand years old, those that have survived in good condition can be more dexterous than human hands.",
+      "dexterity mult": 0.75,
+      "dexterity mult 1": 1.25,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 175,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\ROBOT-ARM_RIGHT_Male.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\ROBOT-ARM_RIGHT_Female.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 51,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.75,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.6,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.75,
+      "thievery mult 1": 0.9,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 4,
+      "value": 3500,
+      "value 1": 20000,
+      "weight kg": 10.0
+    },
+    "references": {
+      "material": {
+        "95580-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96020-Newwworld.mod": {
+    "stringId": "96020-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.4,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "The leg of a rebel scout unit.\nThe design has been kept lightweight at the cost of durability, but is capable of impressive speed.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 150,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -4.7,
+      "icon offset yaw": 0.0,
+      "icon zoom": 3.0,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic Athletic Leg_L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic Athletic Leg_Female_L.mesh"
+      },
+      "offset": 0.5,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "speed limit": 100,
+      "stealth mult": 0.25,
+      "stealth mult 1": 0.95,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 1.0,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 4000,
+      "value 1": 20000,
+      "weight kg": 10.0
+    },
+    "references": {
+      "material": {
+        "96019-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96021-Newwworld.mod": {
+    "stringId": "96021-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.4,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "The leg of a rebel scout unit.\nThe design has been kept lightweight at the cost of durability, but is capable of impressive speed.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 150,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -4.4,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.4,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic Athletic Leg_R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic Athletic Leg_Female_R.mesh"
+      },
+      "offset": 0.5,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "speed limit": 100,
+      "stealth mult": 0.25,
+      "stealth mult 1": 0.95,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 1.0,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 4000,
+      "value 1": 20000,
+      "weight kg": 10.0
+    },
+    "references": {
+      "material": {
+        "96019-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96022-Newwworld.mod": {
+    "stringId": "96022-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "An arm from an ancient logistics unit, it has exceptional strength.  \nThese units were used in the corporate factories and warehouses of the distant past.  Due to their inherent slowness they weren't adapted into combat units like their cousins, and remained behind in production roles before they were buried in the ash.",
+      "dexterity mult": 0.6,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 70,
+      "HP 1": 200,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.2,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_muscular_Arm_L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_muscular_Arm_L_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 50,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.25,
+      "swimming mult": 0.6,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.5,
+      "thievery mult 1": 0.9,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 4,
+      "value": 4000,
+      "value 1": 28000,
+      "weight kg": 14.0
+    },
+    "references": {
+      "material": {
+        "96023-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96024-Newwworld.mod": {
+    "stringId": "96024-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "An arm from an ancient logistics unit, it has exceptional strength.  \nThese units were used in the corporate factories and warehouses of the distant past.  Due to their inherent slowness they weren't adapted into combat units like their cousins, and remained behind in production roles before they were buried in the ash.",
+      "dexterity mult": 0.6,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 70,
+      "HP 1": 200,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_muscular_Arm_R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_muscular_Arm_R_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 51,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.25,
+      "swimming mult": 0.6,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.5,
+      "thievery mult 1": 0.9,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 4,
+      "value": 4000,
+      "value 1": 28000,
+      "weight kg": 14.0
+    },
+    "references": {
+      "material": {
+        "96023-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96134-Newwworld.mod": {
+    "stringId": "96134-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.4,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "The Hivers are extremely proud of the skeleton limbs that they supposedly manufacture themselves.  This arm is obviously made mostly out of salvaged parts from other skeleton arms, though they did make a functioning claw hand for it, quite an impressive feat of engineering in this age.  The limb cap is half a grog can with some padding inside.\nThey are good and cheap, but not very durable, and obviously your dexterity is going to suffer from having a claw for a hand.",
+      "dexterity mult": 0.66,
+      "dexterity mult 1": 0.8,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 35,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.2,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Arm_L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Arm_L_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.6,
+      "ranged mult 1": 0.9,
+      "slot": 50,
+      "speed limit": 100,
+      "stealth mult": 0.25,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.66,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.0,
+      "thievery mult 1": 0.5,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 500,
+      "value 1": 3500,
+      "weight kg": 4.0
+    },
+    "references": {
+      "ingredients": {
+        "43397-changes_otto.mod": [
+          200,
+          0,
+          0
+        ],
+        "579-gamedata.base": [
+          200,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "96138-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96135-Newwworld.mod": {
+    "stringId": "96135-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.1,
+      "athletics mult 1": 0.9,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "The Hivers are extremely proud of the skeleton limbs that they supposedly manufacture themselves.  This \"leg\" obviously used to be a skeleton's arm, with the hand removed and half a grog can to act as a stump fitting.  They haven't added any foot, because Hivers don't understand the necessity for feet.\nStill, they are the only modern day manufacturers of artificial limbs.  The natural go-to when you are low on funds and somethings eats off your leg.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 35,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.25,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Leg_R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Leg_R_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.9,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.5,
+      "swimming mult 1": 0.5,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 500,
+      "value 1": 5000,
+      "weight kg": 5.0
+    },
+    "references": {
+      "ingredients": {
+        "43397-changes_otto.mod": [
+          200,
+          0,
+          0
+        ],
+        "579-gamedata.base": [
+          200,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "96138-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96136-Newwworld.mod": {
+    "stringId": "96136-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.1,
+      "athletics mult 1": 0.9,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "The Hivers are extremely proud of the skeleton limbs that they supposedly manufacture themselves.  This \"leg\" obviously used to be a skeleton's arm, with the hand removed and half a grog can to act as a stump fitting.  They haven't added any foot, because Hivers don't understand the necessity for feet.\nStill, they are the only modern day manufacturers of artificial limbs.  The natural go-to when you are low on funds and somethings eats off your leg.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 35,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 3.0,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Leg_L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Leg_L_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.9,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.5,
+      "swimming mult 1": 0.5,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 500,
+      "value 1": 5000,
+      "weight kg": 5.0
+    },
+    "references": {
+      "ingredients": {
+        "43397-changes_otto.mod": [
+          200,
+          0,
+          0
+        ],
+        "579-gamedata.base": [
+          200,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "96138-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96137-Newwworld.mod": {
+    "stringId": "96137-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.4,
+      "athletics mult 1": 1.1,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "The Hivers are extremely proud of the skeleton limbs that they supposedly manufacture themselves.  This arm is obviously made mostly out of salvaged parts from other skeleton arms, though they did make a functioning claw hand for it, quite an impressive feat of engineering in this age.  The limb cap is half a grog can with some padding inside.\nThey are good and cheap, but not very durable, and obviously your dexterity is going to suffer from having a claw for a hand.",
+      "dexterity mult": 0.66,
+      "dexterity mult 1": 0.8,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 35,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 1.5,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Arm_R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Robotic_Economy_Arm_R_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.6,
+      "ranged mult 1": 0.9,
+      "slot": 51,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.6,
+      "strength mult": 0.66,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.0,
+      "thievery mult 1": 0.5,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 500,
+      "value 1": 3500,
+      "weight kg": 4.0
+    },
+    "references": {
+      "ingredients": {
+        "43397-changes_otto.mod": [
+          200,
+          0,
+          0
+        ],
+        "579-gamedata.base": [
+          200,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "96138-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96186-Newwworld.mod": {
+    "stringId": "96186-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 25.0,
+      "description": "The KLR series was legendary for it's simple durability. Designed for the original service bots working alone in remote hostile environments, fancy features and luxuries were ditched in favor of simplicity.\nMany were used on the frontlines of the war, so few can be found today.",
+      "dexterity mult": 0.75,
+      "dexterity mult 1": 1.1,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 100,
+      "HP 1": 250,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.2,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Arm-L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Arm-L_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 50,
+      "speed limit": 100,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.75,
+      "strength mult 1": 1.1,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.2,
+      "thievery mult 1": 0.95,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 5,
+      "value": 5000,
+      "value 1": 35000,
+      "weight kg": 12.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96187-Newwworld.mod": {
+    "stringId": "96187-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 25.0,
+      "description": "The KLR series was legendary for it's simple durability. Designed for the original service bots working alone in remote hostile environments, fancy features and luxuries were ditched in favor of simplicity.",
+      "dexterity mult": 0.75,
+      "dexterity mult 1": 1.1,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 100,
+      "HP 1": 250,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 1.5,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Arm-R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Arm-R_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 51,
+      "speed limit": 100,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.75,
+      "strength mult 1": 1.1,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.2,
+      "thievery mult 1": 0.95,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 5,
+      "value": 5000,
+      "value 1": 35000,
+      "weight kg": 12.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96188-Newwworld.mod": {
+    "stringId": "96188-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.4,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 25.0,
+      "description": "Not the fastest legs around, but a heavy duty KLR leg like this one will keep on running when any normal person would be limping, so the cannibals won't be able to catch up to you and get any more of your limbs.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 100,
+      "HP 1": 300,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 3.0,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-L_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.5,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.5,
+      "swimming mult 1": 0.5,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 3000,
+      "value 1": 30000,
+      "weight kg": 25.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96189-Newwworld.mod": {
+    "stringId": "96189-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.4,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 25.0,
+      "description": "Not the fastest legs around, but a heavy duty KLR leg like this one will keep on running when any normal person would be limping, so the cannibals won't be able to catch up to you and get any more of your limbs.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 100,
+      "HP 1": 300,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.25,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-R_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.5,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.5,
+      "swimming mult 1": 0.5,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 3000,
+      "value 1": 30000,
+      "weight kg": 25.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96796-Newwworld.mod": {
+    "stringId": "96796-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\stick_person\\Stick man LEG Stump L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\stick_person\\Stick man LEG Stump L.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "96797-Newwworld.mod": {
+    "stringId": "96797-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\stick_person\\Stick man LEG Stump R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\stick_person\\Stick man LEG Stump R.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "96798-Newwworld.mod": {
+    "stringId": "96798-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\stick_person\\stick_person ArmSTUMP - L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\stick_person\\stick_person ArmSTUMP - L.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 50,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "96799-Newwworld.mod": {
+    "stringId": "96799-Newwworld.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": false,
+      "combat speed mult": 1.0,
+      "craft time hrs": 10.0,
+      "description": "",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": false,
+      "HP": 100,
+      "HP 1": 100,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -8.0,
+      "icon offset yaw": 90.0,
+      "icon zoom": 2.7,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\stick_person\\stick_person ArmSTUMP - R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\stick_person\\stick_person ArmSTUMP - R.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 51,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 0,
+      "value 1": 1000,
+      "weight kg": 1.0
+    },
+    "references": {}
+  },
+  "95870-rebirth.mod": {
+    "stringId": "95870-rebirth.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "A heavily customised arm.  Somehow the components have almost no rust, and the mechanism is extremely smooth.",
+      "dexterity mult": 0.75,
+      "dexterity mult 1": 1.2,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 150,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 1.8,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\ROBOT-ARM_RIGHT_Male.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\ROBOT-ARM_RIGHT_Female.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.0,
+      "slot": 51,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.75,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.6,
+      "swimming mult 1": 0.85,
+      "thievery mult": 0.9,
+      "thievery mult 1": 1.25,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 4000,
+      "value 1": 28000,
+      "weight kg": 10.0
+    },
+    "references": {
+      "material": {
+        "95580-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95871-rebirth.mod": {
+    "stringId": "95871-rebirth.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 1.0,
+      "athletics mult 1": 1.0,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 40.0,
+      "description": "A well maintained piece of machinery, this arm has been carefully customised and upgraded by its previous owner.  The motor seems like a completely different unit and there's some kind of AI thralled into a feedback unit that provides adaptive stabilisation.",
+      "dexterity mult": 0.75,
+      "dexterity mult 1": 1.2,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 150,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 90.0,
+      "icon offset roll": 90.0,
+      "icon offset V": -11.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.2,
+      "inventory footprint height": 6,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Arm-L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Arm-L.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 0.75,
+      "ranged mult 1": 1.25,
+      "slot": 50,
+      "stealth mult": 1.0,
+      "stealth mult 1": 1.0,
+      "strength mult": 0.75,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.6,
+      "swimming mult 1": 0.75,
+      "thievery mult": 0.75,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 4000,
+      "value 1": 28000,
+      "weight kg": 10.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95872-rebirth.mod": {
+    "stringId": "95872-rebirth.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.4,
+      "athletics mult 1": 1.1,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 20.0,
+      "description": "Common skeleton leg from one of the General Purpose Labour series.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 175,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.25,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-L.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-L_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 52,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.6,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 2500,
+      "value 1": 20000,
+      "weight kg": 15.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96022-rebirth.mod": {
+    "stringId": "96022-rebirth.mod",
+    "type": "LimbReplacement",
+    "values": {
+      "athletics mult": 0.4,
+      "athletics mult 1": 1.1,
+      "auto icon image": true,
+      "combat speed mult": 1.0,
+      "craft time hrs": 20.0,
+      "description": "Common skeleton leg from one of the General Purpose Labour series.",
+      "dexterity mult": 1.0,
+      "dexterity mult 1": 1.0,
+      "encumbrance mult": 1.0,
+      "ground mesh": {
+        "path": ""
+      },
+      "has collision": true,
+      "HP": 50,
+      "HP 1": 175,
+      "icon": {
+        "path": ""
+      },
+      "icon offset H": 0.0,
+      "icon offset pitch": 0.0,
+      "icon offset roll": 0.0,
+      "icon offset V": -5.0,
+      "icon offset yaw": 0.0,
+      "icon zoom": 2.25,
+      "inventory footprint height": 7,
+      "inventory footprint width": 2,
+      "mesh": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-R.mesh"
+      },
+      "mesh female": {
+        "path": ".\\data\\character\\meshes\\human\\Replacement Tough Leg-R_F.mesh"
+      },
+      "offset": 0.0,
+      "overall mult": 1.0,
+      "physics file": {
+        "path": ""
+      },
+      "ranged mult": 1.0,
+      "ranged mult 1": 1.0,
+      "slot": 53,
+      "speed limit": 100,
+      "stealth mult": 0.1,
+      "stealth mult 1": 0.7,
+      "strength mult": 1.0,
+      "strength mult 1": 1.0,
+      "swimming mult": 0.75,
+      "swimming mult 1": 0.75,
+      "thievery mult": 1.0,
+      "thievery mult 1": 1.0,
+      "unarmed damage bonus": 0,
+      "unarmed damage bonus 1": 0,
+      "value": 2500,
+      "value 1": 20000,
+      "weight kg": 15.0
+    },
+    "references": {
+      "material": {
+        "96190-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

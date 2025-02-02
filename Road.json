@@ -1,0 +1,109 @@
+{
+  "1315-gamedata.base": {
+    "stringId": "1315-gamedata.base",
+    "type": "Road",
+    "values": {
+      "color channel": 0,
+      "imagefile": {
+        "path": ".\\data\\land\\areasmap.tga"
+      },
+      "max altitude": 10000.0,
+      "min altitude": 0.0,
+      "population amount": 100.0,
+      "spawns max": 2,
+      "spawns min": 2
+    },
+    "references": {
+      "spawns": {
+        "1406-gamedata.base": [
+          8,
+          100,
+          0
+        ],
+        "2206-gamedata.base": [
+          7,
+          100,
+          0
+        ],
+        "2605-gamedata.base": [
+          50,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1134-gamedata.base": {
+    "stringId": "1134-gamedata.base",
+    "type": "Road",
+    "values": {
+      "color channel": 2,
+      "imagefile": {
+        "path": ".\\data\\land\\areasmap.tga"
+      },
+      "max altitude": 10000.0,
+      "min altitude": 0.0,
+      "population amount": 100.0,
+      "spawns max": 2,
+      "spawns min": 2
+    },
+    "references": {
+      "spawns": {
+        "1302-gamedata.base": [
+          16,
+          100,
+          0
+        ],
+        "1307-gamedata.base": [
+          30,
+          100,
+          0
+        ],
+        "1406-gamedata.base": [
+          10,
+          100,
+          0
+        ],
+        "1161-gamedata.base": [
+          7,
+          100,
+          0
+        ],
+        "2206-gamedata.base": [
+          7,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1368-gamedata.base": {
+    "stringId": "1368-gamedata.base",
+    "type": "Road",
+    "values": {
+      "color channel": 1,
+      "imagefile": {
+        "path": ".\\data\\land\\areasmap.tga"
+      },
+      "max altitude": 10000.0,
+      "min altitude": 0.0,
+      "population amount": 100.0,
+      "spawns max": 2,
+      "spawns min": 2
+    },
+    "references": {
+      "spawns": {
+        "1406-gamedata.base": [
+          6,
+          100,
+          0
+        ],
+        "2206-gamedata.base": [
+          6,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}

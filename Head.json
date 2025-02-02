@@ -1,0 +1,648 @@
+{
+  "5347-chareditor.mod": {
+    "stringId": "5347-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_variant5_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5342-chareditor.mod": {
+    "stringId": "5342-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_mask_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_diffuse_variant3_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5347-stick_people.mod": {
+    "stringId": "5347-stick_people.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "5346-chareditor.mod": {
+    "stringId": "5346-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\sun\\human_male_head_mask_eyes_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_variant3_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5345-chareditor.mod": {
+    "stringId": "5345-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_mask_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_diffuse_variant3_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5443-lights_otto.mod": {
+    "stringId": "5443-lights_otto.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\cannibal_male\\cannibal_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\cannibal_male\\cannibal_male_head_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "5348-chareditor.mod": {
+    "stringId": "5348-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "18916-small_changes_otto.mod": {
+    "stringId": "18916-small_changes_otto.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_pale_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "5444-lights_otto.mod": {
+    "stringId": "5444-lights_otto.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_head_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "5344-chareditor.mod": {
+    "stringId": "5344-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_mask_variant2_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_normal_variant2_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_diffuse_variant2_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5338-chareditor.mod": {
+    "stringId": "5338-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_mask_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "18919-small_changes_otto.mod": {
+    "stringId": "18919-small_changes_otto.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head2_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head2_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "5343-chareditor.mod": {
+    "stringId": "5343-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_mask_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_male\\bone_male_head_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5341-chareditor.mod": {
+    "stringId": "5341-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_variant2_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5340-chareditor.mod": {
+    "stringId": "5340-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_mask_variant2_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_normal_variant2_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\bone_female\\bone_female_head_diffuse_variant2_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5350-chareditor.mod": {
+    "stringId": "5350-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\sun\\human_female_head_mask_eyes_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_variant3_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5349-chareditor.mod": {
+    "stringId": "5349-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_variant2_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "5339-chareditor.mod": {
+    "stringId": "5339-chareditor.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_male_head_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "18920-small_changes_otto.mod": {
+    "stringId": "18920-small_changes_otto.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head3_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head3_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "55397-gamedata.base": {
+    "stringId": "55397-gamedata.base",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ""
+      },
+      "normal map": {
+        "path": ""
+      },
+      "playable": true,
+      "texture map": {
+        "path": ""
+      }
+    },
+    "references": {}
+  },
+  "57336-Newwworld.mod": {
+    "stringId": "57336-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_normal.dds"
+      },
+      "playable": false,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\Hive_Queen_Head_DIF.dds"
+      }
+    },
+    "references": {}
+  },
+  "57767-Newwworld.mod": {
+    "stringId": "57767-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head1_diffuse_South_Hive.dds"
+      }
+    },
+    "references": {}
+  },
+  "57768-Newwworld.mod": {
+    "stringId": "57768-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head2_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head2_diffuse_South_Hive.dds"
+      }
+    },
+    "references": {}
+  },
+  "57769-Newwworld.mod": {
+    "stringId": "57769-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head3_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head3_diffuse_South_Hive.dds"
+      }
+    },
+    "references": {}
+  },
+  "57775-Newwworld.mod": {
+    "stringId": "57775-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\robot\\robot_mask_V1_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V1_NML_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V1_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "57779-Newwworld.mod": {
+    "stringId": "57779-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\robot\\robot_mask_V2_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V2_NML_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V2_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "57783-Newwworld.mod": {
+    "stringId": "57783-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\robot\\robot_mask_V3_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V3_NML_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\robot\\FaceRobot_V3_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "99183-Newwworld.mod": {
+    "stringId": "99183-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant5_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant6_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "99184-Newwworld.mod": {
+    "stringId": "99184-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_variant1_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_variant6_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "99654-Newwworld.mod": {
+    "stringId": "99654-Newwworld.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\materials\\black.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\Fishman\\Fis-Head-DXT5_NML_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\Fishman\\Fis-Head_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "42032-rebirth.mod": {
+    "stringId": "42032-rebirth.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head2_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head2_pale_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "50525-rebirth.mod": {
+    "stringId": "50525-rebirth.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\cannibal_male\\cannibal_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\cannibal_male\\cannibal_male_head_2_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "42033-rebirth.mod": {
+    "stringId": "42033-rebirth.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_male\\human_male_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head3_normal.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\stick_person\\stick_people_head3_pale_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "43320-rebirth.mod": {
+    "stringId": "43320-rebirth.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant5_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant5_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "42339-changes_otto.mod": {
+    "stringId": "42339-changes_otto.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant5_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant5_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "50524-rebirth.mod": {
+    "stringId": "50524-rebirth.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_head_mask.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\cannibal_female\\cannibal_female_head_2_diffuse.dds"
+      }
+    },
+    "references": {}
+  },
+  "52847-rebirth.mod": {
+    "stringId": "52847-rebirth.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\character\\skins\\sun\\human_female_head_mask_eyes_HI.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\hu\\heads\\human_female_head_normal_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\human_female\\human_female_head_variant6_diffuse_HI.dds"
+      }
+    },
+    "references": {}
+  },
+  "1532525-Newwworld Plus.mod": {
+    "stringId": "1532525-Newwworld Plus.mod",
+    "type": "Head",
+    "values": {
+      "mask map": {
+        "path": ".\\data\\materials\\black.dds"
+      },
+      "normal map": {
+        "path": ".\\data\\character\\skins\\Fishman\\Fis-Head-DXT5_NML_HI.dds"
+      },
+      "playable": true,
+      "texture map": {
+        "path": ".\\data\\character\\skins\\Fishman\\Alpha Fis-Head_DIF_HI.dds"
+      }
+    },
+    "references": {}
+  }
+}

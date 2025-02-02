@@ -1,0 +1,7618 @@
+{
+  "5390-Dialogue.mod": {
+    "stringId": "5390-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5391-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3875-gamedata.base": {
+    "stringId": "3875-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3876-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4748-dialogue-02.mod": {
+    "stringId": "4748-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4749-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4265-dialogue-02.mod": {
+    "stringId": "4265-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4266-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4555-dialogue-02.mod": {
+    "stringId": "4555-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4556-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4558-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4743-dialogue-02.mod": {
+    "stringId": "4743-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4744-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "13652-Escapes.mod": {
+    "stringId": "13652-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "13653-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9696-Dialogue.mod": {
+    "stringId": "9696-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9697-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5073-Dialogue.mod": {
+    "stringId": "5073-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5074-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3806-gamedata.base": {
+    "stringId": "3806-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3807-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5282-Dialogue.mod": {
+    "stringId": "5282-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5283-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7712-Dialogue.mod": {
+    "stringId": "7712-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7713-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8573-D-Dialogue.mod": {
+    "stringId": "8573-D-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "8574-D-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5610-Dialogue.mod": {
+    "stringId": "5610-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5611-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12694-Dialogue (11) (2).mod": {
+    "stringId": "12694-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12695-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5464-Escapes.mod": {
+    "stringId": "5464-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5465-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3909-gamedata.base": {
+    "stringId": "3909-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3910-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5158-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5160-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10143-Dialogue (7).mod": {
+    "stringId": "10143-Dialogue (7).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10144-Dialogue (7).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5098-Dialogue.mod": {
+    "stringId": "5098-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5099-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4237-D-dialogue-02.mod": {
+    "stringId": "4237-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4238-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4429-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4430-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3895-gamedata.base": {
+    "stringId": "3895-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3896-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5192-Dialogue.mod": {
+    "stringId": "5192-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5193-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "13089-Escapes.mod": {
+    "stringId": "13089-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "13090-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3815-gamedata.base": {
+    "stringId": "3815-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3816-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8794-Dialogue.mod": {
+    "stringId": "8794-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3841-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3842-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3887-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6654-Dialogue.mod": {
+    "stringId": "6654-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6655-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "6656-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "6657-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5190-Dialogue.mod": {
+    "stringId": "5190-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5191-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3835-gamedata.base": {
+    "stringId": "3835-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3836-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3837-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "4036-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5023-gamedata.base": {
+    "stringId": "5023-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5024-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5025-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3804-gamedata.base": {
+    "stringId": "3804-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3805-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "13106-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9500-Dialogue.mod": {
+    "stringId": "9500-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9501-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4838-D-dialogue-02.mod": {
+    "stringId": "4838-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4839-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "11059-Dialogue (10).mod": {
+    "stringId": "11059-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "11060-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5036-gamedata.base": {
+    "stringId": "5036-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5037-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5038-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7460-Dialogue.mod": {
+    "stringId": "7460-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7461-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42280-gamedata.base": {
+    "stringId": "42280-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42281-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4755-dialogue-02.mod": {
+    "stringId": "4755-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4756-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3800-gamedata.base": {
+    "stringId": "3800-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3801-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5397-Escapes.mod": {
+    "stringId": "5397-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5398-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5399-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10927-Dialogue (10).mod": {
+    "stringId": "10927-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10928-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "50586-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "50588-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "11232-Dialogue (10).mod": {
+    "stringId": "11232-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "11233-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "12007-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "19488-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43635-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "58302-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "58309-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "58310-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "59594-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "61502-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "63852-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10592-Dialogue (10).mod": {
+    "stringId": "10592-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10593-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "60450-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "13083-Escapes.mod": {
+    "stringId": "13083-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "13084-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "11044-Dialogue (10).mod": {
+    "stringId": "11044-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "11045-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "11046-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9896-Dialogue.mod": {
+    "stringId": "9896-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9897-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9034-Dialogue.mod": {
+    "stringId": "9034-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9035-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "9036-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6628-Dialogue.mod": {
+    "stringId": "6628-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6629-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12414-Dialogue (10) (2).mod": {
+    "stringId": "12414-Dialogue (10) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12415-Dialogue (10) (2).mod": [
+          0,
+          0,
+          0
+        ],
+        "12416-Dialogue (10) (2).mod": [
+          0,
+          0,
+          0
+        ],
+        "12417-Dialogue (10) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12545-Dialogue (11) (2).mod": {
+    "stringId": "12545-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12546-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5197-gamedata.base": {
+    "stringId": "5197-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5198-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5199-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3802-gamedata.base": {
+    "stringId": "3802-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3803-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7537-Dialogue.mod": {
+    "stringId": "7537-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7538-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "7539-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42271-gamedata.base": {
+    "stringId": "42271-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42272-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42312-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "42313-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5416-gamedata.base": {
+    "stringId": "5416-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5417-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5418-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10660-Dialogue (10).mod": {
+    "stringId": "10660-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10661-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4038-dialogue-02.mod": {
+    "stringId": "4038-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4039-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4041-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5397-Dialogue.mod": {
+    "stringId": "5397-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5398-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4340-dialogue-02.mod": {
+    "stringId": "4340-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4341-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5485-Escapes.mod": {
+    "stringId": "5485-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5486-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5487-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5489-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10986-Dialogue (10).mod": {
+    "stringId": "10986-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10987-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5214-Dialogue.mod": {
+    "stringId": "5214-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5215-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5043-gamedata.base": {
+    "stringId": "5043-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "REMOVED": true,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4414-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4415-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3819-gamedata.base": {
+    "stringId": "3819-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3820-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "17991-gamedata.base": {
+    "stringId": "17991-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "17992-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4006-dialogue-02.mod": {
+    "stringId": "4006-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4007-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12696-Dialogue (11) (2).mod": {
+    "stringId": "12696-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12697-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7714-Dialogue.mod": {
+    "stringId": "7714-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7715-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9181-Dialogue.mod": {
+    "stringId": "9181-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9182-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12196-Dialogue (10).mod": {
+    "stringId": "12196-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12197-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5096-Dialogue.mod": {
+    "stringId": "5096-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5097-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6245-Dialogue.mod": {
+    "stringId": "6245-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6246-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12873-Dialogue (11) (2).mod": {
+    "stringId": "12873-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12874-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5071-Dialogue.mod": {
+    "stringId": "5071-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5072-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4867-dialogue-02.mod": {
+    "stringId": "4867-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4868-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4870-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4297-dialogue-02.mod": {
+    "stringId": "4297-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4298-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3939-dialogue-02.mod": {
+    "stringId": "3939-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3940-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4835-D-dialogue-02.mod": {
+    "stringId": "4835-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4836-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4435-dialogue-02.mod": {
+    "stringId": "4435-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4436-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4437-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4439-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5284-Dialogue.mod": {
+    "stringId": "5284-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5285-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "5286-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5122-gamedata.base": {
+    "stringId": "5122-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5123-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5125-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7122-Dialogue.mod": {
+    "stringId": "7122-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7123-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4413-dialogue-02.mod": {
+    "stringId": "4413-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4414-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4415-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5514-Dialogue.mod": {
+    "stringId": "5514-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5515-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5010-gamedata.base": {
+    "stringId": "5010-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5011-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4608-dialogue-02.mod": {
+    "stringId": "4608-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4609-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3798-gamedata.base": {
+    "stringId": "3798-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3799-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3817-gamedata.base": {
+    "stringId": "3817-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3818-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3813-gamedata.base": {
+    "stringId": "3813-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3814-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3900-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5445-gamedata.base": {
+    "stringId": "5445-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5446-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3795-gamedata.base": {
+    "stringId": "3795-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3796-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3808-gamedata.base": {
+    "stringId": "3808-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3809-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "17772-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5094-Dialogue.mod": {
+    "stringId": "5094-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5095-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14024-Escapes.mod": {
+    "stringId": "14024-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "14025-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6419-Dialogue.mod": {
+    "stringId": "6419-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6420-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "12820-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ],
+        "12823-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8627-Dialogue.mod": {
+    "stringId": "8627-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "8628-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4426-dialogue-02.mod": {
+    "stringId": "4426-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4427-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8583-Dialogue.mod": {
+    "stringId": "8583-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "8584-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5479-Escapes.mod": {
+    "stringId": "5479-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5480-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5481-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5483-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9138-Dialogue.mod": {
+    "stringId": "9138-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "REMOVED": true,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9139-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "13766-Escapes.mod": {
+    "stringId": "13766-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "13767-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12781-Dialogue (11) (2).mod": {
+    "stringId": "12781-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12782-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ],
+        "16092-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "11849-Dialogue (10).mod": {
+    "stringId": "11849-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "11850-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "1532888-__June 18.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4199-dialogue-02.mod": {
+    "stringId": "4199-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4200-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7751-Dialogue.mod": {
+    "stringId": "7751-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7752-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4018-dialogue-02.mod": {
+    "stringId": "4018-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4019-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3971-dialogue-02.mod": {
+    "stringId": "3971-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3972-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8575-D-Dialogue.mod": {
+    "stringId": "8575-D-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "8576-D-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5377-gamedata.base": {
+    "stringId": "5377-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5378-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5379-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5383-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "51346-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6249-Dialogue.mod": {
+    "stringId": "6249-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6250-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5497-Escapes.mod": {
+    "stringId": "5497-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5498-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5499-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7874-Dialogue.mod": {
+    "stringId": "7874-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7875-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5450-gamedata.base": {
+    "stringId": "5450-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5452-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "5455-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7496-Dialogue.mod": {
+    "stringId": "7496-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7497-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "16554-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8446-Dialogue.mod": {
+    "stringId": "8446-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "8447-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6097-Dialogue.mod": {
+    "stringId": "6097-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6098-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3822-gamedata.base": {
+    "stringId": "3822-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3823-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4854-D-dialogue-02.mod": {
+    "stringId": "4854-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4854-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5050-gamedata.base": {
+    "stringId": "5050-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5051-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5052-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5053-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5055-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5056-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "43997-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "47564-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5550-Escapes.mod": {
+    "stringId": "5550-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5551-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5477-Escapes.mod": {
+    "stringId": "5477-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5478-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9631-Dialogue.mod": {
+    "stringId": "9631-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9632-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4324-dialogue-02.mod": {
+    "stringId": "4324-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4325-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4074-dialogue-02.mod": {
+    "stringId": "4074-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4075-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6621-D-Dialogue.mod": {
+    "stringId": "6621-D-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6622-D-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "16093-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16265-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60451-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9588-Dialogue.mod": {
+    "stringId": "9588-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9589-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5069-Dialogue.mod": {
+    "stringId": "5069-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5070-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3811-gamedata.base": {
+    "stringId": "3811-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3812-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "50718-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "51302-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5080-Dialogue.mod": {
+    "stringId": "5080-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5081-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "5083-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "5087-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "6180-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "6181-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "6182-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "1533312-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3953-dialogue-02.mod": {
+    "stringId": "3953-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3954-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42273-gamedata.base": {
+    "stringId": "42273-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42274-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42275-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42276-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42311-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3840-gamedata.base": {
+    "stringId": "3840-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "REMOVED": true,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3841-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3842-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3887-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9132-Dialogue.mod": {
+    "stringId": "9132-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9133-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3787-gamedata.base": {
+    "stringId": "3787-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3788-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "45700-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "45701-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4863-dialogue-02.mod": {
+    "stringId": "4863-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4864-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4866-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4709-dialogue-02.mod": {
+    "stringId": "4709-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4710-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5163-gamedata.base": {
+    "stringId": "5163-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5164-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5165-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4443-dialogue-02.mod": {
+    "stringId": "4443-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4444-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9889-Dialogue.mod": {
+    "stringId": "9889-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9890-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "9891-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3784-gamedata.base": {
+    "stringId": "3784-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3785-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3786-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10422-Dialogue (7).mod": {
+    "stringId": "10422-Dialogue (7).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10423-Dialogue (7).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3991-dialogue-02.mod": {
+    "stringId": "3991-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3992-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4417-dialogue-02.mod": {
+    "stringId": "4417-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4418-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4419-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9488-Dialogue.mod": {
+    "stringId": "9488-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9489-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5466-Escapes.mod": {
+    "stringId": "5466-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5467-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4249-D-dialogue-02.mod": {
+    "stringId": "4249-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4250-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9590-Dialogue.mod": {
+    "stringId": "9590-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9591-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16327-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8333-Dialogue.mod": {
+    "stringId": "8333-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "8334-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "8336-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7718-Dialogue.mod": {
+    "stringId": "7718-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7719-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5438-Escapes.mod": {
+    "stringId": "5438-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5439-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5440-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5448-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5515-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7415-Dialogue.mod": {
+    "stringId": "7415-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7416-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "7417-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5454-Escapes.mod": {
+    "stringId": "5454-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5455-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5456-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5052-Dialogue.mod": {
+    "stringId": "5052-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5053-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4042-dialogue-02.mod": {
+    "stringId": "4042-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4043-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4045-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4047-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4049-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4050-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4051-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4053-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4055-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4057-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4058-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4063-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4065-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4067-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4068-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7102-Dialogue.mod": {
+    "stringId": "7102-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7103-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "7104-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4441-dialogue-02.mod": {
+    "stringId": "4441-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4442-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3782-gamedata.base": {
+    "stringId": "3782-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12835-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9471-Dialogue.mod": {
+    "stringId": "9471-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9472-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3789-gamedata.base": {
+    "stringId": "3789-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3790-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3791-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "3793-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5347-Dialogue.mod": {
+    "stringId": "5347-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5348-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5062-Dialogue.mod": {
+    "stringId": "5062-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5063-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12692-Dialogue (11) (2).mod": {
+    "stringId": "12692-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12693-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5443-Escapes.mod": {
+    "stringId": "5443-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5444-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4817-D-dialogue-02.mod": {
+    "stringId": "4817-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4840-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5491-Escapes.mod": {
+    "stringId": "5491-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5492-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5493-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5495-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9858-Dialogue.mod": {
+    "stringId": "9858-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9859-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5093-Dialogue.mod": {
+    "stringId": "5093-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4039-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "4041-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4243-D-dialogue-02.mod": {
+    "stringId": "4243-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4244-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5375-gamedata.base": {
+    "stringId": "5375-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5376-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "6412-Dialogue.mod": {
+    "stringId": "6412-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "6413-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12547-Dialogue (11) (2).mod": {
+    "stringId": "12547-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12548-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12774-Dialogue (11) (2).mod": {
+    "stringId": "12774-Dialogue (11) (2).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12775-Dialogue (11) (2).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4077-dialogue-02.mod": {
+    "stringId": "4077-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4081-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7557-Dialogue.mod": {
+    "stringId": "7557-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7558-Dialogue.mod": [
+          100,
+          0,
+          0
+        ],
+        "7559-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7181-Dialogue.mod": {
+    "stringId": "7181-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7182-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5459-Escapes.mod": {
+    "stringId": "5459-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5460-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5545-Escapes.mod": {
+    "stringId": "5545-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5546-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4020-dialogue-02.mod": {
+    "stringId": "4020-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4021-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ],
+        "5153-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "5156-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9916-Dialogue.mod": {
+    "stringId": "9916-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9917-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5501-Escapes.mod": {
+    "stringId": "5501-Escapes.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5502-Escapes.mod": [
+          0,
+          0,
+          0
+        ],
+        "5503-Escapes.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3950-dialogue-02.mod": {
+    "stringId": "3950-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "3951-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7938-Dialogue.mod": {
+    "stringId": "7938-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7939-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42278-gamedata.base": {
+    "stringId": "42278-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42279-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5217-Dialogue.mod": {
+    "stringId": "5217-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5218-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10217-Dialogue (7).mod": {
+    "stringId": "10217-Dialogue (7).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "10218-Dialogue (7).mod": [
+          0,
+          0,
+          0
+        ],
+        "42367-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "42880-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "51317-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "12139-Dialogue (10).mod": {
+    "stringId": "12139-Dialogue (10).mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "12140-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "14503-gamedata.base": {
+    "stringId": "14503-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "14504-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5453-gamedata.base": {
+    "stringId": "5453-gamedata.base",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5454-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4433-D-dialogue-02.mod": {
+    "stringId": "4433-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4434-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5349-Dialogue.mod": {
+    "stringId": "5349-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "5350-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "9856-Dialogue.mod": {
+    "stringId": "9856-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "9857-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "4371-D-dialogue-02.mod": {
+    "stringId": "4371-D-dialogue-02.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "4372-D-dialogue-02.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "7812-Dialogue.mod": {
+    "stringId": "7812-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "7813-Dialogue.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18885-Dialogue.mod": {
+    "stringId": "18885-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "18886-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18887-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18888-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "56778-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15159-Dialogue.mod": {
+    "stringId": "15159-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15160-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "40754-Dialogue.mod": {
+    "stringId": "40754-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "40755-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "46599-Dialogue.mod": {
+    "stringId": "46599-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "46600-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "46601-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47132-Dialogue.mod": {
+    "stringId": "47132-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "47133-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "47134-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "47135-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "47136-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "63344-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15340-Dialogue.mod": {
+    "stringId": "15340-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15341-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44384-Dialogue.mod": {
+    "stringId": "44384-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "44385-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "44386-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16246-Dialogue.mod": {
+    "stringId": "16246-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16247-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16248-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16249-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16250-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16251-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "48744-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "48754-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "48761-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "48793-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "57977-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "57978-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "57979-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "57980-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "58272-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "66158-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "1532516-__May 18 2.mod": [
+          0,
+          0,
+          0
+        ],
+        "1532517-__May 18 2.mod": [
+          0,
+          0,
+          0
+        ],
+        "1532518-__May 18 2.mod": [
+          0,
+          0,
+          0
+        ],
+        "1532519-__May 18 2.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16051-Dialogue.mod": {
+    "stringId": "16051-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16052-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16550-Dialogue.mod": {
+    "stringId": "16550-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16551-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16552-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15323-Dialogue.mod": {
+    "stringId": "15323-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15324-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "19069-Dialogue.mod": {
+    "stringId": "19069-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "19070-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16412-Dialogue.mod": {
+    "stringId": "16412-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16413-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "41776-Dialogue.mod": {
+    "stringId": "41776-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "41777-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "17799-Dialogue.mod": {
+    "stringId": "17799-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "17800-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50397-Dialogue.mod": {
+    "stringId": "50397-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "50398-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "50399-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "50400-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15424-Dialogue.mod": {
+    "stringId": "15424-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15425-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16046-Dialogue.mod": {
+    "stringId": "16046-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16047-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16048-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16049-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16050-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15534-Dialogue.mod": {
+    "stringId": "15534-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15535-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47285-Dialogue.mod": {
+    "stringId": "47285-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "47286-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "47287-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "47288-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15444-Dialogue.mod": {
+    "stringId": "15444-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15445-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42252-Dialogue.mod": {
+    "stringId": "42252-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42253-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "42254-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15451-Dialogue.mod": {
+    "stringId": "15451-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15452-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15250-Dialogue.mod": {
+    "stringId": "15250-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15251-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16321-Dialogue.mod": {
+    "stringId": "16321-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16322-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16323-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16324-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15161-Dialogue.mod": {
+    "stringId": "15161-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15162-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15405-Dialogue.mod": {
+    "stringId": "15405-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15406-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15506-Dialogue.mod": {
+    "stringId": "15506-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15507-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15190-Dialogue.mod": {
+    "stringId": "15190-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15191-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18936-Dialogue.mod": {
+    "stringId": "18936-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "18937-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18938-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18939-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15357-Dialogue.mod": {
+    "stringId": "15357-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15358-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "15578-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "15605-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "43636-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15407-Dialogue.mod": {
+    "stringId": "15407-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15408-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18934-Dialogue.mod": {
+    "stringId": "18934-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "18935-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15169-Dialogue.mod": {
+    "stringId": "15169-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15170-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "15171-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15303-Dialogue.mod": {
+    "stringId": "15303-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15304-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15442-Dialogue.mod": {
+    "stringId": "15442-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15443-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15427-Dialogue.mod": {
+    "stringId": "15427-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15428-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15179-Dialogue.mod": {
+    "stringId": "15179-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15180-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15166-Dialogue.mod": {
+    "stringId": "15166-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15167-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42907-Dialogue.mod": {
+    "stringId": "42907-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42908-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "42909-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "42952-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15185-Dialogue.mod": {
+    "stringId": "15185-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15186-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16210-Dialogue.mod": {
+    "stringId": "16210-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16211-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42971-Dialogue.mod": {
+    "stringId": "42971-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42972-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16208-Dialogue.mod": {
+    "stringId": "16208-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16209-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16443-Dialogue.mod": {
+    "stringId": "16443-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16444-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16445-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15187-Dialogue.mod": {
+    "stringId": "15187-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15188-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16316-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "16317-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16360-Dialogue.mod": {
+    "stringId": "16360-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16361-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16460-Dialogue.mod": {
+    "stringId": "16460-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16461-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48370-Dialogue.mod": {
+    "stringId": "48370-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "48371-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15181-Dialogue.mod": {
+    "stringId": "15181-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15182-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15397-Dialogue.mod": {
+    "stringId": "15397-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15398-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16476-Dialogue.mod": {
+    "stringId": "16476-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "16477-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15526-Dialogue.mod": {
+    "stringId": "15526-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15527-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15582-Dialogue.mod": {
+    "stringId": "15582-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15583-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "20150-Dialogue.mod": {
+    "stringId": "20150-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "20151-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15338-Dialogue.mod": {
+    "stringId": "15338-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15339-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15419-Dialogue.mod": {
+    "stringId": "15419-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15420-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "15586-Dialogue.mod": {
+    "stringId": "15586-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "15587-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "18505-Dialogue.mod": {
+    "stringId": "18505-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "18506-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18507-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18508-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18509-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "18510-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "48271-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "40530-Dialogue.mod": {
+    "stringId": "40530-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "40531-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51417-Dialogue.mod": {
+    "stringId": "51417-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "51418-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51654-Dialogue.mod": {
+    "stringId": "51654-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "51655-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "53846-Dialogue.mod": {
+    "stringId": "53846-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "53847-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "53848-Dialogue.mod": {
+    "stringId": "53848-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "53849-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "53897-Dialogue.mod": {
+    "stringId": "53897-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "53898-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55102-Dialogue.mod": {
+    "stringId": "55102-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "55103-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "55104-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55106-Dialogue.mod": {
+    "stringId": "55106-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "55107-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "55108-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55491-Dialogue.mod": {
+    "stringId": "55491-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "55492-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56474-Dialogue.mod": {
+    "stringId": "56474-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56475-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "56476-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57037-Dialogue.mod": {
+    "stringId": "57037-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "57038-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "57039-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60176-Dialogue.mod": {
+    "stringId": "60176-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "60177-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60178-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60179-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60180-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60181-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60182-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60183-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60184-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60185-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60186-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "60187-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61936-Dialogue.mod": {
+    "stringId": "61936-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "61937-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63292-Dialogue.mod": {
+    "stringId": "63292-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "63293-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "63294-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96373-Dialogue.mod": {
+    "stringId": "96373-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "96374-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97627-Dialogue.mod": {
+    "stringId": "97627-Dialogue.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "97628-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "97629-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "97630-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42207-rebirth.mod": {
+    "stringId": "42207-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42208-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43338-rebirth.mod": {
+    "stringId": "43338-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "43339-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43340-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43341-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43342-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "63151-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42048-rebirth.mod": {
+    "stringId": "42048-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "42049-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50014-rebirth.mod": {
+    "stringId": "50014-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "50015-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51301-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51290-rebirth.mod": {
+    "stringId": "51290-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "51298-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51299-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51291-rebirth.mod": {
+    "stringId": "51291-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "51293-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51295-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51296-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51292-rebirth.mod": {
+    "stringId": "51292-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "51297-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51300-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "51777-rebirth.mod": {
+    "stringId": "51777-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "51778-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "51779-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56052-rebirth.mod": {
+    "stringId": "56052-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56053-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56361-Portuguese wordswaps.mod": {
+    "stringId": "56361-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56362-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56363-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56369-Portuguese wordswaps.mod": {
+    "stringId": "56369-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56370-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56371-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56357-Portuguese wordswaps.mod": {
+    "stringId": "56357-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56358-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56359-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56365-Portuguese wordswaps.mod": {
+    "stringId": "56365-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56366-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56367-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56356-Portuguese wordswaps.mod": {
+    "stringId": "56356-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {}
+  },
+  "56735-Portuguese wordswaps.mod": {
+    "stringId": "56735-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56736-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56737-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56727-Portuguese wordswaps.mod": {
+    "stringId": "56727-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56728-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56730-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56731-Portuguese wordswaps.mod": {
+    "stringId": "56731-Portuguese wordswaps.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "56732-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ],
+        "56733-Portuguese wordswaps.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57758-rebirth.mod": {
+    "stringId": "57758-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "57759-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "57760-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "57761-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64797-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64939-rebirth.mod": {
+    "stringId": "64939-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "64940-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64941-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64942-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64949-rebirth.mod": {
+    "stringId": "64949-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {}
+  },
+  "64950-rebirth.mod": {
+    "stringId": "64950-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "64951-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64962-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "64964-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64956-rebirth.mod": {
+    "stringId": "64956-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "64961-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "65878-rebirth.mod": {
+    "stringId": "65878-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "65879-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "65880-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "65882-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "65883-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "95518-rebirth.mod": {
+    "stringId": "95518-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "95519-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97097-rebirth.mod": {
+    "stringId": "97097-rebirth.mod",
+    "type": "WordSwaps",
+    "values": {
+      "chance permanent": 100.0,
+      "chance temporary": 100.0,
+      "persistent use": false,
+      "repetition limit": 0,
+      "score bonus": 0,
+      "speaker": 0,
+      "tag": "",
+      "target is type": 0
+    },
+    "references": {
+      "lines": {
+        "97098-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

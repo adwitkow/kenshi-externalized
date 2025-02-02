@@ -1,0 +1,446 @@
+{
+  "44877-rebirth.mod": {
+    "stringId": "44877-rebirth.mod",
+    "type": "Artifacts",
+    "values": {},
+    "references": {
+      "armours": {
+        "577-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2211-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "544-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2210-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "18018-small_changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "18019-small_changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "2214-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2304-clothes_v1.mod": [
+          1,
+          0,
+          0
+        ],
+        "2305-clothes_v1.mod": [
+          1,
+          0,
+          0
+        ],
+        "1169-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2213-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2212-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2283-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "53299-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "2148-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2182-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2150-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2122-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "549-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2159-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2145-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "18962-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2200-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "5346-armor_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "2307-clothes_v1.mod": [
+          1,
+          0,
+          0
+        ],
+        "2154-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "1534061-Newwworld Plus.mod": [
+          1,
+          0,
+          0
+        ],
+        "1534053-Newwworld Plus.mod": [
+          1,
+          0,
+          0
+        ],
+        "1534050-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "armours hq": {
+        "2122-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "549-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2159-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2145-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2150-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "18962-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2200-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2283-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2214-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2304-clothes_v1.mod": [
+          1,
+          0,
+          0
+        ],
+        "2305-clothes_v1.mod": [
+          1,
+          0,
+          0
+        ],
+        "1169-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "3061-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "2165-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "62178-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "684-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "55393-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "55395-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "2154-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "18018-small_changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "42260-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "42052-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "53299-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "53301-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "crossbows": {
+        "66290-Newwworld.mod": [
+          2,
+          2,
+          0
+        ],
+        "65870-rebirth.mod": [
+          2,
+          2,
+          0
+        ],
+        "53643-rebirth.mod": [
+          2,
+          2,
+          0
+        ],
+        "66169-Newwworld.mod": [
+          2,
+          2,
+          0
+        ],
+        "95764-rebirth.mod": [
+          2,
+          2,
+          0
+        ],
+        "66534-Newwworld.mod": [
+          2,
+          2,
+          0
+        ]
+      },
+      "items": {
+        "43953-rebirth.mod": [
+          160,
+          0,
+          0
+        ],
+        "43951-rebirth.mod": [
+          30,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          37,
+          0,
+          0
+        ]
+      },
+      "robotics": {
+        "96022-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96024-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96186-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96187-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96188-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96189-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96020-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "96021-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "95747-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "95748-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "95872-rebirth.mod": [
+          1,
+          1,
+          0
+        ],
+        "96022-rebirth.mod": [
+          1,
+          1,
+          0
+        ],
+        "95871-rebirth.mod": [
+          1,
+          1,
+          0
+        ],
+        "95579-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "95742-Newwworld.mod": [
+          1,
+          1,
+          0
+        ],
+        "95870-rebirth.mod": [
+          1,
+          1,
+          0
+        ]
+      },
+      "weapons": {
+        "1058-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "1061-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "1060-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "1059-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "1067-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "930-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "1068-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

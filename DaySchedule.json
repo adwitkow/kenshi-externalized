@@ -1,0 +1,45 @@
+{
+  "1788-gamedata.base": {
+    "stringId": "1788-gamedata.base",
+    "type": "DaySchedule",
+    "values": {
+      "layout exterior": "",
+      "layout interior": ""
+    },
+    "references": {
+      "building": {
+        "611-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1787-gamedata.base": {
+    "stringId": "1787-gamedata.base",
+    "type": "DaySchedule",
+    "values": {
+      "layout exterior": "police",
+      "layout interior": "police"
+    },
+    "references": {
+      "building": {
+        "727-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "1786-gamedata.base": {
+    "stringId": "1786-gamedata.base",
+    "type": "DaySchedule",
+    "values": {
+      "layout exterior": "",
+      "layout interior": ""
+    },
+    "references": {}
+  }
+}

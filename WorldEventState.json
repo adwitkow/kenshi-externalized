@@ -1,0 +1,2867 @@
+{
+  "58291-Dialogue.mod": {
+    "stringId": "58291-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58292-Dialogue.mod": {
+    "stringId": "58292-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51333-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58299-Dialogue.mod": {
+    "stringId": "58299-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51333-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58522-Dialogue.mod": {
+    "stringId": "58522-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51333-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58523-Dialogue.mod": {
+    "stringId": "58523-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58586-Dialogue.mod": {
+    "stringId": "58586-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "43159-Dialogue.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58591-Dialogue.mod": {
+    "stringId": "58591-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "57412-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58592-Dialogue.mod": {
+    "stringId": "58592-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "43176-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58595-Dialogue.mod": {
+    "stringId": "58595-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "43159-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59029-Dialogue.mod": {
+    "stringId": "59029-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "59030-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59123-Dialogue.mod": {
+    "stringId": "59123-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "59166-Dialogue.mod": {
+    "stringId": "59166-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "59164-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "59165-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59583-Dialogue.mod": {
+    "stringId": "59583-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51751-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59584-Dialogue.mod": {
+    "stringId": "59584-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51708-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59585-Dialogue.mod": {
+    "stringId": "59585-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "56365-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59685-Dialogue.mod": {
+    "stringId": "59685-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "11624-Dialogue (10).mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59743-Dialogue.mod": {
+    "stringId": "59743-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "1083-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59744-Dialogue.mod": {
+    "stringId": "59744-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "defaultEmpireFactionSID": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59745-Dialogue.mod": {
+    "stringId": "59745-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "1088-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59750-Dialogue.mod": {
+    "stringId": "59750-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "1083-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "1088-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "defaultEmpireFactionSID": [
+          0,
+          0,
+          0
+        ],
+        "1084-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59782-Dialogue.mod": {
+    "stringId": "59782-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "player enemy": {
+        "11624-Dialogue (10).mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59784-Dialogue.mod": {
+    "stringId": "59784-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "43159-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59817-Dialogue.mod": {
+    "stringId": "59817-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "49377-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59881-Dialogue.mod": {
+    "stringId": "59881-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "59164-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59882-Dialogue.mod": {
+    "stringId": "59882-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "59165-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59927-Dialogue.mod": {
+    "stringId": "59927-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "58229-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "59978-Dialogue.mod": {
+    "stringId": "59978-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "50350-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60098-Dialogue.mod": {
+    "stringId": "60098-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51751-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60413-Dialogue.mod": {
+    "stringId": "60413-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "56576-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60659-Dialogue.mod": {
+    "stringId": "60659-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51751-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60660-Dialogue.mod": {
+    "stringId": "60660-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51751-Dialogue.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60730-Dialogue.mod": {
+    "stringId": "60730-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "56734-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60731-Dialogue.mod": {
+    "stringId": "60731-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "56890-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60733-Dialogue.mod": {
+    "stringId": "60733-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "7994-D-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "60964-Dialogue.mod": {
+    "stringId": "60964-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "1083-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61004-Dialogue.mod": {
+    "stringId": "61004-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "defaultEmpireFactionSID": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61430-Dialogue.mod": {
+    "stringId": "61430-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "1084-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61467-Dialogue.mod": {
+    "stringId": "61467-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51712-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61468-Dialogue.mod": {
+    "stringId": "61468-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51713-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61469-Dialogue.mod": {
+    "stringId": "61469-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51709-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61470-Dialogue.mod": {
+    "stringId": "61470-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51711-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61471-Dialogue.mod": {
+    "stringId": "61471-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51710-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61472-Dialogue.mod": {
+    "stringId": "61472-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51649-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61570-Dialogue.mod": {
+    "stringId": "61570-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "48447-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61569-Dialogue.mod": {
+    "stringId": "61569-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "48814-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61604-Dialogue.mod": {
+    "stringId": "61604-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "1088-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61669-Dialogue.mod": {
+    "stringId": "61669-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "48814-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "61818-Dialogue.mod": {
+    "stringId": "61818-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62347-Dialogue.mod": {
+    "stringId": "62347-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "62729-Dialogue.mod": {
+    "stringId": "62729-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "18000-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63185-Dialogue.mod": {
+    "stringId": "63185-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "63028-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63186-Dialogue.mod": {
+    "stringId": "63186-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "62792-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63187-Dialogue.mod": {
+    "stringId": "63187-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "62806-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63880-Dialogue.mod": {
+    "stringId": "63880-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "62981-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63881-Dialogue.mod": {
+    "stringId": "63881-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "64340-Dialogue.mod": {
+    "stringId": "64340-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "48718-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64400-Dialogue.mod": {
+    "stringId": "64400-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "1084-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64410-Dialogue.mod": {
+    "stringId": "64410-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player enemy": {
+        "58229-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "65302-Dialogue.mod": {
+    "stringId": "65302-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "65565-Dialogue.mod": {
+    "stringId": "65565-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "56365-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "NPC is NOT": {
+        "51751-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "65632-Dialogue.mod": {
+    "stringId": "65632-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51333-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66167-Dialogue.mod": {
+    "stringId": "66167-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66198-Dialogue.mod": {
+    "stringId": "66198-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "1083-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "58229-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "11624-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66299-Dialogue.mod": {
+    "stringId": "66299-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "56730-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66300-Dialogue.mod": {
+    "stringId": "66300-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "56727-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66315-Dialogue.mod": {
+    "stringId": "66315-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "62981-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66327-Dialogue.mod": {
+    "stringId": "66327-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "65004-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66486-Dialogue.mod": {
+    "stringId": "66486-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "48447-Dialogue.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66521-Dialogue.mod": {
+    "stringId": "66521-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "56365-Dialogue.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66522-Dialogue.mod": {
+    "stringId": "66522-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "56365-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96350-Dialogue.mod": {
+    "stringId": "96350-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "96351-Dialogue.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96495-Dialogue.mod": {
+    "stringId": "96495-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51333-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "43159-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96537-Dialogue.mod": {
+    "stringId": "96537-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "62805-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96588-Dialogue.mod": {
+    "stringId": "96588-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51333-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "43159-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51751-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "56365-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96616-Dialogue.mod": {
+    "stringId": "96616-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "96407-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96655-Dialogue.mod": {
+    "stringId": "96655-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "56888-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96689-Dialogue.mod": {
+    "stringId": "96689-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51676-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97159-Dialogue.mod": {
+    "stringId": "97159-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "51708-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97160-Dialogue.mod": {
+    "stringId": "97160-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "97165-Dialogue.mod": {
+    "stringId": "97165-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51712-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97166-Dialogue.mod": {
+    "stringId": "97166-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51713-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97167-Dialogue.mod": {
+    "stringId": "97167-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51709-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97168-Dialogue.mod": {
+    "stringId": "97168-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51710-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97169-Dialogue.mod": {
+    "stringId": "97169-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51711-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97172-Dialogue.mod": {
+    "stringId": "97172-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51649-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97173-Dialogue.mod": {
+    "stringId": "97173-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51708-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99118-Dialogue.mod": {
+    "stringId": "99118-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "57334-Newwworld.mod": [
+          2,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99182-Dialogue.mod": {
+    "stringId": "99182-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "11624-Dialogue (10).mod": [
+          1,
+          0,
+          0
+        ],
+        "49377-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99183-Dialogue.mod": {
+    "stringId": "99183-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "11624-Dialogue (10).mod": [
+          0,
+          0,
+          0
+        ],
+        "49377-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99184-Dialogue.mod": {
+    "stringId": "99184-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "11624-Dialogue (10).mod": [
+          1,
+          0,
+          0
+        ],
+        "49377-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99189-Dialogue.mod": {
+    "stringId": "99189-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "58229-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "54297-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99191-Dialogue.mod": {
+    "stringId": "99191-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "58229-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "54297-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99192-Dialogue.mod": {
+    "stringId": "99192-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "player ally": {
+        "54297-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532365-Dialogue.mod": {
+    "stringId": "1532365-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "59030-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "NPC is NOT": {
+        "7994-D-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "56890-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "56734-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533310-Dialogue.mod": {
+    "stringId": "1533310-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "59164-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "59165-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533311-Dialogue.mod": {
+    "stringId": "1533311-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is NOT": {
+        "51751-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51712-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51713-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51711-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51710-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51649-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534371-Dialogue.mod": {
+    "stringId": "1534371-Dialogue.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is NOT": {
+        "59030-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "65004-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "59165-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57392-rebirth.mod": {
+    "stringId": "57392-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "17225-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62377-rebirth.mod": {
+    "stringId": "62377-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "57334-Newwworld.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62810-rebirth.mod": {
+    "stringId": "62810-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "62807-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62829-rebirth.mod": {
+    "stringId": "62829-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "62827-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62862-rebirth.mod": {
+    "stringId": "62862-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "56889-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63144-rebirth.mod": {
+    "stringId": "63144-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "63744-rebirth.mod": {
+    "stringId": "63744-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is NOT": {
+        "2849-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64859-rebirth.mod": {
+    "stringId": "64859-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "64856-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "66290-rebirth.mod": {
+    "stringId": "66290-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "63371-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96078-rebirth.mod": {
+    "stringId": "96078-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "95756-__december17.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96401-rebirth.mod": {
+    "stringId": "96401-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is NOT": {
+        "96407-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "96409-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1531879-rebirth.mod": {
+    "stringId": "1531879-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "96263-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1531881-rebirth.mod": {
+    "stringId": "1531881-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "96351-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1531890-rebirth.mod": {
+    "stringId": "1531890-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51751-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1531892-rebirth.mod": {
+    "stringId": "1531892-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "50350-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1531897-rebirth.mod": {
+    "stringId": "1531897-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "56727-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532252-__May 18.mod": {
+    "stringId": "1532252-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "48738-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532242-__May 18.mod": {
+    "stringId": "1532242-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "56727-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532243-__May 18.mod": {
+    "stringId": "1532243-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "56730-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532247-__May 18.mod": {
+    "stringId": "1532247-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is NOT": {
+        "48447-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532251-__May 18.mod": {
+    "stringId": "1532251-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "98227-__March 18.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532248-__May 18.mod": {
+    "stringId": "1532248-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "63884-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532245-__May 18.mod": {
+    "stringId": "1532245-__May 18.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "98164-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532480-__May 18 2.mod": {
+    "stringId": "1532480-__May 18 2.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "65004-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533242-__world reactions NE.mod": {
+    "stringId": "1533242-__world reactions NE.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51712-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51713-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51709-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51711-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51710-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "51649-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532876-__world reactions NE.mod": {
+    "stringId": "1532876-__world reactions NE.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51712-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532879-__world reactions NE.mod": {
+    "stringId": "1532879-__world reactions NE.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51649-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532877-__world reactions NE.mod": {
+    "stringId": "1532877-__world reactions NE.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51713-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532880-__world reactions NE.mod": {
+    "stringId": "1532880-__world reactions NE.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "51710-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532878-__world reactions NE.mod": {
+    "stringId": "1532878-__world reactions NE.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is": {
+        "51711-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532623-__world reactions.mod": {
+    "stringId": "1532623-__world reactions.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "43159-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533328-__world reactions Shek.mod": {
+    "stringId": "1533328-__world reactions Shek.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533326-__world reactions Shek.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533690-__world reactions Slavers.mod": {
+    "stringId": "1533690-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533499-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533491-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533494-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533488-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533489-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "51708-Dialogue.mod": [
+          0,
+          0,
+          0
+        ],
+        "56365-Dialogue.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "NPC is NOT": {
+        "1533499-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533491-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533494-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533488-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533489-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "51708-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "56365-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533501-__world reactions Slavers.mod": {
+    "stringId": "1533501-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533500-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533502-__world reactions Slavers.mod": {
+    "stringId": "1533502-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533499-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533503-__world reactions Slavers.mod": {
+    "stringId": "1533503-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533491-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533504-__world reactions Slavers.mod": {
+    "stringId": "1533504-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533494-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533505-__world reactions Slavers.mod": {
+    "stringId": "1533505-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533488-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533506-__world reactions Slavers.mod": {
+    "stringId": "1533506-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533497-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533507-__world reactions Slavers.mod": {
+    "stringId": "1533507-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533489-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533661-__world reactions Slavers.mod": {
+    "stringId": "1533661-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "59030-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533699-__world reactions Slavers.mod": {
+    "stringId": "1533699-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533497-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533500-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "NPC is NOT": {
+        "1533500-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533497-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533710-__world reactions Slavers.mod": {
+    "stringId": "1533710-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533707-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533705-__world reactions Slavers.mod": {
+    "stringId": "1533705-__world reactions Slavers.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533702-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533739-__world reactios swamp.mod": {
+    "stringId": "1533739-__world reactios swamp.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533497-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533500-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ],
+        "1533702-__world reactions Slavers.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "NPC is NOT": {
+        "1533497-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533500-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533702-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533716-__world reactios swamp.mod": {
+    "stringId": "1533716-__world reactios swamp.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "48739-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533825-rebirth.mod": {
+    "stringId": "1533825-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "57390-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533826-rebirth.mod": {
+    "stringId": "1533826-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "97095-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1533834-rebirth.mod": {
+    "stringId": "1533834-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "1533844-rebirth.mod": {
+    "stringId": "1533844-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "57390-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534045-rebirth.mod": {
+    "stringId": "1534045-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {}
+  },
+  "1534047-rebirth.mod": {
+    "stringId": "1534047-rebirth.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533858-rebirth.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534461-__Fixes.mod": {
+    "stringId": "1534461-__Fixes.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533499-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533491-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533494-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533488-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533489-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "51708-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "56365-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534462-__Fixes.mod": {
+    "stringId": "1534462-__Fixes.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": false
+    },
+    "references": {
+      "NPC is": {
+        "1533500-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ],
+        "1533497-__world reactions Slavers.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1534164-__Fixes.mod": {
+    "stringId": "1534164-__Fixes.mod",
+    "type": "WorldEventState",
+    "values": {
+      "notes": "",
+      "player involvement": true
+    },
+    "references": {
+      "NPC is NOT": {
+        "59164-Dialogue.mod": [
+          1,
+          0,
+          0
+        ],
+        "59165-Dialogue.mod": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

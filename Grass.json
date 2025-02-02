@@ -1,0 +1,1082 @@
+{
+  "2803-Newwworld.mod": {
+    "stringId": "2803-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 2.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SpriteGrassBrown.dds"
+      },
+      "max altitude": 674.0,
+      "max height": 1.5,
+      "max slope": 10.0,
+      "max width": 1.3,
+      "min altitude": 101.0,
+      "min height": 0.7,
+      "min width": 0.7,
+      "noise scale": 1.5,
+      "wind factor": 1.0,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "1488-vurt.mod": {
+    "stringId": "1488-vurt.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 8.0,
+      "blackout zero cutoff": 0.54,
+      "brightness boost": 2.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Green.png"
+      },
+      "cross quads": true,
+      "density": 6.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SpriteGrassBrown.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.5,
+      "max slope": 11.0,
+      "max width": 3.0,
+      "min altitude": 110.0,
+      "min height": 0.7,
+      "min width": 1.0,
+      "noise scale": 2.0,
+      "wind factor": 1.0,
+      "zero cutoff": 0.44
+    },
+    "references": {}
+  },
+  "5638-Newwworld.mod": {
+    "stringId": "5638-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 1.0,
+      "blackout zero cutoff": 0.2,
+      "brightness boost": 3.0,
+      "cap": 2.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 1.4,
+      "grass sprite": {
+        "path": ".\\data\\newland\\Assets\\Plants\\GrassFluffyhead_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 0.6,
+      "max slope": 20.0,
+      "max width": 0.9,
+      "min altitude": 107.0,
+      "min height": 0.2,
+      "min width": 0.4,
+      "noise scale": 0.8,
+      "wind factor": 0.4,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "3205-Newwworld.mod": {
+    "stringId": "3205-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 1.3,
+      "blackout zero cutoff": 0.38,
+      "brightness boost": 3.0,
+      "cap": 3.4,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 2.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SPRITEGroundPlantTwiggyGrass-Orange.dds"
+      },
+      "max altitude": 3000.0,
+      "max height": 1.0,
+      "max slope": 20.0,
+      "max width": 1.0,
+      "min altitude": 103.0,
+      "min height": 0.3,
+      "min width": 0.3,
+      "noise scale": 5.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.3
+    },
+    "references": {}
+  },
+  "4428-Newwworld.mod": {
+    "stringId": "4428-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 2.0,
+      "blackout zero cutoff": 0.45,
+      "brightness boost": 0.7,
+      "cap": 0.8,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 0.3,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_Hand-Plant01_DIF_HI.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.0,
+      "max slope": 25.0,
+      "max width": 1.0,
+      "min altitude": 110.0,
+      "min height": 0.85,
+      "min width": 0.8,
+      "noise scale": 0.1,
+      "wind factor": 0.14,
+      "zero cutoff": 0.4
+    },
+    "references": {}
+  },
+  "5566-Newwworld.mod": {
+    "stringId": "5566-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 2.0,
+      "blackout zero cutoff": 0.8,
+      "brightness boost": 3.0,
+      "cap": 2.8,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\Sprite_Basic_NEW_Grass.dds"
+      },
+      "max altitude": 10800.0,
+      "max height": 0.45,
+      "max slope": 33.0,
+      "max width": 0.8,
+      "min altitude": 101.0,
+      "min height": 0.2,
+      "min width": 0.4,
+      "noise scale": 0.8,
+      "wind factor": 1.0,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "4423-Newwworld.mod": {
+    "stringId": "4423-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 30.0,
+      "blackout zero cutoff": 0.5,
+      "brightness boost": 1.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Green.png"
+      },
+      "cross quads": true,
+      "density": 0.01,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Tree_Spikey_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 2.5,
+      "max slope": 8.0,
+      "max width": 2.5,
+      "min altitude": 110.0,
+      "min height": 0.9,
+      "min width": 0.9,
+      "noise scale": 0.9,
+      "wind factor": 0.4,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "4433-Newwworld.mod": {
+    "stringId": "4433-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_CoralGrass01_DIF_HI.dds"
+      },
+      "max altitude": 3000.0,
+      "max height": 0.7,
+      "max slope": 20.0,
+      "max width": 0.7,
+      "min altitude": 101.0,
+      "min height": 0.4,
+      "min width": 0.4,
+      "noise scale": 1.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "4419-Newwworld.mod": {
+    "stringId": "4419-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 4.0,
+      "blackout zero cutoff": 0.5,
+      "brightness boost": 3.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Grass_Crumpled01_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 0.5,
+      "max slope": 16.0,
+      "max width": 1.0,
+      "min altitude": 110.0,
+      "min height": 0.2,
+      "min width": 0.4,
+      "noise scale": 7.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.9
+    },
+    "references": {}
+  },
+  "43867-Newwworld.mod": {
+    "stringId": "43867-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 0.8,
+      "blackout zero cutoff": 0.12,
+      "brightness boost": 12.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SpriteGrassBlue.dds"
+      },
+      "max altitude": 50000.0,
+      "max height": 1.0,
+      "max slope": 28.0,
+      "max width": 2.0,
+      "min altitude": 350.0,
+      "min height": 0.4,
+      "min width": 1.0,
+      "noise scale": 7.0,
+      "wind factor": 1.0,
+      "zero cutoff": 0.4
+    },
+    "references": {}
+  },
+  "4421-Newwworld.mod": {
+    "stringId": "4421-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 5.0,
+      "blackout zero cutoff": 0.6,
+      "brightness boost": 3.0,
+      "cap": 4.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\GrassSpikey01_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.2,
+      "max slope": 20.0,
+      "max width": 1.2,
+      "min altitude": 110.0,
+      "min height": 0.64,
+      "min width": 0.64,
+      "noise scale": 1.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.2
+    },
+    "references": {}
+  },
+  "3440-Newwworld.mod": {
+    "stringId": "3440-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 0.14,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 2.0,
+      "cap": 1.4,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 3.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SPRITEGroundPlantTwiggyGrass01.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.0,
+      "max slope": 90.0,
+      "max width": 1.0,
+      "min altitude": 108.0,
+      "min height": 0.3,
+      "min width": 0.3,
+      "noise scale": 1.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.2
+    },
+    "references": {}
+  },
+  "4464-Newwworld.mod": {
+    "stringId": "4464-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 30.0,
+      "blackout zero cutoff": 0.5,
+      "brightness boost": 1.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ""
+      },
+      "cross quads": false,
+      "density": 0.02,
+      "grass sprite": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Anenome03_DIF.dds"
+      },
+      "max altitude": 400.0,
+      "max height": 0.8,
+      "max slope": 4.0,
+      "max width": 0.8,
+      "min altitude": 105.0,
+      "min height": 0.5,
+      "min width": 0.5,
+      "noise scale": 0.9,
+      "wind factor": 0.4,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "48727-Newwworld.mod": {
+    "stringId": "48727-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 2.0,
+      "blackout zero cutoff": 0.8,
+      "brightness boost": 3.0,
+      "cap": 2.8,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\Sprite_Basic_NEW_Grass_REDDER.dds"
+      },
+      "max altitude": 10674.0,
+      "max height": 0.45,
+      "max slope": 33.0,
+      "max width": 0.8,
+      "min altitude": 101.0,
+      "min height": 0.2,
+      "min width": 0.4,
+      "noise scale": 0.8,
+      "wind factor": 1.0,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "4463-Newwworld.mod": {
+    "stringId": "4463-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 30.0,
+      "blackout zero cutoff": 0.5,
+      "brightness boost": 1.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ""
+      },
+      "cross quads": false,
+      "density": 0.03,
+      "grass sprite": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Anenome02_DIF.dds"
+      },
+      "max altitude": 400.0,
+      "max height": 0.8,
+      "max slope": 4.0,
+      "max width": 0.8,
+      "min altitude": 105.0,
+      "min height": 0.5,
+      "min width": 0.5,
+      "noise scale": 0.9,
+      "wind factor": 0.4,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "5792-Newwworld.mod": {
+    "stringId": "5792-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 30.0,
+      "blackout zero cutoff": 0.5,
+      "brightness boost": 1.4,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\newland\\Assets\\Plants\\StoneGrass_DIF.dds"
+      },
+      "max altitude": 120000.0,
+      "max height": 0.1,
+      "max slope": 25.0,
+      "max width": 0.2,
+      "min altitude": 99.0,
+      "min height": 0.04,
+      "min width": 0.06,
+      "noise scale": 0.9,
+      "wind factor": 0.0,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "4426-Newwworld.mod": {
+    "stringId": "4426-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 5.0,
+      "blackout zero cutoff": 1.0,
+      "brightness boost": 0.5,
+      "cap": 0.4,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 0.4,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_Hand-Plant_DIF_HI.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.0,
+      "max slope": 25.0,
+      "max width": 1.0,
+      "min altitude": 110.0,
+      "min height": 0.85,
+      "min width": 0.8,
+      "noise scale": 0.23,
+      "wind factor": 0.14,
+      "zero cutoff": 0.7
+    },
+    "references": {}
+  },
+  "4439-Newwworld.mod": {
+    "stringId": "4439-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 11.0,
+      "blackout zero cutoff": 0.3,
+      "brightness boost": 5.0,
+      "cap": 1.5,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Brown.png"
+      },
+      "cross quads": false,
+      "density": 0.6,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\GrassSpikey01_DIF.dds"
+      },
+      "max altitude": 240.0,
+      "max height": 1.5,
+      "max slope": 30.0,
+      "max width": 2.0,
+      "min altitude": 112.0,
+      "min height": 1.0,
+      "min width": 0.9,
+      "noise scale": 2.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.4
+    },
+    "references": {}
+  },
+  "4494-Newwworld.mod": {
+    "stringId": "4494-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 11.0,
+      "blackout zero cutoff": 0.3,
+      "brightness boost": 5.0,
+      "cap": 1.5,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Green.png"
+      },
+      "cross quads": false,
+      "density": 0.01,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\GrassSpikey01_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 3.5,
+      "max slope": 20.0,
+      "max width": 3.5,
+      "min altitude": 110.0,
+      "min height": 2.0,
+      "min width": 2.0,
+      "noise scale": 2.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.4
+    },
+    "references": {}
+  },
+  "48731-Newwworld.mod": {
+    "stringId": "48731-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 4.9,
+      "blackout zero cutoff": 0.55,
+      "brightness boost": 1.9,
+      "cap": 2.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\GrassSpikey01_REDDER_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.2,
+      "max slope": 20.0,
+      "max width": 1.2,
+      "min altitude": 110.0,
+      "min height": 0.64,
+      "min width": 0.64,
+      "noise scale": 1.8,
+      "wind factor": 0.42,
+      "zero cutoff": 0.2
+    },
+    "references": {}
+  },
+  "2995-Newwworld.mod": {
+    "stringId": "2995-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 6.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 2.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SPRITEGroundPlantFluffyGrass01.dds"
+      },
+      "max altitude": 1500.0,
+      "max height": 1.0,
+      "max slope": 19.0,
+      "max width": 1.0,
+      "min altitude": 400.0,
+      "min height": 0.5,
+      "min width": 0.5,
+      "noise scale": 1.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "5565-D-Newwworld.mod": {
+    "stringId": "5565-D-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Green.png"
+      },
+      "cross quads": false,
+      "density": 1.3,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\Grass-Lowtype_DIF.dds"
+      },
+      "max altitude": 1674.0,
+      "max height": 1.5,
+      "max slope": 10.0,
+      "max width": 1.3,
+      "min altitude": 106.0,
+      "min height": 1.5,
+      "min width": 1.3,
+      "noise scale": 4.0,
+      "wind factor": 1.0,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "4431-Newwworld.mod": {
+    "stringId": "4431-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 13.0,
+      "blackout zero cutoff": 0.2,
+      "brightness boost": 7.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Grass_Crumpled01_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 0.5,
+      "max slope": 16.0,
+      "max width": 1.0,
+      "min altitude": 850.0,
+      "min height": 0.2,
+      "min width": 0.4,
+      "noise scale": 3.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.3
+    },
+    "references": {}
+  },
+  "4492-Newwworld.mod": {
+    "stringId": "4492-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 13.0,
+      "blackout zero cutoff": 0.2,
+      "brightness boost": 3.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 2.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Grass_Crumpled01GREEN_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 0.5,
+      "max slope": 22.0,
+      "max width": 1.0,
+      "min altitude": 104.0,
+      "min height": 0.2,
+      "min width": 0.4,
+      "noise scale": 7.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.7
+    },
+    "references": {}
+  },
+  "4462-Newwworld.mod": {
+    "stringId": "4462-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 30.0,
+      "blackout zero cutoff": 0.5,
+      "brightness boost": 1.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ""
+      },
+      "cross quads": false,
+      "density": 0.03,
+      "grass sprite": {
+        "path": ".\\data\\newland\\Assets\\Textures\\Anenome01_DIF.dds"
+      },
+      "max altitude": 400.0,
+      "max height": 0.8,
+      "max slope": 4.0,
+      "max width": 0.8,
+      "min altitude": 105.0,
+      "min height": 0.5,
+      "min width": 0.5,
+      "noise scale": 0.9,
+      "wind factor": 0.4,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "5838-Newwworld.mod": {
+    "stringId": "5838-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 9.0,
+      "blackout zero cutoff": 0.4,
+      "brightness boost": 20.0,
+      "cap": 5.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\WiryThorns01_DIF.dds"
+      },
+      "max altitude": 20000.0,
+      "max height": 1.7,
+      "max slope": 27.0,
+      "max width": 2.0,
+      "min altitude": 110.0,
+      "min height": 1.2,
+      "min width": 1.7,
+      "noise scale": 14.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.8
+    },
+    "references": {}
+  },
+  "3245-Newwworld.mod": {
+    "stringId": "3245-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 3.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Green.png"
+      },
+      "cross quads": false,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SpriteGrassGreen01.dds"
+      },
+      "max altitude": 674.0,
+      "max height": 2.0,
+      "max slope": 10.0,
+      "max width": 1.3,
+      "min altitude": 107.0,
+      "min height": 1.0,
+      "min width": 1.0,
+      "noise scale": 1.5,
+      "wind factor": 1.0,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "5825-Newwworld.mod": {
+    "stringId": "5825-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 2.3,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 2.0,
+      "cap": 1.4,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Green.png"
+      },
+      "cross quads": false,
+      "density": 8.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\Grass-Lowtype_DIF.dds"
+      },
+      "max altitude": 30.0,
+      "max height": 1.2,
+      "max slope": 20.0,
+      "max width": 1.5,
+      "min altitude": 99.0,
+      "min height": 0.6,
+      "min width": 1.0,
+      "noise scale": 0.5,
+      "wind factor": 0.2,
+      "zero cutoff": 0.3
+    },
+    "references": {}
+  },
+  "3206-Newwworld.mod": {
+    "stringId": "3206-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 9.0,
+      "blackout zero cutoff": 0.37,
+      "brightness boost": 7.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Blue.png"
+      },
+      "cross quads": false,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\GrassSpikey01_DIF.dds"
+      },
+      "max altitude": 674.0,
+      "max height": 1.0,
+      "max slope": 22.0,
+      "max width": 2.0,
+      "min altitude": 106.0,
+      "min height": 0.4,
+      "min width": 1.0,
+      "noise scale": 5.5,
+      "wind factor": 1.0,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "48730-Newwworld.mod": {
+    "stringId": "48730-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_CoralGrass01_REDDER_DIF_HI.dds"
+      },
+      "max altitude": 3000.0,
+      "max height": 0.7,
+      "max slope": 20.0,
+      "max width": 0.7,
+      "min altitude": 103.0,
+      "min height": 0.4,
+      "min width": 0.4,
+      "noise scale": 1.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "2993-Newwworld.mod": {
+    "stringId": "2993-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 6.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\SPRITEGroundPlantTwiggyGrass01.dds"
+      },
+      "max altitude": 674.0,
+      "max height": 1.0,
+      "max slope": 20.0,
+      "max width": 1.0,
+      "min altitude": 100.0,
+      "min height": 0.3,
+      "min width": 0.3,
+      "noise scale": 1.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "49569-Newwworld.mod": {
+    "stringId": "49569-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 2.2,
+      "blackout zero cutoff": 0.76,
+      "brightness boost": 3.4,
+      "cap": 2.4,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_Brown.png"
+      },
+      "cross quads": true,
+      "density": 1.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\BulbGrass01_DIF.dds"
+      },
+      "max altitude": 10674.0,
+      "max height": 1.3,
+      "max slope": 44.0,
+      "max width": 1.3,
+      "min altitude": 112.0,
+      "min height": 0.7,
+      "min width": 0.7,
+      "noise scale": 1.8,
+      "wind factor": 1.0,
+      "zero cutoff": 0.3
+    },
+    "references": {}
+  },
+  "4438-Newwworld.mod": {
+    "stringId": "4438-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_CoralGrass01_DIF_HI.dds"
+      },
+      "max altitude": 255.0,
+      "max height": 1.4,
+      "max slope": 20.0,
+      "max width": 1.4,
+      "min altitude": 107.0,
+      "min height": 1.0,
+      "min width": 1.0,
+      "noise scale": 1.0,
+      "wind factor": 0.2,
+      "zero cutoff": 0.5
+    },
+    "references": {}
+  },
+  "51497-Newwworld.mod": {
+    "stringId": "51497-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 3.0,
+      "cap": 1.4,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 2.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_CoralGrass01_BLACKER_DIF_HI.dds"
+      },
+      "max altitude": 3000.0,
+      "max height": 0.7,
+      "max slope": 20.0,
+      "max width": 0.7,
+      "min altitude": 99.0,
+      "min height": 0.4,
+      "min width": 0.4,
+      "noise scale": 0.8,
+      "wind factor": 0.2,
+      "zero cutoff": 0.3
+    },
+    "references": {}
+  },
+  "55233-Newwworld.mod": {
+    "stringId": "55233-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": true,
+      "blackout noise scale": 0.6,
+      "blackout zero cutoff": 0.14,
+      "brightness boost": 20.0,
+      "cap": 12.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": false,
+      "density": 4.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\grass\\WiryThorns01-WHITEblue_DIF.dds"
+      },
+      "max altitude": 520.0,
+      "max height": 2.0,
+      "max slope": 14.0,
+      "max width": 3.0,
+      "min altitude": 80.0,
+      "min height": 1.5,
+      "min width": 2.0,
+      "noise scale": 4.0,
+      "wind factor": 0.4,
+      "zero cutoff": 0.4
+    },
+    "references": {}
+  },
+  "55253-Newwworld.mod": {
+    "stringId": "55253-Newwworld.mod",
+    "type": "Grass",
+    "values": {
+      "blackout": false,
+      "blackout noise scale": 10.0,
+      "blackout zero cutoff": 0.57,
+      "brightness boost": 4.0,
+      "cap": 1.0,
+      "color map": {
+        "path": ".\\data\\foliage\\grass\\Colourmaps\\GrassColourmap_light.png"
+      },
+      "cross quads": true,
+      "density": 5.0,
+      "grass sprite": {
+        "path": ".\\data\\foliage\\Textures\\Foliage_CoralGrass01_LIGHTBLUE_HI.dds"
+      },
+      "max altitude": 600.0,
+      "max height": 1.0,
+      "max slope": 20.0,
+      "max width": 0.7,
+      "min altitude": 101.0,
+      "min height": 0.5,
+      "min width": 0.35,
+      "noise scale": 0.6,
+      "wind factor": 0.2,
+      "zero cutoff": 0.2
+    },
+    "references": {}
+  }
+}

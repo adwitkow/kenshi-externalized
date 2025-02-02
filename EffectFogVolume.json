@@ -1,0 +1,162 @@
+{
+  "40544-weather_otto1.mod": {
+    "stringId": "40544-weather_otto1.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 1.0,
+      "colour": 16777215,
+      "distance": 1.0,
+      "ground movement": true,
+      "position 2 x": 0.0,
+      "position 2 y": 0.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": 0.0,
+      "position z": 0.0,
+      "radius": 400.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "40564-weather_otto1.mod": {
+    "stringId": "40564-weather_otto1.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.768,
+      "colour": 13024414,
+      "distance": 2000.0,
+      "ground movement": true,
+      "position 2 x": 0.0,
+      "position 2 y": 250.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -30.0,
+      "position z": 0.0,
+      "radius": 500.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "44876-Newwworld.mod": {
+    "stringId": "44876-Newwworld.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.768,
+      "colour": 14658694,
+      "distance": 2000.0,
+      "ground movement": false,
+      "position 2 x": 0.0,
+      "position 2 y": 250.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -30.0,
+      "position z": 0.0,
+      "radius": 500.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "44873-Newwworld.mod": {
+    "stringId": "44873-Newwworld.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.76,
+      "colour": 13276017,
+      "distance": 2000.0,
+      "ground movement": false,
+      "position 2 x": 0.0,
+      "position 2 y": 500.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -5.0,
+      "position z": 0.0,
+      "radius": 661.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "44947-Newwworld.mod": {
+    "stringId": "44947-Newwworld.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.72,
+      "colour": 13998476,
+      "distance": 2000.0,
+      "ground movement": false,
+      "position 2 x": 0.0,
+      "position 2 y": 500.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -505.0,
+      "position z": 0.0,
+      "radius": 1147.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "44944-Newwworld.mod": {
+    "stringId": "44944-Newwworld.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.9,
+      "colour": 15777710,
+      "distance": 2000.0,
+      "ground movement": false,
+      "position 2 x": 0.0,
+      "position 2 y": 500.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -5.0,
+      "position z": 0.0,
+      "radius": 779.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "44946-Newwworld.mod": {
+    "stringId": "44946-Newwworld.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.4,
+      "colour": 13998476,
+      "distance": 2000.0,
+      "ground movement": false,
+      "position 2 x": 0.0,
+      "position 2 y": 500.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -1005.0,
+      "position z": 0.0,
+      "radius": 2000.0,
+      "type": 0
+    },
+    "references": {}
+  },
+  "44945-Newwworld.mod": {
+    "stringId": "44945-Newwworld.mod",
+    "type": "EffectFogVolume",
+    "values": {
+      "additive colour": false,
+      "alpha": 0.8,
+      "colour": 13548441,
+      "distance": 2000.0,
+      "ground movement": false,
+      "position 2 x": 0.0,
+      "position 2 y": 500.0,
+      "position 2 z": 0.0,
+      "position x": 0.0,
+      "position y": -1605.0,
+      "position z": 0.0,
+      "radius": 2000.0,
+      "type": 0
+    },
+    "references": {}
+  }
+}

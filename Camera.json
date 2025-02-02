@@ -1,0 +1,25 @@
+{
+  "1437-gamedata.base": {
+    "stringId": "1437-gamedata.base",
+    "type": "Camera",
+    "values": {
+      "Collision": {
+        "path": ""
+      },
+      "color map": {
+        "path": ""
+      },
+      "density": 0.5,
+      "grass": true,
+      "lod range": 200,
+      "max height": 1.0,
+      "max width": 1.0,
+      "Mesh": {
+        "path": ".\\data\\foliage\\temporary stuff\\grass_green-01_diffusespecular.dds"
+      },
+      "min height": 1.0,
+      "min width": 1.0
+    },
+    "references": {}
+  }
+}

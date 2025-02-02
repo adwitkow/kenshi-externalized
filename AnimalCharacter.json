@@ -1,0 +1,4344 @@
+{
+  "2859-gamedata.base": {
+    "stringId": "2859-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 20,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 35,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 8,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.3,
+      "smell blood": 15.0,
+      "smell eggs": 2.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 20.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2862-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2863-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4025-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4026-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          6,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          12,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "2860-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "3975-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3934-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3967-gamedata.base": {
+    "stringId": "3967-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 90,
+      "assigns bounties": false,
+      "attack type": 9,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 40,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 8,
+      "lifespan": 400.0,
+      "ranged stats": 0,
+      "scale max": 1.5,
+      "scale min": 0.4,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 5.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3972-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "bird attractor": {
+        "48743-rebirth.mod": [
+          1000,
+          20,
+          0
+        ],
+        "49389-rebirth.mod": [
+          1000,
+          20,
+          0
+        ],
+        "4425-Newwworld.mod": [
+          1000,
+          20,
+          0
+        ],
+        "63885-rebirth.mod": [
+          1000,
+          20,
+          0
+        ]
+      },
+      "death items": {
+        "42338-changes_otto.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3966-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "stats": {
+        "3973-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "3974-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3968-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "16859-gamedata.base": {
+    "stringId": "16859-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 10,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 30,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 4,
+      "inventory w": 4,
+      "lifespan": 50.0,
+      "ranged stats": 0,
+      "scale max": 1.1,
+      "scale min": 0.35,
+      "smell blood": 10.0,
+      "smell eggs": 0.0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 66.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3980-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3981-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "46395-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          2,
+          0,
+          0
+        ],
+        "42315-changes_otto.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3976-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43916-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3999-gamedata.base": {
+    "stringId": "3999-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 17,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 22,
+      "faction importance": 1.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4000-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4001-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "backpack": {
+        "4002-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3998-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43916-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "56124-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42067-small_changes_otto.mod": {
+    "stringId": "42067-small_changes_otto.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 14,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 33,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.1,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 20.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42076-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          14,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          20,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "42068-small_changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42069-small_changes_otto.mod": {
+    "stringId": "42069-small_changes_otto.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 70,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 40,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 8,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 25.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42164-gamedata.base": [
+          2,
+          0,
+          0
+        ],
+        "42159-gamedata.base": [
+          6,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "42070-small_changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42073-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3986-gamedata.base": {
+    "stringId": "3986-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 70,
+      "assigns bounties": false,
+      "attack type": 11,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 20,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.45,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3989-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3990-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ],
+        "42314-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3985-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "46990-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3988-gamedata.base": {
+    "stringId": "3988-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 10,
+      "assigns bounties": false,
+      "attack type": 11,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 10,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.5,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 40.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3991-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42243-rebirth.mod": [
+          14,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3987-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3979-gamedata.base": {
+    "stringId": "3979-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 35,
+      "assigns bounties": false,
+      "attack type": 10,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 20,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 0.85,
+      "scale min": 0.35,
+      "smell blood": 10.0,
+      "smell eggs": 0.0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 55.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3980-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3981-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "46395-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "42315-changes_otto.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3976-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43916-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "3993-gamedata.base": {
+    "stringId": "3993-gamedata.base",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 10,
+      "assigns bounties": false,
+      "attack type": 15,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 10,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 25.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 77.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3994-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3995-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          2,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          7,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3992-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43887-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56088-Newwworld.mod": {
+    "stringId": "56088-Newwworld.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 55,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 35,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 5,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.1,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "sounds": 8,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 25.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "65828-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "50567-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56089-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56113-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56111-Newwworld.mod": {
+    "stringId": "56111-Newwworld.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 99,
+      "assigns bounties": false,
+      "attack type": 9,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 50,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 18,
+      "inventory w": 18,
+      "lifespan": 1000.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 1.0,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "sounds": 8,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 5.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3972-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "bird attractor": {
+        "48743-rebirth.mod": [
+          100,
+          10,
+          0
+        ]
+      },
+      "death items": {
+        "43392-changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "42164-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "45557-changes_otto.mod": [
+          3,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          6,
+          0,
+          0
+        ],
+        "42159-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "42160-gamedata.base": [
+          20,
+          0,
+          0
+        ],
+        "43394-changes_otto.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56112-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "3974-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3968-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "65262-Newwworld.mod": {
+    "stringId": "65262-Newwworld.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 600,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.5,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "65264-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "2288-gamedata.base": [
+          1,
+          0,
+          0
+        ],
+        "43394-changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "583-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "65260-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97572-Newwworld.mod": {
+    "stringId": "97572-Newwworld.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 35,
+      "assigns bounties": false,
+      "attack type": 19,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 30,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 60.0,
+      "ranged stats": 0,
+      "scale max": 1.25,
+      "scale min": 0.3,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 44.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "3995-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3994-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          6,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          3,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          2,
+          0,
+          0
+        ],
+        "42315-changes_otto.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "faction": {
+        "97574-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "97570-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "10323-Dialogue (7).mod": {
+    "stringId": "10323-Dialogue (7).mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 35,
+      "assigns bounties": false,
+      "attack type": 10,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 25,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.3,
+      "smell blood": 6.0,
+      "smell eggs": 0.0,
+      "sounds": 0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 66.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "AI Goals": {
+        "1166-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animations": {
+        "3980-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3981-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "46395-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3976-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "8355-Dialogue.mod": {
+    "stringId": "8355-Dialogue.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 8,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 15,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "sounds": 0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 20.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "backpack": {
+        "4002-gamedata.base": [
+          1,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3998-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "58495-Dialogue.mod": {
+    "stringId": "58495-Dialogue.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 10,
+      "assigns bounties": false,
+      "attack type": 15,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 15,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "sounds": 6,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 77.0,
+      "unarmed stats": 0,
+      "unique": true
+    },
+    "references": {
+      "AI Goals": {
+        "1166-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3994-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3995-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          7,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3992-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43887-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64737-Dialogue.mod": {
+    "stringId": "64737-Dialogue.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 35,
+      "assigns bounties": false,
+      "attack type": 10,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 25,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.3,
+      "smell blood": 6.0,
+      "smell eggs": 0.0,
+      "sounds": 0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 66.0,
+      "unarmed stats": 0,
+      "unique": true
+    },
+    "references": {
+      "AI Goals": {
+        "1166-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "animations": {
+        "3980-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3981-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "46395-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3976-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64738-Dialogue.mod": {
+    "stringId": "64738-Dialogue.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 10,
+      "assigns bounties": false,
+      "attack type": 15,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 10,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 25.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 77.0,
+      "unarmed stats": 0,
+      "unique": true
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3994-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3995-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          7,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3992-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43887-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "99175-Dialogue.mod": {
+    "stringId": "99175-Dialogue.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 80,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 80,
+      "faction importance": 1.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.1,
+      "scale min": 0.3,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 15,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43899-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          8,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "55668-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44911-rebirth.mod": {
+    "stringId": "44911-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 25,
+      "assigns bounties": false,
+      "attack type": 15,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 10,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 4.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.4,
+      "smell blood": 10.0,
+      "smell eggs": 0.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 50.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43881-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43880-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          4,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "44910-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43887-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47929-rebirth.mod": {
+    "stringId": "47929-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 11,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 25,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.45,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3989-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3990-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "backpack": {
+        "43948-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ],
+        "42314-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3985-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "46990-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43895-rebirth.mod": {
+    "stringId": "43895-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 60,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 60.0,
+      "ranged stats": 0,
+      "scale max": 0.85,
+      "scale min": 0.25,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43899-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "43898-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "42201-rebirth.mod": {
+    "stringId": "42201-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 17,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 30,
+      "faction importance": 1.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4000-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4001-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ],
+        "42241-rebirth.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3998-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43916-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "56124-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43326-rebirth.mod": {
+    "stringId": "43326-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 45,
+      "assigns bounties": false,
+      "attack type": 15,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 30,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 8.0,
+      "ranged stats": 0,
+      "scale max": 1.5,
+      "scale min": 0.5,
+      "smell blood": 10.0,
+      "smell eggs": 0.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 50.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43881-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43880-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          6,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "42071-small_changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43887-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43949-rebirth.mod": {
+    "stringId": "43949-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 11,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 20,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.45,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3989-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3990-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "42068-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          20,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "43947-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "46991-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44882-rebirth.mod": {
+    "stringId": "44882-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 5,
+      "assigns bounties": false,
+      "attack type": 13,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 40,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 1.0,
+      "ranged stats": 0,
+      "scale max": 0.3,
+      "scale min": 0.15,
+      "smell blood": 0.0,
+      "smell eggs": 5.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 27,
+      "turn rate": 60.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43879-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42315-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "50641-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43886-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "43885-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "50853-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43877-rebirth.mod": {
+    "stringId": "43877-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 20,
+      "assigns bounties": false,
+      "attack type": 13,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 40,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 6.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.2,
+      "smell blood": 0.0,
+      "smell eggs": 5.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 40.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4023-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43879-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42313-changes_otto.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "43870-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43886-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "43885-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43883-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48670-rebirth.mod": {
+    "stringId": "48670-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 70,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 60,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 5,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 0.6,
+      "scale min": 0.6,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 25.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42164-gamedata.base": [
+          4,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "42159-gamedata.base": [
+          6,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "48689-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42073-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50318-rebirth.mod": {
+    "stringId": "50318-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 40,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 60,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 5,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 0.3,
+      "scale min": 0.3,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 25.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42164-gamedata.base": [
+          3,
+          0,
+          0
+        ],
+        "43395-changes_otto.mod": [
+          1,
+          0,
+          0
+        ],
+        "42159-gamedata.base": [
+          4,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "48689-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42073-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "50983-rebirth.mod": {
+    "stringId": "50983-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 60,
+      "assigns bounties": false,
+      "attack type": 15,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 60,
+      "faction importance": 0.0,
+      "female chance": 100,
+      "HP mult": 3.0,
+      "inventory h": 18,
+      "inventory w": 18,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 3.5,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 2,
+      "stealth stats": 0,
+      "strength": 80,
+      "turn rate": 40.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43881-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43880-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          20,
+          0,
+          0
+        ],
+        "50984-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "42071-small_changes_otto.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "42068-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43887-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "55670-rebirth.mod": {
+    "stringId": "55670-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 80,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 80,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.1,
+      "scale min": 0.3,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 15,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43899-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          8,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "55668-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56087-rebirth.mod": {
+    "stringId": "56087-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 20,
+      "assigns bounties": false,
+      "attack type": 13,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 35,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 8.0,
+      "ranged stats": 0,
+      "scale max": 0.8,
+      "scale min": 0.2,
+      "smell blood": 0.0,
+      "smell eggs": 5.0,
+      "stats randomise": 10,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 40.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "56089-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "56090-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "96181-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42313-changes_otto.mod": [
+          6,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          8,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          2,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56088-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56091-rebirth.mod": [
+          200,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "56091-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "56092-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "912-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "56121-rebirth.mod": {
+    "stringId": "56121-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 50,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 2.2,
+      "inventory h": 18,
+      "inventory w": 8,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 2.25,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 5.0,
+      "unarmed stats": 60,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "56122-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          20,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56089-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56113-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62553-rebirth.mod": {
+    "stringId": "62553-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 10,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 40,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 6,
+      "lifespan": 45.0,
+      "ranged stats": 0,
+      "scale max": 1.5,
+      "scale min": 0.35,
+      "smell blood": 10.0,
+      "smell eggs": 0.0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 66.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3980-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3981-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "46395-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          6,
+          0,
+          0
+        ],
+        "42315-changes_otto.mod": [
+          8,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          8,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "66294-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43916-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62551-rebirth.mod": {
+    "stringId": "62551-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 40,
+      "assigns bounties": false,
+      "attack type": 10,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 25,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 50.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.35,
+      "smell blood": 10.0,
+      "smell eggs": 0.0,
+      "stats randomise": 5,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 66.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3977-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3980-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3981-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "46395-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "4024-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          2,
+          0,
+          0
+        ],
+        "42315-changes_otto.mod": [
+          4,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          3,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "3976-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43916-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "3982-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "62768-rebirth.mod": {
+    "stringId": "62768-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 100,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 100,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 18,
+      "inventory w": 18,
+      "lifespan": 200.0,
+      "ranged stats": 0,
+      "scale max": 2.5,
+      "scale min": 1.0,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 100,
+      "turn rate": 30.0,
+      "unarmed stats": 100,
+      "unique": true
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43899-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "42241-rebirth.mod": [
+          8,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "55668-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "96147-__Southern hive.mod": {
+    "stringId": "96147-__Southern hive.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 60,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 4,
+      "lifespan": 400.0,
+      "ranged stats": 0,
+      "scale max": 1.5,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": true
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "65264-Newwworld.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "2288-gamedata.base": [
+          4,
+          0,
+          0
+        ],
+        "43394-changes_otto.mod": [
+          4,
+          0,
+          0
+        ],
+        "583-gamedata.base": [
+          4,
+          0,
+          0
+        ],
+        "43392-changes_otto.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "65260-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "98509-rebirth.mod": {
+    "stringId": "98509-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 16,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 60,
+      "faction importance": 0.0,
+      "female chance": 50,
+      "HP mult": 1.25,
+      "inventory h": 8,
+      "inventory w": 6,
+      "lifespan": 60.0,
+      "ranged stats": 0,
+      "scale max": 0.85,
+      "scale min": 0.25,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 3,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 30.0,
+      "unarmed stats": 0,
+      "unique": true
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "3381-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "43899-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43900-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "43890-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "98510-rebirth.mod": [
+          3,
+          0,
+          0
+        ],
+        "1534121-__Fixes.mod": [
+          1,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "43898-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "43896-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "43897-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532708-rebirth.mod": {
+    "stringId": "1532708-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 55,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 25,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 1.0,
+      "inventory h": 8,
+      "inventory w": 5,
+      "lifespan": 40.0,
+      "ranged stats": 0,
+      "scale max": 1.0,
+      "scale min": 0.1,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "sounds": 8,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 25.0,
+      "unarmed stats": 0,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "65828-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "50567-rebirth.mod": [
+          1,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56089-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56113-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532791-rebirth.mod": {
+    "stringId": "1532791-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 50,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 2.2,
+      "inventory h": 18,
+      "inventory w": 8,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 2.25,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "sounds": 8,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 5.0,
+      "unarmed stats": 60,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ],
+        "65828-rebirth.mod": [
+          0,
+          0,
+          0
+        ],
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      },
+      "death items": {
+        "50567-rebirth.mod": [
+          20,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ],
+        "56122-rebirth.mod": [
+          5,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56089-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56113-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532793-rebirth.mod": {
+    "stringId": "1532793-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 50,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 2.2,
+      "inventory h": 18,
+      "inventory w": 8,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 2.25,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 5.0,
+      "unarmed stats": 60,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "56122-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          20,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56089-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56113-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1532795-rebirth.mod": {
+    "stringId": "1532795-rebirth.mod",
+    "type": "AnimalCharacter",
+    "values": {
+      "animal strength": 50,
+      "assigns bounties": false,
+      "attack type": 12,
+      "bounty amount": 0,
+      "bounty amount fuzz": 0,
+      "bounty chance": 0,
+      "combat stats": 50,
+      "faction importance": 0.0,
+      "female chance": 0,
+      "HP mult": 2.2,
+      "inventory h": 18,
+      "inventory w": 8,
+      "lifespan": 100.0,
+      "ranged stats": 0,
+      "scale max": 2.25,
+      "scale min": 1.5,
+      "smell blood": 0.0,
+      "smell eggs": 0.0,
+      "stats randomise": 0,
+      "stealth stats": 0,
+      "strength": 0,
+      "turn rate": 5.0,
+      "unarmed stats": 60,
+      "unique": false
+    },
+    "references": {
+      "animations": {
+        "2861-gamedata.base": [
+          0,
+          100,
+          0
+        ],
+        "42072-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "death items": {
+        "56122-rebirth.mod": [
+          5,
+          0,
+          0
+        ],
+        "50567-rebirth.mod": [
+          20,
+          0,
+          0
+        ],
+        "42243-rebirth.mod": [
+          10,
+          0,
+          0
+        ]
+      },
+      "race": {
+        "56089-Newwworld.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "strafe anim": {
+        "56113-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      },
+      "turning anim": {
+        "42072-gamedata.base": [
+          8000,
+          0,
+          0
+        ]
+      },
+      "weapon": {
+        "42075-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "weapon level": {
+        "917-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

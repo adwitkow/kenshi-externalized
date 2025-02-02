@@ -1,0 +1,2169 @@
+{
+  "5624-Newwworld.mod": {
+    "stringId": "5624-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.5,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15322014,
+      "fog distance max": 25000.0,
+      "fog distance min": 7000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16559228,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 100.0,
+      "wind speed min": 5.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "44881-Newwworld.mod": [
+          1,
+          155,
+          180
+        ],
+        "44942-Newwworld.mod": [
+          22,
+          1,
+          2
+        ],
+        "48689-Newwworld.mod": [
+          4,
+          12,
+          120
+        ]
+      }
+    }
+  },
+  "5460-weather_otto.mod": {
+    "stringId": "5460-weather_otto.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14997169,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "REMOVED": true,
+      "sky color mult": 15123086,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 80.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 10
+    },
+    "references": {}
+  },
+  "5460-weather.mod": {
+    "stringId": "5460-weather.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 60.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {}
+  },
+  "5463-weather_otto.mod": {
+    "stringId": "5463-weather_otto.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.15,
+      "dust inside": 0.33,
+      "dust slope": 0.2,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 22.0,
+      "fog color": 14997169,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.6,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 7.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 20.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {}
+  },
+  "48471-Newwworld.mod": {
+    "stringId": "48471-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "48469-Newwworld.mod": [
+          2500,
+          5,
+          400
+        ]
+      }
+    }
+  },
+  "46964-Newwworld.mod": {
+    "stringId": "46964-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.5,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15322014,
+      "fog distance max": 190000.0,
+      "fog distance min": 15000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.5,
+      "rain intensity": 0.0,
+      "sky color mult": 16559228,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 100.0,
+      "wind speed min": 5.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "44881-Newwworld.mod": [
+          1,
+          155,
+          -155
+        ],
+        "44942-Newwworld.mod": [
+          22,
+          1,
+          2
+        ],
+        "51004-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "47951-Newwworld.mod": {
+    "stringId": "47951-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 35.0,
+      "wind speed max": 70.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "47952-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "46961-Newwworld.mod": {
+    "stringId": "46961-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.8,
+      "affect type": 1,
+      "clouds density": 0.1,
+      "dust": 0.5,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15322014,
+      "fog distance max": 20000.0,
+      "fog distance min": 10000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16559228,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 60.0,
+      "wind speed max": 55.0,
+      "wind speed min": 20.0,
+      "wind update limit": 45,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "44942-Newwworld.mod": [
+          1,
+          1,
+          2
+        ]
+      }
+    }
+  },
+  "44958-Newwworld.mod": {
+    "stringId": "44958-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 0.5,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15322014,
+      "fog distance max": 4000.0,
+      "fog distance min": 700.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.25,
+      "rain intensity": 0.0,
+      "sky color mult": 16559228,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 100.0,
+      "wind speed max": 100.0,
+      "wind speed min": 50.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "44959-Newwworld.mod": [
+          1,
+          85,
+          180
+        ],
+        "44942-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "48680-Newwworld.mod": {
+    "stringId": "48680-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 0.0,
+      "wind speed max": 70.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "48679-Newwworld.mod": [
+          1,
+          0,
+          10
+        ]
+      }
+    }
+  },
+  "48451-Newwworld.mod": {
+    "stringId": "48451-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 40.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.65,
+      "wind intensity": 0.0,
+      "wind speed max": 33.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "48450-Newwworld.mod": [
+          1,
+          50,
+          400
+        ]
+      }
+    }
+  },
+  "48468-Newwworld.mod": {
+    "stringId": "48468-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 1.5,
+      "dust inside": 0.33,
+      "dust slope": 0.5,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15591908,
+      "fog distance max": 35000.0,
+      "fog distance min": 10000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 11970450,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 70.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "48467-Newwworld.mod": [
+          1,
+          40,
+          400
+        ],
+        "48679-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "48461-Newwworld.mod": {
+    "stringId": "48461-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 2.0,
+      "dust inside": 0.33,
+      "dust slope": 0.6,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15591908,
+      "fog distance max": 35000.0,
+      "fog distance min": 10800.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 1.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 33.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "48459-Newwworld.mod": [
+          0,
+          0,
+          0
+        ],
+        "62780-Newwworld.mod": [
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "44874-Newwworld.mod": {
+    "stringId": "44874-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "18966-small_changes_otto.mod": [
+          1,
+          1,
+          10
+        ]
+      }
+    }
+  },
+  "48455-Newwworld.mod": {
+    "stringId": "48455-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 10454903,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 10.0,
+      "wind speed max": 700.0,
+      "wind speed min": 400.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "48469-Newwworld.mod": [
+          15,
+          0,
+          1
+        ],
+        "48453-Newwworld.mod": [
+          1,
+          1,
+          1
+        ]
+      }
+    }
+  },
+  "46965-Newwworld.mod": {
+    "stringId": "46965-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.1,
+      "dust": 0.2,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15322014,
+      "fog distance max": 390000.0,
+      "fog distance min": 19000.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.5,
+      "rain intensity": 0.0,
+      "sky color mult": 16559228,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 10.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "44942-Newwworld.mod": [
+          12,
+          2,
+          4
+        ]
+      }
+    }
+  },
+  "48449-Newwworld.mod": {
+    "stringId": "48449-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 0.0,
+      "wind speed max": 15.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "48446-Newwworld.mod": [
+          1,
+          60,
+          600
+        ],
+        "47952-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "44878-Newwworld.mod": {
+    "stringId": "44878-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.2,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14997169,
+      "fog distance max": 8000.0,
+      "fog distance min": 4000.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 15123086,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 100.0,
+      "wind speed max": 80.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 10
+    },
+    "references": {
+      "effects": {
+        "51004-Newwworld.mod": [
+          4,
+          10,
+          25
+        ]
+      }
+    }
+  },
+  "51005-Newwworld.mod": {
+    "stringId": "51005-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.2,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14997169,
+      "fog distance max": 8000.0,
+      "fog distance min": 4000.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 15123086,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 80.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 10
+    },
+    "references": {
+      "effects": {
+        "44877-Newwworld.mod": [
+          14,
+          8,
+          30
+        ]
+      }
+    }
+  },
+  "51326-Newwworld.mod": {
+    "stringId": "51326-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.2,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.25,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 25.0,
+      "wind speed max": 70.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "51325-Newwworld.mod": [
+          10,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "51669-Newwworld.mod": {
+    "stringId": "51669-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.4,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14997169,
+      "fog distance max": 8000.0,
+      "fog distance min": 4000.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 15123086,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 100.0,
+      "wind speed max": 80.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 10
+    },
+    "references": {
+      "effects": {
+        "51667-Newwworld.mod": [
+          5,
+          180,
+          600
+        ]
+      }
+    }
+  },
+  "56177-Newwworld.mod": {
+    "stringId": "56177-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.4,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.5,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 45.0,
+      "wind speed max": 60.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "56175-Newwworld.mod": [
+          1,
+          160,
+          350
+        ]
+      }
+    }
+  },
+  "57721-Newwworld.mod": {
+    "stringId": "57721-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 20.0,
+      "dust": 0.0,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 1.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "57720-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64222-Newwworld.mod": {
+    "stringId": "64222-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.25,
+      "dust inside": 0.36,
+      "dust slope": 0.2,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.2,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 25.0,
+      "wind speed max": 60.0,
+      "wind speed min": 20.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "64197-Newwworld.mod": [
+          250,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64225-Newwworld.mod": {
+    "stringId": "64225-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.35,
+      "dust inside": 0.36,
+      "dust slope": 0.35,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.2,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 60.0,
+      "wind speed min": 20.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "64224-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "96906-Newwworld.mod": {
+    "stringId": "96906-Newwworld.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.4,
+      "dust inside": 0.33,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.5,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 45.0,
+      "wind speed max": 60.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "96905-Newwworld.mod": [
+          1,
+          10,
+          30
+        ]
+      }
+    }
+  },
+  "48691-rebirth.mod": {
+    "stringId": "48691-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "48692-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "47933-rebirth.mod": {
+    "stringId": "47933-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 20000.0,
+      "fog distance min": 20000.0,
+      "fog enabled": true,
+      "fog wind max": 20.0,
+      "fog wind min": 40.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 13027071,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "47952-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "48714-rebirth.mod": {
+    "stringId": "48714-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.25,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.2,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 60.0,
+      "wind speed min": 20.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "48712-rebirth.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "48711-rebirth.mod": {
+    "stringId": "48711-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {}
+  },
+  "47931-rebirth.mod": {
+    "stringId": "47931-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.6,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 40.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.4,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "40561-weather_otto1.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "48751-rebirth.mod": {
+    "stringId": "48751-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 1.0,
+      "dust inside": 0.36,
+      "dust slope": 0.1,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 100.0,
+      "wind speed max": 80.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "48749-rebirth.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "50920-rebirth.mod": {
+    "stringId": "50920-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.5,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 40.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.95,
+      "wind intensity": 0.0,
+      "wind speed max": 0.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "40561-weather_otto1.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "51323-rebirth.mod": {
+    "stringId": "51323-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 1.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15652789,
+      "fog distance max": 15000.0,
+      "fog distance min": 9000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 70.0,
+      "wind speed max": 100.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "51324-rebirth.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "51365-rebirth.mod": {
+    "stringId": "51365-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 0.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "51366-rebirth.mod": [
+          2,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "51367-rebirth.mod": {
+    "stringId": "51367-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "40543-weather_otto1.mod": [
+          10,
+          1,
+          5
+        ]
+      }
+    }
+  },
+  "51368-rebirth.mod": {
+    "stringId": "51368-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.8,
+      "affect type": 0,
+      "clouds density": 0.1,
+      "dust": 0.35,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 15322014,
+      "fog distance max": 14000.0,
+      "fog distance min": 6000.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16559228,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 20.0,
+      "wind speed max": 60.0,
+      "wind speed min": 20.0,
+      "wind update limit": 45,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "51369-rebirth.mod": [
+          5,
+          20,
+          30
+        ]
+      }
+    }
+  },
+  "51370-rebirth.mod": {
+    "stringId": "51370-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.2,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14997169,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.1,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.01,
+      "wind speed max": 20.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {}
+  },
+  "55635-rebirth.mod": {
+    "stringId": "55635-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 2,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 35.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "47952-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "55676-rebirth.mod": {
+    "stringId": "55676-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.2,
+      "wind speed max": 40.0,
+      "wind speed min": 20.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {}
+  },
+  "56119-rebirth.mod": {
+    "stringId": "56119-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.2,
+      "affect type": 2,
+      "clouds density": 0.6,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 40.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.4,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "40561-weather_otto1.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "56724-rebirth.mod": {
+    "stringId": "56724-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 40.0,
+      "wind speed min": 15.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "56725-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "44877-Newwworld.mod": [
+          25,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57393-rebirth.mod": {
+    "stringId": "57393-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 2,
+      "clouds density": 1.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 20.0,
+      "wind speed max": 0.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "47952-Newwworld.mod": [
+          1,
+          60,
+          600
+        ],
+        "44949-Newwworld.mod": [
+          0,
+          1,
+          25
+        ]
+      }
+    }
+  },
+  "57717-rebirth.mod": {
+    "stringId": "57717-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.35,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 23.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 1.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16754540,
+      "start time": 5.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "57720-Newwworld.mod": [
+          40,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "57739-rebirth.mod": {
+    "stringId": "57739-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.1,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14997169,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 1.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 20.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {}
+  },
+  "62773-rebirth.mod": {
+    "stringId": "62773-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.2,
+      "affect type": 2,
+      "clouds density": 0.6,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 40.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.4,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "44877-Newwworld.mod": [
+          25,
+          0,
+          0
+        ],
+        "40561-weather_otto1.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  },
+  "62781-rebirth.mod": {
+    "stringId": "62781-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.0,
+      "dust inside": 0.36,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 30.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {}
+  },
+  "62814-rebirth.mod": {
+    "stringId": "62814-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 0,
+      "clouds density": 0.2,
+      "dust": 0.0,
+      "dust inside": 0.0,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14869667,
+      "fog distance max": 30000.0,
+      "fog distance min": 30000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 100.0,
+      "sky color mult": 15132585,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 20.0,
+      "wind speed max": 0.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "47952-Newwworld.mod": [
+          1,
+          60,
+          600
+        ],
+        "44949-Newwworld.mod": [
+          0,
+          8,
+          25
+        ]
+      }
+    }
+  },
+  "63153-rebirth.mod": {
+    "stringId": "63153-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.4,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 1.0,
+      "dust inside": 0.5,
+      "dust slope": 0.6,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.4,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 60.0,
+      "wind speed max": 60.0,
+      "wind speed min": 20.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "63154-rebirth.mod": [
+          400,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "63474-rebirth.mod": {
+    "stringId": "63474-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 1.2,
+      "dust inside": 0.4,
+      "dust slope": 0.6,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.25,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 100.0,
+      "wind speed max": 70.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "63475-rebirth.mod": [
+          250,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64225-rebirth.mod": {
+    "stringId": "64225-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.5,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 1.2,
+      "dust inside": 0.4,
+      "dust slope": 0.6,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.25,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 100.0,
+      "wind speed max": 70.0,
+      "wind speed min": 30.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "63475-rebirth.mod": [
+          50,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64226-rebirth.mod": {
+    "stringId": "64226-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 0.4,
+      "affect type": 1,
+      "clouds density": 0.0,
+      "dust": 0.7,
+      "dust inside": 0.5,
+      "dust slope": 0.4,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.4,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 60.0,
+      "wind speed max": 60.0,
+      "wind speed min": 20.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "63154-rebirth.mod": [
+          60,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "64809-rebirth.mod": {
+    "stringId": "64809-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 0,
+      "clouds density": 0.0,
+      "dust": 0.1,
+      "dust inside": 0.36,
+      "dust slope": 0.1,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 16777215,
+      "fog distance max": 0.0,
+      "fog distance min": 0.0,
+      "fog enabled": false,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 0.0,
+      "sky color mult": 16777215,
+      "start time": 0.0,
+      "wetness": 0.0,
+      "wind intensity": 0.0,
+      "wind speed max": 40.0,
+      "wind speed min": 15.0,
+      "wind update limit": 20,
+      "wind update time": 360
+    },
+    "references": {
+      "effects": {
+        "56725-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "97895-rebirth.mod": {
+    "stringId": "97895-rebirth.mod",
+    "type": "Weather",
+    "values": {
+      "affect strength": 1.0,
+      "affect type": 2,
+      "clouds density": 0.2,
+      "dust": 0.0,
+      "dust inside": 0.0,
+      "dust slope": 0.0,
+      "effect strength max": 1.0,
+      "effect strength min": 1.0,
+      "end time": 0.0,
+      "fog color": 14869667,
+      "fog distance max": 30000.0,
+      "fog distance min": 30000.0,
+      "fog enabled": true,
+      "fog wind max": 0.0,
+      "fog wind min": 0.0,
+      "heat haze": 0.0,
+      "rain intensity": 50.0,
+      "sky color mult": 15132585,
+      "start time": 0.0,
+      "wetness": 1.0,
+      "wind intensity": 20.0,
+      "wind speed max": 0.0,
+      "wind speed min": 0.0,
+      "wind update limit": 20,
+      "wind update time": 20
+    },
+    "references": {
+      "effects": {
+        "44949-Newwworld.mod": [
+          0,
+          8,
+          25
+        ],
+        "48450-Newwworld.mod": [
+          1,
+          60,
+          600
+        ]
+      }
+    }
+  }
+}

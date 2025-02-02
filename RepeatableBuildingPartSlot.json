@@ -1,0 +1,42 @@
+{
+  "371-gamedata.base": {
+    "stringId": "371-gamedata.base",
+    "type": "RepeatableBuildingPartSlot",
+    "values": {},
+    "references": {
+      "parts": {
+        "370-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "314-gamedata.base": {
+    "stringId": "314-gamedata.base",
+    "type": "RepeatableBuildingPartSlot",
+    "values": {},
+    "references": {}
+  },
+  "369-gamedata.base": {
+    "stringId": "369-gamedata.base",
+    "type": "RepeatableBuildingPartSlot",
+    "values": {},
+    "references": {
+      "parts": {
+        "368-gamedata.base": [
+          0,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "330-gamedata.base": {
+    "stringId": "330-gamedata.base",
+    "type": "RepeatableBuildingPartSlot",
+    "values": {},
+    "references": {}
+  }
+}

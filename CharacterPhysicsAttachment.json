@@ -1,0 +1,111 @@
+{
+  "5340-gamedata.base": {
+    "stringId": "5340-gamedata.base",
+    "type": "CharacterPhysicsAttachment",
+    "values": {
+      "bone name": "Bip01",
+      "file female": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\packbeast_pole.phs"
+      },
+      "file male": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\packbeast_pole.phs"
+      }
+    },
+    "references": {
+      "light data": {
+        "5335-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5313-gamedata.base": {
+    "stringId": "5313-gamedata.base",
+    "type": "CharacterPhysicsAttachment",
+    "values": {
+      "bone name": "Bip01 Pelvis",
+      "file female": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\lantern_belt_01.phs"
+      },
+      "file male": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\lantern_belt_01.phs"
+      }
+    },
+    "references": {
+      "light data": {
+        "5335-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5264-lanterns_otto.mod": {
+    "stringId": "5264-lanterns_otto.mod",
+    "type": "CharacterPhysicsAttachment",
+    "values": {
+      "bone name": "Bip01 Spine2",
+      "file female": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\lantern_gas_onpole.phs"
+      },
+      "file male": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\lantern_gas_onpole.phs"
+      }
+    },
+    "references": {
+      "light data": {
+        "5335-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "5262-lanterns_otto.mod": {
+    "stringId": "5262-lanterns_otto.mod",
+    "type": "CharacterPhysicsAttachment",
+    "values": {
+      "bone name": "Bip01 Spine2",
+      "file female": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\lantern_eletrical_onpole.phs"
+      },
+      "file male": {
+        "path": ".\\data\\items\\handheld_lights\\scythe\\lantern_eletrical_onpole.phs"
+      }
+    },
+    "references": {
+      "light data": {
+        "5335-gamedata.base": [
+          0,
+          0,
+          0
+        ]
+      },
+      "material": {
+        "5263-lanterns_otto.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

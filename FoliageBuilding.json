@@ -1,0 +1,34 @@
+{
+  "14520-rebirth.mod": {
+    "stringId": "14520-rebirth.mod",
+    "type": "FoliageBuilding",
+    "values": {
+      "child cluster radius": 0.0,
+      "cluster num max": 10,
+      "cluster num min": 3,
+      "cluster radius max": 400.0,
+      "cluster radius min": 100.0,
+      "clustered": false,
+      "keep upright": false,
+      "limit to grass areas": false,
+      "max altitude": 20000.0,
+      "max slope": 10.0,
+      "min altitude": 0.0,
+      "min slope": 0.0,
+      "slope align": false,
+      "use accurate trace": false,
+      "vertical offset max": 0.0,
+      "vertical offset min": 0.0,
+      "wind factor": 1.0
+    },
+    "references": {
+      "building": {
+        "14521-rebirth.mod": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

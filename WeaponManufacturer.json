@@ -1,0 +1,1545 @@
+{
+  "1163-gamedata.base": {
+    "stringId": "1163-gamedata.base",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "These weapon types are under factory recall.  Their stats will deteriorate over time.  Please sell them and buy something else.",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 1.0,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "1063-gamedata.base": [
+          50,
+          100,
+          0
+        ],
+        "1064-gamedata.base": [
+          45,
+          100,
+          0
+        ],
+        "1065-gamedata.base": [
+          55,
+          100,
+          0
+        ],
+        "1062-gamedata.base": [
+          40,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "474-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          100,
+          0
+        ]
+      }
+    }
+  },
+  "PLAYER_WEAPONS": {
+    "stringId": "PLAYER_WEAPONS",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "This weapon was made by your faction.",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 1.0,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "913-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "914-gamedata.base": [
+          10,
+          100,
+          0
+        ],
+        "925-gamedata.base": [
+          20,
+          100,
+          0
+        ],
+        "926-gamedata.base": [
+          25,
+          100,
+          0
+        ],
+        "930-gamedata.base": [
+          60,
+          100,
+          0
+        ],
+        "1058-gamedata.base": [
+          30,
+          100,
+          0
+        ],
+        "1059-gamedata.base": [
+          50,
+          100,
+          0
+        ],
+        "1060-gamedata.base": [
+          40,
+          100,
+          0
+        ],
+        "1061-gamedata.base": [
+          35,
+          100,
+          0
+        ],
+        "1067-gamedata.base": [
+          55,
+          100,
+          0
+        ],
+        "1068-gamedata.base": [
+          70,
+          100,
+          0
+        ],
+        "1069-gamedata.base": [
+          80,
+          100,
+          0
+        ],
+        "1071-gamedata.base": [
+          75,
+          100,
+          0
+        ],
+        "918-gamedata.base": [
+          15,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "474-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "65260-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "927-gamedata.base": {
+    "stringId": "927-gamedata.base",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "Skeletons from the Black Desert City produce blades solely for personal use, however it's inevitable that some eventually end up in circulation.",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 1.2,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "930-gamedata.base": [
+          60,
+          100,
+          0
+        ],
+        "1067-gamedata.base": [
+          55,
+          100,
+          0
+        ],
+        "1059-gamedata.base": [
+          50,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "474-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "65260-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "912-gamedata.base": {
+    "stringId": "912-gamedata.base",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "This weapon is probably a few hundred years old, any indentifiable markings have long since rusted away.",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 0.3,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "913-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "914-gamedata.base": [
+          10,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "474-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "65260-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1057-gamedata.base": {
+    "stringId": "1057-gamedata.base",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.2,
+      "company description": "The Catun Scrapmasters are probably the only major smithing group producing weapons in the modern age.  Their blades are good quality and used all over the continent.",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 1.2,
+      "weight mod": 1.2
+    },
+    "references": {
+      "weapon models": {
+        "1058-gamedata.base": [
+          30,
+          100,
+          0
+        ],
+        "1061-gamedata.base": [
+          35,
+          100,
+          0
+        ],
+        "1060-gamedata.base": [
+          40,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "474-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "65260-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "1070-gamedata.base": {
+    "stringId": "1070-gamedata.base",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "The Edgewalkers were a group of smiths from the old fallen empire hundreds of years ago.  Little is known about them except that their weapons have survived these hundreds of years in near-perfect condition and their quality is unrivalled by anything crafted in the modern age.",
+      "cut damage mod": 1.1,
+      "min cut damage": 1,
+      "price mod": 1.4,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "1068-gamedata.base": [
+          70,
+          100,
+          0
+        ],
+        "1069-gamedata.base": [
+          80,
+          100,
+          0
+        ],
+        "1071-gamedata.base": [
+          75,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "474-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "917-gamedata.base": {
+    "stringId": "917-gamedata.base",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "This weapon dates back to the old empire.  It's not great, but it says something that it has lasted this long.  It's been re-fitted and sharpened in recent times, and still holds a good edge.",
+      "cut damage mod": 0.9,
+      "min cut damage": 1,
+      "price mod": 0.8,
+      "weight mod": 0.7
+    },
+    "references": {
+      "weapon models": {
+        "918-gamedata.base": [
+          15,
+          100,
+          0
+        ],
+        "925-gamedata.base": [
+          20,
+          100,
+          0
+        ],
+        "926-gamedata.base": [
+          25,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "903-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "474-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          100,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "65260-rebirth.mod": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "43917-rebirth.mod": {
+    "stringId": "43917-rebirth.mod",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 1.0,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "48678-rebirth.mod": [
+          0,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "42075-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "43883-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52288-rebirth.mod": {
+    "stringId": "52288-rebirth.mod",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "There was at some point in history a legendary master smith, of whom nothing is known except his (...her?) name from the blade inscriptions: \"Cross\".  The blades never rust or need sharpening, and are said to be unbreakable.  There are only a handful in existence.",
+      "cut damage mod": 1.1,
+      "min cut damage": 1,
+      "price mod": 2.0,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "52293-rebirth.mod": [
+          100,
+          100,
+          0
+        ]
+      },
+      "weapon types": {
+        "52287-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52290-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52292-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52305-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52306-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2606-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52304-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "477-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "923-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52307-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "475-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52295-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "2064-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52303-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "476-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "478-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "901-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "2110-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52300-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52308-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52309-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "924-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "922-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52299-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "902-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52301-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "903-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "52297-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "52302-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "1020-gamedata.base": [
+          100,
+          0,
+          0
+        ],
+        "65260-rebirth.mod": [
+          100,
+          0,
+          0
+        ],
+        "474-gamedata.base": [
+          100,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "52294-rebirth.mod": {
+    "stringId": "52294-rebirth.mod",
+    "type": "WeaponManufacturer",
+    "values": {
+      "blunt damage mod": 1.0,
+      "company description": "",
+      "cut damage mod": 1.0,
+      "min cut damage": 1,
+      "price mod": 1.0,
+      "weight mod": 1.0
+    },
+    "references": {
+      "weapon models": {
+        "916-gamedata.base": [
+          5,
+          100,
+          0
+        ],
+        "929-gamedata.base": [
+          30,
+          100,
+          0
+        ],
+        "1072-gamedata.base": [
+          20,
+          100,
+          0
+        ]
+      }
+    }
+  }
+}
