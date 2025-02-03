@@ -1,5 +1,6 @@
 {
   "66169-Newwworld.mod": {
+    "name": "Ranger",
     "stringId": "66169-Newwworld.mod",
     "type": "Crossbow",
     "values": {
@@ -109,6 +110,7 @@
     }
   },
   "66290-Newwworld.mod": {
+    "name": "Eagle's Cross",
     "stringId": "66290-Newwworld.mod",
     "type": "Crossbow",
     "values": {
@@ -225,6 +227,7 @@
     }
   },
   "66534-Newwworld.mod": {
+    "name": "Tooth Pick",
     "stringId": "66534-Newwworld.mod",
     "type": "Crossbow",
     "values": {
@@ -334,6 +337,7 @@
     }
   },
   "95724-Dialogue.mod": {
+    "name": "Junkbow",
     "stringId": "95724-Dialogue.mod",
     "type": "Crossbow",
     "values": {
@@ -450,6 +454,7 @@
     }
   },
   "53643-rebirth.mod": {
+    "name": "Oldworld Bow MkII",
     "stringId": "53643-rebirth.mod",
     "type": "Crossbow",
     "values": {
@@ -566,6 +571,7 @@
     }
   },
   "65870-rebirth.mod": {
+    "name": "Oldworld Bow MkI",
     "stringId": "65870-rebirth.mod",
     "type": "Crossbow",
     "values": {
@@ -675,6 +681,7 @@
     }
   },
   "95764-rebirth.mod": {
+    "name": "Spring Bat",
     "stringId": "95764-rebirth.mod",
     "type": "Crossbow",
     "values": {

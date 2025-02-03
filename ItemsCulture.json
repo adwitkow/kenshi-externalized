@@ -1,5 +1,6 @@
 {
   "50924-rebirth.mod": {
+    "name": "swamper",
     "stringId": "50924-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -171,6 +172,7 @@
     }
   },
   "51315-rebirth.mod": {
+    "name": "shek",
     "stringId": "51315-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -324,6 +326,7 @@
     }
   },
   "51761-rebirth.mod": {
+    "name": "empire",
     "stringId": "51761-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -479,6 +482,7 @@
     }
   },
   "51785-rebirth.mod": {
+    "name": "holy",
     "stringId": "51785-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -714,6 +718,7 @@
     }
   },
   "56155-rebirth.mod": {
+    "name": "skeletons",
     "stringId": "56155-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -743,6 +748,7 @@
     }
   },
   "56176-rebirth.mod": {
+    "name": "slavers",
     "stringId": "56176-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -906,6 +912,7 @@
     }
   },
   "62174-rebirth.mod": {
+    "name": "empire lawless",
     "stringId": "62174-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -990,6 +997,7 @@
     }
   },
   "62824-rebirth.mod": {
+    "name": "SE",
     "stringId": "62824-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -1074,6 +1082,7 @@
     }
   },
   "62854-rebirth.mod": {
+    "name": "empire SW override",
     "stringId": "62854-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -1093,6 +1102,7 @@
     }
   },
   "95780-rebirth.mod": {
+    "name": "empire copy",
     "stringId": "95780-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -1216,6 +1226,7 @@
     }
   },
   "1532813-rebirth.mod": {
+    "name": "empire but more worldly",
     "stringId": "1532813-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},
@@ -1351,6 +1362,7 @@
     }
   },
   "1532815-rebirth.mod": {
+    "name": "ashland",
     "stringId": "1532815-rebirth.mod",
     "type": "ItemsCulture",
     "values": {},

@@ -1,5 +1,6 @@
 {
   "4029-gamedata.base": {
+    "name": "Beak Thing Egg",
     "stringId": "4029-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -65,6 +66,7 @@
     }
   },
   "4032-gamedata.base": {
+    "name": "Broken Egg",
     "stringId": "4032-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -111,6 +113,7 @@
     }
   },
   "4035-gamedata.base": {
+    "name": "Bone Fragment-small ones",
     "stringId": "4035-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -157,6 +160,7 @@
     }
   },
   "16841-gamedata.base": {
+    "name": "nest carpet",
     "stringId": "16841-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -203,6 +207,7 @@
     }
   },
   "16852-nodes_otto1.mod": {
+    "name": "Trash5",
     "stringId": "16852-nodes_otto1.mod",
     "type": "NestItem",
     "values": {
@@ -249,6 +254,7 @@
     }
   },
   "16849-nodes_otto1.mod": {
+    "name": "Trash2",
     "stringId": "16849-nodes_otto1.mod",
     "type": "NestItem",
     "values": {
@@ -295,6 +301,7 @@
     }
   },
   "16851-nodes_otto1.mod": {
+    "name": "Trash4",
     "stringId": "16851-nodes_otto1.mod",
     "type": "NestItem",
     "values": {
@@ -341,6 +348,7 @@
     }
   },
   "16843-nodes_otto1.mod": {
+    "name": "Trash",
     "stringId": "16843-nodes_otto1.mod",
     "type": "NestItem",
     "values": {
@@ -387,6 +395,7 @@
     }
   },
   "16840-gamedata.base": {
+    "name": "nest awning",
     "stringId": "16840-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -433,6 +442,7 @@
     }
   },
   "4027-gamedata.base": {
+    "name": "Bone Fragment",
     "stringId": "4027-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -479,6 +489,7 @@
     }
   },
   "4030-gamedata.base": {
+    "name": "Dung",
     "stringId": "4030-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -525,6 +536,7 @@
     }
   },
   "4031-gamedata.base": {
+    "name": "Big Dung",
     "stringId": "4031-gamedata.base",
     "type": "NestItem",
     "values": {
@@ -571,6 +583,7 @@
     }
   },
   "16850-nodes_otto1.mod": {
+    "name": "Trash3",
     "stringId": "16850-nodes_otto1.mod",
     "type": "NestItem",
     "values": {
@@ -617,6 +630,7 @@
     }
   },
   "48739-Newwworld.mod": {
+    "name": "RoboPiece_NestItems",
     "stringId": "48739-Newwworld.mod",
     "type": "NestItem",
     "values": {
@@ -663,6 +677,7 @@
     }
   },
   "56099-Newwworld.mod": {
+    "name": "Crab Egg",
     "stringId": "56099-Newwworld.mod",
     "type": "NestItem",
     "values": {
@@ -716,6 +731,7 @@
     }
   },
   "97662-rebirth.mod": {
+    "name": "Gurgler Egg",
     "stringId": "97662-rebirth.mod",
     "type": "NestItem",
     "values": {

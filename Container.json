@@ -1,5 +1,6 @@
 {
   "576-gamedata.base": {
+    "name": "Small Backpack",
     "stringId": "576-gamedata.base",
     "type": "Container",
     "values": {
@@ -56,6 +57,7 @@
     }
   },
   "1389-gamedata.base": {
+    "name": "Shopkeeper goods bag",
     "stringId": "1389-gamedata.base",
     "type": "Container",
     "values": {
@@ -112,6 +114,7 @@
     }
   },
   "635-gamedata.base": {
+    "name": "Medium Backpack",
     "stringId": "635-gamedata.base",
     "type": "Container",
     "values": {
@@ -168,6 +171,7 @@
     }
   },
   "1286-gamedata.base": {
+    "name": "Medium backpack (colored)",
     "stringId": "1286-gamedata.base",
     "type": "Container",
     "values": {
@@ -224,6 +228,7 @@
     }
   },
   "1019-gamedata.base": {
+    "name": "Old Traders backpack small",
     "stringId": "1019-gamedata.base",
     "type": "Container",
     "values": {
@@ -281,6 +286,7 @@
     }
   },
   "1017-gamedata.base": {
+    "name": "Old Traders backpack large",
     "stringId": "1017-gamedata.base",
     "type": "Container",
     "values": {
@@ -338,6 +344,7 @@
     }
   },
   "1498-gamedata.base": {
+    "name": "Traders Backpack Medium",
     "stringId": "1498-gamedata.base",
     "type": "Container",
     "values": {
@@ -394,6 +401,7 @@
     }
   },
   "910-gamedata.base": {
+    "name": "Shopkeepers Backpack",
     "stringId": "910-gamedata.base",
     "type": "Container",
     "values": {
@@ -450,6 +458,7 @@
     }
   },
   "1018-gamedata.base": {
+    "name": "Old Traders backpack medium",
     "stringId": "1018-gamedata.base",
     "type": "Container",
     "values": {
@@ -507,6 +516,7 @@
     }
   },
   "1012-gamedata.base": {
+    "name": "Large Backpack",
     "stringId": "1012-gamedata.base",
     "type": "Container",
     "values": {
@@ -563,6 +573,7 @@
     }
   },
   "4002-gamedata.base": {
+    "name": "Garru Backpack",
     "stringId": "4002-gamedata.base",
     "type": "Container",
     "values": {
@@ -633,6 +644,7 @@
     }
   },
   "1499-gamedata.base": {
+    "name": "Traders Backpack Large",
     "stringId": "1499-gamedata.base",
     "type": "Container",
     "values": {
@@ -689,6 +701,7 @@
     }
   },
   "1288-gamedata.base": {
+    "name": "Small Thieves Backpack",
     "stringId": "1288-gamedata.base",
     "type": "Container",
     "values": {
@@ -752,6 +765,7 @@
     }
   },
   "43948-rebirth.mod": {
+    "name": "Bull Backpack",
     "stringId": "43948-rebirth.mod",
     "type": "Container",
     "values": {
@@ -820,6 +834,7 @@
     }
   },
   "45555-changes_otto.mod": {
+    "name": "Trader's Wooden Backpack",
     "stringId": "45555-changes_otto.mod",
     "type": "Container",
     "values": {
@@ -876,6 +891,7 @@
     }
   },
   "46036-rebirth.mod": {
+    "name": "Thieves Backpack",
     "stringId": "46036-rebirth.mod",
     "type": "Container",
     "values": {
@@ -939,6 +955,7 @@
     }
   },
   "46037-rebirth.mod": {
+    "name": "Small Backpack (colored)",
     "stringId": "46037-rebirth.mod",
     "type": "Container",
     "values": {
@@ -995,6 +1012,7 @@
     }
   },
   "46042-rebirth.mod": {
+    "name": "Wooden Backpack",
     "stringId": "46042-rebirth.mod",
     "type": "Container",
     "values": {
@@ -1051,6 +1069,7 @@
     }
   },
   "45554-changes_otto.mod": {
+    "name": "Scavenger's Basket",
     "stringId": "45554-changes_otto.mod",
     "type": "Container",
     "values": {

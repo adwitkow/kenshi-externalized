@@ -1,5 +1,6 @@
 {
   "2295-gamedata.base": {
+    "name": "armour chain",
     "stringId": "2295-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -128,6 +129,7 @@
     }
   },
   "1926-gamedata.base": {
+    "name": "well",
     "stringId": "1926-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -166,6 +168,7 @@
     }
   },
   "1968-gamedata.base": {
+    "name": "Medic simple",
     "stringId": "1968-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -198,6 +201,7 @@
     }
   },
   "2678-gamedata.base": {
+    "name": "Cooking pot",
     "stringId": "2678-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -229,6 +233,7 @@
     }
   },
   "1937-gamedata.base": {
+    "name": "Rum",
     "stringId": "1937-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -279,6 +284,7 @@
     }
   },
   "1912-gamedata.base": {
+    "name": "farming wheat",
     "stringId": "1912-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -338,6 +344,7 @@
     }
   },
   "5357-gamedata.base": {
+    "name": "BUILDING_FUNCTIONALITY",
     "stringId": "5357-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -362,6 +369,7 @@
     "references": {}
   },
   "2837-gamedata.base": {
+    "name": "Gun turret",
     "stringId": "2837-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -393,6 +401,7 @@
     }
   },
   "40561-gamedata.base": {
+    "name": "Cage- prisoner post",
     "stringId": "40561-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -452,6 +461,7 @@
     }
   },
   "2950-gamedata.base": {
+    "name": "General storage",
     "stringId": "2950-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -475,6 +485,7 @@
     "references": {}
   },
   "2219-gamedata.base": {
+    "name": "armour leather",
     "stringId": "2219-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -655,6 +666,7 @@
     }
   },
   "2035-gamedata.base": {
+    "name": "weapon smith basic",
     "stringId": "2035-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -727,6 +739,7 @@
     }
   },
   "2083-gamedata.base": {
+    "name": "research 3",
     "stringId": "2083-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -758,6 +771,7 @@
     }
   },
   "5358-gamedata.base": {
+    "name": "Lights",
     "stringId": "5358-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -781,6 +795,7 @@
     "references": {}
   },
   "2728-gamedata.base": {
+    "name": "lock traning",
     "stringId": "2728-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -812,6 +827,7 @@
     }
   },
   "2005-gamedata.base": {
+    "name": "research 2",
     "stringId": "2005-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -843,6 +859,7 @@
     }
   },
   "1519-gamedata.base": {
+    "name": "sword traning",
     "stringId": "1519-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -881,6 +898,7 @@
     }
   },
   "2117-gamedata.base": {
+    "name": "Steel bars",
     "stringId": "2117-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -926,6 +944,7 @@
     }
   },
   "3000-gamedata.base": {
+    "name": "turret training",
     "stringId": "3000-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -957,6 +976,7 @@
     }
   },
   "2296-gamedata.base": {
+    "name": "armour plate",
     "stringId": "2296-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1170,6 +1190,7 @@
     }
   },
   "1945-gamedata.base": {
+    "name": "bread cooking",
     "stringId": "1945-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1220,6 +1241,7 @@
     }
   },
   "1521-gamedata.base": {
+    "name": "sleeping",
     "stringId": "1521-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1251,6 +1273,7 @@
     }
   },
   "42251-gamedata.base": {
+    "name": "copper mine",
     "stringId": "42251-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1303,6 +1326,7 @@
     }
   },
   "1872-gamedata.base": {
+    "name": "ore processing",
     "stringId": "1872-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1348,6 +1372,7 @@
     }
   },
   "2290-gamedata.base": {
+    "name": "plates",
     "stringId": "2290-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1400,6 +1425,7 @@
     }
   },
   "2931-gamedata.base": {
+    "name": "clothing bench",
     "stringId": "2931-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1690,6 +1716,7 @@
     }
   },
   "1517-gamedata.base": {
+    "name": "Stone mine",
     "stringId": "1517-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1742,6 +1769,7 @@
     }
   },
   "14498-gamedata.base": {
+    "name": "table",
     "stringId": "14498-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1765,6 +1793,7 @@
     "references": {}
   },
   "3960-gamedata.base": {
+    "name": "Furnace",
     "stringId": "3960-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1803,6 +1832,7 @@
     }
   },
   "1869-gamedata.base": {
+    "name": "Ore mine",
     "stringId": "1869-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1855,6 +1885,7 @@
     }
   },
   "2291-gamedata.base": {
+    "name": "chainmail",
     "stringId": "2291-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1893,6 +1924,7 @@
     }
   },
   "2082-gamedata.base": {
+    "name": "research 4",
     "stringId": "2082-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -1924,6 +1956,7 @@
     }
   },
   "2103-gamedata.base": {
+    "name": "weapon smith 2",
     "stringId": "2103-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2011,6 +2044,7 @@
     }
   },
   "2027-gamedata.base": {
+    "name": "clothing what",
     "stringId": "2027-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2050,6 +2084,7 @@
     }
   },
   "1516-gamedata.base": {
+    "name": "Stone processing",
     "stringId": "1516-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2095,6 +2130,7 @@
     }
   },
   "1972-gamedata.base": {
+    "name": "shop counter",
     "stringId": "1972-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2126,6 +2162,7 @@
     }
   },
   "1784-gamedata.base": {
+    "name": "Cage",
     "stringId": "1784-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2176,6 +2213,7 @@
     }
   },
   "2080-gamedata.base": {
+    "name": "research 5",
     "stringId": "2080-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2207,6 +2245,7 @@
     }
   },
   "2115-gamedata.base": {
+    "name": "medical crafting",
     "stringId": "2115-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2282,6 +2321,7 @@
     }
   },
   "2104-gamedata.base": {
+    "name": "weapon smith 3",
     "stringId": "2104-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2389,6 +2429,7 @@
     }
   },
   "1969-gamedata.base": {
+    "name": "Medic adv",
     "stringId": "1969-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2428,6 +2469,7 @@
     }
   },
   "2022-gamedata.base": {
+    "name": "farming hemp",
     "stringId": "2022-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2487,6 +2529,7 @@
     }
   },
   "2268-gamedata.base": {
+    "name": "medical crafting basic",
     "stringId": "2268-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2537,6 +2580,7 @@
     }
   },
   "1931-gamedata.base": {
+    "name": "grain silo",
     "stringId": "1931-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2582,6 +2626,7 @@
     }
   },
   "1518-gamedata.base": {
+    "name": "Resource storage",
     "stringId": "1518-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2605,6 +2650,7 @@
     "references": {}
   },
   "2928-gamedata.base": {
+    "name": "leather fab",
     "stringId": "2928-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2650,6 +2696,7 @@
     }
   },
   "14497-gamedata.base": {
+    "name": "chair",
     "stringId": "14497-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2681,6 +2728,7 @@
     }
   },
   "2018-gamedata.base": {
+    "name": "Textiles hemp",
     "stringId": "2018-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2726,6 +2774,7 @@
     }
   },
   "2081-gamedata.base": {
+    "name": "research 6",
     "stringId": "2081-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2757,6 +2806,7 @@
     }
   },
   "4004-gamedata.base": {
+    "name": "Corpse disposal",
     "stringId": "4004-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2788,6 +2838,7 @@
     }
   },
   "16850-gamedata.base": {
+    "name": "sit on floor (no chair)",
     "stringId": "16850-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2819,6 +2870,7 @@
     }
   },
   "1970-gamedata.base": {
+    "name": "Power",
     "stringId": "1970-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2850,6 +2902,7 @@
     }
   },
   "1876-gamedata.base": {
+    "name": "research 1",
     "stringId": "1876-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -2881,6 +2934,7 @@
     }
   },
   "43915-rebirth.mod": {
+    "name": "wheat to fuel",
     "stringId": "43915-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -2925,6 +2979,7 @@
     }
   },
   "50019-rebirth.mod": {
+    "name": "copper alloy plates",
     "stringId": "50019-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -2981,6 +3036,7 @@
     }
   },
   "42177-rebirth.mod": {
+    "name": "farming cotton",
     "stringId": "42177-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3039,6 +3095,7 @@
     }
   },
   "46958-rebirth.mod": {
+    "name": "wind power",
     "stringId": "46958-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3061,6 +3118,7 @@
     "references": {}
   },
   "42170-gamedata.base": {
+    "name": "Iron plates",
     "stringId": "42170-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -3105,6 +3163,7 @@
     }
   },
   "43966-rebirth.mod": {
+    "name": "Stone hybrid",
     "stringId": "43966-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3142,6 +3201,7 @@
     }
   },
   "43314-rebirth.mod": {
+    "name": "farming potatoes",
     "stringId": "43314-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3193,6 +3253,7 @@
     }
   },
   "42330-rebirth.mod": {
+    "name": "Campfire",
     "stringId": "42330-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3237,6 +3298,7 @@
     }
   },
   "43315-rebirth.mod": {
+    "name": "farming cactus",
     "stringId": "43315-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3295,6 +3357,7 @@
     }
   },
   "42182-rebirth.mod": {
+    "name": "Textiles cotton",
     "stringId": "42182-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3339,6 +3402,7 @@
     }
   },
   "43954-rebirth.mod": {
+    "name": "cooking general",
     "stringId": "43954-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3416,6 +3480,7 @@
     }
   },
   "42066-rebirth.mod": {
+    "name": "chair-fixed 180",
     "stringId": "42066-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3446,6 +3511,7 @@
     }
   },
   "43313-rebirth.mod": {
+    "name": "farming veg",
     "stringId": "43313-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3504,6 +3570,7 @@
     }
   },
   "43312-rebirth.mod": {
+    "name": "farming rice",
     "stringId": "43312-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3562,6 +3629,7 @@
     }
   },
   "43869-rebirth.mod": {
+    "name": "assassin traning",
     "stringId": "43869-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3599,6 +3667,7 @@
     }
   },
   "42165-gamedata.base": {
+    "name": "robotics",
     "stringId": "42165-gamedata.base",
     "type": "BuildingFunctionality",
     "values": {
@@ -3688,6 +3757,7 @@
     }
   },
   "43919-rebirth.mod": {
+    "name": "veg to fuel ",
     "stringId": "43919-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3732,6 +3802,7 @@
     }
   },
   "47922-rebirth.mod": {
+    "name": "chair-fixed",
     "stringId": "47922-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3762,6 +3833,7 @@
     }
   },
   "43926-rebirth.mod": {
+    "name": "battery",
     "stringId": "43926-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3784,6 +3856,7 @@
     "references": {}
   },
   "43925-rebirth.mod": {
+    "name": "Electrical components solo",
     "stringId": "43925-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3828,6 +3901,7 @@
     }
   },
   "42331-rebirth.mod": {
+    "name": "sleeping on floor",
     "stringId": "42331-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3872,6 +3946,7 @@
     }
   },
   "50921-rebirth.mod": {
+    "name": "hemp to fuel",
     "stringId": "50921-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3916,6 +3991,7 @@
     }
   },
   "52156-rebirth.mod": {
+    "name": "Grog",
     "stringId": "52156-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -3965,6 +4041,7 @@
     }
   },
   "52157-rebirth.mod": {
+    "name": "Sake",
     "stringId": "52157-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4014,6 +4091,7 @@
     }
   },
   "52158-rebirth.mod": {
+    "name": "drugs",
     "stringId": "52158-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4063,6 +4141,7 @@
     }
   },
   "57289-rebirth.mod": {
+    "name": "throne chair",
     "stringId": "57289-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4093,6 +4172,7 @@
     }
   },
   "64615-rebirth.mod": {
+    "name": "skeleton bed",
     "stringId": "64615-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4123,6 +4203,7 @@
     }
   },
   "96451-crafting.mod": {
+    "name": "arrow smith",
     "stringId": "96451-crafting.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4197,6 +4278,7 @@
     }
   },
   "96449-crafting.mod": {
+    "name": "crossbow smith",
     "stringId": "96449-crafting.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4276,6 +4358,7 @@
     }
   },
   "96529-crafting.mod": {
+    "name": "robot limb smith",
     "stringId": "96529-crafting.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4420,6 +4503,7 @@
     }
   },
   "96796-limbs.mod": {
+    "name": "skin peeler",
     "stringId": "96796-limbs.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4485,6 +4569,7 @@
     }
   },
   "97092-rebirth.mod": {
+    "name": "arrow smith 2",
     "stringId": "97092-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4549,6 +4634,7 @@
     }
   },
   "97499-rebirth.mod": {
+    "name": "thief traning ",
     "stringId": "97499-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4579,6 +4665,7 @@
     }
   },
   "97856-rebirth.mod": {
+    "name": "rain collector",
     "stringId": "97856-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4616,6 +4703,7 @@
     }
   },
   "97857-rebirth.mod": {
+    "name": "Campfire fish",
     "stringId": "97857-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4660,6 +4748,7 @@
     }
   },
   "99124-rebirth.mod": {
+    "name": "Resource storage- NO EMPTYING",
     "stringId": "99124-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {
@@ -4682,6 +4771,7 @@
     "references": {}
   },
   "1531904-rebirth.mod": {
+    "name": "Corpse disposal- shredder",
     "stringId": "1531904-rebirth.mod",
     "type": "BuildingFunctionality",
     "values": {

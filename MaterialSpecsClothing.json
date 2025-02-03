@@ -1,5 +1,6 @@
 {
   "18032-small_changes_otto.mod": {
+    "name": "mask3",
     "stringId": "18032-small_changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -20,6 +21,7 @@
     "references": {}
   },
   "1262-gamedata.base": {
+    "name": "medplate d-[color]",
     "stringId": "1262-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -40,6 +42,7 @@
     "references": {}
   },
   "1335-gamedata.base": {
+    "name": "Plate - Medic vIII",
     "stringId": "1335-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -60,6 +63,7 @@
     "references": {}
   },
   "1340-gamedata.base": {
+    "name": "Plate - Corroded (pirate edition)",
     "stringId": "1340-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -80,6 +84,7 @@
     "references": {}
   },
   "1153-gamedata.base": {
+    "name": "medplate d5 -blue",
     "stringId": "1153-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -100,6 +105,7 @@
     "references": {}
   },
   "2191-gamedata.base": {
+    "name": "Monk black",
     "stringId": "2191-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -120,6 +126,7 @@
     "references": {}
   },
   "1958-gamedata.base": {
+    "name": "bread",
     "stringId": "1958-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -140,6 +147,7 @@
     "references": {}
   },
   "1284-gamedata.base": {
+    "name": "captain coat orange",
     "stringId": "1284-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -160,6 +168,7 @@
     "references": {}
   },
   "1263-gamedata.base": {
+    "name": "blackhat- [color]",
     "stringId": "1263-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -180,6 +189,7 @@
     "references": {}
   },
   "688-gamedata.base": {
+    "name": "strawhat",
     "stringId": "688-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -200,6 +210,7 @@
     "references": {}
   },
   "1154-gamedata.base": {
+    "name": "boots02-dark",
     "stringId": "1154-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -220,6 +231,7 @@
     "references": {}
   },
   "687-gamedata.base": {
+    "name": "blackhat",
     "stringId": "687-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -240,6 +252,7 @@
     "references": {}
   },
   "2147-gamedata.base": {
+    "name": "barbarian heavy",
     "stringId": "2147-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -260,6 +273,7 @@
     "references": {}
   },
   "2186-gamedata.base": {
+    "name": "strawhat segs",
     "stringId": "2186-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -280,6 +294,7 @@
     "references": {}
   },
   "2207-gamedata.base": {
+    "name": "hat rattan wicker",
     "stringId": "2207-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -300,6 +315,7 @@
     "references": {}
   },
   "2170-gamedata.base": {
+    "name": "long coat",
     "stringId": "2170-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -320,6 +336,7 @@
     "references": {}
   },
   "693-gamedata.base": {
+    "name": "boots02-rusty",
     "stringId": "693-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -340,6 +357,7 @@
     "references": {}
   },
   "699-gamedata.base": {
+    "name": "sword1",
     "stringId": "699-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -360,6 +378,7 @@
     "references": {}
   },
   "1334-gamedata.base": {
+    "name": "Plate - Rubberised steel",
     "stringId": "1334-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -380,6 +399,7 @@
     "references": {}
   },
   "1319-gamedata.base": {
+    "name": "medplate test",
     "stringId": "1319-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -400,6 +420,7 @@
     "references": {}
   },
   "2162-gamedata.base": {
+    "name": "drifter3",
     "stringId": "2162-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -420,6 +441,7 @@
     "references": {}
   },
   "2285-gamedata.base": {
+    "name": "MATERIAL_SPECS_CLOTHING2285",
     "stringId": "2285-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -440,6 +462,7 @@
     "references": {}
   },
   "1251-gamedata.base": {
+    "name": "captain coat lizard",
     "stringId": "1251-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -460,6 +483,7 @@
     "references": {}
   },
   "2284-gamedata.base": {
+    "name": "barbarian leather",
     "stringId": "2284-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -480,6 +504,7 @@
     "references": {}
   },
   "1264-gamedata.base": {
+    "name": "backpack- [color]",
     "stringId": "1264-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -500,6 +525,7 @@
     "references": {}
   },
   "1867-gamedata.base": {
+    "name": "ATLAS tall03 bravo",
     "stringId": "1867-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -520,6 +546,7 @@
     "references": {}
   },
   "2187-gamedata.base": {
+    "name": "Monk",
     "stringId": "2187-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -540,6 +567,7 @@
     "references": {}
   },
   "18030-small_changes_otto.mod": {
+    "name": "mask1",
     "stringId": "18030-small_changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -560,6 +588,7 @@
     "references": {}
   },
   "1138-gamedata.base": {
+    "name": "medplate d7-blue",
     "stringId": "1138-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -580,6 +609,7 @@
     "references": {}
   },
   "1328-gamedata.base": {
+    "name": "Plate - Plated steel",
     "stringId": "1328-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -600,6 +630,7 @@
     "references": {}
   },
   "4028-gamedata.baseold": {
+    "name": "OLD animal refuse",
     "stringId": "4028-gamedata.baseold",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -620,6 +651,7 @@
     "references": {}
   },
   "1014-gamedata.base": {
+    "name": "tradegoodsAtlas",
     "stringId": "1014-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -640,6 +672,7 @@
     "references": {}
   },
   "2311-clothes_v1.mod": {
+    "name": "rag armoured",
     "stringId": "2311-clothes_v1.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -660,6 +693,7 @@
     "references": {}
   },
   "2312-clothes_v1.mod": {
+    "name": "slave",
     "stringId": "2312-clothes_v1.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -680,6 +714,7 @@
     "references": {}
   },
   "1325-gamedata.base": {
+    "name": "Plate - Copper",
     "stringId": "1325-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -700,6 +735,7 @@
     "references": {}
   },
   "1327-gamedata.base": {
+    "name": "Plate - Tech I",
     "stringId": "1327-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -720,6 +756,7 @@
     "references": {}
   },
   "696-gamedata.base": {
+    "name": "medicsack",
     "stringId": "696-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -740,6 +777,7 @@
     "references": {}
   },
   "1330-gamedata.base": {
+    "name": "Plate - Recycled",
     "stringId": "1330-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -760,6 +798,7 @@
     "references": {}
   },
   "1261-gamedata.base": {
+    "name": "medplate d4-grey",
     "stringId": "1261-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -780,6 +819,7 @@
     "references": {}
   },
   "1265-gamedata.base": {
+    "name": "medic coat",
     "stringId": "1265-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -800,6 +840,7 @@
     "references": {}
   },
   "689-gamedata.base": {
+    "name": "captain coat black",
     "stringId": "689-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -820,6 +861,7 @@
     "references": {}
   },
   "1322-gamedata.base": {
+    "name": "Plate - Green copper",
     "stringId": "1322-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -840,6 +882,7 @@
     "references": {}
   },
   "1149-gamedata.base": {
+    "name": "medplate d",
     "stringId": "1149-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -860,6 +903,7 @@
     "references": {}
   },
   "2190-gamedata.base": {
+    "name": "Gi",
     "stringId": "2190-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -880,6 +924,7 @@
     "references": {}
   },
   "2152-gamedata.base": {
+    "name": "assassin1",
     "stringId": "2152-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -900,6 +945,7 @@
     "references": {}
   },
   "968-gamedata.base": {
+    "name": "medplate-red",
     "stringId": "968-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -920,6 +966,7 @@
     "references": {}
   },
   "1140-gamedata.base": {
+    "name": "trousers blue",
     "stringId": "1140-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -940,6 +987,7 @@
     "references": {}
   },
   "1281-gamedata.base": {
+    "name": "captain coat black-darker",
     "stringId": "1281-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -960,6 +1008,7 @@
     "references": {}
   },
   "967-gamedata.base": {
+    "name": "Trousers [blackened]",
     "stringId": "967-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -980,6 +1029,7 @@
     "references": {}
   },
   "5263-lanterns_otto.mod": {
+    "name": "Item_Atlas_ottos",
     "stringId": "5263-lanterns_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1000,6 +1050,7 @@
     "references": {}
   },
   "1336-gamedata.base": {
+    "name": "Plate - Hybrid steel",
     "stringId": "1336-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1020,6 +1071,7 @@
     "references": {}
   },
   "2714-D-clothes_v2.mod": {
+    "name": "Haircut_Attachments",
     "stringId": "2714-D-clothes_v2.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1040,6 +1092,7 @@
     "references": {}
   },
   "1142-gamedata.base": {
+    "name": "tricorn",
     "stringId": "1142-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1060,6 +1113,7 @@
     "references": {}
   },
   "1145-gamedata.base": {
+    "name": "medplate d2-rusty",
     "stringId": "1145-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1080,6 +1134,7 @@
     "references": {}
   },
   "1139-gamedata.base": {
+    "name": "ninja vest",
     "stringId": "1139-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1100,6 +1155,7 @@
     "references": {}
   },
   "686-gamedata.base": {
+    "name": "backpack",
     "stringId": "686-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1120,6 +1176,7 @@
     "references": {}
   },
   "14519-gamedata.base": {
+    "name": "color samurai armour",
     "stringId": "14519-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1140,6 +1197,7 @@
     "references": {}
   },
   "2155-gamedata.base": {
+    "name": "drifter",
     "stringId": "2155-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1160,6 +1218,7 @@
     "references": {}
   },
   "2183-gamedata.base": {
+    "name": "platestraw",
     "stringId": "2183-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1180,6 +1239,7 @@
     "references": {}
   },
   "2310-clothes_v1.mod": {
+    "name": "drifter2",
     "stringId": "2310-clothes_v1.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1200,6 +1260,7 @@
     "references": {}
   },
   "2171-gamedata.base": {
+    "name": "samurai06",
     "stringId": "2171-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1220,6 +1281,7 @@
     "references": {}
   },
   "2153-gamedata.base": {
+    "name": "assassin2",
     "stringId": "2153-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1240,6 +1302,7 @@
     "references": {}
   },
   "18031-small_changes_otto.mod": {
+    "name": "mask2",
     "stringId": "18031-small_changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1260,6 +1323,7 @@
     "references": {}
   },
   "692-gamedata.base": {
+    "name": "boots",
     "stringId": "692-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1280,6 +1344,7 @@
     "references": {}
   },
   "1956-gamedata.base": {
+    "name": "trade_potatosack",
     "stringId": "1956-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1300,6 +1365,7 @@
     "references": {}
   },
   "691-gamedata.base": {
+    "name": "traderjacket",
     "stringId": "691-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1320,6 +1386,7 @@
     "references": {}
   },
   "1150-gamedata.base": {
+    "name": "medplate d3 dark",
     "stringId": "1150-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1340,6 +1407,7 @@
     "references": {}
   },
   "911-gamedata.base": {
+    "name": "backpack-trader",
     "stringId": "911-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1360,6 +1428,7 @@
     "references": {}
   },
   "2181-gamedata.base": {
+    "name": "police",
     "stringId": "2181-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1380,6 +1449,7 @@
     "references": {}
   },
   "1326-gamedata.base": {
+    "name": "Plate - Orange",
     "stringId": "1326-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1400,6 +1470,7 @@
     "references": {}
   },
   "695-gamedata.base": {
+    "name": "cargos",
     "stringId": "695-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1420,6 +1491,7 @@
     "references": {}
   },
   "2199-gamedata.base": {
+    "name": "Helmets",
     "stringId": "2199-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1440,6 +1512,7 @@
     "references": {}
   },
   "18910-gamedata.base": {
+    "name": "samurai06 cloth",
     "stringId": "18910-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1460,6 +1533,7 @@
     "references": {}
   },
   "1337-gamedata.base": {
+    "name": "bandanas",
     "stringId": "1337-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1480,6 +1554,7 @@
     "references": {}
   },
   "3060-gamedata.base": {
+    "name": "long coat-black",
     "stringId": "3060-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1500,6 +1575,7 @@
     "references": {}
   },
   "2023-gamedata.base": {
+    "name": "strawbale-hemp",
     "stringId": "2023-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1520,6 +1596,7 @@
     "references": {}
   },
   "1959-gamedata.base": {
+    "name": "strawbale",
     "stringId": "1959-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1540,6 +1617,7 @@
     "references": {}
   },
   "1323-gamedata.base": {
+    "name": "Plate - Venomous",
     "stringId": "1323-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1560,6 +1638,7 @@
     "references": {}
   },
   "1338-gamedata.base": {
+    "name": "Plate - Old steel variant",
     "stringId": "1338-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1580,6 +1659,7 @@
     "references": {}
   },
   "4003-gamedata.base": {
+    "name": "gar backpack",
     "stringId": "4003-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1600,6 +1680,7 @@
     "references": {}
   },
   "1961-gamedata.base": {
+    "name": "potatoes",
     "stringId": "1961-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1620,6 +1701,7 @@
     "references": {}
   },
   "690-gamedata.base": {
+    "name": "hobo coat",
     "stringId": "690-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1640,6 +1722,7 @@
     "references": {}
   },
   "698-gamedata.base": {
+    "name": "medplate d4-[color]",
     "stringId": "698-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1660,6 +1743,7 @@
     "references": {}
   },
   "1151-gamedata.base": {
+    "name": "medplate d5 -yellow",
     "stringId": "1151-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1680,6 +1764,7 @@
     "references": {}
   },
   "1321-gamedata.base": {
+    "name": "medplate test-copy",
     "stringId": "1321-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1700,6 +1785,7 @@
     "references": {}
   },
   "697-gamedata.base": {
+    "name": "pants_d",
     "stringId": "697-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1720,6 +1806,7 @@
     "references": {}
   },
   "1329-gamedata.base": {
+    "name": "Plate - Corroded",
     "stringId": "1329-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1740,6 +1827,7 @@
     "references": {}
   },
   "1331-gamedata.base": {
+    "name": "Plate - Reinforced rubber",
     "stringId": "1331-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1760,6 +1848,7 @@
     "references": {}
   },
   "1955-gamedata.base": {
+    "name": "rumjug",
     "stringId": "1955-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1780,6 +1869,7 @@
     "references": {}
   },
   "694-gamedata.base": {
+    "name": "sandal",
     "stringId": "694-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1800,6 +1890,7 @@
     "references": {}
   },
   "1957-gamedata.base": {
+    "name": "trade_medkit05",
     "stringId": "1957-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1820,6 +1911,7 @@
     "references": {}
   },
   "1152-gamedata.base": {
+    "name": "medplate d5 -red",
     "stringId": "1152-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1840,6 +1932,7 @@
     "references": {}
   },
   "2146-gamedata.base": {
+    "name": "samurai armour",
     "stringId": "2146-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1860,6 +1953,7 @@
     "references": {}
   },
   "3392-gamedata.base": {
+    "name": "atlas regular",
     "stringId": "3392-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1881,6 +1975,7 @@
     "references": {}
   },
   "1324-gamedata.base": {
+    "name": "Plate - Hammered copper",
     "stringId": "1324-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1901,6 +1996,7 @@
     "references": {}
   },
   "700-gamedata.base": {
+    "name": "swordbig1",
     "stringId": "700-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1921,6 +2017,7 @@
     "references": {}
   },
   "1954-gamedata.base": {
+    "name": "sacks barrels",
     "stringId": "1954-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1941,6 +2038,7 @@
     "references": {}
   },
   "1332-gamedata.base": {
+    "name": "Plate - Pirate armour",
     "stringId": "1332-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1961,6 +2059,7 @@
     "references": {}
   },
   "966-gamedata.base": {
+    "name": "medplate-black",
     "stringId": "966-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -1981,6 +2080,7 @@
     "references": {}
   },
   "1141-gamedata.base": {
+    "name": "medplate d6-whiteish",
     "stringId": "1141-gamedata.base",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2001,6 +2101,7 @@
     "references": {}
   },
   "50516-Newwworld.mod": {
+    "name": "Fish",
     "stringId": "50516-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2021,6 +2122,7 @@
     "references": {}
   },
   "51661-Newwworld.mod": {
+    "name": "FANCY JACK Jacket",
     "stringId": "51661-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2041,6 +2143,7 @@
     "references": {}
   },
   "51666-Newwworld.mod": {
+    "name": "FANCY JACK Pants",
     "stringId": "51666-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2061,6 +2164,7 @@
     "references": {}
   },
   "54032-Newwworld.mod": {
+    "name": "Carpet_Fancy Rug",
     "stringId": "54032-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2081,6 +2185,7 @@
     "references": {}
   },
   "54545-Newwworld.mod": {
+    "name": "COIN",
     "stringId": "54545-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2101,6 +2206,7 @@
     "references": {}
   },
   "62796-Newwworld.mod": {
+    "name": "Robot Mask",
     "stringId": "62796-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2121,6 +2227,7 @@
     "references": {}
   },
   "63236-Newwworld.mod": {
+    "name": "Human_Skin_Suit",
     "stringId": "63236-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2141,6 +2248,7 @@
     "references": {}
   },
   "63745-Newwworld.mod": {
+    "name": "Human_Skin",
     "stringId": "63745-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2161,6 +2269,7 @@
     "references": {}
   },
   "64889-Newwworld.mod": {
+    "name": "Iron Clad Suit",
     "stringId": "64889-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2181,6 +2290,7 @@
     "references": {}
   },
   "64908-Newwworld.mod": {
+    "name": "Hack Stopper Suit",
     "stringId": "64908-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2201,6 +2311,7 @@
     "references": {}
   },
   "95580-Newwworld.mod": {
+    "name": "ROBOT-LIMBS",
     "stringId": "95580-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2221,6 +2332,7 @@
     "references": {}
   },
   "95999-Newwworld.mod": {
+    "name": "Eagles Cross Bolt Pack",
     "stringId": "95999-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2241,6 +2353,7 @@
     "references": {}
   },
   "95998-Newwworld.mod": {
+    "name": "Spring-Bat Bolt Pack",
     "stringId": "95998-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2261,6 +2374,7 @@
     "references": {}
   },
   "96002-Newwworld.mod": {
+    "name": "Toothpick Bolt PACK",
     "stringId": "96002-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2281,6 +2395,7 @@
     "references": {}
   },
   "96003-Newwworld.mod": {
+    "name": "Ranger Bolt PACK",
     "stringId": "96003-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2301,6 +2416,7 @@
     "references": {}
   },
   "96019-Newwworld.mod": {
+    "name": "ROBOTIC-ATHLETIC Legs",
     "stringId": "96019-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2321,6 +2437,7 @@
     "references": {}
   },
   "96023-Newwworld.mod": {
+    "name": "ROBOTIC STRONG ARMS",
     "stringId": "96023-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2341,6 +2458,7 @@
     "references": {}
   },
   "96138-Newwworld.mod": {
+    "name": "Robot Economy Limbs",
     "stringId": "96138-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2361,6 +2479,7 @@
     "references": {}
   },
   "96190-Newwworld.mod": {
+    "name": "Replacement Tough Limbs",
     "stringId": "96190-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2381,6 +2500,7 @@
     "references": {}
   },
   "1532814-Newwworld.mod": {
+    "name": "drifter2 armoured pants",
     "stringId": "1532814-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2401,6 +2521,7 @@
     "references": {}
   },
   "1532829-Newwworld.mod": {
+    "name": "Chainmail Tagelmust",
     "stringId": "1532829-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2421,6 +2542,7 @@
     "references": {}
   },
   "1533512-Newwworld.mod": {
+    "name": "color samurai armour RUSTED",
     "stringId": "1533512-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2441,6 +2563,7 @@
     "references": {}
   },
   "1534064-Newwworld.mod": {
+    "name": "Carpet Economy Rug",
     "stringId": "1534064-Newwworld.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2461,6 +2584,7 @@
     "references": {}
   },
   "96172-Dialogue.mod": {
+    "name": "MATERIAL_SPECS_CLOTHING",
     "stringId": "96172-Dialogue.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2481,6 +2605,7 @@
     "references": {}
   },
   "49929-rebirth.mod": {
+    "name": "book01",
     "stringId": "49929-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2501,6 +2626,7 @@
     "references": {}
   },
   "18885-rebirth.mod": {
+    "name": "samurai06 NO PAINT",
     "stringId": "18885-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2521,6 +2647,7 @@
     "references": {}
   },
   "42312-changes_otto.mod": {
+    "name": "Item_Refuse",
     "stringId": "42312-changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2541,6 +2668,7 @@
     "references": {}
   },
   "49930-rebirth.mod": {
+    "name": "book02",
     "stringId": "49930-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2561,6 +2689,7 @@
     "references": {}
   },
   "42327-changes_otto.mod": {
+    "name": "Item_General",
     "stringId": "42327-changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2581,6 +2710,7 @@
     "references": {}
   },
   "42305-changes_otto.mod": {
+    "name": "Item_Farm_Crops",
     "stringId": "42305-changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2601,6 +2731,7 @@
     "references": {}
   },
   "49931-rebirth.mod": {
+    "name": "book03",
     "stringId": "49931-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2621,6 +2752,7 @@
     "references": {}
   },
   "46042-foodstuff.mod": {
+    "name": "Foodstuffs",
     "stringId": "46042-foodstuff.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2641,6 +2773,7 @@
     "references": {}
   },
   "44909-rebirth.mod": {
+    "name": "MATERIAL_SPECS_CLOTHING",
     "stringId": "44909-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2661,6 +2794,7 @@
     "references": {}
   },
   "45548-changes_otto.mod": {
+    "name": "Item_Map",
     "stringId": "45548-changes_otto.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2681,6 +2815,7 @@
     "references": {}
   },
   "51319-rebirth.mod": {
+    "name": "color samurai armour nopaint",
     "stringId": "51319-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2701,6 +2836,7 @@
     "references": {}
   },
   "55394-rebirth.mod": {
+    "name": "ashland hat",
     "stringId": "55394-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2721,6 +2857,7 @@
     "references": {}
   },
   "96015-rebirth.mod": {
+    "name": "toothpick Bolt Pack ",
     "stringId": "96015-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2741,6 +2878,7 @@
     "references": {}
   },
   "96016-rebirth.mod": {
+    "name": "Spring-Bat Bolt Pack copy",
     "stringId": "96016-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2761,6 +2899,7 @@
     "references": {}
   },
   "96009-limbs.mod": {
+    "name": "Severed Limb Cannibal",
     "stringId": "96009-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2781,6 +2920,7 @@
     "references": {}
   },
   "96010-limbs.mod": {
+    "name": "Severed Limb Cannibal Skav",
     "stringId": "96010-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2801,6 +2941,7 @@
     "references": {}
   },
   "120-limbs.mod": {
+    "name": "Severed Limb Human",
     "stringId": "120-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2821,6 +2962,7 @@
     "references": {}
   },
   "96007-limbs.mod": {
+    "name": "Severed Limb Shek",
     "stringId": "96007-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2841,6 +2983,7 @@
     "references": {}
   },
   "96910-limbs.mod": {
+    "name": "Severed Limb DeadHive",
     "stringId": "96910-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2861,6 +3004,7 @@
     "references": {}
   },
   "96905-limbs.mod": {
+    "name": "Severed Limb Hive",
     "stringId": "96905-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2881,6 +3025,7 @@
     "references": {}
   },
   "96915-limbs.mod": {
+    "name": "Severed Limb SouthHive",
     "stringId": "96915-limbs.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2901,6 +3046,7 @@
     "references": {}
   },
   "1533853-rebirth.mod": {
+    "name": "Chainmail Tagelmust black",
     "stringId": "1533853-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2921,6 +3067,7 @@
     "references": {}
   },
   "1533854-rebirth.mod": {
+    "name": "samurai06 dark",
     "stringId": "1533854-rebirth.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2941,6 +3088,7 @@
     "references": {}
   },
   "1534054-Newwworld Plus.mod": {
+    "name": "Chain Vest ExtraBits_ HIVE",
     "stringId": "1534054-Newwworld Plus.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2961,6 +3109,7 @@
     "references": {}
   },
   "1534059-Newwworld Plus.mod": {
+    "name": "Padded Leather Jacket",
     "stringId": "1534059-Newwworld Plus.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -2981,6 +3130,7 @@
     "references": {}
   },
   "1534056-Newwworld Plus.mod": {
+    "name": "Umbrella Hat",
     "stringId": "1534056-Newwworld Plus.mod",
     "type": "MaterialSpecsClothing",
     "values": {
@@ -3001,6 +3151,7 @@
     "references": {}
   },
   "1534060-Newwworld Plus.mod": {
+    "name": "Leather Vest Hive",
     "stringId": "1534060-Newwworld Plus.mod",
     "type": "MaterialSpecsClothing",
     "values": {

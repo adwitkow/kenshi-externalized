@@ -1,5 +1,6 @@
 {
   "42304-Newwworld.mod": {
+    "name": "None",
     "stringId": "42304-Newwworld.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -26,6 +27,7 @@
     "references": {}
   },
   "44872-Newwworld.mod": {
+    "name": "dry arid borderlands",
     "stringId": "44872-Newwworld.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -52,6 +54,7 @@
     "references": {}
   },
   "42335-rebirth.mod": {
+    "name": "shitty water nofarm",
     "stringId": "42335-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -78,6 +81,7 @@
     "references": {}
   },
   "42171-rebirth.mod": {
+    "name": "arid- borderlands, high canyons",
     "stringId": "42171-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -104,6 +108,7 @@
     "references": {}
   },
   "42253-rebirth.mod": {
+    "name": "fertile holy",
     "stringId": "42253-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -130,6 +135,7 @@
     "references": {}
   },
   "42173-rebirth.mod": {
+    "name": "cower",
     "stringId": "42173-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -156,6 +162,7 @@
     "references": {}
   },
   "44423-rebirth.mod": {
+    "name": "Desert",
     "stringId": "44423-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -182,6 +189,7 @@
     "references": {}
   },
   "43367-rebirth.mod": {
+    "name": "swamp",
     "stringId": "43367-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -208,6 +216,7 @@
     "references": {}
   },
   "42172-rebirth.mod": {
+    "name": "polluted",
     "stringId": "42172-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -234,6 +243,7 @@
     "references": {}
   },
   "43321-rebirth.mod": {
+    "name": "vain",
     "stringId": "43321-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -260,6 +270,7 @@
     "references": {}
   },
   "50397-rebirth.mod": {
+    "name": "coast",
     "stringId": "50397-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -286,6 +297,7 @@
     "references": {}
   },
   "54286-rebirth.mod": {
+    "name": "arid- low altitudes",
     "stringId": "54286-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -312,6 +324,7 @@
     "references": {}
   },
   "54287-rebirth.mod": {
+    "name": "crappy half values- no food",
     "stringId": "54287-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -338,6 +351,7 @@
     "references": {}
   },
   "56356-rebirth.mod": {
+    "name": "rich arid",
     "stringId": "56356-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -364,6 +378,7 @@
     "references": {}
   },
   "57738-rebirth.mod": {
+    "name": "the pits- rich but no food",
     "stringId": "57738-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -390,6 +405,7 @@
     "references": {}
   },
   "62181-rebirth.mod": {
+    "name": "no food",
     "stringId": "62181-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -416,6 +432,7 @@
     "references": {}
   },
   "62779-rebirth.mod": {
+    "name": "ashland",
     "stringId": "62779-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -442,6 +459,7 @@
     "references": {}
   },
   "62786-rebirth.mod": {
+    "name": "crappy half values w/food",
     "stringId": "62786-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -468,6 +486,7 @@
     "references": {}
   },
   "64811-rebirth.mod": {
+    "name": "Desert polluted",
     "stringId": "64811-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -494,6 +513,7 @@
     "references": {}
   },
   "64965-rebirth.mod": {
+    "name": "black desert",
     "stringId": "64965-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -520,6 +540,7 @@
     "references": {}
   },
   "95537-rebirth.mod": {
+    "name": "uninhabitable",
     "stringId": "95537-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -546,6 +567,7 @@
     "references": {}
   },
   "96355-rebirth.mod": {
+    "name": "coast wealthy",
     "stringId": "96355-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -572,6 +594,7 @@
     "references": {}
   },
   "97664-rebirth.mod": {
+    "name": "bonefields",
     "stringId": "97664-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {
@@ -598,6 +621,7 @@
     "references": {}
   },
   "1531878-rebirth.mod": {
+    "name": "crappy half values w/food dry",
     "stringId": "1531878-rebirth.mod",
     "type": "EnvironmentResources",
     "values": {

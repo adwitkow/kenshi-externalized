@@ -1,5 +1,6 @@
 {
   "476-gamedata.base": {
+    "name": "Katana",
     "stringId": "476-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -59,6 +60,7 @@
     "references": {}
   },
   "2110-gamedata.base": {
+    "name": "Mercenary Club",
     "stringId": "2110-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -118,6 +120,7 @@
     "references": {}
   },
   "2064-gamedata.base": {
+    "name": "Iron Stick",
     "stringId": "2064-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -177,6 +180,7 @@
     "references": {}
   },
   "922-gamedata.base": {
+    "name": "Nodachi",
     "stringId": "922-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -236,6 +240,7 @@
     "references": {}
   },
   "3934-gamedata.base": {
+    "name": "_giraffe type",
     "stringId": "3934-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -295,6 +300,7 @@
     "references": {}
   },
   "903-gamedata.base": {
+    "name": "Ringed Sabre",
     "stringId": "903-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -354,6 +360,7 @@
     "references": {}
   },
   "924-gamedata.base": {
+    "name": "Ninja Blade",
     "stringId": "924-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -413,6 +420,7 @@
     "references": {}
   },
   "475-gamedata.base": {
+    "name": "Horse Chopper",
     "stringId": "475-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -472,6 +480,7 @@
     "references": {}
   },
   "3982-gamedata.base": {
+    "name": "_dog type weapon",
     "stringId": "3982-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -531,6 +540,7 @@
     "references": {}
   },
   "42075-gamedata.base": {
+    "name": "_robot spider type",
     "stringId": "42075-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -590,6 +600,7 @@
     "references": {}
   },
   "478-gamedata.base": {
+    "name": "Long Cleaver",
     "stringId": "478-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -649,6 +660,7 @@
     "references": {}
   },
   "477-gamedata.base": {
+    "name": "Fragment Axe",
     "stringId": "477-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -708,6 +720,7 @@
     "references": {}
   },
   "474-gamedata.base": {
+    "name": "Topper",
     "stringId": "474-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -767,6 +780,7 @@
     "references": {}
   },
   "923-gamedata.base": {
+    "name": "Guardless Katana",
     "stringId": "923-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -826,6 +840,7 @@
     "references": {}
   },
   "902-gamedata.base": {
+    "name": "Plank",
     "stringId": "902-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -885,6 +900,7 @@
     "references": {}
   },
   "901-gamedata.base": {
+    "name": "Longsword",
     "stringId": "901-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -944,6 +960,7 @@
     "references": {}
   },
   "1020-gamedata.base": {
+    "name": "Wakizashi",
     "stringId": "1020-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -1003,6 +1020,7 @@
     "references": {}
   },
   "3968-gamedata.base": {
+    "name": "_elephant type",
     "stringId": "3968-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -1062,6 +1080,7 @@
     "references": {}
   },
   "2606-gamedata.base": {
+    "name": "Flesh Cleaver",
     "stringId": "2606-gamedata.base",
     "type": "Weapon",
     "values": {
@@ -1121,6 +1140,7 @@
     "references": {}
   },
   "56728-Dialogue.mod": {
+    "name": "Exile Plank",
     "stringId": "56728-Dialogue.mod",
     "type": "Weapon",
     "values": {
@@ -1182,6 +1202,7 @@
     "references": {}
   },
   "56729-Dialogue.mod": {
+    "name": "Bull Horn Axe",
     "stringId": "56729-Dialogue.mod",
     "type": "Weapon",
     "values": {
@@ -1243,6 +1264,7 @@
     "references": {}
   },
   "46991-rebirth.mod": {
+    "name": "_bull type weak",
     "stringId": "46991-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1302,6 +1324,7 @@
     "references": {}
   },
   "50853-rebirth.mod": {
+    "name": "_spider type small",
     "stringId": "50853-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1361,6 +1384,7 @@
     "references": {}
   },
   "43883-rebirth.mod": {
+    "name": "_spider type",
     "stringId": "43883-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1420,6 +1444,7 @@
     "references": {}
   },
   "43897-rebirth.mod": {
+    "name": "_gorillo",
     "stringId": "43897-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1479,6 +1504,7 @@
     "references": {}
   },
   "43887-rebirth.mod": {
+    "name": "_duck type weapon",
     "stringId": "43887-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1538,6 +1564,7 @@
     "references": {}
   },
   "46990-rebirth.mod": {
+    "name": "_bull type",
     "stringId": "46990-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1597,6 +1624,7 @@
     "references": {}
   },
   "52287-rebirth.mod": {
+    "name": "Holed Sabre",
     "stringId": "52287-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1656,6 +1684,7 @@
     "references": {}
   },
   "52290-rebirth.mod": {
+    "name": "Heavy Jitte",
     "stringId": "52290-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1715,6 +1744,7 @@
     "references": {}
   },
   "52292-rebirth.mod": {
+    "name": "Combat Cleaver",
     "stringId": "52292-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1774,6 +1804,7 @@
     "references": {}
   },
   "52295-rebirth.mod": {
+    "name": "Iron Club",
     "stringId": "52295-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1833,6 +1864,7 @@
     "references": {}
   },
   "52297-rebirth.mod": {
+    "name": "Spiked Club",
     "stringId": "52297-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1892,6 +1924,7 @@
     "references": {}
   },
   "52299-rebirth.mod": {
+    "name": "Paladin's Cross",
     "stringId": "52299-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -1951,6 +1984,7 @@
     "references": {}
   },
   "52300-rebirth.mod": {
+    "name": "Moon Cleaver",
     "stringId": "52300-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2010,6 +2044,7 @@
     "references": {}
   },
   "52301-rebirth.mod": {
+    "name": "Polearm",
     "stringId": "52301-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2069,6 +2104,7 @@
     "references": {}
   },
   "52302-rebirth.mod": {
+    "name": "Staff",
     "stringId": "52302-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2128,6 +2164,7 @@
     "references": {}
   },
   "52303-rebirth.mod": {
+    "name": "Jitte",
     "stringId": "52303-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2187,6 +2224,7 @@
     "references": {}
   },
   "52304-rebirth.mod": {
+    "name": "Foreign Sabre",
     "stringId": "52304-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2246,6 +2284,7 @@
     "references": {}
   },
   "52305-rebirth.mod": {
+    "name": "Desert Sabre",
     "stringId": "52305-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2328,6 +2367,7 @@
     }
   },
   "52306-rebirth.mod": {
+    "name": "Falling Sun",
     "stringId": "52306-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2405,6 +2445,7 @@
     }
   },
   "52307-rebirth.mod": {
+    "name": "Heavy Polearm",
     "stringId": "52307-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2464,6 +2505,7 @@
     "references": {}
   },
   "52308-rebirth.mod": {
+    "name": "Naginata",
     "stringId": "52308-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2523,6 +2565,7 @@
     "references": {}
   },
   "52309-rebirth.mod": {
+    "name": "Naginata Katana",
     "stringId": "52309-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2582,6 +2625,7 @@
     "references": {}
   },
   "FISTS": {
+    "name": "FISTS",
     "stringId": "FISTS",
     "type": "Weapon",
     "values": {
@@ -2641,6 +2685,7 @@
     "references": {}
   },
   "53668-rebirth.mod": {
+    "name": "FISTS- robo",
     "stringId": "53668-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2700,6 +2745,7 @@
     "references": {}
   },
   "56092-rebirth.mod": {
+    "name": "_skimmer",
     "stringId": "56092-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2759,6 +2805,7 @@
     "references": {}
   },
   "56124-rebirth.mod": {
+    "name": "_garru",
     "stringId": "56124-rebirth.mod",
     "type": "Weapon",
     "values": {
@@ -2818,6 +2865,7 @@
     "references": {}
   },
   "65260-rebirth.mod": {
+    "name": "Short-Cleaver",
     "stringId": "65260-rebirth.mod",
     "type": "Weapon",
     "values": {

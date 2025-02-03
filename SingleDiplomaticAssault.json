@@ -1,5 +1,6 @@
 {
   "2839-gamedata.base": {
+    "name": "raid filler",
     "stringId": "2839-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -46,6 +47,7 @@
     }
   },
   "2611-gamedata.base": {
+    "name": "kidnap raid",
     "stringId": "2611-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -71,6 +73,7 @@
     }
   },
   "2463-gamedata.base": {
+    "name": "raid 1",
     "stringId": "2463-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -131,6 +134,7 @@
     }
   },
   "2586-gamedata.base": {
+    "name": "food run",
     "stringId": "2586-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -177,6 +181,7 @@
     }
   },
   "2956-gamedata.base": {
+    "name": "Attack enemy town",
     "stringId": "2956-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -202,6 +207,7 @@
     }
   },
   "2406-gamedata.base": {
+    "name": "SINGLE_DIPLOMATIC_ASSAULT2406",
     "stringId": "2406-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -220,6 +226,7 @@
     }
   },
   "2512-gamedata.base": {
+    "name": "tax collector",
     "stringId": "2512-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -285,6 +292,7 @@
     }
   },
   "2458-gamedata.base": {
+    "name": "1st",
     "stringId": "2458-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -350,6 +358,7 @@
     }
   },
   "2853-gamedata.base": {
+    "name": "raid massive",
     "stringId": "2853-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -382,6 +391,7 @@
     }
   },
   "2362-gamedata.base": {
+    "name": "1st contact",
     "stringId": "2362-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {
@@ -436,6 +446,7 @@
     }
   },
   "2851-gamedata.base": {
+    "name": "raid01",
     "stringId": "2851-gamedata.base",
     "type": "SingleDiplomaticAssault",
     "values": {

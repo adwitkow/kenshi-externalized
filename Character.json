@@ -1,5 +1,6 @@
 {
   "1292-gamedata.base": {
+    "name": "Mercenary Heavy",
     "stringId": "1292-gamedata.base",
     "type": "Character",
     "values": {
@@ -107,6 +108,7 @@
     }
   },
   "2244-gamedata.base": {
+    "name": "Ronin Construction Trader",
     "stringId": "2244-gamedata.base",
     "type": "Character",
     "values": {
@@ -187,6 +189,7 @@
     }
   },
   "2604-gamedata.base": {
+    "name": "Cannibal",
     "stringId": "2604-gamedata.base",
     "type": "Character",
     "values": {
@@ -286,6 +289,7 @@
     }
   },
   "2249-gamedata.base": {
+    "name": "Holy Armour Trader",
     "stringId": "2249-gamedata.base",
     "type": "Character",
     "values": {
@@ -422,6 +426,7 @@
     }
   },
   "1993-gamedata.base": {
+    "name": "survivor dead",
     "stringId": "1993-gamedata.base",
     "type": "Character",
     "values": {
@@ -539,6 +544,7 @@
     }
   },
   "1037-gamedata.base": {
+    "name": "Ronin Armour Trader",
     "stringId": "1037-gamedata.base",
     "type": "Character",
     "values": {
@@ -656,6 +662,7 @@
     }
   },
   "3063-gamedata.base": {
+    "name": "Nobody",
     "stringId": "3063-gamedata.base",
     "type": "Character",
     "values": {
@@ -726,6 +733,7 @@
     }
   },
   "1219-gamedata.base": {
+    "name": "Temple Inquisitor",
     "stringId": "1219-gamedata.base",
     "type": "Character",
     "values": {
@@ -813,6 +821,7 @@
     }
   },
   "1304-gamedata.base": {
+    "name": "Hungry bandit",
     "stringId": "1304-gamedata.base",
     "type": "Character",
     "values": {
@@ -915,6 +924,7 @@
     }
   },
   "511-gamedata.base": {
+    "name": "Sand Ninja",
     "stringId": "511-gamedata.base",
     "type": "Character",
     "values": {
@@ -1029,6 +1039,7 @@
     }
   },
   "136-gamedata.quack": {
+    "name": "Exile",
     "stringId": "136-gamedata.quack",
     "type": "Character",
     "values": {
@@ -1117,6 +1128,7 @@
     }
   },
   "2161-gamedata.base": {
+    "name": "Samurai Captain",
     "stringId": "2161-gamedata.base",
     "type": "Character",
     "values": {
@@ -1224,6 +1236,7 @@
     }
   },
   "1021-gamedata.base": {
+    "name": "UC Hat trader",
     "stringId": "1021-gamedata.base",
     "type": "Character",
     "values": {
@@ -1341,6 +1354,7 @@
     }
   },
   "1776-gamedata.base": {
+    "name": "Sword for hire 15",
     "stringId": "1776-gamedata.base",
     "type": "Character",
     "values": {
@@ -1531,6 +1545,7 @@
     }
   },
   "1737-gamedata.base": {
+    "name": "Sword for hire 10",
     "stringId": "1737-gamedata.base",
     "type": "Character",
     "values": {
@@ -1716,6 +1731,7 @@
     }
   },
   "5288-gamedata.base": {
+    "name": "Slave Trader",
     "stringId": "5288-gamedata.base",
     "type": "Character",
     "values": {
@@ -1825,6 +1841,7 @@
     }
   },
   "16863-gamedata.base": {
+    "name": "Blood Raider",
     "stringId": "16863-gamedata.base",
     "type": "Character",
     "values": {
@@ -1915,6 +1932,7 @@
     }
   },
   "1038-gamedata.base": {
+    "name": "Trade Goods",
     "stringId": "1038-gamedata.base",
     "type": "Character",
     "values": {
@@ -1997,6 +2015,7 @@
     }
   },
   "1036-gamedata.base": {
+    "name": "Item trader adv",
     "stringId": "1036-gamedata.base",
     "type": "Character",
     "values": {
@@ -2096,6 +2115,7 @@
     }
   },
   "151-gamedata.quack": {
+    "name": "initialisationcharacter",
     "stringId": "151-gamedata.quack",
     "type": "Character",
     "values": {
@@ -2137,6 +2157,7 @@
     "references": {}
   },
   "16857-gamedata.base": {
+    "name": "Cannibal Hunter",
     "stringId": "16857-gamedata.base",
     "type": "Character",
     "values": {
@@ -2305,6 +2326,7 @@
     }
   },
   "14492-rebirth.mod": {
+    "name": "Thief",
     "stringId": "14492-rebirth.mod",
     "type": "Character",
     "values": {
@@ -2402,6 +2424,7 @@
     }
   },
   "3106-gamedata.base": {
+    "name": "Slavemonger",
     "stringId": "3106-gamedata.base",
     "type": "Character",
     "values": {
@@ -2499,6 +2522,7 @@
     }
   },
   "5250-gamedata.base": {
+    "name": "Slave Guard",
     "stringId": "5250-gamedata.base",
     "type": "Character",
     "values": {
@@ -2603,6 +2627,7 @@
     }
   },
   "1199-gamedata.base": {
+    "name": "Outpost guard",
     "stringId": "1199-gamedata.base",
     "type": "Character",
     "values": {
@@ -2729,6 +2754,7 @@
     }
   },
   "152-gamedata.quack": {
+    "name": "initialisationcharacterF",
     "stringId": "152-gamedata.quack",
     "type": "Character",
     "values": {
@@ -2770,6 +2796,7 @@
     "references": {}
   },
   "2205-gamedata.base": {
+    "name": "Drifter",
     "stringId": "2205-gamedata.base",
     "type": "Character",
     "values": {
@@ -3080,6 +3107,7 @@
     }
   },
   "1046-gamedata.base": {
+    "name": "Bodyguard adv",
     "stringId": "1046-gamedata.base",
     "type": "Character",
     "values": {
@@ -3150,6 +3178,7 @@
     }
   },
   "1408-gamedata.base": {
+    "name": "Paladin",
     "stringId": "1408-gamedata.base",
     "type": "Character",
     "values": {
@@ -3269,6 +3298,7 @@
     }
   },
   "450-gamedata.base": {
+    "name": "Civilian A",
     "stringId": "450-gamedata.base",
     "type": "Character",
     "values": {
@@ -3326,6 +3356,7 @@
     }
   },
   "1289-gamedata.base": {
+    "name": "Mercenary Captain",
     "stringId": "1289-gamedata.base",
     "type": "Character",
     "values": {
@@ -3423,6 +3454,7 @@
     }
   },
   "1227-gamedata.base": {
+    "name": "Mercenary",
     "stringId": "1227-gamedata.base",
     "type": "Character",
     "values": {
@@ -3553,6 +3585,7 @@
     }
   },
   "1362-gamedata.base": {
+    "name": "Black Dragon Genin",
     "stringId": "1362-gamedata.base",
     "type": "Character",
     "values": {
@@ -3638,6 +3671,7 @@
     }
   },
   "2733-gamedata.base": {
+    "name": "Crumblejon",
     "stringId": "2733-gamedata.base",
     "type": "Character",
     "values": {
@@ -3786,6 +3820,7 @@
     }
   },
   "2828-gamedata.base": {
+    "name": "Arc",
     "stringId": "2828-gamedata.base",
     "type": "Character",
     "values": {
@@ -3877,6 +3912,7 @@
     }
   },
   "1630-gamedata.base": {
+    "name": "Raider",
     "stringId": "1630-gamedata.base",
     "type": "Character",
     "values": {
@@ -3977,6 +4013,7 @@
     }
   },
   "5258-gamedata.base": {
+    "name": "Slave",
     "stringId": "5258-gamedata.base",
     "type": "Character",
     "values": {
@@ -4092,6 +4129,7 @@
     }
   },
   "1294-gamedata.base": {
+    "name": "Medics guard",
     "stringId": "1294-gamedata.base",
     "type": "Character",
     "values": {
@@ -4211,6 +4249,7 @@
     }
   },
   "1385-gamedata.base": {
+    "name": "Empire guard sergeant OLD",
     "stringId": "1385-gamedata.base",
     "type": "Character",
     "values": {
@@ -4315,6 +4354,7 @@
     }
   },
   "1501-gamedata.base": {
+    "name": "UC Construction Trader",
     "stringId": "1501-gamedata.base",
     "type": "Character",
     "values": {
@@ -4402,6 +4442,7 @@
     }
   },
   "219-gamedata.base": {
+    "name": "Warden",
     "stringId": "219-gamedata.base",
     "type": "Character",
     "values": {
@@ -4458,6 +4499,7 @@
     }
   },
   "510-gamedata.base": {
+    "name": "Dust Bandit",
     "stringId": "510-gamedata.base",
     "type": "Character",
     "values": {
@@ -4572,6 +4614,7 @@
     }
   },
   "1296-gamedata.base": {
+    "name": "Police Sergeant",
     "stringId": "1296-gamedata.base",
     "type": "Character",
     "values": {
@@ -4698,6 +4741,7 @@
     }
   },
   "2184-gamedata.base": {
+    "name": "Naked dude",
     "stringId": "2184-gamedata.base",
     "type": "Character",
     "values": {
@@ -4747,6 +4791,7 @@
     }
   },
   "14478-rebirth.mod": {
+    "name": "Surgeon",
     "stringId": "14478-rebirth.mod",
     "type": "Character",
     "values": {
@@ -4844,6 +4889,7 @@
     }
   },
   "1833-gamedata.base": {
+    "name": "Police Chief",
     "stringId": "1833-gamedata.base",
     "type": "Character",
     "values": {
@@ -4955,6 +5001,7 @@
     }
   },
   "1397-gamedata.base": {
+    "name": "Zed-copy",
     "stringId": "1397-gamedata.base",
     "type": "Character",
     "values": {
@@ -5131,6 +5178,7 @@
     }
   },
   "1035-gamedata.base": {
+    "name": "Weapon trader adv",
     "stringId": "1035-gamedata.base",
     "type": "Character",
     "values": {
@@ -5233,6 +5281,7 @@
     }
   },
   "1995-gamedata.base": {
+    "name": "Wandering trader",
     "stringId": "1995-gamedata.base",
     "type": "Character",
     "values": {
@@ -5360,6 +5409,7 @@
     }
   },
   "465-gamedata.base": {
+    "name": "Citizen",
     "stringId": "465-gamedata.base",
     "type": "Character",
     "values": {
@@ -5457,6 +5507,7 @@
     }
   },
   "2917-gamedata.base": {
+    "name": "Adventurer",
     "stringId": "2917-gamedata.base",
     "type": "Character",
     "values": {
@@ -5775,6 +5826,7 @@
     }
   },
   "3371-gamedata.base": {
+    "name": "Asshole",
     "stringId": "3371-gamedata.base",
     "type": "Character",
     "values": {
@@ -5843,6 +5895,7 @@
     }
   },
   "1356-gamedata.base": {
+    "name": "Jimbad",
     "stringId": "1356-gamedata.base",
     "type": "Character",
     "values": {
@@ -6027,6 +6080,7 @@
     }
   },
   "3386-gamedata.base": {
+    "name": "Slaver",
     "stringId": "3386-gamedata.base",
     "type": "Character",
     "values": {
@@ -6178,6 +6232,7 @@
     }
   },
   "2256-gamedata.base": {
+    "name": "Holy Hat Trader",
     "stringId": "2256-gamedata.base",
     "type": "Character",
     "values": {
@@ -6309,6 +6364,7 @@
     }
   },
   "1791-gamedata.base": {
+    "name": "Mr Floppy",
     "stringId": "1791-gamedata.base",
     "type": "Character",
     "values": {
@@ -6408,6 +6464,7 @@
     }
   },
   "227-gamedata.base": {
+    "name": "Infinite Wingwang",
     "stringId": "227-gamedata.base",
     "type": "Character",
     "values": {
@@ -6503,6 +6560,7 @@
     }
   },
   "1164-gamedata.base": {
+    "name": "Caravan guard",
     "stringId": "1164-gamedata.base",
     "type": "Character",
     "values": {
@@ -6657,6 +6715,7 @@
     }
   },
   "42266-gamedata.base": {
+    "name": "City Hero",
     "stringId": "42266-gamedata.base",
     "type": "Character",
     "values": {
@@ -6767,6 +6826,7 @@
     }
   },
   "1039-gamedata.base": {
+    "name": "Recruitment guy",
     "stringId": "1039-gamedata.base",
     "type": "Character",
     "values": {
@@ -6849,6 +6909,7 @@
     }
   },
   "1777-gamedata.base": {
+    "name": "hire engineer",
     "stringId": "1777-gamedata.base",
     "type": "Character",
     "values": {
@@ -6977,6 +7038,7 @@
     }
   },
   "1316-gamedata.base": {
+    "name": "random character base-copy",
     "stringId": "1316-gamedata.base",
     "type": "Character",
     "values": {
@@ -7151,6 +7213,7 @@
     }
   },
   "636-gamedata.base": {
+    "name": "UC Armour Trader",
     "stringId": "636-gamedata.base",
     "type": "Character",
     "values": {
@@ -7280,6 +7343,7 @@
     }
   },
   "1033-gamedata.base": {
+    "name": "Clothing trader",
     "stringId": "1033-gamedata.base",
     "type": "Character",
     "values": {
@@ -7380,6 +7444,7 @@
     }
   },
   "14502-rebirth.mod": {
+    "name": "Ninja",
     "stringId": "14502-rebirth.mod",
     "type": "Character",
     "values": {
@@ -7485,6 +7550,7 @@
     }
   },
   "GENERATION_TEMPLATE_CHARACTER": {
+    "name": "GENERATION_TEMPLATE_CHARACTER",
     "stringId": "GENERATION_TEMPLATE_CHARACTER",
     "type": "Character",
     "values": {
@@ -7921,6 +7987,7 @@
     }
   },
   "1198-gamedata.base": {
+    "name": "Outpost boss",
     "stringId": "1198-gamedata.base",
     "type": "Character",
     "values": {
@@ -8008,6 +8075,7 @@
     }
   },
   "4007-gamedata.base": {
+    "name": "Goat Herder",
     "stringId": "4007-gamedata.base",
     "type": "Character",
     "values": {
@@ -8112,6 +8180,7 @@
     }
   },
   "1527-gamedata.base": {
+    "name": "Raid Boss",
     "stringId": "1527-gamedata.base",
     "type": "Character",
     "values": {
@@ -8221,6 +8290,7 @@
     }
   },
   "1992-gamedata.base": {
+    "name": "survivor 2",
     "stringId": "1992-gamedata.base",
     "type": "Character",
     "values": {
@@ -8345,6 +8415,7 @@
     }
   },
   "1034-gamedata.base": {
+    "name": "Boot trader",
     "stringId": "1034-gamedata.base",
     "type": "Character",
     "values": {
@@ -8447,6 +8518,7 @@
     }
   },
   "226-gamedata.base": {
+    "name": "Peace",
     "stringId": "226-gamedata.base",
     "type": "Character",
     "values": {
@@ -8552,6 +8624,7 @@
     }
   },
   "453-gamedata.base": {
+    "name": "Civilian D",
     "stringId": "453-gamedata.base",
     "type": "Character",
     "values": {
@@ -8609,6 +8682,7 @@
     }
   },
   "2160-gamedata.base": {
+    "name": "Samurai Heavy",
     "stringId": "2160-gamedata.base",
     "type": "Character",
     "values": {
@@ -8721,6 +8795,7 @@
     }
   },
   "459-gamedata.base": {
+    "name": "Master test",
     "stringId": "459-gamedata.base",
     "type": "Character",
     "values": {
@@ -8797,6 +8872,7 @@
     }
   },
   "5282-chareditor.mod": {
+    "name": "Empty-copy",
     "stringId": "5282-chareditor.mod",
     "type": "Character",
     "values": {
@@ -8875,6 +8951,7 @@
     }
   },
   "1551-gamedata.base": {
+    "name": "Harbinger",
     "stringId": "1551-gamedata.base",
     "type": "Character",
     "values": {
@@ -8974,6 +9051,7 @@
     }
   },
   "470-gamedata.base": {
+    "name": "Trade goods simple",
     "stringId": "470-gamedata.base",
     "type": "Character",
     "values": {
@@ -9051,6 +9129,7 @@
     }
   },
   "637-gamedata.base": {
+    "name": "Item trader",
     "stringId": "637-gamedata.base",
     "type": "Character",
     "values": {
@@ -9145,6 +9224,7 @@
     }
   },
   "2132-gamedata.base": {
+    "name": "Plastic Surgeon",
     "stringId": "2132-gamedata.base",
     "type": "Character",
     "values": {
@@ -9240,6 +9320,7 @@
     }
   },
   "1310-gamedata.base": {
+    "name": "Sand Ninja Jounin",
     "stringId": "1310-gamedata.base",
     "type": "Character",
     "values": {
@@ -9350,6 +9431,7 @@
     }
   },
   "1355-gamedata.base": {
+    "name": "Little Jon",
     "stringId": "1355-gamedata.base",
     "type": "Character",
     "values": {
@@ -9519,6 +9601,7 @@
     }
   },
   "2255-gamedata.base": {
+    "name": "Ronin Hat Trader",
     "stringId": "2255-gamedata.base",
     "type": "Character",
     "values": {
@@ -9629,6 +9712,7 @@
     }
   },
   "14492-gamedata.base": {
+    "name": "Thief Fence",
     "stringId": "14492-gamedata.base",
     "type": "Character",
     "values": {
@@ -9752,6 +9836,7 @@
     }
   },
   "1301-gamedata.base": {
+    "name": "Dust Boss",
     "stringId": "1301-gamedata.base",
     "type": "Character",
     "values": {
@@ -9871,6 +9956,7 @@
     }
   },
   "158-gamedata.quack": {
+    "name": "random character base",
     "stringId": "158-gamedata.quack",
     "type": "Character",
     "values": {
@@ -10035,6 +10121,7 @@
     }
   },
   "1353-gamedata.base": {
+    "name": "Zed",
     "stringId": "1353-gamedata.base",
     "type": "Character",
     "values": {
@@ -10211,6 +10298,7 @@
     }
   },
   "1370-gamedata.base": {
+    "name": "Sword for hire",
     "stringId": "1370-gamedata.base",
     "type": "Character",
     "values": {
@@ -10389,6 +10477,7 @@
     }
   },
   "5426-gamedata.base": {
+    "name": "Hangover",
     "stringId": "5426-gamedata.base",
     "type": "Character",
     "values": {
@@ -10469,6 +10558,7 @@
     }
   },
   "3329-gamedata.base": {
+    "name": "Lost Person",
     "stringId": "3329-gamedata.base",
     "type": "Character",
     "values": {
@@ -10569,6 +10659,7 @@
     }
   },
   "1982-gamedata.base": {
+    "name": "settler 1",
     "stringId": "1982-gamedata.base",
     "type": "Character",
     "values": {
@@ -10673,6 +10764,7 @@
     }
   },
   "1388-gamedata.base": {
+    "name": "Trade goods illegal",
     "stringId": "1388-gamedata.base",
     "type": "Character",
     "values": {
@@ -10750,6 +10842,7 @@
     }
   },
   "2365-gamedata.base": {
+    "name": "UC Agent",
     "stringId": "2365-gamedata.base",
     "type": "Character",
     "values": {
@@ -10835,6 +10928,7 @@
     }
   },
   "1354-gamedata.base": {
+    "name": "Doc",
     "stringId": "1354-gamedata.base",
     "type": "Character",
     "values": {
@@ -10944,6 +11038,7 @@
     }
   },
   "223-gamedata.base": {
+    "name": "Garp",
     "stringId": "223-gamedata.base",
     "type": "Character",
     "values": {
@@ -11000,6 +11095,7 @@
     }
   },
   "1187-gamedata.base": {
+    "name": "Barman",
     "stringId": "1187-gamedata.base",
     "type": "Character",
     "values": {
@@ -11080,6 +11176,7 @@
     }
   },
   "14862-Dialogue.mod": {
+    "name": "Shek Warrior",
     "stringId": "14862-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -11195,6 +11292,7 @@
     }
   },
   "1775-gamedata.base": {
+    "name": "hire medic",
     "stringId": "1775-gamedata.base",
     "type": "Character",
     "values": {
@@ -11330,6 +11428,7 @@
     }
   },
   "2061-gamedata.base": {
+    "name": "Vagabond",
     "stringId": "2061-gamedata.base",
     "type": "Character",
     "values": {
@@ -11429,6 +11528,7 @@
     }
   },
   "1090-gamedata.base": {
+    "name": "Caravan trader",
     "stringId": "1090-gamedata.base",
     "type": "Character",
     "values": {
@@ -11590,6 +11690,7 @@
     }
   },
   "2226-gamedata.base": {
+    "name": "settler w blueprints",
     "stringId": "2226-gamedata.base",
     "type": "Character",
     "values": {
@@ -11691,6 +11792,7 @@
     }
   },
   "2792-gamedata.base": {
+    "name": "Lord Commander Epson",
     "stringId": "2792-gamedata.base",
     "type": "Character",
     "values": {
@@ -11788,6 +11890,7 @@
     }
   },
   "1158-gamedata.base": {
+    "name": "Empire soldier",
     "stringId": "1158-gamedata.base",
     "type": "Character",
     "values": {
@@ -11872,6 +11975,7 @@
     }
   },
   "2237-gamedata.base": {
+    "name": "Ronin Weapon Trader",
     "stringId": "2237-gamedata.base",
     "type": "Character",
     "values": {
@@ -11972,6 +12076,7 @@
     }
   },
   "177-gamedata.quack": {
+    "name": "UC Weapon Trader",
     "stringId": "177-gamedata.quack",
     "type": "Character",
     "values": {
@@ -12079,6 +12184,7 @@
     }
   },
   "1206-gamedata.base": {
+    "name": "Farmer",
     "stringId": "1206-gamedata.base",
     "type": "Character",
     "values": {
@@ -12181,6 +12287,7 @@
     }
   },
   "1358-gamedata.base": {
+    "name": "Swantoon",
     "stringId": "1358-gamedata.base",
     "type": "Character",
     "values": {
@@ -12285,6 +12392,7 @@
     }
   },
   "2830-gamedata.base": {
+    "name": "Old Man Fisher",
     "stringId": "2830-gamedata.base",
     "type": "Character",
     "values": {
@@ -12358,6 +12466,7 @@
     }
   },
   "1189-gamedata.base": {
+    "name": "Shop Guard",
     "stringId": "1189-gamedata.base",
     "type": "Character",
     "values": {
@@ -12462,6 +12571,7 @@
     }
   },
   "2829-gamedata.base": {
+    "name": "Farmer wife",
     "stringId": "2829-gamedata.base",
     "type": "Character",
     "values": {
@@ -12572,6 +12682,7 @@
     }
   },
   "469-gamedata.base": {
+    "name": "Samurai Police",
     "stringId": "469-gamedata.base",
     "type": "Character",
     "values": {
@@ -12683,6 +12794,7 @@
     }
   },
   "147-gamedata.quack": {
+    "name": "Generic helper NPC 4613",
     "stringId": "147-gamedata.quack",
     "type": "Character",
     "values": {
@@ -12732,6 +12844,7 @@
     }
   },
   "1991-gamedata.base": {
+    "name": "survivor 1",
     "stringId": "1991-gamedata.base",
     "type": "Character",
     "values": {
@@ -12836,6 +12949,7 @@
     }
   },
   "2236-gamedata.base": {
+    "name": "Holy Weapon Trader",
     "stringId": "2236-gamedata.base",
     "type": "Character",
     "values": {
@@ -12950,6 +13064,7 @@
     }
   },
   "1295-gamedata.base": {
+    "name": "Warrior doctor",
     "stringId": "1295-gamedata.base",
     "type": "Character",
     "values": {
@@ -13069,6 +13184,7 @@
     }
   },
   "248-gamedata.base": {
+    "name": "Warden the 2nd",
     "stringId": "248-gamedata.base",
     "type": "Character",
     "values": {
@@ -13125,6 +13241,7 @@
     }
   },
   "210-gamedata.base": {
+    "name": "Bodyguard",
     "stringId": "210-gamedata.base",
     "type": "Character",
     "values": {
@@ -13221,6 +13338,7 @@
     }
   },
   "1210-gamedata.base": {
+    "name": "Militia",
     "stringId": "1210-gamedata.base",
     "type": "Character",
     "values": {
@@ -13308,6 +13426,7 @@
     }
   },
   "5210-chareditor.mod": {
+    "name": "Empty",
     "stringId": "5210-chareditor.mod",
     "type": "Character",
     "values": {
@@ -13349,6 +13468,7 @@
     "references": {}
   },
   "1160-gamedata.base": {
+    "name": "Empire sergeant OLD",
     "stringId": "1160-gamedata.base",
     "type": "Character",
     "values": {
@@ -13451,6 +13571,7 @@
     }
   },
   "14506-gamedata.base": {
+    "name": "Bounty Hunter",
     "stringId": "14506-gamedata.base",
     "type": "Character",
     "values": {
@@ -13751,6 +13872,7 @@
     }
   },
   "1159-gamedata.base": {
+    "name": "Empire conscript",
     "stringId": "1159-gamedata.base",
     "type": "Character",
     "values": {
@@ -13845,6 +13967,7 @@
     }
   },
   "2313-gamedata.base": {
+    "name": "Caravan trader boss",
     "stringId": "2313-gamedata.base",
     "type": "Character",
     "values": {
@@ -14023,6 +14146,7 @@
     }
   },
   "5214-gamedata.base": {
+    "name": "Adventurer with skill",
     "stringId": "5214-gamedata.base",
     "type": "Character",
     "values": {
@@ -14319,6 +14443,7 @@
     }
   },
   "1667-gamedata.base": {
+    "name": "Black Dragon Jonin",
     "stringId": "1667-gamedata.base",
     "type": "Character",
     "values": {
@@ -14397,6 +14522,7 @@
     }
   },
   "2849-gamedata.base": {
+    "name": "Dust King",
     "stringId": "2849-gamedata.base",
     "type": "Character",
     "values": {
@@ -14550,6 +14676,7 @@
     }
   },
   "1411-gamedata.base": {
+    "name": "High Paladin",
     "stringId": "1411-gamedata.base",
     "type": "Character",
     "values": {
@@ -14688,6 +14815,7 @@
     }
   },
   "5249-gamedata.base": {
+    "name": "Slaver Guard",
     "stringId": "5249-gamedata.base",
     "type": "Character",
     "values": {
@@ -14824,6 +14952,7 @@
     }
   },
   "2243-gamedata.base": {
+    "name": "Holy Construction Trader",
     "stringId": "2243-gamedata.base",
     "type": "Character",
     "values": {
@@ -14911,6 +15040,7 @@
     }
   },
   "1988-gamedata.base": {
+    "name": "Old Soldier",
     "stringId": "1988-gamedata.base",
     "type": "Character",
     "values": {
@@ -15015,6 +15145,7 @@
     }
   },
   "452-gamedata.base": {
+    "name": "Civilian C",
     "stringId": "452-gamedata.base",
     "type": "Character",
     "values": {
@@ -15072,6 +15203,7 @@
     }
   },
   "1205-gamedata.base": {
+    "name": "Miner",
     "stringId": "1205-gamedata.base",
     "type": "Character",
     "values": {
@@ -15145,6 +15277,7 @@
     }
   },
   "451-gamedata.base": {
+    "name": "Civilian B",
     "stringId": "451-gamedata.base",
     "type": "Character",
     "values": {
@@ -15202,6 +15335,7 @@
     }
   },
   "1303-gamedata.base": {
+    "name": "Hungry bandit leader",
     "stringId": "1303-gamedata.base",
     "type": "Character",
     "values": {
@@ -15301,6 +15435,7 @@
     }
   },
   "45551-Newwworld.mod": {
+    "name": "Experienced Man",
     "stringId": "45551-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -15423,6 +15558,7 @@
     }
   },
   "51008-Newwworld.mod": {
+    "name": "Crow Face",
     "stringId": "51008-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -15537,6 +15673,7 @@
     }
   },
   "55636-Newwworld.mod": {
+    "name": "Gurgler",
     "stringId": "55636-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -15600,6 +15737,7 @@
     }
   },
   "57334-Newwworld.mod": {
+    "name": "Queen of the South",
     "stringId": "57334-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -15670,6 +15808,7 @@
     }
   },
   "57776-Newwworld.mod": {
+    "name": "Skeleton Variant01",
     "stringId": "57776-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -15953,6 +16092,7 @@
     }
   },
   "57781-Newwworld.mod": {
+    "name": "Skeleton Variant02",
     "stringId": "57781-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -16236,6 +16376,7 @@
     }
   },
   "57784-Newwworld.mod": {
+    "name": "Skeleton Variant03",
     "stringId": "57784-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -16519,6 +16660,7 @@
     }
   },
   "65265-Newwworld.mod": {
+    "name": "Skeleton_MkII",
     "stringId": "65265-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -16802,6 +16944,7 @@
     }
   },
   "66528-Newwworld.mod": {
+    "name": "Skeleton_MkII Log Head",
     "stringId": "66528-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -17085,6 +17228,7 @@
     }
   },
   "96801-Newwworld.mod": {
+    "name": "Flayed Man",
     "stringId": "96801-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -17141,6 +17285,7 @@
     }
   },
   "96901-Newwworld.mod": {
+    "name": "Flayed Woman",
     "stringId": "96901-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -17197,6 +17342,7 @@
     }
   },
   "1533507-Newwworld.mod": {
+    "name": "Skeleton MkII Screamer",
     "stringId": "1533507-Newwworld.mod",
     "type": "Character",
     "values": {
@@ -17480,6 +17626,7 @@
     }
   },
   "47664-Dialogue.mod": {
+    "name": "Skin bandit",
     "stringId": "47664-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -17586,6 +17733,7 @@
     }
   },
   "47189-Dialogue.mod": {
+    "name": "Hive Caravan Boss",
     "stringId": "47189-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -17758,6 +17906,7 @@
     }
   },
   "50464-Dialogue.mod": {
+    "name": "Soman",
     "stringId": "50464-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -17893,6 +18042,7 @@
     }
   },
   "41179-Dialogue.mod": {
+    "name": "Sword for hire -(holy nation)",
     "stringId": "41179-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -18082,6 +18232,7 @@
     }
   },
   "11675-Dialogue (10).mod": {
+    "name": "Shek Dueler",
     "stringId": "11675-Dialogue (10).mod",
     "type": "Character",
     "values": {
@@ -18196,6 +18347,7 @@
     }
   },
   "46016-Dialogue.mod": {
+    "name": "Immortal King",
     "stringId": "46016-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -18300,6 +18452,7 @@
     }
   },
   "41348-Dialogue.mod": {
+    "name": "Sword for hire 15 swordslinger",
     "stringId": "41348-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -18499,6 +18652,7 @@
     }
   },
   "45488-Dialogue.mod": {
+    "name": "Ugly Bar Thug",
     "stringId": "45488-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -18648,6 +18802,7 @@
     }
   },
   "9096-Dialogue.mod": {
+    "name": "Student",
     "stringId": "9096-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -18785,6 +18940,7 @@
     }
   },
   "1534017-Dialogue.mod": {
+    "name": "Skeleton Patron",
     "stringId": "1534017-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -18848,6 +19004,7 @@
     }
   },
   "49311-Dialogue.mod": {
+    "name": "Swamper Non-Gang",
     "stringId": "49311-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -19059,6 +19216,7 @@
     }
   },
   "49275-Dialogue.mod": {
+    "name": "Swamper Bar Thug",
     "stringId": "49275-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -19264,6 +19422,7 @@
     }
   },
   "45493-Dialogue.mod": {
+    "name": "Cat",
     "stringId": "45493-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -19375,6 +19534,7 @@
     }
   },
   "5339-Dialogue.mod": {
+    "name": "Ani",
     "stringId": "5339-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -19616,6 +19776,7 @@
     }
   },
   "20082-Dialogue.mod": {
+    "name": "CHARACTER",
     "stringId": "20082-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -19657,6 +19818,7 @@
     "references": {}
   },
   "12702-Dialogue (11) (2).mod": {
+    "name": "Hire me empire 10",
     "stringId": "12702-Dialogue (11) (2).mod",
     "type": "Character",
     "values": {
@@ -19867,6 +20029,7 @@
     }
   },
   "48667-Dialogue.mod": {
+    "name": "Skeleton recruit 2500 swamp 1",
     "stringId": "48667-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -19972,6 +20135,7 @@
     }
   },
   "50279-Dialogue.mod": {
+    "name": "Reva",
     "stringId": "50279-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20102,6 +20266,7 @@
     }
   },
   "48668-Dialogue.mod": {
+    "name": "Skeleton recruit 2500 swamp 2",
     "stringId": "48668-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20207,6 +20372,7 @@
     }
   },
   "43176-Dialogue.mod": {
+    "name": "Bayan",
     "stringId": "43176-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20287,6 +20453,7 @@
     }
   },
   "17086-Dialogue.mod": {
+    "name": "Holy Priest",
     "stringId": "17086-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20407,6 +20574,7 @@
     }
   },
   "5337-Dialogue.mod": {
+    "name": "CHARACTER5337",
     "stringId": "5337-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20448,6 +20616,7 @@
     "references": {}
   },
   "16841-Dialogue.mod": {
+    "name": "Fark Guard",
     "stringId": "16841-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20565,6 +20734,7 @@
     }
   },
   "10777-Dialogue (10).mod": {
+    "name": "Empire Bounty Hunter",
     "stringId": "10777-Dialogue (10).mod",
     "type": "Character",
     "values": {
@@ -20682,6 +20852,7 @@
     }
   },
   "43620-Dialogue.mod": {
+    "name": "Empire noble guard---",
     "stringId": "43620-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -20794,6 +20965,7 @@
     }
   },
   "47648-Dialogue.mod": {
+    "name": "Mongrel outlaw fog warning",
     "stringId": "47648-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21063,6 +21235,7 @@
     }
   },
   "50280-Dialogue.mod": {
+    "name": "Pia",
     "stringId": "50280-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21193,6 +21366,7 @@
     }
   },
   "48718-Dialogue.mod": {
+    "name": "Big Gray",
     "stringId": "48718-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21285,6 +21459,7 @@
     }
   },
   "47630-Dialogue.mod": {
+    "name": "Skeleton recruit 700",
     "stringId": "47630-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21383,6 +21558,7 @@
     }
   },
   "47755-Dialogue.mod": {
+    "name": "Skull collector",
     "stringId": "47755-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21451,6 +21627,7 @@
     }
   },
   "15258-Dialogue.mod": {
+    "name": "Sword for hire 10 outlaw bounty",
     "stringId": "15258-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21633,6 +21810,7 @@
     }
   },
   "15256-Dialogue.mod": {
+    "name": "Sword for hire outlaw 800",
     "stringId": "15256-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21827,6 +22005,7 @@
     }
   },
   "48740-Dialogue.mod": {
+    "name": "Big Fang",
     "stringId": "48740-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -21924,6 +22103,7 @@
     }
   },
   "48739-Dialogue.mod": {
+    "name": "Big Darkbrow",
     "stringId": "48739-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -22006,6 +22186,7 @@
     }
   },
   "55933-Dialogue.mod": {
+    "name": "hire farmer hive",
     "stringId": "55933-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -22171,6 +22352,7 @@
     }
   },
   "45492-Dialogue.mod": {
+    "name": "Bar Thug",
     "stringId": "45492-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -22410,6 +22592,7 @@
     }
   },
   "19643-Dialogue.mod": {
+    "name": "Griffin",
     "stringId": "19643-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -22611,6 +22794,7 @@
     }
   },
   "16238-Dialogue.mod": {
+    "name": "Outlaw",
     "stringId": "16238-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -22863,6 +23047,7 @@
     }
   },
   "20018-Dialogue.mod": {
+    "name": "Silvershade",
     "stringId": "20018-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23009,6 +23194,7 @@
     }
   },
   "18400-Dialogue.mod": {
+    "name": "Bounty Hunter Shek",
     "stringId": "18400-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23216,6 +23402,7 @@
     }
   },
   "50265-Dialogue.mod": {
+    "name": "Knife",
     "stringId": "50265-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23351,6 +23538,7 @@
     }
   },
   "43349-Dialogue.mod": {
+    "name": "Holy Citizen",
     "stringId": "43349-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23482,6 +23670,7 @@
     }
   },
   "43356-Dialogue.mod": {
+    "name": "Holy Barman",
     "stringId": "43356-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23583,6 +23772,7 @@
     }
   },
   "50919-Dialogue.mod": {
+    "name": "Finch",
     "stringId": "50919-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23687,6 +23877,7 @@
     }
   },
   "47234-Dialogue.mod": {
+    "name": "Caravan trader boss hiver",
     "stringId": "47234-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23876,6 +24067,7 @@
     }
   },
   "17226-Dialogue.mod": {
+    "name": "Picky",
     "stringId": "17226-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -23961,6 +24153,7 @@
     }
   },
   "15252-Dialogue.mod": {
+    "name": "CHARACTER",
     "stringId": "15252-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -24002,6 +24195,7 @@
     "references": {}
   },
   "45491-Dialogue.mod": {
+    "name": "Bar Thug Drunk",
     "stringId": "45491-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -24203,6 +24397,7 @@
     }
   },
   "48709-Dialogue.mod": {
+    "name": "Grayflayer",
     "stringId": "48709-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -24327,6 +24522,7 @@
     }
   },
   "50565-Dialogue.mod": {
+    "name": "Sword for hire 10 tech hunter",
     "stringId": "50565-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -24563,6 +24759,7 @@
     }
   },
   "43484-Dialogue.mod": {
+    "name": "Holy Nation robot",
     "stringId": "43484-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -24748,6 +24945,7 @@
     }
   },
   "19612-Dialogue.mod": {
+    "name": "Hire me 700 Shek",
     "stringId": "19612-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -24932,6 +25130,7 @@
     }
   },
   "19498-Dialogue.mod": {
+    "name": "Kang",
     "stringId": "19498-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25054,6 +25253,7 @@
     }
   },
   "42237-Dialogue.mod": {
+    "name": "Sword for hire 15 -(holy nation)",
     "stringId": "42237-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25260,6 +25460,7 @@
     }
   },
   "50371-Dialogue.mod": {
+    "name": "Digna",
     "stringId": "50371-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25383,6 +25584,7 @@
     }
   },
   "9328-Dialogue.mod": {
+    "name": "Drifter-cannibal escapee",
     "stringId": "9328-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25432,6 +25634,7 @@
     }
   },
   "49182-Dialogue.mod": {
+    "name": "Miu",
     "stringId": "49182-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25549,6 +25752,7 @@
     }
   },
   "43570-Dialogue.mod": {
+    "name": "Test player",
     "stringId": "43570-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25590,6 +25794,7 @@
     "references": {}
   },
   "18474-Dialogue.mod": {
+    "name": "Bounty Hunter Low",
     "stringId": "18474-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -25813,6 +26018,7 @@
     }
   },
   "10520-Dialogue (10).mod": {
+    "name": "Hamut",
     "stringId": "10520-Dialogue (10).mod",
     "type": "Character",
     "values": {
@@ -26038,6 +26244,7 @@
     }
   },
   "10508-Dialogue (7).mod": {
+    "name": "Riddly",
     "stringId": "10508-Dialogue (7).mod",
     "type": "Character",
     "values": {
@@ -26276,6 +26483,7 @@
     }
   },
   "41297-Dialogue.mod": {
+    "name": "Sword for hire amateur",
     "stringId": "41297-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -26470,6 +26678,7 @@
     }
   },
   "19638-Dialogue.mod": {
+    "name": "hire medic shek",
     "stringId": "19638-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -26612,6 +26821,7 @@
     }
   },
   "43354-Dialogue.mod": {
+    "name": "Boot trader holy",
     "stringId": "43354-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -26728,6 +26938,7 @@
     }
   },
   "55932-Dialogue.mod": {
+    "name": "Sword for hire 15 hiver",
     "stringId": "55932-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -26932,6 +27143,7 @@
     }
   },
   "19507-Dialogue.mod": {
+    "name": "Sword for hire 10 Shek Kingdom",
     "stringId": "19507-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -27108,6 +27320,7 @@
     }
   },
   "10526-Dialogue (10).mod": {
+    "name": "Bar bounty hunter",
     "stringId": "10526-Dialogue (10).mod",
     "type": "Character",
     "values": {
@@ -27288,6 +27501,7 @@
     }
   },
   "13243-Escapes.mod": {
+    "name": "Hire me Empire 1",
     "stringId": "13243-Escapes.mod",
     "type": "Character",
     "values": {
@@ -27473,6 +27687,7 @@
     }
   },
   "43399-Dialogue.mod": {
+    "name": "Clothing trader holy",
     "stringId": "43399-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -27594,6 +27809,7 @@
     }
   },
   "8907-Dialogue.mod": {
+    "name": "Slave escapee Holy Nation",
     "stringId": "8907-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -27678,6 +27894,7 @@
     }
   },
   "48738-Dialogue.mod": {
+    "name": "Big Al",
     "stringId": "48738-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -27770,6 +27987,7 @@
     }
   },
   "19503-Dialogue.mod": {
+    "name": "Rane The Giant",
     "stringId": "19503-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -27904,6 +28122,7 @@
     }
   },
   "16370-Dialogue.mod": {
+    "name": "Shek scout",
     "stringId": "16370-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -28019,6 +28238,7 @@
     }
   },
   "10521-Dialogue (10).mod": {
+    "name": "Territorial Thug",
     "stringId": "10521-Dialogue (10).mod",
     "type": "Character",
     "values": {
@@ -28158,6 +28378,7 @@
     }
   },
   "41299-Dialogue.mod": {
+    "name": "Sword for hire ex-slave",
     "stringId": "41299-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -28352,6 +28573,7 @@
     }
   },
   "58089-Dialogue.mod": {
+    "name": "Sword for hire 2",
     "stringId": "58089-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -28564,6 +28786,7 @@
     }
   },
   "19724-Dialogue.mod": {
+    "name": "hire engineer shek",
     "stringId": "19724-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -28694,6 +28917,7 @@
     }
   },
   "43401-Dialogue.mod": {
+    "name": "Trade goods adv holy",
     "stringId": "43401-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -28804,6 +29028,7 @@
     }
   },
   "8933-Dialogue.mod": {
+    "name": "Hobbs",
     "stringId": "8933-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -28936,6 +29161,7 @@
     }
   },
   "50886-Dialogue.mod": {
+    "name": "Worlds end bar patron shek",
     "stringId": "50886-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -29268,6 +29494,7 @@
     }
   },
   "49313-Dialogue.mod": {
+    "name": "Skeleton Civilian",
     "stringId": "49313-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -29355,6 +29582,7 @@
     }
   },
   "43618-Dialogue.mod": {
+    "name": "Empire Noble",
     "stringId": "43618-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -29405,6 +29633,7 @@
     }
   },
   "42239-Dialogue.mod": {
+    "name": "hire engineer holy nation",
     "stringId": "42239-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -29545,6 +29774,7 @@
     }
   },
   "48710-Dialogue.mod": {
+    "name": "Stone Rat",
     "stringId": "48710-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -29694,6 +29924,7 @@
     }
   },
   "13748-Escapes.mod": {
+    "name": "Town thug",
     "stringId": "13748-Escapes.mod",
     "type": "Character",
     "values": {
@@ -29835,6 +30066,7 @@
     }
   },
   "19576-Dialogue.mod": {
+    "name": "Ruka",
     "stringId": "19576-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -29969,6 +30201,7 @@
     }
   },
   "46229-Dialogue.mod": {
+    "name": "imprisoned skeleton recruit",
     "stringId": "46229-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30046,6 +30279,7 @@
     }
   },
   "48720-Dialogue.mod": {
+    "name": "Skeleton Grayflayer",
     "stringId": "48720-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30148,6 +30382,7 @@
     }
   },
   "43348-Dialogue.mod": {
+    "name": "CHARACTER",
     "stringId": "43348-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30189,6 +30424,7 @@
     "references": {}
   },
   "45489-Dialogue.mod": {
+    "name": "Twitchy Bar Thug",
     "stringId": "45489-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30395,6 +30631,7 @@
     }
   },
   "8304-Dialogue.mod": {
+    "name": "CHARACTER8304",
     "stringId": "8304-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30436,6 +30673,7 @@
     "references": {}
   },
   "8302-Dialogue.mod": {
+    "name": "Red",
     "stringId": "8302-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30566,6 +30804,7 @@
     }
   },
   "45487-Dialogue.mod": {
+    "name": "Bar Thug",
     "stringId": "45487-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30805,6 +31044,7 @@
     }
   },
   "50954-Dialogue.mod": {
+    "name": "Iyo",
     "stringId": "50954-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -30894,6 +31134,7 @@
     }
   },
   "15257-Dialogue.mod": {
+    "name": "Sword for hire Outlaw 700",
     "stringId": "15257-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -31081,6 +31322,7 @@
     }
   },
   "45490-Dialogue.mod": {
+    "name": "Drunken Bar Thug",
     "stringId": "45490-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -31300,6 +31542,7 @@
     }
   },
   "50503-Dialogue.mod": {
+    "name": "Barman",
     "stringId": "50503-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -31387,6 +31630,7 @@
     }
   },
   "48669-Dialogue.mod": {
+    "name": "Hound",
     "stringId": "48669-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -31508,6 +31752,7 @@
     }
   },
   "56870-Dialogue.mod": {
+    "name": "Blue Eyes",
     "stringId": "56870-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -31641,6 +31886,7 @@
     }
   },
   "47366-Dialogue.mod": {
+    "name": "Mongrel crazy",
     "stringId": "47366-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -31875,6 +32121,7 @@
     }
   },
   "11623-Dialogue (10).mod": {
+    "name": "Hundred Guardian",
     "stringId": "11623-Dialogue (10).mod",
     "type": "Character",
     "values": {
@@ -32005,6 +32252,7 @@
     }
   },
   "42238-Dialogue.mod": {
+    "name": "hire medic holy nation",
     "stringId": "42238-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32157,6 +32405,7 @@
     }
   },
   "7994-D-Dialogue.mod": {
+    "name": "Bo",
     "stringId": "7994-D-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32304,6 +32553,7 @@
     }
   },
   "50496-Dialogue.mod": {
+    "name": "Green Finger",
     "stringId": "50496-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32432,6 +32682,7 @@
     }
   },
   "16912-Dialogue.mod": {
+    "name": "Test",
     "stringId": "16912-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32522,6 +32773,7 @@
     }
   },
   "14861-Dialogue.mod": {
+    "name": "CHARACTER",
     "stringId": "14861-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32563,6 +32815,7 @@
     "references": {}
   },
   "48711-Dialogue.mod": {
+    "name": "Blackshifter",
     "stringId": "48711-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32655,6 +32908,7 @@
     }
   },
   "41325-Dialogue.mod": {
+    "name": "Bard",
     "stringId": "41325-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32842,6 +33096,7 @@
     }
   },
   "19539-Dialogue.mod": {
+    "name": "Oron",
     "stringId": "19539-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -32971,6 +33226,7 @@
     }
   },
   "8233-Dialogue.mod": {
+    "name": "Ells",
     "stringId": "8233-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33084,6 +33340,7 @@
     }
   },
   "48708-Dialogue.mod": {
+    "name": "Skeleton Outlaw",
     "stringId": "48708-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33147,6 +33404,7 @@
     }
   },
   "15255-Dialogue.mod": {
+    "name": "hire medic outlaw",
     "stringId": "15255-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33299,6 +33557,7 @@
     }
   },
   "41370-Dialogue.mod": {
+    "name": "hire engineer wall man",
     "stringId": "41370-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33439,6 +33698,7 @@
     }
   },
   "43357-Dialogue.mod": {
+    "name": "Shop Guard holy",
     "stringId": "43357-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33571,6 +33831,7 @@
     }
   },
   "50449-Dialogue.mod": {
+    "name": "Horse",
     "stringId": "50449-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33711,6 +33972,7 @@
     }
   },
   "41298-Dialogue.mod": {
+    "name": "Sword for hire revenge",
     "stringId": "41298-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -33905,6 +34167,7 @@
     }
   },
   "50314-Dialogue.mod": {
+    "name": "Flotsam Recruit",
     "stringId": "50314-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -34067,6 +34330,7 @@
     }
   },
   "49317-Dialogue.mod": {
+    "name": "Swamper Casino Dealer ",
     "stringId": "49317-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -34163,6 +34427,7 @@
     }
   },
   "19939-Dialogue.mod": {
+    "name": "Izumi",
     "stringId": "19939-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -34305,6 +34570,7 @@
     }
   },
   "47629-Dialogue.mod": {
+    "name": "Skeleton recruit 2500",
     "stringId": "47629-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -34410,6 +34676,7 @@
     }
   },
   "15253-Dialogue.mod": {
+    "name": "Stubs Momuso",
     "stringId": "15253-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -34601,6 +34868,7 @@
     }
   },
   "50466-Dialogue.mod": {
+    "name": "Bar Fisherman",
     "stringId": "50466-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -34792,6 +35060,7 @@
     }
   },
   "19642-Dialogue.mod": {
+    "name": "Hire me holy nation female adventurer",
     "stringId": "19642-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35008,6 +35277,7 @@
     }
   },
   "48715-Dialogue.mod": {
+    "name": "Twinblade",
     "stringId": "48715-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35134,6 +35404,7 @@
     }
   },
   "41180-Dialogue.mod": {
+    "name": "Sword for hire 10 -(holy nation)",
     "stringId": "41180-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35335,6 +35606,7 @@
     }
   },
   "48797-Dialogue.mod": {
+    "name": "Hound Skeleton",
     "stringId": "48797-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35422,6 +35694,7 @@
     }
   },
   "43074-Dialogue.mod": {
+    "name": "Shek Retainer",
     "stringId": "43074-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35553,6 +35826,7 @@
     }
   },
   "19904-Dialogue.mod": {
+    "name": "Doctor Chung",
     "stringId": "19904-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35685,6 +35959,7 @@
     }
   },
   "43159-Dialogue.mod": {
+    "name": "Esata the Stone Golem",
     "stringId": "43159-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35784,6 +36059,7 @@
     }
   },
   "41237-Dialogue.mod": {
+    "name": "Sword for hire 10 (Empire)",
     "stringId": "41237-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -35976,6 +36252,7 @@
     }
   },
   "17225-Dialogue.mod": {
+    "name": "Holy Lord Phoenix",
     "stringId": "17225-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -36116,6 +36393,7 @@
     }
   },
   "44420-Dialogue.mod": {
+    "name": "Jewel",
     "stringId": "44420-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -36258,6 +36536,7 @@
     }
   },
   "50963-Dialogue.mod": {
+    "name": "Mani",
     "stringId": "50963-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -36371,6 +36650,7 @@
     }
   },
   "41198-Dialogue.mod": {
+    "name": "Sword for hire 10 (swamper)",
     "stringId": "41198-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -36570,6 +36850,7 @@
     }
   },
   "19640-Dialogue.mod": {
+    "name": "Sword for hire Holy Nation female",
     "stringId": "19640-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -36769,6 +37050,7 @@
     }
   },
   "50564-Dialogue.mod": {
+    "name": "Sword for hire tech hunter",
     "stringId": "50564-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -36983,6 +37265,7 @@
     }
   },
   "50885-Dialogue.mod": {
+    "name": "Worlds end bar patron",
     "stringId": "50885-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -37303,6 +37586,7 @@
     }
   },
   "48447-Dialogue.mod": {
+    "name": "Big Grim",
     "stringId": "48447-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -37400,6 +37684,7 @@
     }
   },
   "50888-Dialogue.mod": {
+    "name": "Worlds end bar patron arrogant",
     "stringId": "50888-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -37747,6 +38032,7 @@
     }
   },
   "43398-Dialogue.mod": {
+    "name": "Item trader adv holy",
     "stringId": "43398-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -37860,6 +38146,7 @@
     }
   },
   "51615-Dialogue.mod": {
+    "name": "Shek Barman Admag",
     "stringId": "51615-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38010,6 +38297,7 @@
     }
   },
   "51619-Dialogue.mod": {
+    "name": "Shek Barman Last Stand",
     "stringId": "51619-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38155,6 +38443,7 @@
     }
   },
   "51620-Dialogue.mod": {
+    "name": "Shek Warrior Last stand bar 1",
     "stringId": "51620-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38270,6 +38559,7 @@
     }
   },
   "51621-Dialogue.mod": {
+    "name": "Shek Warrior Last stand bar 2",
     "stringId": "51621-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38385,6 +38675,7 @@
     }
   },
   "51625-Dialogue.mod": {
+    "name": "Shek Warrior Last stand bar 3",
     "stringId": "51625-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38500,6 +38791,7 @@
     }
   },
   "51648-Dialogue.mod": {
+    "name": "Empire Peasant",
     "stringId": "51648-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38627,6 +38919,7 @@
     }
   },
   "51649-Dialogue.mod": {
+    "name": "Lady Tsugi",
     "stringId": "51649-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38753,6 +39046,7 @@
     }
   },
   "51676-Dialogue.mod": {
+    "name": "Sand Ninja Oni",
     "stringId": "51676-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -38881,6 +39175,7 @@
     }
   },
   "51708-Dialogue.mod": {
+    "name": "Lady Kana",
     "stringId": "51708-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39016,6 +39311,7 @@
     }
   },
   "51709-Dialogue.mod": {
+    "name": "Lord Ohta",
     "stringId": "51709-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39137,6 +39433,7 @@
     }
   },
   "51710-Dialogue.mod": {
+    "name": "Lady Sanda",
     "stringId": "51710-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39253,6 +39550,7 @@
     }
   },
   "51711-Dialogue.mod": {
+    "name": "Lord Yoshinaga",
     "stringId": "51711-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39369,6 +39667,7 @@
     }
   },
   "51712-Dialogue.mod": {
+    "name": "Lord Inaba",
     "stringId": "51712-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39485,6 +39784,7 @@
     }
   },
   "51713-Dialogue.mod": {
+    "name": "Lord Nagata",
     "stringId": "51713-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39606,6 +39906,7 @@
     }
   },
   "51743-Dialogue.mod": {
+    "name": "Empire noble guard hooded",
     "stringId": "51743-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39723,6 +40024,7 @@
     }
   },
   "51751-Dialogue.mod": {
+    "name": "Emperor Tengu",
     "stringId": "51751-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39839,6 +40141,7 @@
     }
   },
   "51798-Dialogue.mod": {
+    "name": "Bar fly",
     "stringId": "51798-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -39973,6 +40276,7 @@
     }
   },
   "51800-Dialogue.mod": {
+    "name": "Ray",
     "stringId": "51800-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40055,6 +40359,7 @@
     }
   },
   "51837-Dialogue.mod": {
+    "name": "CHARACTER",
     "stringId": "51837-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40096,6 +40401,7 @@
     "references": {}
   },
   "52667-Dialogue.mod": {
+    "name": "hirecook outlaw",
     "stringId": "52667-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40263,6 +40569,7 @@
     }
   },
   "52681-Dialogue.mod": {
+    "name": "hire cook",
     "stringId": "52681-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40428,6 +40735,7 @@
     }
   },
   "53242-Dialogue.mod": {
+    "name": "Catun Scrapmaster",
     "stringId": "53242-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40556,6 +40864,7 @@
     }
   },
   "53360-Dialogue.mod": {
+    "name": "Test2",
     "stringId": "53360-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40622,6 +40931,7 @@
     }
   },
   "53389-Dialogue.mod": {
+    "name": "hire farmer",
     "stringId": "53389-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40780,6 +41090,7 @@
     }
   },
   "53482-Dialogue.mod": {
+    "name": "Green",
     "stringId": "53482-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -40897,6 +41208,7 @@
     }
   },
   "53598-Dialogue.mod": {
+    "name": "Headshot",
     "stringId": "53598-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -41044,6 +41356,7 @@
     }
   },
   "53600-Dialogue.mod": {
+    "name": "hire gunner",
     "stringId": "53600-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -41222,6 +41535,7 @@
     }
   },
   "54418-Dialogue.mod": {
+    "name": "Escape slave Empire",
     "stringId": "54418-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -41311,6 +41625,7 @@
     }
   },
   "55056-Dialogue.mod": {
+    "name": "Garret's slave",
     "stringId": "55056-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -41393,6 +41708,7 @@
     }
   },
   "55057-Dialogue.mod": {
+    "name": "Garret",
     "stringId": "55057-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -41511,6 +41827,7 @@
     }
   },
   "55089-Dialogue.mod": {
+    "name": "Slave Hunter Patron",
     "stringId": "55089-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -41819,6 +42136,7 @@
     }
   },
   "55227-Dialogue.mod": {
+    "name": "Tech Hunter Ruins",
     "stringId": "55227-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42119,6 +42437,7 @@
     }
   },
   "55548-Dialogue.mod": {
+    "name": "Skeleton Resident",
     "stringId": "55548-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42213,6 +42532,7 @@
     }
   },
   "55590-Dialogue.mod": {
+    "name": "Sadneil",
     "stringId": "55590-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42283,6 +42603,7 @@
     }
   },
   "55816-Dialogue.mod": {
+    "name": "Skeleton Barman",
     "stringId": "55816-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42360,6 +42681,7 @@
     }
   },
   "55817-Dialogue.mod": {
+    "name": "Quin",
     "stringId": "55817-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42437,6 +42759,7 @@
     }
   },
   "55818-Dialogue.mod": {
+    "name": "Dack",
     "stringId": "55818-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42507,6 +42830,7 @@
     }
   },
   "55919-Dialogue.mod": {
+    "name": "UC Bar patron",
     "stringId": "55919-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42650,6 +42974,7 @@
     }
   },
   "55929-Dialogue.mod": {
+    "name": "Harmothoe",
     "stringId": "55929-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42768,6 +43093,7 @@
     }
   },
   "55934-Dialogue.mod": {
+    "name": "Sword for hire hive",
     "stringId": "55934-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -42960,6 +43286,7 @@
     }
   },
   "55935-Dialogue.mod": {
+    "name": "hire gunner hive",
     "stringId": "55935-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43145,6 +43472,7 @@
     }
   },
   "56041-Dialogue.mod": {
+    "name": "Goat Man",
     "stringId": "56041-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43290,6 +43618,7 @@
     }
   },
   "56281-Dialogue.mod": {
+    "name": "Exile --delete--",
     "stringId": "56281-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43426,6 +43755,7 @@
     }
   },
   "56365-Dialogue.mod": {
+    "name": "Longen",
     "stringId": "56365-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43534,6 +43864,7 @@
     }
   },
   "56576-Dialogue.mod": {
+    "name": "Eyegore",
     "stringId": "56576-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43630,6 +43961,7 @@
     }
   },
   "56594-Dialogue.mod": {
+    "name": "Band of Bones",
     "stringId": "56594-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43785,6 +44117,7 @@
     }
   },
   "56640-Dialogue.mod": {
+    "name": "Black Dog Bodyguard",
     "stringId": "56640-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -43925,6 +44258,7 @@
     }
   },
   "56727-Dialogue.mod": {
+    "name": "Flying Bull",
     "stringId": "56727-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44050,6 +44384,7 @@
     }
   },
   "56730-Dialogue.mod": {
+    "name": "Ghost",
     "stringId": "56730-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44153,6 +44488,7 @@
     }
   },
   "56731-Dialogue.mod": {
+    "name": "White Eyebrow",
     "stringId": "56731-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44264,6 +44600,7 @@
     }
   },
   "56734-Dialogue.mod": {
+    "name": "Grey",
     "stringId": "56734-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44406,6 +44743,7 @@
     }
   },
   "56823-Dialogue.mod": {
+    "name": "Farmer",
     "stringId": "56823-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44538,6 +44876,7 @@
     }
   },
   "56824-Dialogue.mod": {
+    "name": "The Preacher",
     "stringId": "56824-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44644,6 +44983,7 @@
     }
   },
   "56825-Dialogue.mod": {
+    "name": "Canyonlands Killer",
     "stringId": "56825-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44874,6 +45214,7 @@
     }
   },
   "56887-Dialogue.mod": {
+    "name": "Buzan",
     "stringId": "56887-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -44989,6 +45330,7 @@
     }
   },
   "56888-Dialogue.mod": {
+    "name": "Dimak",
     "stringId": "56888-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45102,6 +45444,7 @@
     }
   },
   "56889-Dialogue.mod": {
+    "name": "Red Sabre Boss",
     "stringId": "56889-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45229,6 +45572,7 @@
     }
   },
   "56890-Dialogue.mod": {
+    "name": "Jaegar",
     "stringId": "56890-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45376,6 +45720,7 @@
     }
   },
   "56892-Dialogue.mod": {
+    "name": "Razor",
     "stringId": "56892-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45486,6 +45831,7 @@
     }
   },
   "56925-Dialogue.mod": {
+    "name": "Shryke",
     "stringId": "56925-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45631,6 +45977,7 @@
     }
   },
   "58879-Dialogue.mod": {
+    "name": "Koin",
     "stringId": "58879-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45723,6 +46070,7 @@
     }
   },
   "57412-Dialogue.mod": {
+    "name": "Seto",
     "stringId": "57412-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45845,6 +46193,7 @@
     }
   },
   "58277-Dialogue.mod": {
+    "name": "Holy Pacifier",
     "stringId": "58277-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -45976,6 +46325,7 @@
     }
   },
   "58278-Dialogue.mod": {
+    "name": "UC Pacifier",
     "stringId": "58278-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46126,6 +46476,7 @@
     }
   },
   "58279-Dialogue.mod": {
+    "name": "Traders Guild Pacifier",
     "stringId": "58279-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46266,6 +46617,7 @@
     }
   },
   "58280-Dialogue.mod": {
+    "name": "Shek Pacifier",
     "stringId": "58280-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46399,6 +46751,7 @@
     }
   },
   "58287-Dialogue.mod": {
+    "name": "Pacifier",
     "stringId": "58287-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46543,6 +46896,7 @@
     }
   },
   "58417-Dialogue.mod": {
+    "name": "Suspicious Settler",
     "stringId": "58417-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46652,6 +47006,7 @@
     }
   },
   "58989-Dialogue.mod": {
+    "name": "CHARACTER",
     "stringId": "58989-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46693,6 +47048,7 @@
     "references": {}
   },
   "58990-Dialogue.mod": {
+    "name": "Ears",
     "stringId": "58990-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46809,6 +47165,7 @@
     }
   },
   "59030-Dialogue.mod": {
+    "name": "Tinfist",
     "stringId": "59030-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46910,6 +47267,7 @@
     }
   },
   "59137-Dialogue.mod": {
+    "name": "Yamdu",
     "stringId": "59137-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -46999,6 +47357,7 @@
     }
   },
   "59164-Dialogue.mod": {
+    "name": "High Inquisitor Seta",
     "stringId": "59164-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47149,6 +47508,7 @@
     }
   },
   "59165-Dialogue.mod": {
+    "name": "High Inquisitor Valtena",
     "stringId": "59165-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47299,6 +47659,7 @@
     }
   },
   "61005-Dialogue.mod": {
+    "name": "Elite Hunter",
     "stringId": "61005-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47411,6 +47772,7 @@
     }
   },
   "97602-Dialogue.mod": {
+    "name": "TG Diplomat",
     "stringId": "97602-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47545,6 +47907,7 @@
     }
   },
   "62403-Dialogue.mod": {
+    "name": "Luquin",
     "stringId": "62403-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47629,6 +47992,7 @@
     }
   },
   "62552-Dialogue.mod": {
+    "name": "Lost drone",
     "stringId": "62552-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47720,6 +48084,7 @@
     }
   },
   "62657-Dialogue.mod": {
+    "name": "Traveller",
     "stringId": "62657-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -47877,6 +48242,7 @@
     }
   },
   "62981-Dialogue.mod": {
+    "name": "Savant",
     "stringId": "62981-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48002,6 +48368,7 @@
     }
   },
   "63064-Dialogue.mod": {
+    "name": "The Elder",
     "stringId": "63064-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48066,6 +48433,7 @@
     }
   },
   "63278-Dialogue.mod": {
+    "name": "Test2 copy",
     "stringId": "63278-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48146,6 +48514,7 @@
     }
   },
   "63368-Dialogue.mod": {
+    "name": "Screamy",
     "stringId": "63368-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48195,6 +48564,7 @@
     }
   },
   "63371-Dialogue.mod": {
+    "name": "Yabuta of the Sands",
     "stringId": "63371-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48292,6 +48662,7 @@
     }
   },
   "63376-Dialogue.mod": {
+    "name": "Psycho",
     "stringId": "63376-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48389,6 +48760,7 @@
     }
   },
   "63388-Dialogue.mod": {
+    "name": "Espher",
     "stringId": "63388-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48498,6 +48870,7 @@
     }
   },
   "63396-Dialogue.mod": {
+    "name": "Hex",
     "stringId": "63396-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48605,6 +48978,7 @@
     }
   },
   "63407-Dialogue.mod": {
+    "name": "Sinklyde",
     "stringId": "63407-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48714,6 +49088,7 @@
     }
   },
   "63884-Dialogue.mod": {
+    "name": "Shade",
     "stringId": "63884-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48827,6 +49202,7 @@
     }
   },
   "64622-Dialogue.mod": {
+    "name": "Protector Of The Flame",
     "stringId": "64622-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -48972,6 +49348,7 @@
     }
   },
   "65004-Dialogue.mod": {
+    "name": "Boss Simion",
     "stringId": "65004-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49102,6 +49479,7 @@
     }
   },
   "65061-Dialogue.mod": {
+    "name": "Slave Trade Pacifier",
     "stringId": "65061-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49258,6 +49636,7 @@
     }
   },
   "65861-Dialogue.mod": {
+    "name": "Cannibal Hunter Robun",
     "stringId": "65861-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49414,6 +49793,7 @@
     }
   },
   "65937-Dialogue.mod": {
+    "name": "Lumi",
     "stringId": "65937-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49618,6 +49998,7 @@
     }
   },
   "65952-Dialogue.mod": {
+    "name": "Crab Man",
     "stringId": "65952-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49727,6 +50108,7 @@
     }
   },
   "95866-Dialogue.mod": {
+    "name": "Ronin Robotics Trader",
     "stringId": "95866-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49800,6 +50182,7 @@
     }
   },
   "96333-Dialogue.mod": {
+    "name": "Royal Soldier Drone",
     "stringId": "96333-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49891,6 +50274,7 @@
     }
   },
   "96351-Dialogue.mod": {
+    "name": "The Queen",
     "stringId": "96351-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -49947,6 +50331,7 @@
     }
   },
   "96407-Dialogue.mod": {
+    "name": "King Gurgler",
     "stringId": "96407-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -50029,6 +50414,7 @@
     }
   },
   "97077-Dialogue.mod": {
+    "name": "Moon Guardian",
     "stringId": "97077-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -50176,6 +50562,7 @@
     }
   },
   "98164-Dialogue.mod": {
+    "name": "Tora The Fearless",
     "stringId": "98164-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -50338,6 +50725,7 @@
     }
   },
   "1534472-Dialogue.mod": {
+    "name": "Yayoi",
     "stringId": "1534472-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -50446,6 +50834,7 @@
     }
   },
   "20083-Dialogue.mod": {
+    "name": "test1",
     "stringId": "20083-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -50495,6 +50884,7 @@
     }
   },
   "53361-Dialogue.mod": {
+    "name": "Test3",
     "stringId": "53361-Dialogue.mod",
     "type": "Character",
     "values": {
@@ -50544,6 +50934,7 @@
     }
   },
   "18012-rebirth.mod": {
+    "name": "White Eyebrow Grunt",
     "stringId": "18012-rebirth.mod",
     "type": "Character",
     "values": {
@@ -50629,6 +51020,7 @@
     }
   },
   "49768-rebirth.mod": {
+    "name": "Flotsam Jonin",
     "stringId": "49768-rebirth.mod",
     "type": "Character",
     "values": {
@@ -50742,6 +51134,7 @@
     }
   },
   "42063-rebirth.mod": {
+    "name": "Skeleton Drifter",
     "stringId": "42063-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51037,6 +51430,7 @@
     }
   },
   "18882-rebirth.mod": {
+    "name": "Inquisitor",
     "stringId": "18882-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51149,6 +51543,7 @@
     }
   },
   "40558-rebirth.mod": {
+    "name": "Holy Citizen",
     "stringId": "40558-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51254,6 +51649,7 @@
     }
   },
   "42200-rebirth.mod": {
+    "name": "Hive Prince",
     "stringId": "42200-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51317,6 +51713,7 @@
     }
   },
   "43904-rebirth.mod": {
+    "name": "High Servant",
     "stringId": "43904-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51407,6 +51804,7 @@
     }
   },
   "46995-rebirth.mod": {
+    "name": "Human Mercenary",
     "stringId": "46995-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51541,6 +51939,7 @@
     }
   },
   "50388-rebirth.mod": {
+    "name": "tech hunter shopkeeper",
     "stringId": "50388-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51818,6 +52217,7 @@
     }
   },
   "42090-rebirth.mod": {
+    "name": "Broken Skeleton",
     "stringId": "42090-rebirth.mod",
     "type": "Character",
     "values": {
@@ -51898,6 +52298,7 @@
     }
   },
   "49578-arg.mod": {
+    "name": "Flotsam Refugee",
     "stringId": "49578-arg.mod",
     "type": "Character",
     "values": {
@@ -52001,6 +52402,7 @@
     }
   },
   "43929-rebirth.mod": {
+    "name": "Holy Farmer",
     "stringId": "43929-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52096,6 +52498,7 @@
     }
   },
   "42237-rebirth.mod": {
+    "name": "Shrieking Bandit",
     "stringId": "42237-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52157,6 +52560,7 @@
     }
   },
   "50346-rebirth.mod": {
+    "name": "Deadcat Fisherman",
     "stringId": "50346-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52272,6 +52676,7 @@
     }
   },
   "14468-rebirth.mod": {
+    "name": "Doctor",
     "stringId": "14468-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52369,6 +52774,7 @@
     }
   },
   "43324-rebirth.mod": {
+    "name": "Hive Fence",
     "stringId": "43324-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52446,6 +52852,7 @@
     }
   },
   "43934-rebirth.mod": {
+    "name": "Holy Farm Leader",
     "stringId": "43934-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52536,6 +52943,7 @@
     }
   },
   "44860-rebirth.mod": {
+    "name": "Barman waystation",
     "stringId": "44860-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52685,6 +53093,7 @@
     }
   },
   "50250-rebirth.mod": {
+    "name": "Armour King",
     "stringId": "50250-rebirth.mod",
     "type": "Character",
     "values": {
@@ -52774,6 +53183,7 @@
     }
   },
   "43985-rebirth.mod": {
+    "name": "Wanderer copy",
     "stringId": "43985-rebirth.mod",
     "type": "Character",
     "values": {
@@ -53155,6 +53565,7 @@
     }
   },
   "50387-rebirth.mod": {
+    "name": "Tech Hunter",
     "stringId": "50387-rebirth.mod",
     "type": "Character",
     "values": {
@@ -53453,6 +53864,7 @@
     }
   },
   "50350-rebirth.mod": {
+    "name": "Moll",
     "stringId": "50350-rebirth.mod",
     "type": "Character",
     "values": {
@@ -53561,6 +53973,7 @@
     }
   },
   "42337-rebirth.mod": {
+    "name": "Nomad",
     "stringId": "42337-rebirth.mod",
     "type": "Character",
     "values": {
@@ -53688,6 +54101,7 @@
     }
   },
   "43322-rebirth.mod": {
+    "name": "Hive Trader",
     "stringId": "43322-rebirth.mod",
     "type": "Character",
     "values": {
@@ -53777,6 +54191,7 @@
     }
   },
   "44861-rebirth.mod": {
+    "name": "Ninja Guard",
     "stringId": "44861-rebirth.mod",
     "type": "Character",
     "values": {
@@ -53923,6 +54338,7 @@
     }
   },
   "50518-rebirth.mod": {
+    "name": "Cannibal Chief",
     "stringId": "50518-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54034,6 +54450,7 @@
     }
   },
   "42059-rebirth.mod": {
+    "name": "Shinobi Citizen",
     "stringId": "42059-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54176,6 +54593,7 @@
     }
   },
   "42051-rebirth.mod": {
+    "name": "Shinobi Guard",
     "stringId": "42051-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54310,6 +54728,7 @@
     }
   },
   "18879-rebirth.mod": {
+    "name": "Holy Servant",
     "stringId": "18879-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54393,6 +54812,7 @@
     }
   },
   "42098-rebirth.mod": {
+    "name": "super player",
     "stringId": "42098-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54488,6 +54908,7 @@
     }
   },
   "42020-rebirth.mod": {
+    "name": "Escaped Servant",
     "stringId": "42020-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54592,6 +55013,7 @@
     }
   },
   "42035-rebirth.mod": {
+    "name": "Fog Heavy",
     "stringId": "42035-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54669,6 +55091,7 @@
     }
   },
   "50519-rebirth.mod": {
+    "name": "Cannibal Grand Wizard",
     "stringId": "50519-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54797,6 +55220,7 @@
     }
   },
   "49394-rebirth.mod": {
+    "name": "Rebirth Slave",
     "stringId": "49394-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54865,6 +55289,7 @@
     }
   },
   "40556-rebirth.mod": {
+    "name": "High Overseer",
     "stringId": "40556-rebirth.mod",
     "type": "Character",
     "values": {
@@ -54982,6 +55407,7 @@
     }
   },
   "43394-rebirth.mod": {
+    "name": "Lower Servant",
     "stringId": "43394-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55043,6 +55469,7 @@
     }
   },
   "41587-rebirth.mod": {
+    "name": "Fogman",
     "stringId": "41587-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55120,6 +55547,7 @@
     }
   },
   "18896-rebirth.mod": {
+    "name": "Flotsam Ninja",
     "stringId": "18896-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55226,6 +55654,7 @@
     }
   },
   "50341-rebirth.mod": {
+    "name": "Deadcat Vendor",
     "stringId": "50341-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55321,6 +55750,7 @@
     }
   },
   "43933-rebirth.mod": {
+    "name": "Holy Farmer Wife",
     "stringId": "43933-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55411,6 +55841,7 @@
     }
   },
   "42069-rebirth.mod": {
+    "name": "Arc",
     "stringId": "42069-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55537,6 +55968,7 @@
     }
   },
   "18880-rebirth.mod": {
+    "name": "Holy Sentinel",
     "stringId": "18880-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55644,6 +56076,7 @@
     }
   },
   "42196-rebirth.mod": {
+    "name": "Soldier Drone",
     "stringId": "42196-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55735,6 +56168,7 @@
     }
   },
   "50517-rebirth.mod": {
+    "name": "Scrawny Cannibal",
     "stringId": "50517-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55819,6 +56253,7 @@
     }
   },
   "43976-rebirth.mod": {
+    "name": "Infinite Wingwang",
     "stringId": "43976-rebirth.mod",
     "type": "Character",
     "values": {
@@ -55913,6 +56348,7 @@
     }
   },
   "50389-rebirth.mod": {
+    "name": "Machinist",
     "stringId": "50389-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56011,6 +56447,7 @@
     }
   },
   "50638-rebirth.mod": {
+    "name": "Swamper Barman",
     "stringId": "50638-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56121,6 +56558,7 @@
     }
   },
   "50570-rebirth.mod": {
+    "name": "Burn",
     "stringId": "50570-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56220,6 +56658,7 @@
     }
   },
   "42028-rebirth.mod": {
+    "name": "Fog Prince",
     "stringId": "42028-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56304,6 +56743,7 @@
     }
   },
   "42061-rebirth.mod": {
+    "name": "Ex-Servant",
     "stringId": "42061-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56397,6 +56837,7 @@
     }
   },
   "42259-rebirth.mod": {
+    "name": "Berserker",
     "stringId": "42259-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56491,6 +56932,7 @@
     }
   },
   "42194-rebirth.mod": {
+    "name": "Worker Drone",
     "stringId": "42194-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56573,6 +57015,7 @@
     }
   },
   "46977-rebirth.mod": {
+    "name": "Kumo",
     "stringId": "46977-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56622,6 +57065,7 @@
     }
   },
   "47927-rebirth.mod": {
+    "name": "start- Homeless",
     "stringId": "47927-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56692,6 +57136,7 @@
     }
   },
   "18895-rebirth.mod": {
+    "name": "Tinhead",
     "stringId": "18895-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56779,6 +57224,7 @@
     }
   },
   "50926-rebirth.mod": {
+    "name": "Empire Mercenary",
     "stringId": "50926-rebirth.mod",
     "type": "Character",
     "values": {
@@ -56921,6 +57367,7 @@
     }
   },
   "50967-rebirth.mod": {
+    "name": "Swamper Non-Gang weaker",
     "stringId": "50967-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57118,6 +57565,7 @@
     }
   },
   "51318-rebirth.mod": {
+    "name": "The Five Invincibles",
     "stringId": "51318-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57215,6 +57663,7 @@
     }
   },
   "51333-rebirth.mod": {
+    "name": "Bugmaster",
     "stringId": "51333-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57318,6 +57767,7 @@
     }
   },
   "51335-rebirth.mod": {
+    "name": "Shek Fighter",
     "stringId": "51335-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57426,6 +57876,7 @@
     }
   },
   "51356-rebirth.mod": {
+    "name": "Kral's Chosen",
     "stringId": "51356-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57559,6 +58010,7 @@
     }
   },
   "51412-rebirth.mod": {
+    "name": "Paladin Guardian",
     "stringId": "51412-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57678,6 +58130,7 @@
     }
   },
   "51635-rebirth.mod": {
+    "name": "Swamp Ninja Genin",
     "stringId": "51635-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57777,6 +58230,7 @@
     }
   },
   "51644-rebirth.mod": {
+    "name": "Swamp Ninja Chunin",
     "stringId": "51644-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57869,6 +58323,7 @@
     }
   },
   "51645-rebirth.mod": {
+    "name": "Swamp Ninja Jonin",
     "stringId": "51645-rebirth.mod",
     "type": "Character",
     "values": {
@@ -57956,6 +58411,7 @@
     }
   },
   "51648-rebirth.mod": {
+    "name": "Red Sabre",
     "stringId": "51648-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58065,6 +58521,7 @@
     }
   },
   "51710-rebirth.mod": {
+    "name": "Thief Boss",
     "stringId": "51710-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58167,6 +58624,7 @@
     }
   },
   "51731-rebirth.mod": {
+    "name": "Shinobi Trader",
     "stringId": "51731-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58290,6 +58748,7 @@
     }
   },
   "51750-rebirth.mod": {
+    "name": "Guild Plastic Surgeon",
     "stringId": "51750-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58394,6 +58853,7 @@
     }
   },
   "51760-rebirth.mod": {
+    "name": "Wandering Assassin",
     "stringId": "51760-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58516,6 +58976,7 @@
     }
   },
   "51764-rebirth.mod": {
+    "name": "Fish and Drugs Seller",
     "stringId": "51764-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58606,6 +59067,7 @@
     }
   },
   "51795-rebirth.mod": {
+    "name": "Shinobi Smuggler",
     "stringId": "51795-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58727,6 +59189,7 @@
     }
   },
   "51837-rebirth.mod": {
+    "name": "Swamper Gate Guard",
     "stringId": "51837-rebirth.mod",
     "type": "Character",
     "values": {
@@ -58888,6 +59351,7 @@
     }
   },
   "52324-rebirth.mod": {
+    "name": "Samurai Gate Guard",
     "stringId": "52324-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59017,6 +59481,7 @@
     }
   },
   "52328-rebirth.mod": {
+    "name": "Samurai Gate Sergeant",
     "stringId": "52328-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59121,6 +59586,7 @@
     }
   },
   "52892-rebirth.mod": {
+    "name": "Swamper Mech Shop",
     "stringId": "52892-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59329,6 +59795,7 @@
     }
   },
   "53300-rebirth.mod": {
+    "name": "Flotsam Smith",
     "stringId": "53300-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59454,6 +59921,7 @@
     }
   },
   "54021-rebirth.mod": {
+    "name": "UC Citizen",
     "stringId": "54021-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59597,6 +60065,7 @@
     }
   },
   "54290-rebirth.mod": {
+    "name": "Samurai",
     "stringId": "54290-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59716,6 +60185,7 @@
     }
   },
   "54291-rebirth.mod": {
+    "name": "Samurai Scout",
     "stringId": "54291-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59845,6 +60315,7 @@
     }
   },
   "54292-rebirth.mod": {
+    "name": "Samurai Conscript",
     "stringId": "54292-rebirth.mod",
     "type": "Character",
     "values": {
@@ -59942,6 +60413,7 @@
     }
   },
   "54293-rebirth.mod": {
+    "name": "Samurai Sergeant",
     "stringId": "54293-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60049,6 +60521,7 @@
     }
   },
   "54295-rebirth.mod": {
+    "name": "Escaped Slave",
     "stringId": "54295-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60126,6 +60599,7 @@
     }
   },
   "54296-rebirth.mod": {
+    "name": "Peasant Farmer",
     "stringId": "54296-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60204,6 +60678,7 @@
     }
   },
   "54299-rebirth.mod": {
+    "name": "Outlaw Farmer",
     "stringId": "54299-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60301,6 +60776,7 @@
     }
   },
   "54300-rebirth.mod": {
+    "name": "Outlaw Swordsman",
     "stringId": "54300-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60391,6 +60867,7 @@
     }
   },
   "54307-rebirth.mod": {
+    "name": "trader guild noble boss",
     "stringId": "54307-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60459,6 +60936,7 @@
     }
   },
   "54544-rebirth.mod": {
+    "name": "Slaver Heavy Guard",
     "stringId": "54544-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60583,6 +61061,7 @@
     }
   },
   "54572-rebirth.mod": {
+    "name": "Slaver Boss",
     "stringId": "54572-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60714,6 +61193,7 @@
     }
   },
   "54588-rebirth.mod": {
+    "name": "Manhunter",
     "stringId": "54588-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60806,6 +61286,7 @@
     }
   },
   "54591-rebirth.mod": {
+    "name": "Manhunter Boss",
     "stringId": "54591-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60891,6 +61372,7 @@
     }
   },
   "62191-rebirth.mod": {
+    "name": "Prince",
     "stringId": "62191-rebirth.mod",
     "type": "Character",
     "values": {
@@ -60973,6 +61455,7 @@
     }
   },
   "54593-rebirth.mod": {
+    "name": "Spring Agent",
     "stringId": "54593-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61068,6 +61551,7 @@
     }
   },
   "55103-rebirth.mod": {
+    "name": "Slave Hunter",
     "stringId": "55103-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61155,6 +61639,7 @@
     }
   },
   "55639-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "55639-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61204,6 +61689,7 @@
     }
   },
   "62807-rebirth.mod": {
+    "name": "Elder",
     "stringId": "62807-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61288,6 +61774,7 @@
     }
   },
   "55646-rebirth.mod": {
+    "name": "Broken Model 30",
     "stringId": "55646-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61368,6 +61855,7 @@
     }
   },
   "55677-rebirth.mod": {
+    "name": "Holy Chosen",
     "stringId": "55677-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61446,6 +61934,7 @@
     }
   },
   "56045-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "56045-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61487,6 +61976,7 @@
     "references": {}
   },
   "56046-rebirth.mod": {
+    "name": "Noble Captain",
     "stringId": "56046-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61584,6 +62074,7 @@
     }
   },
   "56116-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "56116-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61625,6 +62116,7 @@
     "references": {}
   },
   "56138-rebirth.mod": {
+    "name": "Baker",
     "stringId": "56138-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61705,6 +62197,7 @@
     }
   },
   "56141-rebirth.mod": {
+    "name": "Traders Guard",
     "stringId": "56141-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61800,6 +62293,7 @@
     }
   },
   "56144-rebirth.mod": {
+    "name": "Peasant",
     "stringId": "56144-rebirth.mod",
     "type": "Character",
     "values": {
@@ -61938,6 +62432,7 @@
     }
   },
   "56157-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "56157-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62015,6 +62510,7 @@
     }
   },
   "56161-rebirth.mod": {
+    "name": "CHARACTER---",
     "stringId": "56161-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62078,6 +62574,7 @@
     }
   },
   "56165-rebirth.mod": {
+    "name": "Smuggler Barman",
     "stringId": "56165-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62187,6 +62684,7 @@
     }
   },
   "56174-rebirth.mod": {
+    "name": "Smuggler",
     "stringId": "56174-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62363,6 +62861,7 @@
     }
   },
   "56175-rebirth.mod": {
+    "name": "Empire Noble",
     "stringId": "56175-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62477,6 +62976,7 @@
     }
   },
   "56179-rebirth.mod": {
+    "name": "Stone Camp Trader",
     "stringId": "56179-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62594,6 +63094,7 @@
     }
   },
   "56186-rebirth.mod": {
+    "name": "bookshop trader",
     "stringId": "56186-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62885,6 +63386,7 @@
     }
   },
   "57390-rebirth.mod": {
+    "name": "Beep",
     "stringId": "57390-rebirth.mod",
     "type": "Character",
     "values": {
@@ -62969,6 +63471,7 @@
     }
   },
   "58700-rebirth.mod": {
+    "name": "worlds end barman",
     "stringId": "58700-rebirth.mod",
     "type": "Character",
     "values": {
@@ -63118,6 +63621,7 @@
     }
   },
   "59429-rebirth.mod": {
+    "name": "Samurai Elite",
     "stringId": "59429-rebirth.mod",
     "type": "Character",
     "values": {
@@ -63230,6 +63734,7 @@
     }
   },
   "59430-rebirth.mod": {
+    "name": "Jonin Elite",
     "stringId": "59430-rebirth.mod",
     "type": "Character",
     "values": {
@@ -63344,6 +63849,7 @@
     }
   },
   "61911-rebirth.mod": {
+    "name": "Sir Testalot",
     "stringId": "61911-rebirth.mod",
     "type": "Character",
     "values": {
@@ -63440,6 +63946,7 @@
     }
   },
   "62176-rebirth.mod": {
+    "name": "Anti-Slaver Jonin",
     "stringId": "62176-rebirth.mod",
     "type": "Character",
     "values": {
@@ -63713,6 +64220,7 @@
     }
   },
   "62177-rebirth.mod": {
+    "name": "Anti-Slaver unarmed",
     "stringId": "62177-rebirth.mod",
     "type": "Character",
     "values": {
@@ -63894,6 +64402,7 @@
     }
   },
   "62180-rebirth.mod": {
+    "name": "Anti-Slaver",
     "stringId": "62180-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64071,6 +64580,7 @@
     }
   },
   "62184-rebirth.mod": {
+    "name": "Mighty Canhead",
     "stringId": "62184-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64199,6 +64709,7 @@
     }
   },
   "62185-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "62185-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64240,6 +64751,7 @@
     "references": {}
   },
   "62188-rebirth.mod": {
+    "name": "Drone",
     "stringId": "62188-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64315,6 +64827,7 @@
     }
   },
   "62190-rebirth.mod": {
+    "name": "Droneguard",
     "stringId": "62190-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64402,6 +64915,7 @@
     }
   },
   "62764-rebirth.mod": {
+    "name": "Elite Droneguard",
     "stringId": "62764-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64496,6 +65010,7 @@
     }
   },
   "62775-rebirth.mod": {
+    "name": "Legion",
     "stringId": "62775-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64576,6 +65091,7 @@
     }
   },
   "62784-rebirth.mod": {
+    "name": "Armoury Droneguard",
     "stringId": "62784-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64683,6 +65199,7 @@
     }
   },
   "62803-rebirth.mod": {
+    "name": "Soldierbot",
     "stringId": "62803-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64751,6 +65268,7 @@
     }
   },
   "62808-rebirth.mod": {
+    "name": "Upgraded Skeleton Guard",
     "stringId": "62808-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64863,6 +65381,7 @@
     }
   },
   "62811-rebirth.mod": {
+    "name": "Skeleton Bandit",
     "stringId": "62811-rebirth.mod",
     "type": "Character",
     "values": {
@@ -64970,6 +65489,7 @@
     }
   },
   "62813-rebirth.mod": {
+    "name": "Broken Skeleton Bandit",
     "stringId": "62813-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65055,6 +65575,7 @@
     }
   },
   "62818-rebirth.mod": {
+    "name": "Caravan Drone",
     "stringId": "62818-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65149,6 +65670,7 @@
     }
   },
   "62826-rebirth.mod": {
+    "name": "Crab Raider",
     "stringId": "62826-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65266,6 +65788,7 @@
     }
   },
   "62827-rebirth.mod": {
+    "name": "Crab Queen",
     "stringId": "62827-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65379,6 +65902,7 @@
     }
   },
   "62832-rebirth.mod": {
+    "name": "Crab Raider Civilian",
     "stringId": "62832-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65483,6 +66007,7 @@
     }
   },
   "64944-october 17.mod": {
+    "name": "Mongrel Bar Patron",
     "stringId": "64944-october 17.mod",
     "type": "Character",
     "values": {
@@ -65747,6 +66272,7 @@
     }
   },
   "62849-rebirth.mod": {
+    "name": "Outlaw Swordsman Captain",
     "stringId": "62849-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65837,6 +66363,7 @@
     }
   },
   "62855-rebirth.mod": {
+    "name": "The Vault Warden",
     "stringId": "62855-rebirth.mod",
     "type": "Character",
     "values": {
@@ -65953,6 +66480,7 @@
     }
   },
   "63454-__Tengu's vault.mod": {
+    "name": "Prisoner",
     "stringId": "63454-__Tengu's vault.mod",
     "type": "Character",
     "values": {
@@ -66065,6 +66593,7 @@
     }
   },
   "63479-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "63479-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66209,6 +66738,7 @@
     }
   },
   "63538-rebirth.mod": {
+    "name": "Nomad Animal Trader",
     "stringId": "63538-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66338,6 +66868,7 @@
     }
   },
   "63752-rebirth.mod": {
+    "name": "Nomad Animal Trader Town",
     "stringId": "63752-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66467,6 +66998,7 @@
     }
   },
   "63887-rebirth.mod": {
+    "name": "Cannibal Hunter Captain",
     "stringId": "63887-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66594,6 +67126,7 @@
     }
   },
   "64489-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "64489-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66635,6 +67168,7 @@
     "references": {}
   },
   "64666-rebirth.mod": {
+    "name": "Skeleton Doctor",
     "stringId": "64666-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66736,6 +67270,7 @@
     }
   },
   "64754-rebirth.mod": {
+    "name": "Outlaw Heavy",
     "stringId": "64754-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66824,6 +67359,7 @@
     }
   },
   "64753-__september20.mod": {
+    "name": "Upgraded Skeleton Bandit",
     "stringId": "64753-__september20.mod",
     "type": "Character",
     "values": {
@@ -66931,6 +67467,7 @@
     }
   },
   "64856-rebirth.mod": {
+    "name": "Spider Foreman",
     "stringId": "64856-rebirth.mod",
     "type": "Character",
     "values": {
@@ -66994,6 +67531,7 @@
     }
   },
   "64876-rebirth.mod": {
+    "name": "Hero Boss",
     "stringId": "64876-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67104,6 +67642,7 @@
     }
   },
   "64911-rebirth.mod": {
+    "name": "Meat Lord",
     "stringId": "64911-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67225,6 +67764,7 @@
     }
   },
   "64922-rebirth.mod": {
+    "name": "|| Error Code 0xFFFFFF ||",
     "stringId": "64922-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67314,6 +67854,7 @@
     }
   },
   "65262-rebirth.mod": {
+    "name": "Reaver Blooded",
     "stringId": "65262-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67428,6 +67969,7 @@
     }
   },
   "65263-rebirth.mod": {
+    "name": "Reaver Whelp",
     "stringId": "65263-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67515,6 +68057,7 @@
     }
   },
   "65265-rebirth.mod": {
+    "name": "Reaver Ironclad",
     "stringId": "65265-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67622,6 +68165,7 @@
     }
   },
   "65827-rebirth.mod": {
+    "name": "Crab Barman",
     "stringId": "65827-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67719,6 +68263,7 @@
     }
   },
   "66293-rebirth.mod": {
+    "name": "Cloud Ninja",
     "stringId": "66293-rebirth.mod",
     "type": "Character",
     "values": {
@@ -67841,6 +68386,7 @@
     }
   },
   "65945-November.mod": {
+    "name": "Crab Patron",
     "stringId": "65945-November.mod",
     "type": "Character",
     "values": {
@@ -67938,6 +68484,7 @@
     }
   },
   "65970-November.mod": {
+    "name": "Crabsmith",
     "stringId": "65970-November.mod",
     "type": "Character",
     "values": {
@@ -68052,6 +68599,7 @@
     }
   },
   "95514-rebirth.mod": {
+    "name": "|| ErrorCode 0x000000 ||",
     "stringId": "95514-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68141,6 +68689,7 @@
     }
   },
   "95541-rebirth.mod": {
+    "name": "Sir Shootalot",
     "stringId": "95541-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68214,6 +68763,7 @@
     }
   },
   "95543-rebirth.mod": {
+    "name": "Sir Shootabit",
     "stringId": "95543-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68287,6 +68837,7 @@
     }
   },
   "95752-rebirth.mod": {
+    "name": "Scavenger",
     "stringId": "95752-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68421,6 +68972,7 @@
     }
   },
   "95756-rebirth.mod": {
+    "name": "Sniperbot",
     "stringId": "95756-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68503,6 +69055,7 @@
     }
   },
   "95757-rebirth.mod": {
+    "name": "Legion Scout",
     "stringId": "95757-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68597,6 +69150,7 @@
     }
   },
   "95762-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "95762-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68638,6 +69192,7 @@
     "references": {}
   },
   "95765-rebirth.mod": {
+    "name": "Slaver Caravan Guard",
     "stringId": "95765-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68803,6 +69358,7 @@
     }
   },
   "95766-rebirth.mod": {
+    "name": "Slaver Caravan Boss",
     "stringId": "95766-rebirth.mod",
     "type": "Character",
     "values": {
@@ -68966,6 +69522,7 @@
     }
   },
   "95769-rebirth.mod": {
+    "name": "refugee 1",
     "stringId": "95769-rebirth.mod",
     "type": "Character",
     "values": {
@@ -69046,6 +69603,7 @@
     }
   },
   "95770-rebirth.mod": {
+    "name": "refugee 2",
     "stringId": "95770-rebirth.mod",
     "type": "Character",
     "values": {
@@ -69117,6 +69675,7 @@
     }
   },
   "95771-rebirth.mod": {
+    "name": "refugee 3",
     "stringId": "95771-rebirth.mod",
     "type": "Character",
     "values": {
@@ -69202,6 +69761,7 @@
     }
   },
   "95776-rebirth.mod": {
+    "name": "Soldierbot Guard",
     "stringId": "95776-rebirth.mod",
     "type": "Character",
     "values": {
@@ -69282,6 +69842,7 @@
     }
   },
   "95763-__december17.mod": {
+    "name": "Reaver Neophyte",
     "stringId": "95763-__december17.mod",
     "type": "Character",
     "values": {
@@ -69386,6 +69947,7 @@
     }
   },
   "95762-__december17.mod": {
+    "name": "Reaver Slave",
     "stringId": "95762-__december17.mod",
     "type": "Character",
     "values": {
@@ -69466,6 +70028,7 @@
     }
   },
   "95756-__december17.mod": {
+    "name": "Valamon",
     "stringId": "95756-__december17.mod",
     "type": "Character",
     "values": {
@@ -69565,6 +70128,7 @@
     }
   },
   "95998-rebirth.mod": {
+    "name": "Armour King's Thrall",
     "stringId": "95998-rebirth.mod",
     "type": "Character",
     "values": {
@@ -69628,6 +70192,7 @@
     }
   },
   "95582-__Mourn.mod": {
+    "name": "Barman Lagoon",
     "stringId": "95582-__Mourn.mod",
     "type": "Character",
     "values": {
@@ -69784,6 +70349,7 @@
     }
   },
   "95710-__Mourn.mod": {
+    "name": "Chad",
     "stringId": "95710-__Mourn.mod",
     "type": "Character",
     "values": {
@@ -69903,6 +70469,7 @@
     }
   },
   "95714-__Mourn.mod": {
+    "name": "Lagoon Patron",
     "stringId": "95714-__Mourn.mod",
     "type": "Character",
     "values": {
@@ -70191,6 +70758,7 @@
     }
   },
   "95555-Mourn.mod": {
+    "name": "Mourn Barman",
     "stringId": "95555-Mourn.mod",
     "type": "Character",
     "values": {
@@ -70291,6 +70859,7 @@
     }
   },
   "95551-Mourn.mod": {
+    "name": "Mourn Barman",
     "stringId": "95551-Mourn.mod",
     "type": "Character",
     "values": {
@@ -70386,6 +70955,7 @@
     }
   },
   "95741-__Mourn.mod": {
+    "name": "Ronin Crossbow Trader",
     "stringId": "95741-__Mourn.mod",
     "type": "Character",
     "values": {
@@ -70466,6 +71036,7 @@
     }
   },
   "96139-rebirth.mod": {
+    "name": "Citizen",
     "stringId": "96139-rebirth.mod",
     "type": "Character",
     "values": {
@@ -70551,6 +71122,7 @@
     }
   },
   "96155-rebirth.mod": {
+    "name": "Starving Vagrant",
     "stringId": "96155-rebirth.mod",
     "type": "Character",
     "values": {
@@ -70673,6 +71245,7 @@
     }
   },
   "96172-rebirth.mod": {
+    "name": "Noble Hunter",
     "stringId": "96172-rebirth.mod",
     "type": "Character",
     "values": {
@@ -70789,6 +71362,7 @@
     }
   },
   "96177-rebirth.mod": {
+    "name": "Grass Pirate",
     "stringId": "96177-rebirth.mod",
     "type": "Character",
     "values": {
@@ -70913,6 +71487,7 @@
     }
   },
   "96178-rebirth.mod": {
+    "name": "Straw Lieutenant",
     "stringId": "96178-rebirth.mod",
     "type": "Character",
     "values": {
@@ -71015,6 +71590,7 @@
     }
   },
   "96180-rebirth.mod": {
+    "name": "Karate Drifter",
     "stringId": "96180-rebirth.mod",
     "type": "Character",
     "values": {
@@ -71133,6 +71709,7 @@
     }
   },
   "96263-rebirth.mod": {
+    "name": "Gorrillo",
     "stringId": "96263-rebirth.mod",
     "type": "Character",
     "values": {
@@ -71237,6 +71814,7 @@
     }
   },
   "96265-__Southern hive.mod": {
+    "name": "Hive Trader robotics",
     "stringId": "96265-__Southern hive.mod",
     "type": "Character",
     "values": {
@@ -71326,6 +71904,7 @@
     }
   },
   "96355-__Southern hive.mod": {
+    "name": "Slave",
     "stringId": "96355-__Southern hive.mod",
     "type": "Character",
     "values": {
@@ -71428,6 +72007,7 @@
     }
   },
   "96357-__Southern hive.mod": {
+    "name": "Slave",
     "stringId": "96357-__Southern hive.mod",
     "type": "Character",
     "values": {
@@ -71510,6 +72090,7 @@
     }
   },
   "96358-__Southern hive.mod": {
+    "name": "Slave",
     "stringId": "96358-__Southern hive.mod",
     "type": "Character",
     "values": {
@@ -71617,6 +72198,7 @@
     }
   },
   "96359-__Southern hive.mod": {
+    "name": "Slave",
     "stringId": "96359-__Southern hive.mod",
     "type": "Character",
     "values": {
@@ -71737,6 +72319,7 @@
     }
   },
   "96360-__Southern hive.mod": {
+    "name": "Slave",
     "stringId": "96360-__Southern hive.mod",
     "type": "Character",
     "values": {
@@ -71824,6 +72407,7 @@
     }
   },
   "96399-rebirth.mod": {
+    "name": "Weak Thrall",
     "stringId": "96399-rebirth.mod",
     "type": "Character",
     "values": {
@@ -71919,6 +72503,7 @@
     }
   },
   "96407-rebirth.mod": {
+    "name": "Ponk",
     "stringId": "96407-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72020,6 +72605,7 @@
     }
   },
   "96409-rebirth.mod": {
+    "name": "Screamer the False",
     "stringId": "96409-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72121,6 +72707,7 @@
     }
   },
   "96411-rebirth.mod": {
+    "name": "Thrall",
     "stringId": "96411-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72216,6 +72803,7 @@
     }
   },
   "96413-rebirth.mod": {
+    "name": "CHARACTER",
     "stringId": "96413-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72257,6 +72845,7 @@
     "references": {}
   },
   "97095-rebirth.mod": {
+    "name": "Agnu",
     "stringId": "97095-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72341,6 +72930,7 @@
     }
   },
   "97247-rebirth.mod": {
+    "name": "Dust Bandit Bowman",
     "stringId": "97247-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72455,6 +73045,7 @@
     }
   },
   "97621-Spanish swaps.mod": {
+    "name": "Trade Goods (shek)",
     "stringId": "97621-Spanish swaps.mod",
     "type": "Character",
     "values": {
@@ -72516,6 +73107,7 @@
     }
   },
   "97659-rebirth.mod": {
+    "name": "Alpha Gurgler",
     "stringId": "97659-rebirth.mod",
     "type": "Character",
     "values": {
@@ -72579,6 +73171,7 @@
     }
   },
   "97852-__March 18.mod": {
+    "name": "Lord Mirage",
     "stringId": "97852-__March 18.mod",
     "type": "Character",
     "values": {
@@ -72696,6 +73289,7 @@
     }
   },
   "98227-__March 18.mod": {
+    "name": "Gutterhead",
     "stringId": "98227-__March 18.mod",
     "type": "Character",
     "values": {
@@ -72837,6 +73431,7 @@
     }
   },
   "98229-__March 18.mod": {
+    "name": "Hook Bar patron",
     "stringId": "98229-__March 18.mod",
     "type": "Character",
     "values": {
@@ -72980,6 +73575,7 @@
     }
   },
   "97945-__March 18.mod": {
+    "name": "United Hero",
     "stringId": "97945-__March 18.mod",
     "type": "Character",
     "values": {
@@ -73090,6 +73686,7 @@
     }
   },
   "98504-rebirth.mod": {
+    "name": "Gorillo Bandit",
     "stringId": "98504-rebirth.mod",
     "type": "Character",
     "values": {
@@ -73190,6 +73787,7 @@
     }
   },
   "98554-rebirth.mod": {
+    "name": "No-Face",
     "stringId": "98554-rebirth.mod",
     "type": "Character",
     "values": {
@@ -73303,6 +73901,7 @@
     }
   },
   "98560-rebirth.mod": {
+    "name": "Tech Hunter Guard",
     "stringId": "98560-rebirth.mod",
     "type": "Character",
     "values": {
@@ -73564,6 +74163,7 @@
     }
   },
   "1531883-rebirth.mod": {
+    "name": "Lost Hiver",
     "stringId": "1531883-rebirth.mod",
     "type": "Character",
     "values": {
@@ -73648,6 +74248,7 @@
     }
   },
   "1531886-rebirth.mod": {
+    "name": "Hive Bandit Leader",
     "stringId": "1531886-rebirth.mod",
     "type": "Character",
     "values": {
@@ -73742,6 +74343,7 @@
     }
   },
   "1531887-rebirth.mod": {
+    "name": "Hive Bandit",
     "stringId": "1531887-rebirth.mod",
     "type": "Character",
     "values": {
@@ -73846,6 +74448,7 @@
     }
   },
   "1531974-__May 18.mod": {
+    "name": "Lost Prince",
     "stringId": "1531974-__May 18.mod",
     "type": "Character",
     "values": {
@@ -73930,6 +74533,7 @@
     }
   },
   "1532488-__May 18 2.mod": {
+    "name": "Yabuta Chief",
     "stringId": "1532488-__May 18 2.mod",
     "type": "Character",
     "values": {
@@ -74069,6 +74673,7 @@
     }
   },
   "1532485-__May 18 2.mod": {
+    "name": "Yabuta Outlaw",
     "stringId": "1532485-__May 18 2.mod",
     "type": "Character",
     "values": {
@@ -74253,6 +74858,7 @@
     }
   },
   "1532818-rebirth.mod": {
+    "name": "Watchbot",
     "stringId": "1532818-rebirth.mod",
     "type": "Character",
     "values": {
@@ -74335,6 +74941,7 @@
     }
   },
   "1532936-rebirth.mod": {
+    "name": "start slave",
     "stringId": "1532936-rebirth.mod",
     "type": "Character",
     "values": {
@@ -74394,6 +75001,7 @@
     }
   },
   "1532886-__world reactions NE.mod": {
+    "name": "Displaced Peasant",
     "stringId": "1532886-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -74530,6 +75138,7 @@
     }
   },
   "1532901-__world reactions NE.mod": {
+    "name": "Rebel Captain",
     "stringId": "1532901-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -74664,6 +75273,7 @@
     }
   },
   "1532903-__world reactions NE.mod": {
+    "name": "Rebel Fighter",
     "stringId": "1532903-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -74771,6 +75381,7 @@
     }
   },
   "1532902-__world reactions NE.mod": {
+    "name": "Rebel Swordsman",
     "stringId": "1532902-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -74866,6 +75477,7 @@
     }
   },
   "1533488-__world reactions NE.mod": {
+    "name": "Rebel Swordsman Veteran",
     "stringId": "1533488-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -74986,6 +75598,7 @@
     }
   },
   "1533150-__world reactions NE.mod": {
+    "name": "Samurai Rogue",
     "stringId": "1533150-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -75145,6 +75758,7 @@
     }
   },
   "1532917-__world reactions NE.mod": {
+    "name": "Vigilante Chief",
     "stringId": "1532917-__world reactions NE.mod",
     "type": "Character",
     "values": {
@@ -75274,6 +75888,7 @@
     }
   },
   "1532989-__world reactions W.mod": {
+    "name": "Kamikaze",
     "stringId": "1532989-__world reactions W.mod",
     "type": "Character",
     "values": {
@@ -75404,6 +76019,7 @@
     }
   },
   "1532973-__world reactions.mod": {
+    "name": "Strayed Paladin",
     "stringId": "1532973-__world reactions.mod",
     "type": "Character",
     "values": {
@@ -75580,6 +76196,7 @@
     }
   },
   "1533326-__world reactions Shek.mod": {
+    "name": "Mukai The Mountain",
     "stringId": "1533326-__world reactions Shek.mod",
     "type": "Character",
     "values": {
@@ -75679,6 +76296,7 @@
     }
   },
   "1533504-rebirth.mod": {
+    "name": "Heavy Thrall",
     "stringId": "1533504-rebirth.mod",
     "type": "Character",
     "values": {
@@ -75768,6 +76386,7 @@
     }
   },
   "1533509-rebirth.mod": {
+    "name": "Head of Agriculture",
     "stringId": "1533509-rebirth.mod",
     "type": "Character",
     "values": {
@@ -75862,6 +76481,7 @@
     }
   },
   "1533511-rebirth.mod": {
+    "name": "Rhinobot",
     "stringId": "1533511-rebirth.mod",
     "type": "Character",
     "values": {
@@ -75949,6 +76569,7 @@
     }
   },
   "1533513-rebirth.mod": {
+    "name": "Screamer Unit",
     "stringId": "1533513-rebirth.mod",
     "type": "Character",
     "values": {
@@ -76036,6 +76657,7 @@
     }
   },
   "1533515-rebirth.mod": {
+    "name": "Legion Thrall",
     "stringId": "1533515-rebirth.mod",
     "type": "Character",
     "values": {
@@ -76150,6 +76772,7 @@
     }
   },
   "1533527-rebirth.mod": {
+    "name": "Upgraded Watchbot",
     "stringId": "1533527-rebirth.mod",
     "type": "Character",
     "values": {
@@ -76232,6 +76855,7 @@
     }
   },
   "1533500-__world reactions Slavers.mod": {
+    "name": "Slave Market Master",
     "stringId": "1533500-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -76353,6 +76977,7 @@
     }
   },
   "1533499-__world reactions Slavers.mod": {
+    "name": "Slave Master Grande",
     "stringId": "1533499-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -76474,6 +77099,7 @@
     }
   },
   "1533491-__world reactions Slavers.mod": {
+    "name": "Slave Master Haga",
     "stringId": "1533491-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -76595,6 +77221,7 @@
     }
   },
   "1533494-__world reactions Slavers.mod": {
+    "name": "Slave Master Ruben",
     "stringId": "1533494-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -76716,6 +77343,7 @@
     }
   },
   "1533488-__world reactions Slavers.mod": {
+    "name": "Slave Master Wada",
     "stringId": "1533488-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -76837,6 +77465,7 @@
     }
   },
   "1533497-__world reactions Slavers.mod": {
+    "name": "Slave Mistress Grace",
     "stringId": "1533497-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -76977,6 +77606,7 @@
     }
   },
   "1533489-__world reactions Slavers.mod": {
+    "name": "Slave Mistress Ren",
     "stringId": "1533489-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -77117,6 +77747,7 @@
     }
   },
   "1533661-rebirth.mod": {
+    "name": "UC start",
     "stringId": "1533661-rebirth.mod",
     "type": "Character",
     "values": {
@@ -77224,6 +77855,7 @@
     }
   },
   "1533662-rebirth.mod": {
+    "name": "Wanderer",
     "stringId": "1533662-rebirth.mod",
     "type": "Character",
     "values": {
@@ -77331,6 +77963,7 @@
     }
   },
   "1533664-rebirth.mod": {
+    "name": "General Jang",
     "stringId": "1533664-rebirth.mod",
     "type": "Character",
     "values": {
@@ -77418,6 +78051,7 @@
     }
   },
   "1533666-rebirth.mod": {
+    "name": "Hydraulic Knight",
     "stringId": "1533666-rebirth.mod",
     "type": "Character",
     "values": {
@@ -77512,6 +78146,7 @@
     }
   },
   "1533702-__world reactions Slavers.mod": {
+    "name": "Lady Merin",
     "stringId": "1533702-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -77628,6 +78263,7 @@
     }
   },
   "1533707-__world reactions Slavers.mod": {
+    "name": "Lord Shiro",
     "stringId": "1533707-__world reactions Slavers.mod",
     "type": "Character",
     "values": {
@@ -77771,6 +78407,7 @@
     }
   },
   "1533668-rebirth.mod": {
+    "name": "General Hat-12",
     "stringId": "1533668-rebirth.mod",
     "type": "Character",
     "values": {
@@ -77865,6 +78502,7 @@
     }
   },
   "1533670-rebirth.mod": {
+    "name": "Old Empire Police Captain",
     "stringId": "1533670-rebirth.mod",
     "type": "Character",
     "values": {
@@ -77964,6 +78602,7 @@
     }
   },
   "1533840-rebirth.mod": {
+    "name": "Undertaker",
     "stringId": "1533840-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78056,6 +78695,7 @@
     }
   },
   "1533858-rebirth.mod": {
+    "name": "Mad Cat-Lon",
     "stringId": "1533858-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78150,6 +78790,7 @@
     }
   },
   "1533876-rebirth.mod": {
+    "name": "General Screamer (The True)",
     "stringId": "1533876-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78244,6 +78885,7 @@
     }
   },
   "1534015-rebirth.mod": {
+    "name": "Stormthrall",
     "stringId": "1534015-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78338,6 +78980,7 @@
     }
   },
   "1534418-rebirth.mod": {
+    "name": "Holy Citizen start",
     "stringId": "1534418-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78432,6 +79075,7 @@
     }
   },
   "1534421-rebirth.mod": {
+    "name": "Tech Hunter Gate Guard",
     "stringId": "1534421-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78747,6 +79391,7 @@
     }
   },
   "1535038-rebirth.mod": {
+    "name": "start slave UC",
     "stringId": "1535038-rebirth.mod",
     "type": "Character",
     "values": {
@@ -78796,6 +79441,7 @@
     }
   },
   "1535069-__November6.mod": {
+    "name": "Anti-Slaver Jonin HQ",
     "stringId": "1535069-__November6.mod",
     "type": "Character",
     "values": {
@@ -79069,6 +79715,7 @@
     }
   },
   "1535070-__November6.mod": {
+    "name": "Anti-Slaver unarmed HQ",
     "stringId": "1535070-__November6.mod",
     "type": "Character",
     "values": {

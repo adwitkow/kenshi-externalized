@@ -1,5 +1,6 @@
 {
   "1315-gamedata.base": {
+    "name": "Northern desert",
     "stringId": "1315-gamedata.base",
     "type": "Road",
     "values": {
@@ -34,6 +35,7 @@
     }
   },
   "1134-gamedata.base": {
+    "name": "UC West",
     "stringId": "1134-gamedata.base",
     "type": "Road",
     "values": {
@@ -78,6 +80,7 @@
     }
   },
   "1368-gamedata.base": {
+    "name": "UC East",
     "stringId": "1368-gamedata.base",
     "type": "Road",
     "values": {

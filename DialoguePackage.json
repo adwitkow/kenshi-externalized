@@ -1,5 +1,6 @@
 {
   "12490-Dialogue (10) (2).mod": {
+    "name": "Npc TOUGH Merc Aggro 2",
     "stringId": "12490-Dialogue (10) (2).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -279,6 +280,7 @@
     }
   },
   "14513-gamedata.base": {
+    "name": "thief leader",
     "stringId": "14513-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -300,6 +302,7 @@
     }
   },
   "5463-gamedata.base": {
+    "name": "mercenary guild",
     "stringId": "5463-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -341,6 +344,7 @@
     }
   },
   "5287-gamedata.base": {
+    "name": "work camp slave trader",
     "stringId": "5287-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -362,6 +366,7 @@
     }
   },
   "3781-gamedata.base": {
+    "name": "starving bandits",
     "stringId": "3781-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -583,6 +588,7 @@
     }
   },
   "13612-Escapes.mod": {
+    "name": "Npc MILITARY Law 3",
     "stringId": "13612-Escapes.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -687,6 +693,7 @@
     }
   },
   "3721-gamedata.base": {
+    "name": "Cannibals --Unfinished",
     "stringId": "3721-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -731,6 +738,7 @@
     }
   },
   "13527-Escapes.mod": {
+    "name": "Npc THUG / bandit - Base 1",
     "stringId": "13527-Escapes.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -982,6 +990,7 @@
     }
   },
   "4575-dialogue-02.mod": {
+    "name": "civilian beggar",
     "stringId": "4575-dialogue-02.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -1008,6 +1017,7 @@
     }
   },
   "13895-Escapes.mod": {
+    "name": "Npc CIVILIAN - Pro Slavery - Add-on",
     "stringId": "13895-Escapes.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -1037,6 +1047,7 @@
     }
   },
   "5259-gamedata.base": {
+    "name": "base slave",
     "stringId": "5259-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1103,6 +1114,7 @@
     }
   },
   "11625-Dialogue (10).mod": {
+    "name": "Npc Shek Warrior - Base 1",
     "stringId": "11625-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -1362,6 +1374,7 @@
     }
   },
   "14427-Dialogue (4).mod": {
+    "name": "Npc OUTLAW Escapes 4",
     "stringId": "14427-Dialogue (4).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -1436,6 +1449,7 @@
     }
   },
   "3185-gamedata.base": {
+    "name": "dust bandit",
     "stringId": "3185-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1567,6 +1581,7 @@
     }
   },
   "3326-gamedata.base": {
+    "name": "town thug --Unstable--",
     "stringId": "3326-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1626,6 +1641,7 @@
     }
   },
   "3951-gamedata.base": {
+    "name": "Drifter squad",
     "stringId": "3951-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1802,6 +1818,7 @@
     }
   },
   "42267-gamedata.base": {
+    "name": "racist bandits",
     "stringId": "42267-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1833,6 +1850,7 @@
     }
   },
   "3180-gamedata.base": {
+    "name": "imprisoned",
     "stringId": "3180-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1857,6 +1875,7 @@
     }
   },
   "17614-Dialogue.mod": {
+    "name": "Npc Shek Warrior Crime 2",
     "stringId": "17614-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -1896,6 +1915,7 @@
     }
   },
   "18934-gamedata.base": {
+    "name": "buy from slavery reaction generic",
     "stringId": "18934-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -1915,6 +1935,7 @@
     }
   },
   "14354-Dialogue (4).mod": {
+    "name": "Shop Guard",
     "stringId": "14354-Dialogue (4).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -1986,6 +2007,7 @@
     }
   },
   "5223-gamedata.base": {
+    "name": "Slaver guard no-go zone",
     "stringId": "5223-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2012,6 +2034,7 @@
     }
   },
   "5069-gamedata.base": {
+    "name": "bodyguard for hire",
     "stringId": "5069-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2058,6 +2081,7 @@
     }
   },
   "14377-Dialogue (4).mod": {
+    "name": "Npc TOUGH Merc Crime 3",
     "stringId": "14377-Dialogue (4).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -2224,6 +2248,7 @@
     }
   },
   "3276-mil.mod": {
+    "name": "Traders Guild Gate Guard --Unfinished--- --DISCARD--",
     "stringId": "3276-mil.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -2300,6 +2325,7 @@
     }
   },
   "18898-gamedata.base": {
+    "name": "slave shop trader",
     "stringId": "18898-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2321,6 +2347,7 @@
     }
   },
   "12476-Dialogue (10) (2).mod": {
+    "name": "Npc CIVILIAN Basic 1",
     "stringId": "12476-Dialogue (10) (2).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -2592,6 +2619,7 @@
     }
   },
   "5369-gamedata.base": {
+    "name": "player character default",
     "stringId": "5369-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2683,6 +2711,7 @@
     }
   },
   "17954-gamedata.base": {
+    "name": "Dust bandit base",
     "stringId": "17954-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2724,6 +2753,7 @@
     }
   },
   "4484-dialogue-02.mod": {
+    "name": "civilian normal",
     "stringId": "4484-dialogue-02.mod",
     "type": "DialoguePackage",
     "values": {},
@@ -2790,6 +2820,7 @@
     }
   },
   "2794-gamedata.base": {
+    "name": "shopkeep",
     "stringId": "2794-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2846,6 +2877,7 @@
     }
   },
   "5244-gamedata.base": {
+    "name": "slaver guard MAIN",
     "stringId": "5244-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2937,6 +2969,7 @@
     }
   },
   "3774-gamedata.base": {
+    "name": "sand ninja bandit",
     "stringId": "3774-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -2968,6 +3001,7 @@
     }
   },
   "14426-Dialogue (4).mod": {
+    "name": "Npc TOUGH Merc Escape 4",
     "stringId": "14426-Dialogue (4).mod",
     "type": "DialoguePackage",
     "values": {},
@@ -3137,6 +3171,7 @@
     }
   },
   "3137-gamedata.base": {
+    "name": "npc basic human",
     "stringId": "3137-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -3198,6 +3233,7 @@
     }
   },
   "5240-gamedata.base": {
+    "name": "slaver gate guard",
     "stringId": "5240-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -3234,6 +3270,7 @@
     }
   },
   "5210-gamedata.base": {
+    "name": "police",
     "stringId": "5210-gamedata.base",
     "type": "DialoguePackage",
     "values": {},
@@ -3315,6 +3352,7 @@
     }
   },
   "42778-Dialogue.mod": {
+    "name": "Holy Nation robot rebel",
     "stringId": "42778-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3343,6 +3381,7 @@
     }
   },
   "48437-Dialogue.mod": {
+    "name": "Swamper Big Grim ",
     "stringId": "48437-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3471,6 +3510,7 @@
     }
   },
   "41685-Dialogue.mod": {
+    "name": "Shek Kingdom Hundred Guardian",
     "stringId": "41685-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3534,6 +3574,7 @@
     }
   },
   "15780-Dialogue.mod": {
+    "name": "Npc CIVILIAN Aggro 2",
     "stringId": "15780-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3600,6 +3641,7 @@
     }
   },
   "50784-Dialogue.mod": {
+    "name": "Player Pia",
     "stringId": "50784-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3696,6 +3738,7 @@
     }
   },
   "18622-Dialogue.mod": {
+    "name": "Npc NOBLE Crime 3",
     "stringId": "18622-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3747,6 +3790,7 @@
     }
   },
   "11628-Dialogue (10).mod": {
+    "name": "Shek dueler --Discontinued--",
     "stringId": "11628-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -3800,6 +3844,7 @@
     }
   },
   "47658-Dialogue.mod": {
+    "name": "Skin Bandits - BASE",
     "stringId": "47658-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -3961,6 +4006,7 @@
     }
   },
   "40706-Dialogue.mod": {
+    "name": "Npc PRIEST Crime 3",
     "stringId": "40706-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4012,6 +4058,7 @@
     }
   },
   "16096-Dialogue.mod": {
+    "name": "Npc OUTLAW Aggro 2",
     "stringId": "16096-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4068,6 +4115,7 @@
     }
   },
   "42649-Dialogue.mod": {
+    "name": "Npc SUNDEMON Base 1",
     "stringId": "42649-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4246,6 +4294,7 @@
     }
   },
   "50062-Dialogue.mod": {
+    "name": "Flotsam Refugee",
     "stringId": "50062-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4294,6 +4343,7 @@
     }
   },
   "18406-Dialogue.mod": {
+    "name": "Bounty Hunter Shek --Needs fixes--",
     "stringId": "18406-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4322,6 +4372,7 @@
     }
   },
   "16469-Dialogue.mod": {
+    "name": "Empire Noble Bodyguard",
     "stringId": "16469-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4355,6 +4406,7 @@
     }
   },
   "40687-Dialogue.mod": {
+    "name": "Npc PRIEST Aggro 2",
     "stringId": "40687-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4386,6 +4438,7 @@
     }
   },
   "19504-Dialogue.mod": {
+    "name": "Player TOUGH Merc",
     "stringId": "19504-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4687,6 +4740,7 @@
     }
   },
   "20019-Dialogue.mod": {
+    "name": "Player HIVER Ronin",
     "stringId": "20019-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4778,6 +4832,7 @@
     }
   },
   "15153-Dialogue.mod": {
+    "name": "Empire Scout",
     "stringId": "15153-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4851,6 +4906,7 @@
     }
   },
   "10531-Dialogue (10).mod": {
+    "name": "Shadow Monk --Unfinished--",
     "stringId": "10531-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -4882,6 +4938,7 @@
     }
   },
   "40794-Dialogue.mod": {
+    "name": "Npc CIVILIAN Holy Nation Crime 3",
     "stringId": "40794-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -4968,6 +5025,7 @@
     }
   },
   "8303-Dialogue.mod": {
+    "name": "Town Thief",
     "stringId": "8303-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5016,6 +5074,7 @@
     }
   },
   "11378-Dialogue (10).mod": {
+    "name": "Shek Esata",
     "stringId": "11378-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -5182,6 +5241,7 @@
     }
   },
   "50866-Dialogue.mod": {
+    "name": "Worlds end bar patron",
     "stringId": "50866-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5225,6 +5285,7 @@
     }
   },
   "9660-Dialogue.mod": {
+    "name": "Empire Gate Guard",
     "stringId": "9660-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5303,6 +5364,7 @@
     }
   },
   "16094-Dialogue.mod": {
+    "name": "Npc OUTLAW Basic 1",
     "stringId": "16094-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5434,6 +5496,7 @@
     }
   },
   "17908-Dialogue.mod": {
+    "name": "Npc HIVER Ronin - Complete Package",
     "stringId": "17908-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5657,6 +5720,7 @@
     }
   },
   "10400-Dialogue (7).mod": {
+    "name": "Suspicious Farmer (Unique spawn)",
     "stringId": "10400-Dialogue (7).mod",
     "type": "DialoguePackage",
     "values": {
@@ -5700,6 +5764,7 @@
     }
   },
   "50749-Dialogue.mod": {
+    "name": "Flotsam cannibal guard",
     "stringId": "50749-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5743,6 +5808,7 @@
     }
   },
   "12247-Dialogue (10).mod": {
+    "name": "Npc OUTLAW Crime 3",
     "stringId": "12247-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -5811,6 +5877,7 @@
     }
   },
   "41072-Dialogue.mod": {
+    "name": "Holy Nation Civilian",
     "stringId": "41072-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5864,6 +5931,7 @@
     }
   },
   "47335-Dialogue.mod": {
+    "name": "Crazy mongrel citizen",
     "stringId": "47335-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5880,6 +5948,7 @@
     }
   },
   "45678-Dialogue.mod": {
+    "name": "Player SUNDEMON",
     "stringId": "45678-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -5996,6 +6065,7 @@
     }
   },
   "50467-Dialogue.mod": {
+    "name": "Fisher Bar Patron",
     "stringId": "50467-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6039,6 +6109,7 @@
     }
   },
   "43073-Dialogue.mod": {
+    "name": "Shek Retainer",
     "stringId": "43073-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6072,6 +6143,7 @@
     }
   },
   "41094-Dialogue.mod": {
+    "name": "Npc TOUGH Escape Holy 4",
     "stringId": "41094-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6113,6 +6185,7 @@
     }
   },
   "48611-Dialogue.mod": {
+    "name": "Npc TOUGH Merc (Lawless) Crime 3 ",
     "stringId": "48611-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6241,6 +6314,7 @@
     }
   },
   "43446-Dialogue.mod": {
+    "name": "Flotsam Ninja",
     "stringId": "43446-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6319,6 +6393,7 @@
     }
   },
   "40931-Dialogue.mod": {
+    "name": "Holy Lord Phoenix LXII",
     "stringId": "40931-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6490,6 +6565,7 @@
     }
   },
   "47869-Dialogue.mod": {
+    "name": "Npc SKELETON BAD Base 1",
     "stringId": "47869-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6586,6 +6662,7 @@
     }
   },
   "45185-Dialogue.mod": {
+    "name": "Dust King",
     "stringId": "45185-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6744,6 +6821,7 @@
     }
   },
   "8911-Dialogue.mod": {
+    "name": "Crazy bar drunk",
     "stringId": "8911-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6787,6 +6865,7 @@
     }
   },
   "47751-Dialogue.mod": {
+    "name": "Skull collectors",
     "stringId": "47751-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6815,6 +6894,7 @@
     }
   },
   "10639-Dialogue (10).mod": {
+    "name": "Goat Man",
     "stringId": "10639-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -6836,6 +6916,7 @@
     }
   },
   "5338-Dialogue.mod": {
+    "name": "Ani --Unfinished--",
     "stringId": "5338-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6894,6 +6975,7 @@
     }
   },
   "41733-Dialogue.mod": {
+    "name": "Shek Kingdom Five Invincibles",
     "stringId": "41733-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -6942,6 +7024,7 @@
     }
   },
   "50728-Dialogue.mod": {
+    "name": "Player Miu",
     "stringId": "50728-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7058,6 +7141,7 @@
     }
   },
   "15778-Dialogue.mod": {
+    "name": "Npc CIVILIAN Crime 3",
     "stringId": "15778-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7124,6 +7208,7 @@
     }
   },
   "18476-Dialogue.mod": {
+    "name": "Npc NOBLE Basic 1",
     "stringId": "18476-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7217,6 +7302,7 @@
     }
   },
   "47094-Dialogue.mod": {
+    "name": "Hiver Merchant Lantern",
     "stringId": "47094-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7255,6 +7341,7 @@
     }
   },
   "43077-Dialogue.mod": {
+    "name": "Shek Warrior",
     "stringId": "43077-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7313,6 +7400,7 @@
     }
   },
   "17088-Dialogue.mod": {
+    "name": "Holy Nation Gate Guard",
     "stringId": "17088-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7376,6 +7464,7 @@
     }
   },
   "10779-Dialogue (10).mod": {
+    "name": "Empire Bounty Hunter ",
     "stringId": "10779-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -7409,6 +7498,7 @@
     }
   },
   "8234-Dialogue.mod": {
+    "name": "Ells",
     "stringId": "8234-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7522,6 +7612,7 @@
     }
   },
   "18104-Dialogue.mod": {
+    "name": "Npc HIVER Worker - Complete Package",
     "stringId": "18104-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7693,6 +7784,7 @@
     }
   },
   "44132-Dialogue.mod": {
+    "name": "Npc TOUGH Shopguard Basic 1",
     "stringId": "44132-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7759,6 +7851,7 @@
     }
   },
   "46990-Dialogue.mod": {
+    "name": "Mongrel Guard",
     "stringId": "46990-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7797,6 +7890,7 @@
     }
   },
   "47236-Dialogue.mod": {
+    "name": "Hiver Merchant ",
     "stringId": "47236-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7825,6 +7919,7 @@
     }
   },
   "41892-Dialogue.mod": {
+    "name": "Swamp gang player base assault --Unfinished-- ",
     "stringId": "41892-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7878,6 +7973,7 @@
     }
   },
   "16440-Dialogue.mod": {
+    "name": "Empire Noble",
     "stringId": "16440-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -7931,6 +8027,7 @@
     }
   },
   "17801-Dialogue.mod": {
+    "name": "Shrieking bandits",
     "stringId": "17801-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8037,6 +8134,7 @@
     }
   },
   "50661-Dialogue.mod": {
+    "name": "PLAYER Griffin",
     "stringId": "50661-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8168,6 +8266,7 @@
     }
   },
   "16151-Dialogue.mod": {
+    "name": "Npc TOUGH Merc Basic 1",
     "stringId": "16151-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8419,6 +8518,7 @@
     }
   },
   "19940-Dialogue.mod": {
+    "name": "Player CIVILIAN",
     "stringId": "19940-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8530,6 +8630,7 @@
     }
   },
   "51183-Dialogue.mod": {
+    "name": "Player Horse",
     "stringId": "51183-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8578,6 +8679,7 @@
     }
   },
   "41590-rebirth.mod": {
+    "name": "holy nation guard",
     "stringId": "41590-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8626,6 +8728,7 @@
     }
   },
   "42480-Dialogue.mod": {
+    "name": "Band Of Bones",
     "stringId": "42480-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8664,6 +8767,7 @@
     }
   },
   "15760-Dialogue.mod": {
+    "name": "Holy Nation Paladin",
     "stringId": "15760-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8817,6 +8921,7 @@
     }
   },
   "16861-Dialogue.mod": {
+    "name": "Holy Priest",
     "stringId": "16861-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -8880,6 +8985,7 @@
     }
   },
   "11529-Dialogue (10).mod": {
+    "name": "Shek Kral's Chosen",
     "stringId": "11529-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -8968,6 +9074,7 @@
     }
   },
   "13516-Escapes.mod": {
+    "name": "Swamper Mugger Thug",
     "stringId": "13516-Escapes.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9016,6 +9123,7 @@
     }
   },
   "18416-Dialogue.mod": {
+    "name": "Bounty Hunter Low --Needs fixes to bounty spotted--",
     "stringId": "18416-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9054,6 +9162,7 @@
     }
   },
   "46230-Dialogue.mod": {
+    "name": "Okranite --Unfinished--",
     "stringId": "46230-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9185,6 +9294,7 @@
     }
   },
   "16181-Dialogue.mod": {
+    "name": "Npc TOUGH Vigilante Law 3",
     "stringId": "16181-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9261,6 +9371,7 @@
     }
   },
   "42127-Dialogue.mod": {
+    "name": "Holy Nation escaped slave",
     "stringId": "42127-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9309,6 +9420,7 @@
     }
   },
   "9547-Dialogue.mod": {
+    "name": "Shek Gate Guard",
     "stringId": "9547-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9387,6 +9499,7 @@
     }
   },
   "49263-Dialogue.mod": {
+    "name": "Swamper Bar Thug",
     "stringId": "49263-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9450,6 +9563,7 @@
     }
   },
   "50504-Dialogue.mod": {
+    "name": "barman Fisher village",
     "stringId": "50504-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9508,6 +9622,7 @@
     }
   },
   "10183-Dialogue (7).mod": {
+    "name": "Bounty Hunter --Needs fixes--",
     "stringId": "10183-Dialogue (7).mod",
     "type": "DialoguePackage",
     "values": {
@@ -9551,6 +9666,7 @@
     }
   },
   "46003-Dialogue.mod": {
+    "name": "Immortal king",
     "stringId": "46003-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9594,6 +9710,7 @@
     }
   },
   "5338-Escapes.mod": {
+    "name": "Npc NINJA Escape 4",
     "stringId": "5338-Escapes.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9635,6 +9752,7 @@
     }
   },
   "17896-Dialogue.mod": {
+    "name": "Npc THUG Escapes 2",
     "stringId": "17896-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9706,6 +9824,7 @@
     }
   },
   "12491-Dialogue (10) (2).mod": {
+    "name": "Npc MILITARY Basic 1",
     "stringId": "12491-Dialogue (10) (2).mod",
     "type": "DialoguePackage",
     "values": {
@@ -9814,6 +9933,7 @@
     }
   },
   "48351-Dialogue.mod": {
+    "name": "Swamper Casino Dealer",
     "stringId": "48351-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9842,6 +9962,7 @@
     }
   },
   "18566-Dialogue.mod": {
+    "name": "Npc NOBLE Aggro 2",
     "stringId": "18566-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9883,6 +10004,7 @@
     }
   },
   "48719-Dialogue.mod": {
+    "name": "Swamper Gang Member",
     "stringId": "48719-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -9986,6 +10108,7 @@
     }
   },
   "44624-Dialogue.mod": {
+    "name": "Swamper shopkeep",
     "stringId": "44624-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10014,6 +10137,7 @@
     }
   },
   "15521-Dialogue.mod": {
+    "name": "Npc MILITARY Holy Nation Law 3",
     "stringId": "15521-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10125,6 +10249,7 @@
     }
   },
   "20158-Dialogue.mod": {
+    "name": "Black Dog Extortionist (+base visit)",
     "stringId": "20158-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10158,6 +10283,7 @@
     }
   },
   "48442-Dialogue.mod": {
+    "name": "Swamper Hound",
     "stringId": "48442-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10251,6 +10377,7 @@
     }
   },
   "47396-Dialogue.mod": {
+    "name": "test",
     "stringId": "47396-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10277,6 +10404,7 @@
     }
   },
   "19499-Dialogue.mod": {
+    "name": "Player SHEK Warrior",
     "stringId": "19499-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10433,6 +10561,7 @@
     }
   },
   "43359-Dialogue.mod": {
+    "name": "Shop Guard Holy",
     "stringId": "43359-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10511,6 +10640,7 @@
     }
   },
   "43175-Dialogue.mod": {
+    "name": "Shek shopkeep",
     "stringId": "43175-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10544,6 +10674,7 @@
     }
   },
   "46093-Dialogue.mod": {
+    "name": "Player SKELETON",
     "stringId": "46093-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10605,6 +10736,7 @@
     }
   },
   "16666-Dialogue.mod": {
+    "name": "Npc MEAN tough - Base",
     "stringId": "16666-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10783,6 +10915,7 @@
     }
   },
   "17436-Dialogue.mod": {
+    "name": "Swamper",
     "stringId": "17436-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10846,6 +10979,7 @@
     }
   },
   "7995-Dialogue.mod": {
+    "name": "Bo",
     "stringId": "7995-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -10979,6 +11113,7 @@
     }
   },
   "51053-Dialogue.mod": {
+    "name": "Moll",
     "stringId": "51053-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11152,6 +11287,7 @@
     }
   },
   "9831-Dialogue.mod": {
+    "name": "Empire City Guard ",
     "stringId": "9831-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11255,6 +11391,7 @@
     }
   },
   "41881-Dialogue.mod": {
+    "name": "Npc SKELETON Base 1",
     "stringId": "41881-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11411,6 +11548,7 @@
     }
   },
   "41817-Dialogue.mod": {
+    "name": "Slaver base assault --Unfinished--",
     "stringId": "41817-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11454,6 +11592,7 @@
     }
   },
   "40650-Dialogue.mod": {
+    "name": "Npc PRIEST Basic 1",
     "stringId": "40650-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11537,6 +11676,7 @@
     }
   },
   "10338-Dialogue (7).mod": {
+    "name": "Wandering Slaver Trader",
     "stringId": "10338-Dialogue (7).mod",
     "type": "DialoguePackage",
     "values": {
@@ -11570,6 +11710,7 @@
     }
   },
   "42144-Dialogue.mod": {
+    "name": "Skeleton bandit - BASE",
     "stringId": "42144-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11631,6 +11772,7 @@
     }
   },
   "56871-Dialogue.mod": {
+    "name": "Blue Eyes",
     "stringId": "56871-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11659,6 +11801,7 @@
     }
   },
   "15260-Dialogue.mod": {
+    "name": "Player THUG",
     "stringId": "15260-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11770,6 +11913,7 @@
     }
   },
   "42968-Dialogue.mod": {
+    "name": "Holy Nation Shopkeep",
     "stringId": "42968-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11818,6 +11962,7 @@
     }
   },
   "9809-Dialogue.mod": {
+    "name": "Dead Cat Gate Guard --Unfinished--",
     "stringId": "9809-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11889,6 +12034,7 @@
     }
   },
   "11226-Dialogue (10).mod": {
+    "name": "Npc Shek Warrior Law 2",
     "stringId": "11226-Dialogue (10).mod",
     "type": "DialoguePackage",
     "values": {
@@ -11940,6 +12086,7 @@
     }
   },
   "15711-Dialogue.mod": {
+    "name": "Npc MILITARY Aggro 2",
     "stringId": "15711-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -11991,6 +12138,7 @@
     }
   },
   "18194-Dialogue.mod": {
+    "name": "Swamper Territorial Thug",
     "stringId": "18194-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12049,6 +12197,7 @@
     }
   },
   "40592-Dialogue.mod": {
+    "name": "Holy Nation Inquisitor",
     "stringId": "40592-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12132,6 +12281,7 @@
     }
   },
   "45337-Dialogue.mod": {
+    "name": "Dust King's prisoner",
     "stringId": "45337-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12278,6 +12428,7 @@
     }
   },
   "10275-Dialogue (7).mod": {
+    "name": "Bandit Raiders --Unfinished--",
     "stringId": "10275-Dialogue (7).mod",
     "type": "DialoguePackage",
     "values": {
@@ -12294,6 +12445,7 @@
     }
   },
   "43177-Dialogue.mod": {
+    "name": "Shek Bayan",
     "stringId": "43177-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12492,6 +12644,7 @@
     }
   },
   "41988-Dialogue.mod": {
+    "name": "Empire Emperor Tengu",
     "stringId": "41988-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12545,6 +12698,7 @@
     }
   },
   "51217-Dialogue.mod": {
+    "name": "Player Doctor Chung",
     "stringId": "51217-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12651,6 +12805,7 @@
     }
   },
   "51650-Dialogue.mod": {
+    "name": "Red Sabre bandit",
     "stringId": "51650-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12679,6 +12834,7 @@
     }
   },
   "51678-Dialogue.mod": {
+    "name": "Swamp Ninja",
     "stringId": "51678-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12707,6 +12863,7 @@
     }
   },
   "51758-Dialogue.mod": {
+    "name": "Empire pro-slave (unique)",
     "stringId": "51758-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12728,6 +12885,7 @@
     }
   },
   "53075-Dialogue.mod": {
+    "name": "Catun Scrapmaster",
     "stringId": "53075-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12756,6 +12914,7 @@
     }
   },
   "53393-Dialogue.mod": {
+    "name": "Ray",
     "stringId": "53393-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12782,6 +12941,7 @@
     }
   },
   "54403-Dialogue.mod": {
+    "name": "Empire escaped slave",
     "stringId": "54403-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -12825,6 +12985,7 @@
     }
   },
   "54469-Dialogue.mod": {
+    "name": "Empire farmer bandit",
     "stringId": "54469-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13028,6 +13189,7 @@
     }
   },
   "54898-Dialogue.mod": {
+    "name": "Lady Kana",
     "stringId": "54898-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13071,6 +13233,7 @@
     }
   },
   "54936-Dialogue.mod": {
+    "name": "Manhunters",
     "stringId": "54936-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13129,6 +13292,7 @@
     }
   },
   "54966-Dialogue.mod": {
+    "name": "Slave Hunters",
     "stringId": "54966-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13162,6 +13326,7 @@
     }
   },
   "55017-Dialogue.mod": {
+    "name": "Pro Slave Asshole Npc",
     "stringId": "55017-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13220,6 +13385,7 @@
     }
   },
   "55044-Dialogue.mod": {
+    "name": "Garret",
     "stringId": "55044-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13258,6 +13424,7 @@
     }
   },
   "55069-Dialogue.mod": {
+    "name": "Slave Hunters Bar Patron",
     "stringId": "55069-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13286,6 +13453,7 @@
     }
   },
   "55099-Dialogue.mod": {
+    "name": "Tech Hunter Rival",
     "stringId": "55099-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13329,6 +13497,7 @@
     }
   },
   "55284-Dialogue.mod": {
+    "name": "Skeleton town resident",
     "stringId": "55284-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13362,6 +13531,7 @@
     }
   },
   "55591-Dialogue.mod": {
+    "name": "Player Sadneil ",
     "stringId": "55591-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13418,6 +13588,7 @@
     }
   },
   "55692-Dialogue.mod": {
+    "name": "Harmothoe",
     "stringId": "55692-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13471,6 +13642,7 @@
     }
   },
   "55778-Dialogue.mod": {
+    "name": "Skeleton Junkyard",
     "stringId": "55778-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13504,6 +13676,7 @@
     }
   },
   "55800-Dialogue.mod": {
+    "name": "Skeleton Town barman",
     "stringId": "55800-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13527,6 +13700,7 @@
     }
   },
   "55832-Dialogue.mod": {
+    "name": "Empire bar patron",
     "stringId": "55832-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13575,6 +13749,7 @@
     }
   },
   "56050-Dialogue.mod": {
+    "name": "Npc HIVER Southern",
     "stringId": "56050-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13721,6 +13896,7 @@
     }
   },
   "56926-Dialogue.mod": {
+    "name": "Player Crumblejon",
     "stringId": "56926-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13812,6 +13988,7 @@
     }
   },
   "56246-Dialogue.mod": {
+    "name": "UC exile camper",
     "stringId": "56246-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13845,6 +14022,7 @@
     }
   },
   "56366-Dialogue.mod": {
+    "name": "Traders Guild Longen",
     "stringId": "56366-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -13993,6 +14171,7 @@
     }
   },
   "56495-Dialogue.mod": {
+    "name": "Empire Eyegore",
     "stringId": "56495-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14074,6 +14253,7 @@
     }
   },
   "56684-Dialogue.mod": {
+    "name": "Player Squint",
     "stringId": "56684-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14165,6 +14345,7 @@
     }
   },
   "56793-Dialogue.mod": {
+    "name": "Canyonlands Killer",
     "stringId": "56793-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14233,6 +14414,7 @@
     }
   },
   "56810-Dialogue.mod": {
+    "name": "Preacher Cult",
     "stringId": "56810-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14291,6 +14473,7 @@
     }
   },
   "57405-Dialogue.mod": {
+    "name": "Seto",
     "stringId": "57405-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14319,6 +14502,7 @@
     }
   },
   "57664-Dialogue.mod": {
+    "name": "Player Hamut",
     "stringId": "57664-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14362,6 +14546,7 @@
     }
   },
   "58065-Dialogue.mod": {
+    "name": "Holy farmer peasant",
     "stringId": "58065-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14390,6 +14575,7 @@
     }
   },
   "58432-Dialogue.mod": {
+    "name": "Empire Farmer",
     "stringId": "58432-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14428,6 +14614,7 @@
     }
   },
   "58807-Dialogue.mod": {
+    "name": "Wandering citizen",
     "stringId": "58807-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14461,6 +14648,7 @@
     }
   },
   "58884-Dialogue.mod": {
+    "name": "Hound diplomat",
     "stringId": "58884-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14489,6 +14677,7 @@
     }
   },
   "59013-Dialogue.mod": {
+    "name": "Koin",
     "stringId": "59013-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14537,6 +14726,7 @@
     }
   },
   "59180-Dialogue.mod": {
+    "name": "Grey",
     "stringId": "59180-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14605,6 +14795,7 @@
     }
   },
   "59244-Dialogue.mod": {
+    "name": "Yamdu",
     "stringId": "59244-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14633,6 +14824,7 @@
     }
   },
   "59371-Dialogue.mod": {
+    "name": "Valamon",
     "stringId": "59371-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -14816,6 +15008,7 @@
     }
   },
   "59416-Dialogue.mod": {
+    "name": "Reaver",
     "stringId": "59416-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15029,6 +15222,7 @@
     }
   },
   "59435-Dialogue.mod": {
+    "name": "Reaver Whelp",
     "stringId": "59435-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15052,6 +15246,7 @@
     }
   },
   "60757-Dialogue.mod": {
+    "name": "Anti slaver Ninja HQ",
     "stringId": "60757-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15115,6 +15310,7 @@
     }
   },
   "60922-Dialogue.mod": {
+    "name": "Player Bo",
     "stringId": "60922-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15168,6 +15364,7 @@
     }
   },
   "62339-Dialogue.mod": {
+    "name": "Tinfist",
     "stringId": "62339-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15294,6 +15491,7 @@
     }
   },
   "62387-Dialogue.mod": {
+    "name": "Player flotsam",
     "stringId": "62387-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15475,6 +15673,7 @@
     }
   },
   "62405-Dialogue.mod": {
+    "name": "Lu",
     "stringId": "62405-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15513,6 +15712,7 @@
     }
   },
   "62466-Dialogue.mod": {
+    "name": "Fresh Ronin",
     "stringId": "62466-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15541,6 +15741,7 @@
     }
   },
   "62856-Dialogue.mod": {
+    "name": "Skeleton legion",
     "stringId": "62856-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15557,6 +15758,7 @@
     }
   },
   "62947-Dialogue.mod": {
+    "name": "Savant",
     "stringId": "62947-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15590,6 +15792,7 @@
     }
   },
   "63073-Dialogue.mod": {
+    "name": "Skeleton bandit -The Elder",
     "stringId": "63073-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15623,6 +15826,7 @@
     }
   },
   "63141-Dialogue.mod": {
+    "name": "Skeleton Bandit patrol",
     "stringId": "63141-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15651,6 +15855,7 @@
     }
   },
   "63142-Dialogue.mod": {
+    "name": "Skeleton bandit - HQ",
     "stringId": "63142-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15679,6 +15884,7 @@
     }
   },
   "63263-Dialogue.mod": {
+    "name": "Skin Bandit - HQ",
     "stringId": "63263-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15707,6 +15913,7 @@
     }
   },
   "63275-Dialogue.mod": {
+    "name": "Skin Bandits - Patrol",
     "stringId": "63275-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15740,6 +15947,7 @@
     }
   },
   "63288-Dialogue.mod": {
+    "name": "Noble Manhunter",
     "stringId": "63288-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15798,6 +16006,7 @@
     }
   },
   "63340-Dialogue.mod": {
+    "name": "Vault Prisoner 1",
     "stringId": "63340-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15829,6 +16038,7 @@
     }
   },
   "63458-Dialogue.mod": {
+    "name": "Player Ludin",
     "stringId": "63458-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15862,6 +16072,7 @@
     }
   },
   "63505-Dialogue.mod": {
+    "name": "Tengu's Vault Guard",
     "stringId": "63505-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -15995,6 +16206,7 @@
     }
   },
   "63536-Dialogue.mod": {
+    "name": "Tengu's Vault warden",
     "stringId": "63536-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16018,6 +16230,7 @@
     }
   },
   "63598-Dialogue.mod": {
+    "name": "Crab raider",
     "stringId": "63598-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16071,6 +16284,7 @@
     }
   },
   "64292-Dialogue.mod": {
+    "name": "Pacifier",
     "stringId": "64292-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16092,6 +16306,7 @@
     }
   },
   "64709-Dialogue.mod": {
+    "name": "Ghost",
     "stringId": "64709-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16120,6 +16335,7 @@
     }
   },
   "64714-Dialogue.mod": {
+    "name": "Dimak",
     "stringId": "64714-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16136,6 +16352,7 @@
     }
   },
   "64915-Dialogue.mod": {
+    "name": "Mongrel bar chatter",
     "stringId": "64915-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16152,6 +16369,7 @@
     }
   },
   "65827-Dialogue.mod": {
+    "name": "Cannibal Hunter",
     "stringId": "65827-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16195,6 +16413,7 @@
     }
   },
   "65874-Dialogue.mod": {
+    "name": "Crab patron",
     "stringId": "65874-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16233,6 +16452,7 @@
     }
   },
   "65938-Dialogue.mod": {
+    "name": "Player Lumi",
     "stringId": "65938-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16256,6 +16476,7 @@
     }
   },
   "95843-Dialogue.mod": {
+    "name": "Shopkeep robotics",
     "stringId": "95843-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16314,6 +16535,7 @@
     }
   },
   "96109-Dialogue.mod": {
+    "name": "Hive Queen",
     "stringId": "96109-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16350,6 +16572,7 @@
     }
   },
   "96161-Dialogue.mod": {
+    "name": "Sand ninja tower",
     "stringId": "96161-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16383,6 +16606,7 @@
     }
   },
   "96296-Dialogue.mod": {
+    "name": "Hiver queens village",
     "stringId": "96296-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16406,6 +16630,7 @@
     }
   },
   "96302-Dialogue.mod": {
+    "name": "Npc HIVER Queen's soldier ",
     "stringId": "96302-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16557,6 +16782,7 @@
     }
   },
   "96370-Dialogue.mod": {
+    "name": "Gurgler",
     "stringId": "96370-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16603,6 +16829,7 @@
     }
   },
   "97104-Dialogue.mod": {
+    "name": "Screamer",
     "stringId": "97104-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16626,6 +16853,7 @@
     }
   },
   "98247-Dialogue.mod": {
+    "name": "Catun Bar Patron",
     "stringId": "98247-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16674,6 +16902,7 @@
     }
   },
   "98551-Dialogue.mod": {
+    "name": "Gorillo Bandit",
     "stringId": "98551-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16732,6 +16961,7 @@
     }
   },
   "98633-Dialogue.mod": {
+    "name": "Gorrillo",
     "stringId": "98633-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16755,6 +16985,7 @@
     }
   },
   "1533632-Dialogue.mod": {
+    "name": "Simion",
     "stringId": "1533632-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16793,6 +17024,7 @@
     }
   },
   "1534018-Dialogue.mod": {
+    "name": "Black desert skeleton patron",
     "stringId": "1534018-Dialogue.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16816,6 +17048,7 @@
     }
   },
   "50252-rebirth.mod": {
+    "name": "Armour King",
     "stringId": "50252-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16844,6 +17077,7 @@
     }
   },
   "18017-rebirth.mod": {
+    "name": "white eyebrow",
     "stringId": "18017-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16860,6 +17094,7 @@
     }
   },
   "43939-rebirth.mod": {
+    "name": "holy farmer boss",
     "stringId": "43939-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16893,6 +17128,7 @@
     }
   },
   "43328-rebirth.mod": {
+    "name": "hive shopkeeper",
     "stringId": "43328-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16921,6 +17157,7 @@
     }
   },
   "50312-rebirth.mod": {
+    "name": "DIALOGUE_PACKAGE",
     "stringId": "50312-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16929,6 +17166,7 @@
     "references": {}
   },
   "14473-rebirth.mod": {
+    "name": "hospital",
     "stringId": "14473-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16962,6 +17200,7 @@
     }
   },
   "42081-rebirth.mod": {
+    "name": "Indie faction guard",
     "stringId": "42081-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -16993,6 +17232,7 @@
     }
   },
   "44871-rebirth.mod": {
+    "name": "dust bandit tower guards",
     "stringId": "44871-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17021,6 +17261,7 @@
     }
   },
   "50343-rebirth.mod": {
+    "name": "Deadcat fighter",
     "stringId": "50343-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17059,6 +17300,7 @@
     }
   },
   "42204-rebirth.mod": {
+    "name": "animal- garru",
     "stringId": "42204-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17075,6 +17317,7 @@
     }
   },
   "42043-rebirth.mod": {
+    "name": "fogman",
     "stringId": "42043-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17096,6 +17339,7 @@
     }
   },
   "42082-rebirth.mod": {
+    "name": "civilian tough ",
     "stringId": "42082-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17127,6 +17371,7 @@
     }
   },
   "18016-rebirth.mod": {
+    "name": "black dragon",
     "stringId": "18016-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17155,6 +17400,7 @@
     }
   },
   "50576-rebirth.mod": {
+    "name": "fish shop",
     "stringId": "50576-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17183,6 +17429,7 @@
     }
   },
   "50571-rebirth.mod": {
+    "name": "ted skeleton tower recruit",
     "stringId": "50571-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17206,6 +17453,7 @@
     }
   },
   "50608-rebirth.mod": {
+    "name": "cannibal grand wizard",
     "stringId": "50608-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17222,6 +17470,7 @@
     }
   },
   "48783-rebirth.mod": {
+    "name": "animal- leviathan NW",
     "stringId": "48783-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17238,6 +17487,7 @@
     }
   },
   "50927-rebirth.mod": {
+    "name": "mercenary",
     "stringId": "50927-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17269,6 +17519,7 @@
     }
   },
   "50928-rebirth.mod": {
+    "name": "swamper barman",
     "stringId": "50928-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17292,6 +17543,7 @@
     }
   },
   "50966-rebirth.mod": {
+    "name": "dancing skeleton patrons",
     "stringId": "50966-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17315,6 +17567,7 @@
     }
   },
   "50971-rebirth.mod": {
+    "name": "swamper shop guard",
     "stringId": "50971-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17346,6 +17599,7 @@
     }
   },
   "51337-rebirth.mod": {
+    "name": "shek duel wandering fight starter",
     "stringId": "51337-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17367,6 +17621,7 @@
     }
   },
   "51413-rebirth.mod": {
+    "name": "holy secret paladin (attack on sight)",
     "stringId": "51413-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17390,6 +17645,7 @@
     }
   },
   "51485-rebirth.mod": {
+    "name": "bounty hunters for bugmaster",
     "stringId": "51485-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17443,6 +17699,7 @@
     }
   },
   "51765-rebirth.mod": {
+    "name": "fish and drugs",
     "stringId": "51765-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17471,6 +17728,7 @@
     }
   },
   "53302-rebirth.mod": {
+    "name": "TOUGH 1234",
     "stringId": "53302-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17502,6 +17760,7 @@
     }
   },
   "54549-rebirth.mod": {
+    "name": "slaver used clothing shop",
     "stringId": "54549-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17525,6 +17784,7 @@
     }
   },
   "55105-rebirth.mod": {
+    "name": "wandering trader (civilian combo)",
     "stringId": "55105-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17551,6 +17811,7 @@
     }
   },
   "56047-rebirth.mod": {
+    "name": "noble procession captain",
     "stringId": "56047-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17584,6 +17845,7 @@
     }
   },
   "56189-rebirth.mod": {
+    "name": "shopkeep base with no TALK_TO_ME",
     "stringId": "56189-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17637,6 +17899,7 @@
     }
   },
   "57330-rebirth.mod": {
+    "name": "beep (player)",
     "stringId": "57330-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17705,6 +17968,7 @@
     }
   },
   "57371-rebirth.mod": {
+    "name": "beep (recruit)",
     "stringId": "57371-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17733,6 +17997,7 @@
     }
   },
   "57406-__dont commit.mod": {
+    "name": "__races",
     "stringId": "57406-__dont commit.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17779,6 +18044,7 @@
     }
   },
   "57325-__dont commit.mod": {
+    "name": "_plurals_PACKAGE",
     "stringId": "57325-__dont commit.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17795,6 +18061,7 @@
     }
   },
   "58698-rebirth.mod": {
+    "name": "good ninjas",
     "stringId": "58698-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17826,6 +18093,7 @@
     }
   },
   "59294-rebirth.mod": {
+    "name": "shek bounty desk",
     "stringId": "59294-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17849,6 +18117,7 @@
     }
   },
   "60988-rebirth.mod": {
+    "name": "__test hunger",
     "stringId": "60988-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17865,6 +18134,7 @@
     }
   },
   "62835-rebirth.mod": {
+    "name": "goat herder",
     "stringId": "62835-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17898,6 +18168,7 @@
     }
   },
   "64656-rebirth.mod": {
+    "name": "shopkeep with robo repair",
     "stringId": "64656-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17921,6 +18192,7 @@
     }
   },
   "64902-rebirth.mod": {
+    "name": "racist bandit leader",
     "stringId": "64902-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17959,6 +18231,7 @@
     }
   },
   "64924-rebirth.mod": {
+    "name": "errorcode bots",
     "stringId": "64924-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -17995,6 +18268,7 @@
     }
   },
   "65074-october 17.mod": {
+    "name": "Npc Villager Add-on",
     "stringId": "65074-october 17.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18011,6 +18285,7 @@
     }
   },
   "65029-october 17.mod": {
+    "name": "Rebirth shopkeep",
     "stringId": "65029-october 17.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18044,6 +18319,7 @@
     }
   },
   "65974-November.mod": {
+    "name": "Crab raider civilian",
     "stringId": "65974-November.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18087,6 +18363,7 @@
     }
   },
   "95515-rebirth.mod": {
+    "name": "cheat police",
     "stringId": "95515-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18108,6 +18385,7 @@
     }
   },
   "95830-__december17.mod": {
+    "name": "Robotics Black desert",
     "stringId": "95830-__december17.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18136,6 +18414,7 @@
     }
   },
   "95715-__Mourn.mod": {
+    "name": "Lagoon patron",
     "stringId": "95715-__Mourn.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18174,6 +18453,7 @@
     }
   },
   "95600-__Mourn.mod": {
+    "name": "Shopkeep Lagoon",
     "stringId": "95600-__Mourn.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18227,6 +18507,7 @@
     }
   },
   "95556-Mourn.mod": {
+    "name": "shopkeep Mourn",
     "stringId": "95556-Mourn.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18268,6 +18549,7 @@
     }
   },
   "96222-__Southern hive.mod": {
+    "name": "Hive robotics shopkeeper",
     "stringId": "96222-__Southern hive.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18296,6 +18578,7 @@
     }
   },
   "97094-rebirth.mod": {
+    "name": "Agnu (recruit)",
     "stringId": "97094-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18322,6 +18605,7 @@
     }
   },
   "97100-rebirth.mod": {
+    "name": "Agnu (player)",
     "stringId": "97100-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18358,6 +18642,7 @@
     }
   },
   "98555-rebirth.mod": {
+    "name": "no-face",
     "stringId": "98555-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18396,6 +18681,7 @@
     }
   },
   "1531888-__May 18.mod": {
+    "name": "Npc Hiver (World State- Queen is dead)",
     "stringId": "1531888-__May 18.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18552,6 +18838,7 @@
     }
   },
   "1532484-__May 18 2.mod": {
+    "name": "Yabuta Outlaw",
     "stringId": "1532484-__May 18 2.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18585,6 +18872,7 @@
     }
   },
   "1532896-__world reactions NE.mod": {
+    "name": "Bark Fish Shop",
     "stringId": "1532896-__world reactions NE.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18618,6 +18906,7 @@
     }
   },
   "1533074-__world reactions W.mod": {
+    "name": "Strayed Paladin",
     "stringId": "1533074-__world reactions W.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18656,6 +18945,7 @@
     }
   },
   "1533667-__world reactions Slavers.mod": {
+    "name": "Rogue Scout",
     "stringId": "1533667-__world reactions Slavers.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18689,6 +18979,7 @@
     }
   },
   "1533860-rebirth.mod": {
+    "name": "cat lon",
     "stringId": "1533860-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18705,6 +18996,7 @@
     }
   },
   "1534016-rebirth.mod": {
+    "name": "screeee",
     "stringId": "1534016-rebirth.mod",
     "type": "DialoguePackage",
     "values": {
@@ -18721,6 +19013,7 @@
     }
   },
   "1535071-__November6.mod": {
+    "name": "Anti Slaver Ninja",
     "stringId": "1535071-__November6.mod",
     "type": "DialoguePackage",
     "values": {

@@ -1,5 +1,6 @@
 {
   "95408-sfx.mod": {
+    "name": "Auto Mine",
     "stringId": "95408-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -13,6 +14,7 @@
     "references": {}
   },
   "95409-sfx.mod": {
+    "name": "Battery Bank",
     "stringId": "95409-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -26,6 +28,7 @@
     "references": {}
   },
   "95407-sfx.mod": {
+    "name": "Biofuel",
     "stringId": "95407-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -39,6 +42,7 @@
     "references": {}
   },
   "95404-sfx.mod": {
+    "name": "Campfire",
     "stringId": "95404-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -52,6 +56,7 @@
     "references": {}
   },
   "95410-sfx.mod": {
+    "name": "Ceiling Fan",
     "stringId": "95410-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -65,6 +70,7 @@
     "references": {}
   },
   "95411-sfx.mod": {
+    "name": "Electronics Bench",
     "stringId": "95411-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -78,6 +84,7 @@
     "references": {}
   },
   "95412-sfx.mod": {
+    "name": "Furnace",
     "stringId": "95412-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -91,6 +98,7 @@
     "references": {}
   },
   "95398-sfx.mod": {
+    "name": "Generator",
     "stringId": "95398-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -104,6 +112,7 @@
     "references": {}
   },
   "95406-sfx.mod": {
+    "name": "Grind",
     "stringId": "95406-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -117,6 +126,7 @@
     "references": {}
   },
   "95413-sfx.mod": {
+    "name": "Leather Tanning",
     "stringId": "95413-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -130,6 +140,7 @@
     "references": {}
   },
   "95414-sfx.mod": {
+    "name": "Light Hum",
     "stringId": "95414-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -143,6 +154,7 @@
     "references": {}
   },
   "95415-sfx.mod": {
+    "name": "Loom",
     "stringId": "95415-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -156,6 +168,7 @@
     "references": {}
   },
   "95416-sfx.mod": {
+    "name": "Medical Bench",
     "stringId": "95416-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -169,6 +182,7 @@
     "references": {}
   },
   "95397-sfx.mod": {
+    "name": "Oven",
     "stringId": "95397-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -182,6 +196,7 @@
     "references": {}
   },
   "95417-sfx.mod": {
+    "name": "Research Bench",
     "stringId": "95417-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -195,6 +210,7 @@
     "references": {}
   },
   "95418-sfx.mod": {
+    "name": "Robotics Bench",
     "stringId": "95418-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -208,6 +224,7 @@
     "references": {}
   },
   "95419-sfx.mod": {
+    "name": "Rum Still",
     "stringId": "95419-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -221,6 +238,7 @@
     "references": {}
   },
   "95405-sfx.mod": {
+    "name": "Stone Processor",
     "stringId": "95405-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -234,6 +252,7 @@
     "references": {}
   },
   "95420-sfx.mod": {
+    "name": "Water Tank",
     "stringId": "95420-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -247,6 +266,7 @@
     "references": {}
   },
   "95421-sfx.mod": {
+    "name": "Well",
     "stringId": "95421-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -260,6 +280,7 @@
     "references": {}
   },
   "95422-sfx.mod": {
+    "name": "Wind Generator Large",
     "stringId": "95422-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -273,6 +294,7 @@
     "references": {}
   },
   "95423-sfx.mod": {
+    "name": "Wind Generator Small",
     "stringId": "95423-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -286,6 +308,7 @@
     "references": {}
   },
   "56163-rebirth.mod": {
+    "name": "fire blast",
     "stringId": "56163-rebirth.mod",
     "type": "AmbientSound",
     "values": {
@@ -299,6 +322,7 @@
     "references": {}
   },
   "95424-sfx.mod": {
+    "name": "Torch Fire",
     "stringId": "95424-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -312,6 +336,7 @@
     "references": {}
   },
   "95425-sfx.mod": {
+    "name": "Corpse Flies",
     "stringId": "95425-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -325,6 +350,7 @@
     "references": {}
   },
   "95426-sfx.mod": {
+    "name": "Inferno",
     "stringId": "95426-sfx.mod",
     "type": "AmbientSound",
     "values": {
@@ -338,6 +364,7 @@
     "references": {}
   },
   "96139-sfx.mod": {
+    "name": "Iron Spider Engine",
     "stringId": "96139-sfx.mod",
     "type": "AmbientSound",
     "values": {

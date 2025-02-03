@@ -1,5 +1,6 @@
 {
   "5339-gamedata.base": {
+    "name": "Ninja TEMPLATE",
     "stringId": "5339-gamedata.base",
     "type": "FactionTemplate",
     "values": {
@@ -100,6 +101,7 @@
     }
   },
   "3102-gamedata.base": {
+    "name": "med bandits",
     "stringId": "3102-gamedata.base",
     "type": "FactionTemplate",
     "values": {
@@ -123,6 +125,7 @@
     "references": {}
   },
   "14538-gamedata.base": {
+    "name": "bounty hunters",
     "stringId": "14538-gamedata.base",
     "type": "FactionTemplate",
     "values": {
@@ -263,6 +266,7 @@
     }
   },
   "3101-gamedata.base": {
+    "name": "poor Bandits",
     "stringId": "3101-gamedata.base",
     "type": "FactionTemplate",
     "values": {

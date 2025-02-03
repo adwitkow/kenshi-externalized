@@ -1,5 +1,6 @@
 {
   "110-gamedata.quack": {
+    "name": "GLOBAL CONSTANTS",
     "stringId": "110-gamedata.quack",
     "type": "Constants",
     "values": {

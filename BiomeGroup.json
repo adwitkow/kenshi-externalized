@@ -1,5 +1,6 @@
 {
   "18001-gamedata.base": {
+    "name": "The Desert",
     "stringId": "18001-gamedata.base",
     "type": "BiomeGroup",
     "values": {
@@ -106,6 +107,7 @@
     }
   },
   "18003-gamedata.base": {
+    "name": "NONE",
     "stringId": "18003-gamedata.base",
     "type": "BiomeGroup",
     "values": {
@@ -132,6 +134,7 @@
     }
   },
   "44956-Newwworld.mod": {
+    "name": "Desert",
     "stringId": "44956-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -195,6 +198,7 @@
     }
   },
   "48447-Newwworld.mod": {
+    "name": "The Swamp",
     "stringId": "48447-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -339,6 +343,7 @@
     }
   },
   "48462-Newwworld.mod": {
+    "name": "Ashlands",
     "stringId": "48462-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -421,6 +426,7 @@
     }
   },
   "44961-Newwworld.mod": {
+    "name": "Akakus",
     "stringId": "44961-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -527,6 +533,7 @@
     }
   },
   "48456-Newwworld.mod": {
+    "name": "Deadlands",
     "stringId": "48456-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -586,6 +593,7 @@
     }
   },
   "48678-Newwworld.mod": {
+    "name": "Stobe's Gamble",
     "stringId": "48678-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -718,6 +726,7 @@
     }
   },
   "44871-Newwworld.mod": {
+    "name": "Skinner's Roam",
     "stringId": "44871-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -887,6 +896,7 @@
     }
   },
   "51405-Newwworld.mod": {
+    "name": "Rim Sands",
     "stringId": "51405-Newwworld.mod",
     "type": "BiomeGroup",
     "values": {
@@ -931,6 +941,7 @@
     }
   },
   "18002-gamedata.base": {
+    "name": "Central",
     "stringId": "18002-gamedata.base",
     "type": "BiomeGroup",
     "values": {
@@ -987,6 +998,7 @@
     }
   },
   "42255-rebirth.mod": {
+    "name": "The Iron Trail",
     "stringId": "42255-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1046,6 +1058,7 @@
     }
   },
   "50248-rebirth.mod": {
+    "name": "Arm of Okran",
     "stringId": "50248-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1084,6 +1097,7 @@
     }
   },
   "49388-rebirth.mod": {
+    "name": "Rebirth",
     "stringId": "49388-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1122,6 +1136,7 @@
     }
   },
   "42084-rebirth.mod": {
+    "name": "Floodlands",
     "stringId": "42084-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1186,6 +1201,7 @@
     }
   },
   "18006-rebirth.mod": {
+    "name": "Okran's Gulf",
     "stringId": "18006-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1360,6 +1376,7 @@
     }
   },
   "49383-rebirth.mod": {
+    "name": "Wend",
     "stringId": "49383-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1407,6 +1424,7 @@
     }
   },
   "48746-rebirth.mod": {
+    "name": "Northern Coast",
     "stringId": "48746-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1546,6 +1564,7 @@
     }
   },
   "43922-rebirth.mod": {
+    "name": "Okran's Valley",
     "stringId": "43922-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1687,6 +1706,7 @@
     }
   },
   "42254-rebirth.mod": {
+    "name": "Cannibal Plains",
     "stringId": "42254-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1811,6 +1831,7 @@
     }
   },
   "42099-rebirth.mod": {
+    "name": "Iron Valleys",
     "stringId": "42099-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -1908,6 +1929,7 @@
     }
   },
   "18876-rebirth.mod": {
+    "name": "Okran's Pride",
     "stringId": "18876-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2084,6 +2106,7 @@
     }
   },
   "42094-rebirth.mod": {
+    "name": "Dreg",
     "stringId": "42094-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2223,6 +2246,7 @@
     }
   },
   "48744-rebirth.mod": {
+    "name": "Purple Sands",
     "stringId": "48744-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2288,6 +2312,7 @@
     }
   },
   "42091-rebirth.mod": {
+    "name": "Obedience",
     "stringId": "42091-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2333,6 +2358,7 @@
     }
   },
   "42252-rebirth.mod": {
+    "name": "The Shrieking Forest",
     "stringId": "42252-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2378,6 +2404,7 @@
     }
   },
   "42256-rebirth.mod": {
+    "name": "Berserker Country",
     "stringId": "42256-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2431,6 +2458,7 @@
     }
   },
   "42238-rebirth.mod": {
+    "name": "Empire",
     "stringId": "42238-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2501,6 +2529,7 @@
     }
   },
   "42192-rebirth.mod": {
+    "name": "Vain",
     "stringId": "42192-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2595,6 +2624,7 @@
     }
   },
   "48745-rebirth.mod": {
+    "name": "Leviathan Coast",
     "stringId": "48745-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2689,6 +2719,7 @@
     }
   },
   "42262-rebirth.mod": {
+    "name": "Border Zone",
     "stringId": "42262-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -2893,6 +2924,7 @@
     }
   },
   "48748-rebirth.mod": {
+    "name": "Hidden Forest",
     "stringId": "48748-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3017,6 +3049,7 @@
     }
   },
   "18890-rebirth.mod": {
+    "name": "Fog Islands",
     "stringId": "18890-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3086,6 +3119,7 @@
     }
   },
   "50982-rebirth.mod": {
+    "name": "Raptor Island",
     "stringId": "50982-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3143,6 +3177,7 @@
     }
   },
   "51287-rebirth.mod": {
+    "name": "Stenn Desert",
     "stringId": "51287-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3307,6 +3342,7 @@
     }
   },
   "51326-rebirth.mod": {
+    "name": "Arach",
     "stringId": "51326-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3359,6 +3395,7 @@
     }
   },
   "51334-rebirth.mod": {
+    "name": "Shun",
     "stringId": "51334-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3446,6 +3483,7 @@
     }
   },
   "51359-rebirth.mod": {
+    "name": "Spider Plains",
     "stringId": "51359-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3563,6 +3601,7 @@
     }
   },
   "51363-rebirth.mod": {
+    "name": "The Crater",
     "stringId": "51363-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3622,6 +3661,7 @@
     }
   },
   "51379-rebirth.mod": {
+    "name": "The Grid",
     "stringId": "51379-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3672,6 +3712,7 @@
     }
   },
   "51380-rebirth.mod": {
+    "name": "South Wetlands",
     "stringId": "51380-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3758,6 +3799,7 @@
     }
   },
   "51386-rebirth.mod": {
+    "name": "Watcher's Rim",
     "stringId": "51386-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3796,6 +3838,7 @@
     }
   },
   "51654-rebirth.mod": {
+    "name": "The Hook",
     "stringId": "51654-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -3980,6 +4023,7 @@
     }
   },
   "55621-rebirth.mod": {
+    "name": "The Great Desert",
     "stringId": "55621-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -4279,6 +4323,7 @@
     }
   },
   "55636-rebirth.mod": {
+    "name": "Burning Forest",
     "stringId": "55636-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -4358,6 +4403,7 @@
     }
   },
   "55641-rebirth.mod": {
+    "name": "The Black Desert",
     "stringId": "55641-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -4420,6 +4466,7 @@
     }
   },
   "55648-rebirth.mod": {
+    "name": "Heng",
     "stringId": "55648-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -4694,6 +4741,7 @@
     }
   },
   "55659-rebirth.mod": {
+    "name": "Darkfinger",
     "stringId": "55659-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -4798,6 +4846,7 @@
     }
   },
   "55664-rebirth.mod": {
+    "name": "Bast",
     "stringId": "55664-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -4947,6 +4996,7 @@
     }
   },
   "55667-rebirth.mod": {
+    "name": "The Eye",
     "stringId": "55667-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5106,6 +5156,7 @@
     }
   },
   "55674-rebirth.mod": {
+    "name": "Gut",
     "stringId": "55674-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5180,6 +5231,7 @@
     }
   },
   "55678-rebirth.mod": {
+    "name": "Venge",
     "stringId": "55678-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5247,6 +5299,7 @@
     }
   },
   "55938-rebirth.mod": {
+    "name": "Shem",
     "stringId": "55938-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5386,6 +5439,7 @@
     }
   },
   "55939-rebirth.mod": {
+    "name": "Sonorous Dark",
     "stringId": "55939-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5458,6 +5512,7 @@
     }
   },
   "56099-rebirth.mod": {
+    "name": "Bonefields",
     "stringId": "56099-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5592,6 +5647,7 @@
     }
   },
   "56110-rebirth.mod": {
+    "name": "Howler Maze",
     "stringId": "56110-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5666,6 +5722,7 @@
     }
   },
   "56111-rebirth.mod": {
+    "name": "Skimsands",
     "stringId": "56111-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5798,6 +5855,7 @@
     }
   },
   "56123-rebirth.mod": {
+    "name": "NONE",
     "stringId": "56123-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5838,6 +5896,7 @@
     }
   },
   "57287-rebirth.mod": {
+    "name": "Greenbeach",
     "stringId": "57287-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5932,6 +5991,7 @@
     }
   },
   "57724-rebirth.mod": {
+    "name": "Royal Valley",
     "stringId": "57724-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -5989,6 +6049,7 @@
     }
   },
   "57725-rebirth.mod": {
+    "name": "Greyshelf",
     "stringId": "57725-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6056,6 +6117,7 @@
     }
   },
   "57726-rebirth.mod": {
+    "name": "Stobe's Garden",
     "stringId": "57726-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6153,6 +6215,7 @@
     }
   },
   "57727-rebirth.mod": {
+    "name": "The Pits East",
     "stringId": "57727-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6240,6 +6303,7 @@
     }
   },
   "62169-rebirth.mod": {
+    "name": "Stormgap Coast",
     "stringId": "62169-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6399,6 +6463,7 @@
     }
   },
   "62170-rebirth.mod": {
+    "name": "The Outlands",
     "stringId": "62170-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6478,6 +6543,7 @@
     }
   },
   "62171-rebirth.mod": {
+    "name": "The Unwanted Zone",
     "stringId": "62171-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6582,6 +6648,7 @@
     }
   },
   "62172-rebirth.mod": {
+    "name": "Forbidden Isle",
     "stringId": "62172-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6647,6 +6714,7 @@
     }
   },
   "62382-rebirth.mod": {
+    "name": "Flats Lagoon",
     "stringId": "62382-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6816,6 +6884,7 @@
     }
   },
   "62834-rebirth.mod": {
+    "name": "Sinkuun",
     "stringId": "62834-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -6960,6 +7029,7 @@
     }
   },
   "63748-rebirth.mod": {
+    "name": "Spine Canyon",
     "stringId": "63748-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7039,6 +7109,7 @@
     }
   },
   "64810-rebirth.mod": {
+    "name": "Grey Desert",
     "stringId": "64810-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7176,6 +7247,7 @@
     }
   },
   "65822-rebirth.mod": {
+    "name": "The Crags",
     "stringId": "65822-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7298,6 +7370,7 @@
     }
   },
   "65823-rebirth.mod": {
+    "name": "The Pits",
     "stringId": "65823-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7405,6 +7478,7 @@
     }
   },
   "95536-rebirth.mod": {
+    "name": "Cheaters Run",
     "stringId": "95536-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7460,6 +7534,7 @@
     }
   },
   "95538-rebirth.mod": {
+    "name": "High Bonefields",
     "stringId": "95538-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7576,6 +7651,7 @@
     }
   },
   "95758-rebirth.mod": {
+    "name": "Sniper Valley",
     "stringId": "95758-rebirth.mod",
     "type": "BiomeGroup",
     "values": {
@@ -7648,6 +7724,7 @@
     }
   },
   "96354-rebirth.mod": {
+    "name": "Fishman Island",
     "stringId": "96354-rebirth.mod",
     "type": "BiomeGroup",
     "values": {

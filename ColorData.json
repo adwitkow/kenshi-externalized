@@ -1,5 +1,6 @@
 {
   "1367-gamedata.base": {
+    "name": "super black",
     "stringId": "1367-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -9,6 +10,7 @@
     "references": {}
   },
   "2177-gamedata.base": {
+    "name": "hair brown",
     "stringId": "2177-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -18,6 +20,7 @@
     "references": {}
   },
   "1297-gamedata.base": {
+    "name": "black",
     "stringId": "1297-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -27,6 +30,7 @@
     "references": {}
   },
   "16862-gamedata.base": {
+    "name": "blood bandits color",
     "stringId": "16862-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -36,6 +40,7 @@
     "references": {}
   },
   "1256-gamedata.base": {
+    "name": "Free traders",
     "stringId": "1256-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -45,6 +50,7 @@
     "references": {}
   },
   "1290-gamedata.base": {
+    "name": "sepia",
     "stringId": "1290-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -54,6 +60,7 @@
     "references": {}
   },
   "14536-gamedata.base": {
+    "name": "bounty hunters",
     "stringId": "14536-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -63,6 +70,7 @@
     "references": {}
   },
   "3984-gamedata.base": {
+    "name": "grey dog",
     "stringId": "3984-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -72,6 +80,7 @@
     "references": {}
   },
   "3997-gamedata.base": {
+    "name": "goat",
     "stringId": "3997-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -81,6 +90,7 @@
     "references": {}
   },
   "1291-gamedata.base": {
+    "name": "Mercs",
     "stringId": "1291-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -90,6 +100,7 @@
     "references": {}
   },
   "2175-gamedata.base": {
+    "name": "straw",
     "stringId": "2175-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -99,6 +110,7 @@
     "references": {}
   },
   "1255-gamedata.base": {
+    "name": "Holy Red",
     "stringId": "1255-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -108,6 +120,7 @@
     "references": {}
   },
   "1257-gamedata.base": {
+    "name": "bandit yellow",
     "stringId": "1257-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -117,6 +130,7 @@
     "references": {}
   },
   "1253-gamedata.base": {
+    "name": "Empire color",
     "stringId": "1253-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -126,6 +140,7 @@
     "references": {}
   },
   "14535-gamedata.base": {
+    "name": "ninja",
     "stringId": "14535-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -135,6 +150,7 @@
     "references": {}
   },
   "1254-gamedata.base": {
+    "name": "Player",
     "stringId": "1254-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -144,6 +160,7 @@
     "references": {}
   },
   "2174-gamedata.base": {
+    "name": "ginge 1",
     "stringId": "2174-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -153,6 +170,7 @@
     "references": {}
   },
   "18913-gamedata.base": {
+    "name": "orange robes",
     "stringId": "18913-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -162,6 +180,7 @@
     "references": {}
   },
   "1363-gamedata.base": {
+    "name": "gold inquisitor",
     "stringId": "1363-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -171,6 +190,7 @@
     "references": {}
   },
   "2176-gamedata.base": {
+    "name": "hair white",
     "stringId": "2176-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -180,6 +200,7 @@
     "references": {}
   },
   "1266-gamedata.base": {
+    "name": "white",
     "stringId": "1266-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -189,6 +210,7 @@
     "references": {}
   },
   "16861-gamedata.base": {
+    "name": "purple",
     "stringId": "16861-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -198,6 +220,7 @@
     "references": {}
   },
   "2173-gamedata.base": {
+    "name": "nice black",
     "stringId": "2173-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -207,6 +230,7 @@
     "references": {}
   },
   "18912-gamedata.base": {
+    "name": "empire 2",
     "stringId": "18912-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -216,6 +240,7 @@
     "references": {}
   },
   "51664-Newwworld.mod": {
+    "name": "Fancy Jack Jacket",
     "stringId": "51664-Newwworld.mod",
     "type": "ColorData",
     "values": {
@@ -225,6 +250,7 @@
     "references": {}
   },
   "51665-Newwworld.mod": {
+    "name": "Fancy Jack Pants",
     "stringId": "51665-Newwworld.mod",
     "type": "ColorData",
     "values": {
@@ -234,6 +260,7 @@
     "references": {}
   },
   "14534-gamedata.base": {
+    "name": "Whitest",
     "stringId": "14534-gamedata.base",
     "type": "ColorData",
     "values": {
@@ -243,6 +270,7 @@
     "references": {}
   },
   "43408-changes_otto.mod": {
+    "name": "Hair Colour Blond",
     "stringId": "43408-changes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -252,6 +280,7 @@
     "references": {}
   },
   "43409-changes_otto.mod": {
+    "name": "Hair Colour Red",
     "stringId": "43409-changes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -261,6 +290,7 @@
     "references": {}
   },
   "42261-rebirth.mod": {
+    "name": "Berserker colors",
     "stringId": "42261-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -270,6 +300,7 @@
     "references": {}
   },
   "18913-color_schemes_otto.mod": {
+    "name": "Holy Nation Base",
     "stringId": "18913-color_schemes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -279,6 +310,7 @@
     "references": {}
   },
   "43410-changes_otto.mod": {
+    "name": "Hair Colour Light Brown",
     "stringId": "43410-changes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -288,6 +320,7 @@
     "references": {}
   },
   "43406-changes_otto.mod": {
+    "name": "Hair Colour White",
     "stringId": "43406-changes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -297,6 +330,7 @@
     "references": {}
   },
   "14536-rebirth.mod": {
+    "name": "policenth",
     "stringId": "14536-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -306,6 +340,7 @@
     "references": {}
   },
   "18914-color_schemes_otto.mod": {
+    "name": "Holy Nation Level 3",
     "stringId": "18914-color_schemes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -315,6 +350,7 @@
     "references": {}
   },
   "42023-rebirth.mod": {
+    "name": "cool orange",
     "stringId": "42023-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -324,6 +360,7 @@
     "references": {}
   },
   "18915-color_schemes_otto.mod": {
+    "name": "Holy Nation Level 2",
     "stringId": "18915-color_schemes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -333,6 +370,7 @@
     "references": {}
   },
   "18916-color_schemes_otto.mod": {
+    "name": "Holy Nation Level 1",
     "stringId": "18916-color_schemes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -342,6 +380,7 @@
     "references": {}
   },
   "43407-changes_otto.mod": {
+    "name": "Hair Colour Brown",
     "stringId": "43407-changes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -351,6 +390,7 @@
     "references": {}
   },
   "14537-rebirth.mod": {
+    "name": "empire police chief",
     "stringId": "14537-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -360,6 +400,7 @@
     "references": {}
   },
   "43405-changes_otto.mod": {
+    "name": "Hair Colour Black",
     "stringId": "43405-changes_otto.mod",
     "type": "ColorData",
     "values": {
@@ -369,6 +410,7 @@
     "references": {}
   },
   "51316-rebirth.mod": {
+    "name": "sheks",
     "stringId": "51316-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -378,6 +420,7 @@
     "references": {}
   },
   "51636-rebirth.mod": {
+    "name": "swamp ninjas",
     "stringId": "51636-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -387,6 +430,7 @@
     "references": {}
   },
   "51649-rebirth.mod": {
+    "name": "water clan",
     "stringId": "51649-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -396,6 +440,7 @@
     "references": {}
   },
   "52285-rebirth.mod": {
+    "name": "police",
     "stringId": "52285-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -405,6 +450,7 @@
     "references": {}
   },
   "52329-rebirth.mod": {
+    "name": "traders guild",
     "stringId": "52329-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -414,6 +460,7 @@
     "references": {}
   },
   "54583-rebirth.mod": {
+    "name": "slavers",
     "stringId": "54583-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -423,6 +470,7 @@
     "references": {}
   },
   "55669-rebirth.mod": {
+    "name": "blue gorrillo",
     "stringId": "55669-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -432,6 +480,7 @@
     "references": {}
   },
   "62193-rebirth.mod": {
+    "name": "south hive",
     "stringId": "62193-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -441,6 +490,7 @@
     "references": {}
   },
   "62823-rebirth.mod": {
+    "name": "crab color",
     "stringId": "62823-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -450,6 +500,7 @@
     "references": {}
   },
   "63152-rebirth.mod": {
+    "name": "skeleton bandits",
     "stringId": "63152-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -459,6 +510,7 @@
     "references": {}
   },
   "66298-Boneyard Wolf.mod": {
+    "name": "Boneyard Wolf",
     "stringId": "66298-Boneyard Wolf.mod",
     "type": "ColorData",
     "values": {
@@ -468,6 +520,7 @@
     "references": {}
   },
   "95528-rebirth.mod": {
+    "name": "blue robot rags",
     "stringId": "95528-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -477,6 +530,7 @@
     "references": {}
   },
   "96176-rebirth.mod": {
+    "name": "red yellow",
     "stringId": "96176-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -486,6 +540,7 @@
     "references": {}
   },
   "96456-rebirth.mod": {
+    "name": "black lighter",
     "stringId": "96456-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -495,6 +550,7 @@
     "references": {}
   },
   "98801-rebirth.mod": {
+    "name": "red bandana",
     "stringId": "98801-rebirth.mod",
     "type": "ColorData",
     "values": {
@@ -504,6 +560,7 @@
     "references": {}
   },
   "1533581-rebirth.mod": {
+    "name": "legion",
     "stringId": "1533581-rebirth.mod",
     "type": "ColorData",
     "values": {

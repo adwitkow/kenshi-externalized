@@ -1,5 +1,6 @@
 {
   "4425-Newwworld.mod": {
+    "name": "Birds Main altitude high 800",
     "stringId": "4425-Newwworld.mod",
     "type": "WildlifeBirds",
     "values": {
@@ -26,6 +27,7 @@
     "references": {}
   },
   "2218-gamedata.base": {
+    "name": "WILDLIFE_BIRDS2218",
     "stringId": "2218-gamedata.base",
     "type": "WildlifeBirds",
     "values": {
@@ -53,6 +55,7 @@
     "references": {}
   },
   "48743-rebirth.mod": {
+    "name": "Birds Main altitude low",
     "stringId": "48743-rebirth.mod",
     "type": "WildlifeBirds",
     "values": {
@@ -79,6 +82,7 @@
     "references": {}
   },
   "47950-rebirth.mod": {
+    "name": "drones",
     "stringId": "47950-rebirth.mod",
     "type": "WildlifeBirds",
     "values": {
@@ -105,6 +109,7 @@
     "references": {}
   },
   "49389-rebirth.mod": {
+    "name": "Birds Main altitude high 1200",
     "stringId": "49389-rebirth.mod",
     "type": "WildlifeBirds",
     "values": {
@@ -131,6 +136,7 @@
     "references": {}
   },
   "63885-rebirth.mod": {
+    "name": "Birds Main altitude mid 600",
     "stringId": "63885-rebirth.mod",
     "type": "WildlifeBirds",
     "values": {

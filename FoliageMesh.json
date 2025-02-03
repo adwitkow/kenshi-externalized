@@ -1,5 +1,6 @@
 {
   "2948-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE-Bouldersmall21",
     "stringId": "2948-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -65,6 +66,7 @@
     "references": {}
   },
   "1470-vurt.mod": {
+    "name": "Bush 01 [Brown]",
     "stringId": "1470-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -130,6 +132,7 @@
     "references": {}
   },
   "14558-Newwworld.mod": {
+    "name": "Spore02[Blister]",
     "stringId": "14558-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -195,6 +198,7 @@
     "references": {}
   },
   "43872-Newwworld.mod": {
+    "name": "MonuRock03 Lower slopes",
     "stringId": "43872-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -260,6 +264,7 @@
     "references": {}
   },
   "43870-Newwworld.mod": {
+    "name": "MonuRock01 Lower slopes",
     "stringId": "43870-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -325,6 +330,7 @@
     "references": {}
   },
   "2258-D-vurt.mod": {
+    "name": "Dhanoon (Yellow flower)",
     "stringId": "2258-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -390,6 +396,7 @@
     "references": {}
   },
   "14543-Newwworld.mod": {
+    "name": "Spore01",
     "stringId": "14543-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -463,6 +470,7 @@
     }
   },
   "5667-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-brown-inGrass02",
     "stringId": "5667-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -528,6 +536,7 @@
     "references": {}
   },
   "14553-Newwworld.mod": {
+    "name": "Crumble-Building_Corner04",
     "stringId": "14553-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -601,6 +610,7 @@
     }
   },
   "5646-Newwworld.mod": {
+    "name": "RuinBlocks_04",
     "stringId": "5646-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -666,6 +676,7 @@
     "references": {}
   },
   "1463-vurt.mod": {
+    "name": "DeadTree_roots",
     "stringId": "1463-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -731,6 +742,7 @@
     "references": {}
   },
   "1485-vurt.mod": {
+    "name": "Rock03",
     "stringId": "1485-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -796,6 +808,7 @@
     "references": {}
   },
   "2945-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE-Bouldersmall18",
     "stringId": "2945-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -861,6 +874,7 @@
     "references": {}
   },
   "5497-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece01",
     "stringId": "5497-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -926,6 +940,7 @@
     "references": {}
   },
   "3416-Newwworld.mod": {
+    "name": "Ashland_Foliage_Shell01",
     "stringId": "3416-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -991,6 +1006,7 @@
     "references": {}
   },
   "2715-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder16",
     "stringId": "2715-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1056,6 +1072,7 @@
     "references": {}
   },
   "5499-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece03",
     "stringId": "5499-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1121,6 +1138,7 @@
     "references": {}
   },
   "5789-Newwworld.mod": {
+    "name": "HugeRuinWall06",
     "stringId": "5789-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1186,6 +1204,7 @@
     "references": {}
   },
   "5644-Newwworld.mod": {
+    "name": "RuinBlocks_02",
     "stringId": "5644-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1251,6 +1270,7 @@
     "references": {}
   },
   "3382-Newwworld.mod": {
+    "name": "FOLIAGE_DeadPineType-red",
     "stringId": "3382-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1316,6 +1336,7 @@
     "references": {}
   },
   "2258-vurt.mod": {
+    "name": "2D Cacti",
     "stringId": "2258-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1389,6 +1410,7 @@
     }
   },
   "5811-Newwworld.mod": {
+    "name": "BigGrassClump",
     "stringId": "5811-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1454,6 +1476,7 @@
     "references": {}
   },
   "4450-Newwworld.mod": {
+    "name": "BoneCluster03",
     "stringId": "4450-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1519,6 +1542,7 @@
     "references": {}
   },
   "2711-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder12",
     "stringId": "2711-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1584,6 +1608,7 @@
     "references": {}
   },
   "5697-Newwworld.mod": {
+    "name": "ResourceRock_Copper02",
     "stringId": "5697-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1657,6 +1682,7 @@
     }
   },
   "5749-Newwworld.mod": {
+    "name": "TarTownScaff-Tower02",
     "stringId": "5749-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1730,6 +1756,7 @@
     }
   },
   "2704-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder05",
     "stringId": "2704-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1795,6 +1822,7 @@
     "references": {}
   },
   "3611-Newwworld.mod": {
+    "name": "FOLIAGE_BouldersmallAkakusDark01",
     "stringId": "3611-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1883,6 +1911,7 @@
     }
   },
   "2709-Newwworld.mod": {
+    "name": "FOLIAGE_Boulderbig10",
     "stringId": "2709-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -1948,6 +1977,7 @@
     "references": {}
   },
   "43889-Newwworld.mod": {
+    "name": "ResourceRock-IRON05 Easy Reach",
     "stringId": "43889-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2021,6 +2051,7 @@
     }
   },
   "3238-Newwworld.mod": {
+    "name": "FOLIAGE_Bones-Ribs",
     "stringId": "3238-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2086,6 +2117,7 @@
     "references": {}
   },
   "3609-Newwworld.mod": {
+    "name": "FOLIAGE_BouldersmallAkakusDark03",
     "stringId": "3609-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2151,6 +2183,7 @@
     "references": {}
   },
   "3220-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm02-RED",
     "stringId": "3220-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2216,6 +2249,7 @@
     "references": {}
   },
   "5700-Newwworld.mod": {
+    "name": "TechWreck",
     "stringId": "5700-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2289,6 +2323,7 @@
     }
   },
   "3607-Newwworld.mod": {
+    "name": "FOLIAGE_BouldersmallAkakusDark05",
     "stringId": "3607-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2354,6 +2389,7 @@
     "references": {}
   },
   "1476-vurt.mod": {
+    "name": "Fallen Tree",
     "stringId": "1476-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2419,6 +2455,7 @@
     "references": {}
   },
   "5503-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece07",
     "stringId": "5503-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2484,6 +2521,7 @@
     "references": {}
   },
   "16856-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece06",
     "stringId": "16856-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2557,6 +2595,7 @@
     }
   },
   "5786-Newwworld.mod": {
+    "name": "HugeRuinWall03",
     "stringId": "5786-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2622,6 +2661,7 @@
     "references": {}
   },
   "5729-Newwworld.mod": {
+    "name": "Outcrop_Star",
     "stringId": "5729-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2687,6 +2727,7 @@
     "references": {}
   },
   "4443-Newwworld.mod": {
+    "name": "ForestFern01",
     "stringId": "4443-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2752,6 +2793,7 @@
     "references": {}
   },
   "14550-Newwworld.mod": {
+    "name": "Crumble-Building_Corner01",
     "stringId": "14550-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2840,6 +2882,7 @@
     }
   },
   "3237-Newwworld.mod": {
+    "name": "FOLIAGE_Bones-Skull",
     "stringId": "3237-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2905,6 +2948,7 @@
     "references": {}
   },
   "1469-vurt.mod": {
+    "name": "Small rocks",
     "stringId": "1469-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -2978,6 +3022,7 @@
     }
   },
   "5647-Newwworld.mod": {
+    "name": "RuinBlocks_05",
     "stringId": "5647-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3043,6 +3088,7 @@
     "references": {}
   },
   "5717-Newwworld.mod": {
+    "name": "TechRustyJunk_07",
     "stringId": "5717-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3108,6 +3154,7 @@
     "references": {}
   },
   "1467-vurt.mod": {
+    "name": "DeadTree 02",
     "stringId": "1467-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3173,6 +3220,7 @@
     "references": {}
   },
   "16857-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece07",
     "stringId": "16857-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3246,6 +3294,7 @@
     }
   },
   "5557-Newwworld.mod": {
+    "name": "FOLIAGE_Longleaf Ferntype",
     "stringId": "5557-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3311,6 +3360,7 @@
     "references": {}
   },
   "5555-Newwworld.mod": {
+    "name": "Prehistorsetail",
     "stringId": "5555-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3376,6 +3426,7 @@
     "references": {}
   },
   "1471-vurt.mod": {
+    "name": "Aizoaceae 2D",
     "stringId": "1471-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3441,6 +3492,7 @@
     "references": {}
   },
   "5508-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece12",
     "stringId": "5508-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3506,6 +3558,7 @@
     "references": {}
   },
   "1490-vurt.mod": {
+    "name": "RibCage",
     "stringId": "1490-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3571,6 +3624,7 @@
     "references": {}
   },
   "5551-Newwworld.mod": {
+    "name": "Foliage_CYPRUS-TYPE",
     "stringId": "5551-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3636,6 +3690,7 @@
     "references": {}
   },
   "5549-Newwworld.mod": {
+    "name": "Cactus_Type02-clustered",
     "stringId": "5549-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3701,6 +3756,7 @@
     "references": {}
   },
   "5845-Newwworld.mod": {
+    "name": "FanTree",
     "stringId": "5845-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3766,6 +3822,7 @@
     "references": {}
   },
   "5506-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece10",
     "stringId": "5506-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3831,6 +3888,7 @@
     "references": {}
   },
   "3430-Newwworld.mod": {
+    "name": "Foliage_1K_RockStack01",
     "stringId": "3430-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3896,6 +3954,7 @@
     "references": {}
   },
   "2712-Newwworld.mod": {
+    "name": "FOLIAGE_Boulderbig13",
     "stringId": "2712-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -3961,6 +4020,7 @@
     "references": {}
   },
   "5788-Newwworld.mod": {
+    "name": "HugeRuinWall05",
     "stringId": "5788-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4026,6 +4086,7 @@
     "references": {}
   },
   "3623-Newwworld.mod": {
+    "name": "Foliage_1K_RockStack02",
     "stringId": "3623-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4091,6 +4152,7 @@
     "references": {}
   },
   "43886-Newwworld.mod": {
+    "name": "ResourceRock-IRON02 Easy Reach",
     "stringId": "43886-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4164,6 +4226,7 @@
     }
   },
   "1460-vurt.mod": {
+    "name": "ThinTree 01 [Wide]",
     "stringId": "1460-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4229,6 +4292,7 @@
     "references": {}
   },
   "5587-Newwworld.mod": {
+    "name": "Rock_FlatSlab04",
     "stringId": "5587-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4294,6 +4358,7 @@
     "references": {}
   },
   "5500-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece04",
     "stringId": "5500-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4359,6 +4424,7 @@
     "references": {}
   },
   "5586-Newwworld.mod": {
+    "name": "Rock_FlatSlab03",
     "stringId": "5586-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4424,6 +4490,7 @@
     "references": {}
   },
   "1478-vurt.mod": {
+    "name": "YuccaBig",
     "stringId": "1478-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4489,6 +4556,7 @@
     "references": {}
   },
   "4435-Newwworld.mod": {
+    "name": "Cascade Tree01",
     "stringId": "4435-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4554,6 +4622,7 @@
     "references": {}
   },
   "4459-Newwworld.mod": {
+    "name": "BoneCluster14",
     "stringId": "4459-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4619,6 +4688,7 @@
     "references": {}
   },
   "16854-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece04",
     "stringId": "16854-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4692,6 +4762,7 @@
     }
   },
   "5517-Newwworld.mod": {
+    "name": "Foliage_PINE_SCRAGGY01",
     "stringId": "5517-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4757,6 +4828,7 @@
     "references": {}
   },
   "2253-vurt.mod": {
+    "name": "Tusks",
     "stringId": "2253-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4822,6 +4894,7 @@
     "references": {}
   },
   "5574-Newwworld.mod": {
+    "name": "Thorny Plant01",
     "stringId": "5574-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4887,6 +4960,7 @@
     "references": {}
   },
   "5713-Newwworld.mod": {
+    "name": "TechRustyJunk_03",
     "stringId": "5713-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -4952,6 +5026,7 @@
     "references": {}
   },
   "3229-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle03-BLUE",
     "stringId": "3229-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5017,6 +5092,7 @@
     "references": {}
   },
   "2700-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder01",
     "stringId": "2700-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5140,6 +5216,7 @@
     }
   },
   "3374-Newwworld.mod": {
+    "name": "FOLIAGE_DeadPineTypeCanyonlandVersion",
     "stringId": "3374-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5205,6 +5282,7 @@
     "references": {}
   },
   "2980-Newwworld.mod": {
+    "name": "FOLIAGE_DeadPineType",
     "stringId": "2980-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5270,6 +5348,7 @@
     "references": {}
   },
   "5747-Newwworld.mod": {
+    "name": "TarTownScaff-Tower01",
     "stringId": "5747-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5348,6 +5427,7 @@
     }
   },
   "5645-Newwworld.mod": {
+    "name": "RuinBlocks_03",
     "stringId": "5645-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5413,6 +5493,7 @@
     "references": {}
   },
   "2248-vurt.mod": {
+    "name": "Cacti Yellow Flowers",
     "stringId": "2248-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5478,6 +5559,7 @@
     "references": {}
   },
   "5553-Newwworld.mod": {
+    "name": "Foliage_CYPRUS-TYPE CANYONLAND version",
     "stringId": "5553-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5543,6 +5625,7 @@
     "references": {}
   },
   "4454-Newwworld.mod": {
+    "name": "BoneCluster07",
     "stringId": "4454-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5608,6 +5691,7 @@
     "references": {}
   },
   "2939-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder14",
     "stringId": "2939-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5673,6 +5757,7 @@
     "references": {}
   },
   "2946-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE-Bouldersmall19",
     "stringId": "2946-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5738,6 +5823,7 @@
     "references": {}
   },
   "3624-Newwworld.mod": {
+    "name": "Foliage_1K_RockStack03",
     "stringId": "3624-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5803,6 +5889,7 @@
     "references": {}
   },
   "1475-vurt.mod": {
+    "name": "Alien Cacti 02",
     "stringId": "1475-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5868,6 +5955,7 @@
     "references": {}
   },
   "2256-D-vurt.mod": {
+    "name": "PalmYucca",
     "stringId": "2256-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -5941,6 +6029,7 @@
     }
   },
   "5501-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece05",
     "stringId": "5501-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6006,6 +6095,7 @@
     "references": {}
   },
   "2257-D-vurt.mod": {
+    "name": "Skeleton",
     "stringId": "2257-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6071,6 +6161,7 @@
     "references": {}
   },
   "4458-Newwworld.mod": {
+    "name": "BoneCluster13",
     "stringId": "4458-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6136,6 +6227,7 @@
     "references": {}
   },
   "2944-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE-Bouldersmall15",
     "stringId": "2944-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6224,6 +6316,7 @@
     }
   },
   "43871-Newwworld.mod": {
+    "name": "MonuRock02 Lower slopes",
     "stringId": "43871-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6289,6 +6382,7 @@
     "references": {}
   },
   "3447-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_HorsetailType",
     "stringId": "3447-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6354,6 +6448,7 @@
     "references": {}
   },
   "5705-Newwworld.mod": {
+    "name": "TechJunk05",
     "stringId": "5705-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6419,6 +6514,7 @@
     "references": {}
   },
   "3230-Newwworld.mod": {
+    "name": "FOLIAGE_Crystal_PINK01",
     "stringId": "3230-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6492,6 +6588,7 @@
     }
   },
   "2717-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall18",
     "stringId": "2717-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6557,6 +6654,7 @@
     "references": {}
   },
   "5588-Newwworld.mod": {
+    "name": "Rock_FlatSlab05",
     "stringId": "5588-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6622,6 +6720,7 @@
     "references": {}
   },
   "4456-Newwworld.mod": {
+    "name": "BoneCluster11",
     "stringId": "4456-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6687,6 +6786,7 @@
     "references": {}
   },
   "1465-vurt.mod": {
+    "name": "BigTree02 [Lush]",
     "stringId": "1465-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6752,6 +6852,7 @@
     "references": {}
   },
   "14552-Newwworld.mod": {
+    "name": "Crumble-Building_Corner03",
     "stringId": "14552-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6825,6 +6926,7 @@
     }
   },
   "3217-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm05-RED",
     "stringId": "3217-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6890,6 +6992,7 @@
     "references": {}
   },
   "4452-Newwworld.mod": {
+    "name": "BoneCluster05",
     "stringId": "4452-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -6955,6 +7058,7 @@
     "references": {}
   },
   "5785-Newwworld.mod": {
+    "name": "HugeRuinWall02",
     "stringId": "5785-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7020,6 +7124,7 @@
     "references": {}
   },
   "3617-Newwworld.mod": {
+    "name": "FOLIAGE_TumbleBoulder02KenBowl",
     "stringId": "3617-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7085,6 +7190,7 @@
     "references": {}
   },
   "2720-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall21",
     "stringId": "2720-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7150,6 +7256,7 @@
     "references": {}
   },
   "4448-Newwworld.mod": {
+    "name": "BoneCluster02",
     "stringId": "4448-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7215,6 +7322,7 @@
     "references": {}
   },
   "1482-vurt.mod": {
+    "name": "JuniperTree",
     "stringId": "1482-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7280,6 +7388,7 @@
     "references": {}
   },
   "5544-Newwworld.mod": {
+    "name": "Cactus_Type01",
     "stringId": "5544-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7358,6 +7467,7 @@
     }
   },
   "5707-Newwworld.mod": {
+    "name": "TechJunk07",
     "stringId": "5707-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7423,6 +7533,7 @@
     "references": {}
   },
   "3618-Newwworld.mod": {
+    "name": "FOLIAGE_TumbleBoulder01KenBowl",
     "stringId": "3618-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7488,6 +7599,7 @@
     "references": {}
   },
   "2941-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder17",
     "stringId": "2941-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7553,6 +7665,7 @@
     "references": {}
   },
   "5756-Newwworld.mod": {
+    "name": "Scaff-PlankRoute",
     "stringId": "5756-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7618,6 +7731,7 @@
     "references": {}
   },
   "5757-Newwworld.mod": {
+    "name": "TT_Tower_ScaffRods",
     "stringId": "5757-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7683,6 +7797,7 @@
     "references": {}
   },
   "3772-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Melted-Piece03",
     "stringId": "3772-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7748,6 +7863,7 @@
     "references": {}
   },
   "5702-Newwworld.mod": {
+    "name": "TechJunk02",
     "stringId": "5702-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7813,6 +7929,7 @@
     "references": {}
   },
   "2934-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder05",
     "stringId": "2934-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7878,6 +7995,7 @@
     "references": {}
   },
   "1459-vurt.mod": {
+    "name": "Joshua Tree 02",
     "stringId": "1459-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -7951,6 +8069,7 @@
     }
   },
   "2713-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder14",
     "stringId": "2713-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8016,6 +8135,7 @@
     "references": {}
   },
   "2938-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder11",
     "stringId": "2938-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8081,6 +8201,7 @@
     "references": {}
   },
   "2249-vurt.mod": {
+    "name": "Red Flowers",
     "stringId": "2249-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8154,6 +8275,7 @@
     }
   },
   "5643-Newwworld.mod": {
+    "name": "RuinBlocks_01",
     "stringId": "5643-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8219,6 +8341,7 @@
     "references": {}
   },
   "2251-vurt.mod": {
+    "name": "Tall Yellow Flower",
     "stringId": "2251-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8284,6 +8407,7 @@
     "references": {}
   },
   "1468-vurt.mod": {
+    "name": "ThinTree02",
     "stringId": "1468-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8349,6 +8473,7 @@
     "references": {}
   },
   "3771-D-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Melted-Piece05",
     "stringId": "3771-D-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8414,6 +8539,7 @@
     "references": {}
   },
   "4457-Newwworld.mod": {
+    "name": "BoneCluster12",
     "stringId": "4457-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8479,6 +8605,7 @@
     "references": {}
   },
   "4455-Newwworld.mod": {
+    "name": "BoneCluster09",
     "stringId": "4455-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8544,6 +8671,7 @@
     "references": {}
   },
   "14385-Newwworld.mod": {
+    "name": "PhantomGrass001",
     "stringId": "14385-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8609,6 +8737,7 @@
     "references": {}
   },
   "3235-Newwworld.mod": {
+    "name": "FOLIAGE_Bones",
     "stringId": "3235-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8674,6 +8803,7 @@
     "references": {}
   },
   "4451-Newwworld.mod": {
+    "name": "BoneCluster04",
     "stringId": "4451-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8739,6 +8869,7 @@
     "references": {}
   },
   "5504-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece08",
     "stringId": "5504-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8804,6 +8935,7 @@
     "references": {}
   },
   "2705-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder06",
     "stringId": "2705-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8869,6 +9001,7 @@
     "references": {}
   },
   "2937-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulderbig08",
     "stringId": "2937-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8934,6 +9067,7 @@
     "references": {}
   },
   "5716-Newwworld.mod": {
+    "name": "TechRustyJunk_06",
     "stringId": "5716-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -8999,6 +9133,7 @@
     "references": {}
   },
   "5507-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece11",
     "stringId": "5507-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9064,6 +9199,7 @@
     "references": {}
   },
   "1450-vurt.mod": {
+    "name": "Rock01 [Large]",
     "stringId": "1450-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9129,6 +9265,7 @@
     "references": {}
   },
   "4487-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FineTree01",
     "stringId": "4487-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9194,6 +9331,7 @@
     "references": {}
   },
   "2931-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder03",
     "stringId": "2931-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9259,6 +9397,7 @@
     "references": {}
   },
   "5784-Newwworld.mod": {
+    "name": "HugeRuinWall01",
     "stringId": "5784-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9352,6 +9491,7 @@
     }
   },
   "5591-Newwworld.mod": {
+    "name": "Barkworm_Pillar01",
     "stringId": "5591-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9417,6 +9557,7 @@
     "references": {}
   },
   "2820-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-HIGHER",
     "stringId": "2820-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9482,6 +9623,7 @@
     "references": {}
   },
   "3228-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle02-BLUE",
     "stringId": "3228-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9547,6 +9689,7 @@
     "references": {}
   },
   "5712-Newwworld.mod": {
+    "name": "TechRustyJunk_02",
     "stringId": "5712-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9612,6 +9755,7 @@
     "references": {}
   },
   "14551-Newwworld.mod": {
+    "name": "Crumble-Building_Corner02",
     "stringId": "14551-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9685,6 +9829,7 @@
     }
   },
   "5708-Newwworld.mod": {
+    "name": "TechJunk08",
     "stringId": "5708-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9750,6 +9895,7 @@
     "references": {}
   },
   "5502-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece06",
     "stringId": "5502-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9815,6 +9961,7 @@
     "references": {}
   },
   "2254-vurt.mod": {
+    "name": "CanyonRock",
     "stringId": "2254-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9888,6 +10035,7 @@
     }
   },
   "3221-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm01-RED",
     "stringId": "3221-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -9953,6 +10101,7 @@
     "references": {}
   },
   "4387-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder-Star01",
     "stringId": "4387-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10018,6 +10167,7 @@
     "references": {}
   },
   "1481-vurt.mod": {
+    "name": "DeadCliffTree",
     "stringId": "1481-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10083,6 +10233,7 @@
     "references": {}
   },
   "2707-Newwworld.mod": {
+    "name": "FOLIAGE_Boulderbig08",
     "stringId": "2707-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10148,6 +10299,7 @@
     "references": {}
   },
   "5706-Newwworld.mod": {
+    "name": "TechJunk06",
     "stringId": "5706-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10213,6 +10365,7 @@
     "references": {}
   },
   "2935-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder06",
     "stringId": "2935-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10278,6 +10431,7 @@
     "references": {}
   },
   "3202-Newwworld.mod": {
+    "name": "Thin Tree [Wide] Orange-leaves",
     "stringId": "3202-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10343,6 +10497,7 @@
     "references": {}
   },
   "3621-Newwworld.mod": {
+    "name": "Bleached_Skull01",
     "stringId": "3621-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10408,6 +10563,7 @@
     "references": {}
   },
   "5787-Newwworld.mod": {
+    "name": "HugeRuinWall04",
     "stringId": "5787-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10473,6 +10629,7 @@
     "references": {}
   },
   "2936-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder07",
     "stringId": "2936-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10538,6 +10695,7 @@
     "references": {}
   },
   "4453-Newwworld.mod": {
+    "name": "BoneCluster06",
     "stringId": "4453-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10603,6 +10761,7 @@
     "references": {}
   },
   "3773-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Melted-Piece02",
     "stringId": "3773-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10668,6 +10827,7 @@
     "references": {}
   },
   "2254-D-vurt.mod": {
+    "name": "AridRock",
     "stringId": "2254-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10733,6 +10893,7 @@
     "references": {}
   },
   "5498-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece02",
     "stringId": "5498-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10798,6 +10959,7 @@
     "references": {}
   },
   "2702-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder03",
     "stringId": "2702-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10863,6 +11025,7 @@
     "references": {}
   },
   "3117-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Succulent-type",
     "stringId": "3117-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -10928,6 +11091,7 @@
     "references": {}
   },
   "5750-Newwworld.mod": {
+    "name": "TarTownScaff-Tower03",
     "stringId": "5750-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11001,6 +11165,7 @@
     }
   },
   "16853-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece03",
     "stringId": "16853-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11074,6 +11239,7 @@
     }
   },
   "5696-Newwworld.mod": {
+    "name": "ResourceRock_Copper01",
     "stringId": "5696-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11154,6 +11320,7 @@
     }
   },
   "2255-vurt.mod": {
+    "name": "DeadShrub",
     "stringId": "2255-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11219,6 +11386,7 @@
     "references": {}
   },
   "1466-vurt.mod": {
+    "name": "DeadTree 01",
     "stringId": "1466-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11284,6 +11452,7 @@
     "references": {}
   },
   "2710-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder11",
     "stringId": "2710-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11349,6 +11518,7 @@
     "references": {}
   },
   "1492-vurt.mod": {
+    "name": "Small rocks vsmall",
     "stringId": "1492-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11414,6 +11584,7 @@
     "references": {}
   },
   "5719-Newwworld.mod": {
+    "name": "TechRustyJunk_09",
     "stringId": "5719-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11479,6 +11650,7 @@
     "references": {}
   },
   "2933-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder04",
     "stringId": "2933-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11544,6 +11716,7 @@
     "references": {}
   },
   "3610-Newwworld.mod": {
+    "name": "FOLIAGE_BouldersmallAkakusDark02",
     "stringId": "3610-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11609,6 +11782,7 @@
     "references": {}
   },
   "1477-D-vurt.mod": {
+    "name": "GrassBush",
     "stringId": "1477-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11674,6 +11848,7 @@
     "references": {}
   },
   "4460-Newwworld.mod": {
+    "name": "BoneCluster15",
     "stringId": "4460-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11739,6 +11914,7 @@
     "references": {}
   },
   "14544-Newwworld.mod": {
+    "name": "Spore02",
     "stringId": "14544-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11804,6 +11980,7 @@
     "references": {}
   },
   "2929-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder01",
     "stringId": "2929-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11927,6 +12104,7 @@
     }
   },
   "5584-Newwworld.mod": {
+    "name": "Rock_FlatSlab01",
     "stringId": "5584-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -11992,6 +12170,7 @@
     "references": {}
   },
   "14554-Newwworld.mod": {
+    "name": "LandCables01",
     "stringId": "14554-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12057,6 +12236,7 @@
     "references": {}
   },
   "5589-Newwworld.mod": {
+    "name": "Rock_FlatSlab06",
     "stringId": "5589-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12122,6 +12302,7 @@
     "references": {}
   },
   "5669-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-brown-inGrass04",
     "stringId": "5669-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12187,6 +12368,7 @@
     "references": {}
   },
   "5714-Newwworld.mod": {
+    "name": "TechRustyJunk_04",
     "stringId": "5714-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12252,6 +12434,7 @@
     "references": {}
   },
   "3216-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm06-RED",
     "stringId": "3216-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12317,6 +12500,7 @@
     "references": {}
   },
   "1462-vurt.mod": {
+    "name": "Yucca Plant [Small]",
     "stringId": "1462-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12382,6 +12566,7 @@
     "references": {}
   },
   "4461-Newwworld.mod": {
+    "name": "BoneCluster16",
     "stringId": "4461-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12447,6 +12632,7 @@
     "references": {}
   },
   "5701-Newwworld.mod": {
+    "name": "TechJunk01",
     "stringId": "5701-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12557,6 +12743,7 @@
     }
   },
   "5718-Newwworld.mod": {
+    "name": "TechRustyJunk_08",
     "stringId": "5718-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12622,6 +12809,7 @@
     "references": {}
   },
   "2930-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder02",
     "stringId": "2930-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12687,6 +12875,7 @@
     "references": {}
   },
   "3616-Newwworld.mod": {
+    "name": "FOLIAGE_TumbleBoulder03KenBowl",
     "stringId": "3616-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12752,6 +12941,7 @@
     "references": {}
   },
   "3414-Newwworld.mod": {
+    "name": "Ashland_Foliage_Shell03",
     "stringId": "3414-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12817,6 +13007,7 @@
     "references": {}
   },
   "4447-Newwworld.mod": {
+    "name": "BoneCluster01",
     "stringId": "4447-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12882,6 +13073,7 @@
     "references": {}
   },
   "5648-Newwworld.mod": {
+    "name": "RuinBlocks_06",
     "stringId": "5648-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -12947,6 +13139,7 @@
     "references": {}
   },
   "16850-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece01",
     "stringId": "16850-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13052,6 +13245,7 @@
     }
   },
   "2716-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder17",
     "stringId": "2716-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13117,6 +13311,7 @@
     "references": {}
   },
   "5542-Newwworld.mod": {
+    "name": "Clover-type Plant",
     "stringId": "5542-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13182,6 +13377,7 @@
     "references": {}
   },
   "2708-Newwworld.mod": {
+    "name": "FOLIAGE_Boulderbig09",
     "stringId": "2708-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13247,6 +13443,7 @@
     "references": {}
   },
   "1474-vurt.mod": {
+    "name": "Alien Cacti 01",
     "stringId": "1474-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13312,6 +13509,7 @@
     "references": {}
   },
   "5550-Newwworld.mod": {
+    "name": "Cactus_Type03-clustered",
     "stringId": "5550-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13377,6 +13575,7 @@
     "references": {}
   },
   "3608-Newwworld.mod": {
+    "name": "FOLIAGE_BouldersmallAkakusDark04",
     "stringId": "3608-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13442,6 +13641,7 @@
     "references": {}
   },
   "2252-vurt.mod": {
+    "name": "RandomRedRocks",
     "stringId": "2252-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13515,6 +13715,7 @@
     }
   },
   "2807-Newwworld.mod": {
+    "name": "Thin Tree [Wide]",
     "stringId": "2807-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13580,6 +13781,7 @@
     "references": {}
   },
   "2706-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder07",
     "stringId": "2706-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13645,6 +13847,7 @@
     "references": {}
   },
   "43888-Newwworld.mod": {
+    "name": "ResourceRock-IRON04 Easy Reach",
     "stringId": "43888-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13718,6 +13921,7 @@
     }
   },
   "3772-D-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Melted-Piece04",
     "stringId": "3772-D-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13783,6 +13987,7 @@
     "references": {}
   },
   "1458-vurt.mod": {
+    "name": "Joshua Tree 01",
     "stringId": "1458-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13848,6 +14053,7 @@
     "references": {}
   },
   "5703-Newwworld.mod": {
+    "name": "TechJunk03",
     "stringId": "5703-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13913,6 +14119,7 @@
     "references": {}
   },
   "43873-Newwworld.mod": {
+    "name": "MonuRock04 Lower slopes",
     "stringId": "43873-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -13978,6 +14185,7 @@
     "references": {}
   },
   "43887-Newwworld.mod": {
+    "name": "ResourceRock-IRON03 Easy Reach",
     "stringId": "43887-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14051,6 +14259,7 @@
     }
   },
   "1497-vurt.mod": {
+    "name": "Rock04 hatrock",
     "stringId": "1497-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14116,6 +14325,7 @@
     "references": {}
   },
   "3219-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm03-RED",
     "stringId": "3219-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14181,6 +14391,7 @@
     "references": {}
   },
   "2250-vurt.mod": {
+    "name": "YelSubGrass",
     "stringId": "2250-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14246,6 +14457,7 @@
     "references": {}
   },
   "43890-Newwworld.mod": {
+    "name": "Large Tumble Nodules",
     "stringId": "43890-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14311,6 +14523,7 @@
     "references": {}
   },
   "3776-Newwworld.mod": {
+    "name": "Foliage_Wreckage_CogPieces",
     "stringId": "3776-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14376,6 +14589,7 @@
     "references": {}
   },
   "2719-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall20",
     "stringId": "2719-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14441,6 +14655,7 @@
     "references": {}
   },
   "2947-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE-Bouldersmall20",
     "stringId": "2947-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14506,6 +14721,7 @@
     "references": {}
   },
   "5625-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Fluffyhead01",
     "stringId": "5625-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14571,6 +14787,7 @@
     "references": {}
   },
   "2259-D-vurt.mod": {
+    "name": "Shrubs and grass",
     "stringId": "2259-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14636,6 +14853,7 @@
     "references": {}
   },
   "3218-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm04-RED",
     "stringId": "3218-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14701,6 +14919,7 @@
     "references": {}
   },
   "2714-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall15",
     "stringId": "2714-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14804,6 +15023,7 @@
     }
   },
   "5715-Newwworld.mod": {
+    "name": "TechRustyJunk_05",
     "stringId": "5715-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14869,6 +15089,7 @@
     "references": {}
   },
   "1478-D-vurt.mod": {
+    "name": "Joshua Tree 03",
     "stringId": "1478-D-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -14934,6 +15155,7 @@
     "references": {}
   },
   "14556-Newwworld.mod": {
+    "name": "Spore01[Blister]",
     "stringId": "14556-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15007,6 +15229,7 @@
     }
   },
   "2701-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder02",
     "stringId": "2701-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15072,6 +15295,7 @@
     "references": {}
   },
   "2940-Newwworld.mod": {
+    "name": "FOLIAGE_DUNE_Boulder16",
     "stringId": "2940-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15137,6 +15361,7 @@
     "references": {}
   },
   "3224-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle01-BLUE",
     "stringId": "3224-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15202,6 +15427,7 @@
     "references": {}
   },
   "5711-Newwworld.mod": {
+    "name": "TechRustyJunk_01",
     "stringId": "5711-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15322,6 +15548,7 @@
     }
   },
   "1461-vurt.mod": {
+    "name": "Rock Round [Small]",
     "stringId": "1461-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15395,6 +15622,7 @@
     }
   },
   "2718-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall19",
     "stringId": "2718-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15460,6 +15688,7 @@
     "references": {}
   },
   "3774-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Melted-Piece01",
     "stringId": "3774-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15525,6 +15754,7 @@
     "references": {}
   },
   "5704-Newwworld.mod": {
+    "name": "TechJunk04",
     "stringId": "5704-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15590,6 +15820,7 @@
     "references": {}
   },
   "3441-Newwworld.mod": {
+    "name": "FOLIAGE_Pyrite01",
     "stringId": "3441-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15663,6 +15894,7 @@
     }
   },
   "1480-vurt.mod": {
+    "name": "CliffTree",
     "stringId": "1480-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15728,6 +15960,7 @@
     "references": {}
   },
   "14391-Newwworld.mod": {
+    "name": "Blister_Rock01",
     "stringId": "14391-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15793,6 +16026,7 @@
     "references": {}
   },
   "18956-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Deep-Fir 01",
     "stringId": "18956-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15858,6 +16092,7 @@
     "references": {}
   },
   "2256-vurt.mod": {
+    "name": "GreenShrub",
     "stringId": "2256-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15923,6 +16158,7 @@
     "references": {}
   },
   "2257-vurt.mod": {
+    "name": "2DGreenPlants",
     "stringId": "2257-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -15988,6 +16224,7 @@
     "references": {}
   },
   "5720-Newwworld.mod": {
+    "name": "TechRustyJunk_10",
     "stringId": "5720-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16053,6 +16290,7 @@
     "references": {}
   },
   "3415-Newwworld.mod": {
+    "name": "Ashland_Foliage_Shell02",
     "stringId": "3415-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16118,6 +16356,7 @@
     "references": {}
   },
   "3232-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Monster-Style01",
     "stringId": "3232-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16183,6 +16422,7 @@
     "references": {}
   },
   "5505-Newwworld.mod": {
+    "name": "FOLIAGE__BoneSETPiece09",
     "stringId": "5505-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16248,6 +16488,7 @@
     "references": {}
   },
   "5668-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-brown-inGrass03",
     "stringId": "5668-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16313,6 +16554,7 @@
     "references": {}
   },
   "16852-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece02",
     "stringId": "16852-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16386,6 +16628,7 @@
     }
   },
   "16855-Newwworld.mod": {
+    "name": "Vast_Cluster_Piece05",
     "stringId": "16855-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16459,6 +16702,7 @@
     }
   },
   "5630-Newwworld.mod": {
+    "name": "FullTree CLiff Type",
     "stringId": "5630-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16524,6 +16768,7 @@
     "references": {}
   },
   "3438-Newwworld.mod": {
+    "name": "Foliage_Rock_Bouldercluster_MonoTex",
     "stringId": "3438-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16589,6 +16834,7 @@
     "references": {}
   },
   "5594-Newwworld.mod": {
+    "name": "Barkworm_Pillar02",
     "stringId": "5594-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16654,6 +16900,7 @@
     "references": {}
   },
   "2247-vurt.mod": {
+    "name": "Agave",
     "stringId": "2247-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16719,6 +16966,7 @@
     "references": {}
   },
   "2703-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder04",
     "stringId": "2703-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16784,6 +17032,7 @@
     "references": {}
   },
   "1464-vurt.mod": {
+    "name": "BigTree01 [Lush]",
     "stringId": "1464-vurt.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16849,6 +17098,7 @@
     "references": {}
   },
   "14548-Newwworld.mod": {
+    "name": "Crumble-Building02",
     "stringId": "14548-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16927,6 +17177,7 @@
     }
   },
   "4489-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FineTree01A",
     "stringId": "4489-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -16992,6 +17243,7 @@
     "references": {}
   },
   "5595-Newwworld.mod": {
+    "name": "Barkworm_Pillar03",
     "stringId": "5595-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17057,6 +17309,7 @@
     "references": {}
   },
   "5585-Newwworld.mod": {
+    "name": "Rock_FlatSlab02",
     "stringId": "5585-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17122,6 +17375,7 @@
     "references": {}
   },
   "42267-Newwworld.mod": {
+    "name": "Motor_Cover02",
     "stringId": "42267-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17187,6 +17441,7 @@
     "references": {}
   },
   "48684-Newwworld.mod": {
+    "name": "GreenGlass02",
     "stringId": "48684-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17252,6 +17507,7 @@
     "references": {}
   },
   "48706-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_Coloured_05",
     "stringId": "48706-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17317,6 +17573,7 @@
     "references": {}
   },
   "5688-Newwworld.mod": {
+    "name": "ResourceRock-IRON01",
     "stringId": "5688-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17397,6 +17654,7 @@
     }
   },
   "48695-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_04 Darker",
     "stringId": "48695-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17462,6 +17720,7 @@
     "references": {}
   },
   "4478-Newwworld.mod": {
+    "name": "Rock FSmoothBoulder03",
     "stringId": "4478-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17527,6 +17786,7 @@
     "references": {}
   },
   "48693-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_02_DARKER",
     "stringId": "48693-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17592,6 +17852,7 @@
     "references": {}
   },
   "2970-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Nodule03",
     "stringId": "2970-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17657,6 +17918,7 @@
     "references": {}
   },
   "48754-Newwworld.mod": {
+    "name": "MoltenCliffString5",
     "stringId": "48754-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17722,6 +17984,7 @@
     "references": {}
   },
   "18947-Newwworld.mod": {
+    "name": "Ghostown-scrap-pile01",
     "stringId": "18947-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17787,6 +18050,7 @@
     "references": {}
   },
   "42322-Newwworld.mod": {
+    "name": "MonuRock01",
     "stringId": "42322-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17852,6 +18116,7 @@
     "references": {}
   },
   "3419-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder_GREY-02",
     "stringId": "3419-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17917,6 +18182,7 @@
     "references": {}
   },
   "5765-Newwworld.mod": {
+    "name": "Cliffnail_01",
     "stringId": "5765-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -17982,6 +18248,7 @@
     "references": {}
   },
   "47752-Newwworld.mod": {
+    "name": "TreeFall01",
     "stringId": "47752-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18047,6 +18314,7 @@
     "references": {}
   },
   "3122-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster05",
     "stringId": "3122-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18112,6 +18380,7 @@
     "references": {}
   },
   "3770-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Tri_Piece",
     "stringId": "3770-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18177,6 +18446,7 @@
     "references": {}
   },
   "3241-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Fern",
     "stringId": "3241-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18242,6 +18512,7 @@
     "references": {}
   },
   "17957-Newwworld.mod": {
+    "name": "Canyon_BLock_06",
     "stringId": "17957-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18307,6 +18578,7 @@
     "references": {}
   },
   "3211-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm04",
     "stringId": "3211-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18372,6 +18644,7 @@
     "references": {}
   },
   "5841-Newwworld.mod": {
+    "name": "CactiTrumpet01",
     "stringId": "5841-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18450,6 +18723,7 @@
     }
   },
   "3209-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm02",
     "stringId": "3209-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18515,6 +18789,7 @@
     "references": {}
   },
   "5548-Newwworld.mod": {
+    "name": "Cactus_Type01-clustered",
     "stringId": "5548-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18580,6 +18855,7 @@
     "references": {}
   },
   "17946-Newwworld.mod": {
+    "name": "Prehistorsetail SEAPIT VERSION",
     "stringId": "17946-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18645,6 +18921,7 @@
     "references": {}
   },
   "48751-Newwworld.mod": {
+    "name": "MoltenCliffString2",
     "stringId": "48751-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18710,6 +18987,7 @@
     "references": {}
   },
   "42328-Newwworld.mod": {
+    "name": "BlackRock_TerrainMapped01",
     "stringId": "42328-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18775,6 +19053,7 @@
     "references": {}
   },
   "3425-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Swamp-TwigLarger",
     "stringId": "3425-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18840,6 +19119,7 @@
     "references": {}
   },
   "48747-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones05 tightband",
     "stringId": "48747-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18905,6 +19185,7 @@
     "references": {}
   },
   "5666-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-white-inGrass01 (Brown - sub rocks)",
     "stringId": "5666-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -18993,6 +19274,7 @@
     }
   },
   "48746-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones03 tightband",
     "stringId": "48746-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19058,6 +19340,7 @@
     "references": {}
   },
   "42269-Newwworld.mod": {
+    "name": "Motor_Core",
     "stringId": "42269-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19131,6 +19414,7 @@
     }
   },
   "5628-Newwworld.mod": {
+    "name": "CliffRoots01",
     "stringId": "5628-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19196,6 +19480,7 @@
     "references": {}
   },
   "48712-Newwworld.mod": {
+    "name": "RoboFoliage2",
     "stringId": "48712-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19261,6 +19546,7 @@
     "references": {}
   },
   "5821-Newwworld.mod": {
+    "name": "BushTree01",
     "stringId": "5821-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19326,6 +19612,7 @@
     "references": {}
   },
   "5790-Newwworld.mod": {
+    "name": "CraggyTree",
     "stringId": "5790-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19391,6 +19678,7 @@
     "references": {}
   },
   "3436-Newwworld.mod": {
+    "name": "FOLIAGE_SwampislandfoliageHoodoo01",
     "stringId": "3436-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19456,6 +19744,7 @@
     "references": {}
   },
   "48717-Newwworld.mod": {
+    "name": "RoboFoliage7",
     "stringId": "48717-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19521,6 +19810,7 @@
     "references": {}
   },
   "2963-Newwworld.mod": {
+    "name": "FOLIAGE_YuccaBig",
     "stringId": "2963-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19586,6 +19876,7 @@
     "references": {}
   },
   "5693-Newwworld.mod": {
+    "name": "ResourceRock-IRON06",
     "stringId": "5693-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19659,6 +19950,7 @@
     }
   },
   "5694-Newwworld.mod": {
+    "name": "ResourceRock-IRON07",
     "stringId": "5694-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19732,6 +20024,7 @@
     }
   },
   "48705-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_Coloured_04",
     "stringId": "48705-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19797,6 +20090,7 @@
     "references": {}
   },
   "5579-Newwworld.mod": {
+    "name": "Lucky Leaf",
     "stringId": "5579-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19862,6 +20156,7 @@
     "references": {}
   },
   "48703-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_Coloured_02",
     "stringId": "48703-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19927,6 +20222,7 @@
     "references": {}
   },
   "5742-Newwworld.mod": {
+    "name": "foliagerocks_ManyDark Small DUNES003",
     "stringId": "5742-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -19992,6 +20288,7 @@
     "references": {}
   },
   "17954-Newwworld.mod": {
+    "name": "Canyon_BLock_03",
     "stringId": "17954-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20057,6 +20354,7 @@
     "references": {}
   },
   "48699-Newwworld.mod": {
+    "name": "Roctower02",
     "stringId": "48699-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20122,6 +20420,7 @@
     "references": {}
   },
   "5512-Newwworld.mod": {
+    "name": "Foliage_Boulder_Cluster01",
     "stringId": "5512-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20187,6 +20486,7 @@
     "references": {}
   },
   "3446-D-Newwworld.mod": {
+    "name": "FOLIAGE_PlantBall",
     "stringId": "3446-D-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20252,6 +20552,7 @@
     "references": {}
   },
   "5545-Newwworld.mod": {
+    "name": "Cactus_Type02",
     "stringId": "5545-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20317,6 +20618,7 @@
     "references": {}
   },
   "44936-Newwworld.mod": {
+    "name": "CanyonLand_Pillar02",
     "stringId": "44936-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20382,6 +20684,7 @@
     "references": {}
   },
   "5604-Newwworld.mod": {
+    "name": "Foliage_CYPRUS-TYPE 100-1216 height",
     "stringId": "5604-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20447,6 +20750,7 @@
     "references": {}
   },
   "5753-Newwworld.mod": {
+    "name": "Thin Tree [Wide] TarTown",
     "stringId": "5753-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20512,6 +20816,7 @@
     "references": {}
   },
   "5607-Newwworld.mod": {
+    "name": "Giant_MultiLimbTree",
     "stringId": "5607-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20577,6 +20882,7 @@
     "references": {}
   },
   "4480-Newwworld.mod": {
+    "name": "Rock FSmoothBoulder05",
     "stringId": "4480-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20642,6 +20948,7 @@
     "references": {}
   },
   "44953-Newwworld.mod": {
+    "name": "Skin_Cliff_Ridge02",
     "stringId": "44953-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20707,6 +21014,7 @@
     "references": {}
   },
   "48686-Newwworld.mod": {
+    "name": "GreenGlass04",
     "stringId": "48686-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20772,6 +21080,7 @@
     "references": {}
   },
   "5767-Newwworld.mod": {
+    "name": "Cliffnail_03",
     "stringId": "5767-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20837,6 +21146,7 @@
     "references": {}
   },
   "48724-Newwworld.mod": {
+    "name": "RoboFoliage14",
     "stringId": "48724-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20902,6 +21212,7 @@
     "references": {}
   },
   "3124-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster07",
     "stringId": "3124-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -20967,6 +21278,7 @@
     "references": {}
   },
   "42264-Newwworld.mod": {
+    "name": "Motor_Head",
     "stringId": "42264-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21032,6 +21344,7 @@
     "references": {}
   },
   "5691-Newwworld.mod": {
+    "name": "ResourceRock-IRON04",
     "stringId": "5691-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21105,6 +21418,7 @@
     }
   },
   "42330-Newwworld.mod": {
+    "name": "BlackRock_TerrainMapped03",
     "stringId": "42330-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21170,6 +21484,7 @@
     "references": {}
   },
   "2968-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Nodule01",
     "stringId": "2968-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21235,6 +21550,7 @@
     "references": {}
   },
   "5576-Newwworld.mod": {
+    "name": "FOLIAGE_Large_BigBadBoulder",
     "stringId": "5576-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21300,6 +21616,7 @@
     "references": {}
   },
   "5760-Newwworld.mod": {
+    "name": "TarGemSingle",
     "stringId": "5760-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21365,6 +21682,7 @@
     "references": {}
   },
   "48692-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_01 Darker",
     "stringId": "48692-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21430,6 +21748,7 @@
     "references": {}
   },
   "5772-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack02  Terrain",
     "stringId": "5772-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21495,6 +21814,7 @@
     "references": {}
   },
   "18945-Newwworld.mod": {
+    "name": "Ghost-Town House04",
     "stringId": "18945-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21560,6 +21880,7 @@
     "references": {}
   },
   "5597-Newwworld.mod": {
+    "name": "Branching_Cactus",
     "stringId": "5597-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21625,6 +21946,7 @@
     "references": {}
   },
   "5602-Newwworld.mod": {
+    "name": "Fern HIGH SPOTS",
     "stringId": "5602-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21690,6 +22012,7 @@
     "references": {}
   },
   "44869-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_05",
     "stringId": "44869-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21755,6 +22078,7 @@
     "references": {}
   },
   "5533-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_HorsetailType Lower",
     "stringId": "5533-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21820,6 +22144,7 @@
     "references": {}
   },
   "47755-Newwworld.mod": {
+    "name": "TreeFall04",
     "stringId": "47755-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21885,6 +22210,7 @@
     "references": {}
   },
   "2926-Newwworld.mod": {
+    "name": "WasteMine_HillTree",
     "stringId": "2926-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -21950,6 +22276,7 @@
     "references": {}
   },
   "47756-Newwworld.mod": {
+    "name": "TreeFall05",
     "stringId": "47756-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22015,6 +22342,7 @@
     "references": {}
   },
   "2735-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Lilltype02",
     "stringId": "2735-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22080,6 +22408,7 @@
     "references": {}
   },
   "40627-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo06",
     "stringId": "40627-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22145,6 +22474,7 @@
     "references": {}
   },
   "5822-Newwworld.mod": {
+    "name": "BushTree02",
     "stringId": "5822-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22210,6 +22540,7 @@
     "references": {}
   },
   "45554-Newwworld.mod": {
+    "name": "FOLIAGE_Pyrite Scarcer",
     "stringId": "45554-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22283,6 +22614,7 @@
     }
   },
   "5732-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder-OutcropStar",
     "stringId": "5732-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22348,6 +22680,7 @@
     "references": {}
   },
   "48721-Newwworld.mod": {
+    "name": "RoboFoliage11",
     "stringId": "48721-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22413,6 +22746,7 @@
     "references": {}
   },
   "2736-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Lilltype03",
     "stringId": "2736-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22478,6 +22812,7 @@
     "references": {}
   },
   "5519-Newwworld.mod": {
+    "name": "Foliage_PINE_SCRAGGY_Canyonland_TOPS",
     "stringId": "5519-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22543,6 +22878,7 @@
     "references": {}
   },
   "2924-Newwworld.mod": {
+    "name": "FOLIAGE_WasteMine-Boulder01",
     "stringId": "2924-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22608,6 +22944,7 @@
     "references": {}
   },
   "48709-Newwworld.mod": {
+    "name": "Spong_Plant",
     "stringId": "48709-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22673,6 +23010,7 @@
     "references": {}
   },
   "4440-Newwworld.mod": {
+    "name": "FullTree",
     "stringId": "4440-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22738,6 +23076,7 @@
     "references": {}
   },
   "48710-Newwworld.mod": {
+    "name": "RoboFoliage1",
     "stringId": "48710-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22803,6 +23142,7 @@
     "references": {}
   },
   "44935-Newwworld.mod": {
+    "name": "CanyonLand_Pillar01",
     "stringId": "44935-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22868,6 +23208,7 @@
     "references": {}
   },
   "44865-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_01",
     "stringId": "44865-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22933,6 +23274,7 @@
     "references": {}
   },
   "5800-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Fern-Stalked LightGreen",
     "stringId": "5800-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -22998,6 +23340,7 @@
     "references": {}
   },
   "44868-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_04",
     "stringId": "44868-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23063,6 +23406,7 @@
     "references": {}
   },
   "48744-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones05",
     "stringId": "48744-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23128,6 +23472,7 @@
     "references": {}
   },
   "46967-Newwworld.mod": {
+    "name": "JunkBall01",
     "stringId": "46967-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23193,6 +23538,7 @@
     "references": {}
   },
   "2733-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Lilltype01",
     "stringId": "2733-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23258,6 +23604,7 @@
     "references": {}
   },
   "47237-Newwworld.mod": {
+    "name": "CacTreeTu_01",
     "stringId": "47237-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23336,6 +23683,7 @@
     }
   },
   "4498-Newwworld.mod": {
+    "name": "Foliage_Tarsand_SPIKE_02",
     "stringId": "4498-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23401,6 +23749,7 @@
     "references": {}
   },
   "5766-Newwworld.mod": {
+    "name": "Cliffnail_02",
     "stringId": "5766-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23466,6 +23815,7 @@
     "references": {}
   },
   "4485-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle03GREEN",
     "stringId": "4485-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23531,6 +23881,7 @@
     "references": {}
   },
   "48696-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_05 Darker",
     "stringId": "48696-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23596,6 +23947,7 @@
     "references": {}
   },
   "14559-Newwworld.mod": {
+    "name": "Building_Ruins_Newer01",
     "stringId": "14559-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23661,6 +24013,7 @@
     "references": {}
   },
   "5827-Newwworld.mod": {
+    "name": "BlackRock01",
     "stringId": "5827-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23769,6 +24122,7 @@
     }
   },
   "40621-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo01",
     "stringId": "40621-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23834,6 +24188,7 @@
     "references": {}
   },
   "48700-Newwworld.mod": {
+    "name": "Roctower03",
     "stringId": "48700-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23899,6 +24254,7 @@
     "references": {}
   },
   "5689-Newwworld.mod": {
+    "name": "ResourceRock-IRON02",
     "stringId": "5689-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -23972,6 +24328,7 @@
     }
   },
   "5560-Newwworld.mod": {
+    "name": "ROCK - Craft_Rock01",
     "stringId": "5560-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24037,6 +24394,7 @@
     "references": {}
   },
   "5829-Newwworld.mod": {
+    "name": "BlackRock03",
     "stringId": "5829-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24102,6 +24460,7 @@
     "references": {}
   },
   "5664-Newwworld.mod": {
+    "name": "Cascade Tree - Higher",
     "stringId": "5664-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24167,6 +24526,7 @@
     "references": {}
   },
   "44866-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_02",
     "stringId": "44866-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24232,6 +24592,7 @@
     "references": {}
   },
   "5740-Newwworld.mod": {
+    "name": "foliagerocks_ManyDark Small DUNES01",
     "stringId": "5740-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24297,6 +24658,7 @@
     "references": {}
   },
   "48753-Newwworld.mod": {
+    "name": "MoltenCliffString4",
     "stringId": "48753-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24362,6 +24724,7 @@
     "references": {}
   },
   "48741-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones02",
     "stringId": "48741-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24427,6 +24790,7 @@
     "references": {}
   },
   "3120-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster03",
     "stringId": "3120-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24492,6 +24856,7 @@
     "references": {}
   },
   "47753-Newwworld.mod": {
+    "name": "TreeFall02",
     "stringId": "47753-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24557,6 +24922,7 @@
     "references": {}
   },
   "4385-Newwworld.mod": {
+    "name": "FOLIAGE_Ejecta_Boulder01",
     "stringId": "4385-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24630,6 +24996,7 @@
     }
   },
   "5692-Newwworld.mod": {
+    "name": "ResourceRock-IRON05",
     "stringId": "5692-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24703,6 +25070,7 @@
     }
   },
   "48687-Newwworld.mod": {
+    "name": "GreenGlass05",
     "stringId": "48687-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24768,6 +25136,7 @@
     "references": {}
   },
   "5796-Newwworld.mod": {
+    "name": "CraggyTree Feather Leaves",
     "stringId": "5796-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24833,6 +25202,7 @@
     "references": {}
   },
   "5771-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack01 Terrain",
     "stringId": "5771-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24921,6 +25291,7 @@
     }
   },
   "17956-Newwworld.mod": {
+    "name": "Canyon_BLock_05",
     "stringId": "17956-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -24986,6 +25357,7 @@
     "references": {}
   },
   "5814-Newwworld.mod": {
+    "name": "SKulTree",
     "stringId": "5814-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25051,6 +25423,7 @@
     "references": {}
   },
   "5843-Newwworld.mod": {
+    "name": "CactiTrumpet02",
     "stringId": "5843-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25116,6 +25489,7 @@
     "references": {}
   },
   "5600-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Low limit_FineTree01A ",
     "stringId": "5600-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25181,6 +25555,7 @@
     "references": {}
   },
   "3614-Newwworld.mod": {
+    "name": "SageBrush",
     "stringId": "3614-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25246,6 +25621,7 @@
     "references": {}
   },
   "5758-Newwworld.mod": {
+    "name": "Tarsand_RuinTube",
     "stringId": "5758-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25311,6 +25687,7 @@
     "references": {}
   },
   "4483-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle01GREEN",
     "stringId": "4483-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25376,6 +25753,7 @@
     "references": {}
   },
   "42329-Newwworld.mod": {
+    "name": "BlackRock_TerrainMapped02",
     "stringId": "42329-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25441,6 +25819,7 @@
     "references": {}
   },
   "44952-Newwworld.mod": {
+    "name": "Skin_Cliff_Ridge01",
     "stringId": "44952-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25506,6 +25885,7 @@
     "references": {}
   },
   "48726-Newwworld.mod": {
+    "name": "RoboFoliage16",
     "stringId": "48726-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25571,6 +25951,7 @@
     "references": {}
   },
   "5513-Newwworld.mod": {
+    "name": "Foliage_Boulder_Cluster02",
     "stringId": "5513-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25636,6 +26017,7 @@
     "references": {}
   },
   "5769-Newwworld.mod": {
+    "name": "Cliffnail_05",
     "stringId": "5769-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25701,6 +26083,7 @@
     "references": {}
   },
   "40628-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo07",
     "stringId": "40628-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25766,6 +26149,7 @@
     "references": {}
   },
   "42266-Newwworld.mod": {
+    "name": "Motor_Coil01",
     "stringId": "42266-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25839,6 +26223,7 @@
     }
   },
   "3119-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster02",
     "stringId": "3119-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25904,6 +26289,7 @@
     "references": {}
   },
   "5599-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Low limit_FineTree01",
     "stringId": "5599-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -25969,6 +26355,7 @@
     "references": {}
   },
   "44870-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_06",
     "stringId": "44870-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26034,6 +26421,7 @@
     "references": {}
   },
   "5617-Newwworld.mod": {
+    "name": "RUIN-RefineryHead04",
     "stringId": "5617-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26099,6 +26487,7 @@
     "references": {}
   },
   "18944-Newwworld.mod": {
+    "name": "Ghost-Town House03",
     "stringId": "18944-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26164,6 +26553,7 @@
     "references": {}
   },
   "48685-Newwworld.mod": {
+    "name": "GreenGlass03",
     "stringId": "48685-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26229,6 +26619,7 @@
     "references": {}
   },
   "16843-Newwworld.mod": {
+    "name": "Crumble-Building_ORIG",
     "stringId": "16843-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26294,6 +26685,7 @@
     "references": {}
   },
   "14387-Newwworld.mod": {
+    "name": "PhantomGrass002-no cluster",
     "stringId": "14387-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26359,6 +26751,7 @@
     "references": {}
   },
   "4479-Newwworld.mod": {
+    "name": "Rock FSmoothBoulder04",
     "stringId": "4479-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26424,6 +26817,7 @@
     "references": {}
   },
   "40624-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo03",
     "stringId": "40624-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26489,6 +26883,7 @@
     "references": {}
   },
   "17951-Newwworld.mod": {
+    "name": "Canyon_BLock_01",
     "stringId": "17951-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26554,6 +26949,7 @@
     "references": {}
   },
   "3123-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster06",
     "stringId": "3123-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26619,6 +27015,7 @@
     "references": {}
   },
   "3422-Newwworld.mod": {
+    "name": "FOLIAGE_TumbleBoulder03",
     "stringId": "3422-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26684,6 +27081,7 @@
     "references": {}
   },
   "46972-Newwworld.mod": {
+    "name": "Spore01[subGrass]",
     "stringId": "46972-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26749,6 +27147,7 @@
     "references": {}
   },
   "3212-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm05",
     "stringId": "3212-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26814,6 +27213,7 @@
     "references": {}
   },
   "5773-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack03  Terrain",
     "stringId": "5773-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26879,6 +27279,7 @@
     "references": {}
   },
   "5614-Newwworld.mod": {
+    "name": "RUIN-RefineryHead01",
     "stringId": "5614-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -26944,6 +27345,7 @@
     "references": {}
   },
   "17958-Newwworld.mod": {
+    "name": "FullTree High Flat Ground",
     "stringId": "17958-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27009,6 +27411,7 @@
     "references": {}
   },
   "48697-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_06 Darker",
     "stringId": "48697-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27074,6 +27477,7 @@
     "references": {}
   },
   "5571-Newwworld.mod": {
+    "name": "FloatingSeedPlant01",
     "stringId": "5571-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27139,6 +27543,7 @@
     "references": {}
   },
   "5803-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Fern orange",
     "stringId": "5803-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27204,6 +27609,7 @@
     "references": {}
   },
   "47747-Newwworld.mod": {
+    "name": "CinderBall01",
     "stringId": "47747-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27269,6 +27675,7 @@
     "references": {}
   },
   "3118-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster01",
     "stringId": "3118-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27334,6 +27741,7 @@
     "references": {}
   },
   "18946-Newwworld.mod": {
+    "name": "Ghost-Town House05",
     "stringId": "18946-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27399,6 +27807,7 @@
     "references": {}
   },
   "47180-Newwworld.mod": {
+    "name": "LandTrumpet01",
     "stringId": "47180-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27464,6 +27873,7 @@
     "references": {}
   },
   "48740-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones01",
     "stringId": "48740-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27529,6 +27939,7 @@
     "references": {}
   },
   "17953-Newwworld.mod": {
+    "name": "Canyon_BLock_02",
     "stringId": "17953-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27594,6 +28005,7 @@
     "references": {}
   },
   "40625-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo04",
     "stringId": "40625-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27659,6 +28071,7 @@
     "references": {}
   },
   "5823-Newwworld.mod": {
+    "name": "BushTree03",
     "stringId": "5823-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27724,6 +28137,7 @@
     "references": {}
   },
   "42265-Newwworld.mod": {
+    "name": "Motor_Coil02",
     "stringId": "42265-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27797,6 +28211,7 @@
     }
   },
   "3125-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster08",
     "stringId": "3125-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27862,6 +28277,7 @@
     "references": {}
   },
   "48725-Newwworld.mod": {
+    "name": "RoboFoliage15",
     "stringId": "48725-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27927,6 +28343,7 @@
     "references": {}
   },
   "4476-Newwworld.mod": {
+    "name": "Rock FSmoothBoulder01",
     "stringId": "4476-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -27992,6 +28409,7 @@
     "references": {}
   },
   "48723-Newwworld.mod": {
+    "name": "RoboFoliage13",
     "stringId": "48723-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28057,6 +28475,7 @@
     "references": {}
   },
   "5632-Newwworld.mod": {
+    "name": "PalmType",
     "stringId": "5632-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28122,6 +28541,7 @@
     "references": {}
   },
   "4490-Newwworld.mod": {
+    "name": "Jungle_TREE&Branches",
     "stringId": "4490-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28187,6 +28607,7 @@
     "references": {}
   },
   "42331-Newwworld.mod": {
+    "name": "BlackRock_TerrainMapped04",
     "stringId": "42331-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28252,6 +28673,7 @@
     "references": {}
   },
   "2826-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit01_5K",
     "stringId": "2826-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28317,6 +28739,7 @@
     "references": {}
   },
   "48716-Newwworld.mod": {
+    "name": "RoboFoliage6",
     "stringId": "48716-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28382,6 +28805,7 @@
     "references": {}
   },
   "3243-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Fern-Stalked",
     "stringId": "3243-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28460,6 +28884,7 @@
     }
   },
   "48714-Newwworld.mod": {
+    "name": "RoboFoliage4",
     "stringId": "48714-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28525,6 +28950,7 @@
     "references": {}
   },
   "5828-Newwworld.mod": {
+    "name": "BlackRock02",
     "stringId": "5828-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28598,6 +29024,7 @@
     }
   },
   "5763-Newwworld.mod": {
+    "name": "TarGem7",
     "stringId": "5763-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28663,6 +29090,7 @@
     "references": {}
   },
   "42270-Newwworld.mod": {
+    "name": "Motor_Clamp",
     "stringId": "42270-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28728,6 +29156,7 @@
     "references": {}
   },
   "3628-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-HIGHER-Canyonheight",
     "stringId": "3628-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28793,6 +29222,7 @@
     "references": {}
   },
   "4417-Newwworld.mod": {
+    "name": "Foliage_7_Rock_Group",
     "stringId": "4417-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28858,6 +29288,7 @@
     "references": {}
   },
   "5573-Newwworld.mod": {
+    "name": "FloatingSeedPlant02",
     "stringId": "5573-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28923,6 +29354,7 @@
     "references": {}
   },
   "4474-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack03",
     "stringId": "4474-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -28988,6 +29420,7 @@
     "references": {}
   },
   "5776-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack05 Terrain",
     "stringId": "5776-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29053,6 +29486,7 @@
     "references": {}
   },
   "4430-Newwworld.mod": {
+    "name": "SageBrush01",
     "stringId": "4430-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29118,6 +29552,7 @@
     "references": {}
   },
   "3210-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm03",
     "stringId": "3210-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29183,6 +29618,7 @@
     "references": {}
   },
   "48743-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones04",
     "stringId": "48743-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29248,6 +29684,7 @@
     "references": {}
   },
   "5762-Newwworld.mod": {
+    "name": "TarGem4",
     "stringId": "5762-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29313,6 +29750,7 @@
     "references": {}
   },
   "4481-Newwworld.mod": {
+    "name": "Rock FSmoothBoulder06",
     "stringId": "4481-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29378,6 +29816,7 @@
     "references": {}
   },
   "3769-Newwworld.mod": {
+    "name": "Foliage_Metal_Tower_Quad-Piece",
     "stringId": "3769-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29443,6 +29882,7 @@
     "references": {}
   },
   "2737-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Lilltype04",
     "stringId": "2737-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29508,6 +29948,7 @@
     "references": {}
   },
   "5615-Newwworld.mod": {
+    "name": "RUIN-RefineryHead02",
     "stringId": "5615-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29573,6 +30014,7 @@
     "references": {}
   },
   "48707-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_Coloured_06",
     "stringId": "48707-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29638,6 +30080,7 @@
     "references": {}
   },
   "40626-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo05",
     "stringId": "40626-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29703,6 +30146,7 @@
     "references": {}
   },
   "4477-Newwworld.mod": {
+    "name": "Rock FSmoothBoulder02",
     "stringId": "4477-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29768,6 +30212,7 @@
     "references": {}
   },
   "5774-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack04 Terrain",
     "stringId": "5774-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29833,6 +30278,7 @@
     "references": {}
   },
   "4475-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack04",
     "stringId": "4475-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29898,6 +30344,7 @@
     "references": {}
   },
   "44954-Newwworld.mod": {
+    "name": "Skin_Cliff_Ridge03",
     "stringId": "44954-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -29963,6 +30410,7 @@
     "references": {}
   },
   "5768-Newwworld.mod": {
+    "name": "Cliffnail_04",
     "stringId": "5768-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30028,6 +30476,7 @@
     "references": {}
   },
   "47240-Newwworld.mod": {
+    "name": "CacTreeTu_03",
     "stringId": "47240-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30093,6 +30542,7 @@
     "references": {}
   },
   "3384-Newwworld.mod": {
+    "name": "FOLIAGE_GirderGroup_Loose01",
     "stringId": "3384-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30158,6 +30608,7 @@
     "references": {}
   },
   "5522-Newwworld.mod": {
+    "name": "LandLICHEN01",
     "stringId": "5522-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30223,6 +30674,7 @@
     "references": {}
   },
   "48694-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_03 Darker",
     "stringId": "48694-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30288,6 +30740,7 @@
     "references": {}
   },
   "3389-Newwworld.mod": {
+    "name": "FOLIAGE_AshlandWreckWall01",
     "stringId": "3389-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30353,6 +30806,7 @@
     "references": {}
   },
   "46973-Newwworld.mod": {
+    "name": "Spore02[subGrass]",
     "stringId": "46973-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30418,6 +30872,7 @@
     "references": {}
   },
   "18941-Newwworld.mod": {
+    "name": "Ghost-Town House01",
     "stringId": "18941-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30511,6 +30966,7 @@
     }
   },
   "5743-Newwworld.mod": {
+    "name": "foliagerocks_ManyDark Small DUNES004",
     "stringId": "5743-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30576,6 +31032,7 @@
     "references": {}
   },
   "48781-Newwworld.mod": {
+    "name": "VainTree01",
     "stringId": "48781-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30641,6 +31098,7 @@
     "references": {}
   },
   "5563-Newwworld.mod": {
+    "name": "Foliage_GungeTree",
     "stringId": "5563-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30706,6 +31164,7 @@
     "references": {}
   },
   "3213-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm06",
     "stringId": "3213-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30771,6 +31230,7 @@
     "references": {}
   },
   "3392-Newwworld.mod": {
+    "name": "FOLIAGE_AshlandTree-like",
     "stringId": "3392-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30836,6 +31296,7 @@
     "references": {}
   },
   "5816-Newwworld.mod": {
+    "name": "SKulTree 02",
     "stringId": "5816-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30901,6 +31362,7 @@
     "references": {}
   },
   "48683-Newwworld.mod": {
+    "name": "GreenGlass01",
     "stringId": "48683-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -30966,6 +31428,7 @@
     "references": {}
   },
   "14397-Newwworld.mod": {
+    "name": "Canyonland_FatTop01",
     "stringId": "14397-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31031,6 +31494,7 @@
     "references": {}
   },
   "42326-Newwworld.mod": {
+    "name": "MonuRock04",
     "stringId": "42326-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31096,6 +31560,7 @@
     "references": {}
   },
   "17967-Newwworld.mod": {
+    "name": "Barkworm_Pillar02- MESA VERSION",
     "stringId": "17967-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31161,6 +31626,7 @@
     "references": {}
   },
   "48718-Newwworld.mod": {
+    "name": "RoboFoliage8",
     "stringId": "48718-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31226,6 +31692,7 @@
     "references": {}
   },
   "44867-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_03",
     "stringId": "44867-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31291,6 +31758,7 @@
     "references": {}
   },
   "47754-Newwworld.mod": {
+    "name": "TreeFall03",
     "stringId": "47754-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31356,6 +31824,7 @@
     "references": {}
   },
   "42262-Newwworld.mod": {
+    "name": "Motor_Piece",
     "stringId": "42262-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31466,6 +31935,7 @@
     }
   },
   "40629-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo08",
     "stringId": "40629-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31531,6 +32001,7 @@
     "references": {}
   },
   "48720-Newwworld.mod": {
+    "name": "RoboFoliage10",
     "stringId": "48720-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31596,6 +32067,7 @@
     "references": {}
   },
   "48722-Newwworld.mod": {
+    "name": "RoboFoliage12",
     "stringId": "48722-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31661,6 +32133,7 @@
     "references": {}
   },
   "4499-Newwworld.mod": {
+    "name": "Foliage_Tarsand_SPIKE_03",
     "stringId": "4499-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31726,6 +32199,7 @@
     "references": {}
   },
   "3418-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder_GREY-01",
     "stringId": "3418-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31791,6 +32265,7 @@
     "references": {}
   },
   "44937-Newwworld.mod": {
+    "name": "CanyonLand_Pillar03",
     "stringId": "44937-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31856,6 +32331,7 @@
     "references": {}
   },
   "48719-Newwworld.mod": {
+    "name": "RoboFoliage9",
     "stringId": "48719-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31921,6 +32397,7 @@
     "references": {}
   },
   "2972-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Big Leaf",
     "stringId": "2972-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -31986,6 +32463,7 @@
     "references": {}
   },
   "3208-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_FanPalm01",
     "stringId": "3208-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32079,6 +32557,7 @@
     }
   },
   "48749-Newwworld.mod": {
+    "name": "MoltenCliffString1",
     "stringId": "48749-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32144,6 +32623,7 @@
     "references": {}
   },
   "5761-Newwworld.mod": {
+    "name": "TarGem3",
     "stringId": "5761-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32209,6 +32689,7 @@
     "references": {}
   },
   "17966-Newwworld.mod": {
+    "name": "Barkworm_Pillar01- MESA VERSION",
     "stringId": "17966-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32274,6 +32755,7 @@
     "references": {}
   },
   "5806-Newwworld.mod": {
+    "name": "CraggyTree Feather Leaves SWAMP",
     "stringId": "5806-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32339,6 +32821,7 @@
     "references": {}
   },
   "40623-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo02",
     "stringId": "40623-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32404,6 +32887,7 @@
     "references": {}
   },
   "5636-Newwworld.mod": {
+    "name": "LandUrchin01",
     "stringId": "5636-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32469,6 +32953,7 @@
     "references": {}
   },
   "5744-Newwworld.mod": {
+    "name": "foliagerocks_ManyDark Small DUNES005",
     "stringId": "5744-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32534,6 +33019,7 @@
     "references": {}
   },
   "3227-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle03",
     "stringId": "3227-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32599,6 +33085,7 @@
     "references": {}
   },
   "47239-Newwworld.mod": {
+    "name": "CacTreeTu_02",
     "stringId": "47239-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32664,6 +33151,7 @@
     "references": {}
   },
   "4496-Newwworld.mod": {
+    "name": "Foliage_Tarsand_SPIKE_01",
     "stringId": "4496-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32729,6 +33217,7 @@
     "references": {}
   },
   "4471-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack01",
     "stringId": "4471-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32794,6 +33283,7 @@
     "references": {}
   },
   "5616-Newwworld.mod": {
+    "name": "RUIN-RefineryHead03",
     "stringId": "5616-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32859,6 +33349,7 @@
     "references": {}
   },
   "48704-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_Coloured_03",
     "stringId": "48704-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32924,6 +33415,7 @@
     "references": {}
   },
   "50569-Newwworld.mod": {
+    "name": "TerrainTree",
     "stringId": "50569-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -32989,6 +33481,7 @@
     "references": {}
   },
   "48752-Newwworld.mod": {
+    "name": "MoltenCliffString3",
     "stringId": "48752-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33054,6 +33547,7 @@
     "references": {}
   },
   "48472-Newwworld.mod": {
+    "name": "Spore01_TarsandType",
     "stringId": "48472-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33119,6 +33613,7 @@
     "references": {}
   },
   "49571-Newwworld.mod": {
+    "name": "BulbGrass3D",
     "stringId": "49571-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33184,6 +33679,7 @@
     "references": {}
   },
   "3633-Newwworld.mod": {
+    "name": "Foliage_Swamp-Tall_Leafy",
     "stringId": "3633-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33249,6 +33745,7 @@
     "references": {}
   },
   "42325-Newwworld.mod": {
+    "name": "MonuRock03",
     "stringId": "42325-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33314,6 +33811,7 @@
     "references": {}
   },
   "42323-Newwworld.mod": {
+    "name": "MonuRock02",
     "stringId": "42323-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33379,6 +33877,7 @@
     "references": {}
   },
   "47181-Newwworld.mod": {
+    "name": "LandTrumpet02",
     "stringId": "47181-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33444,6 +33943,7 @@
     "references": {}
   },
   "48742-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones03",
     "stringId": "48742-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33509,6 +34009,7 @@
     "references": {}
   },
   "17955-Newwworld.mod": {
+    "name": "Canyon_BLock_04",
     "stringId": "17955-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33574,6 +34075,7 @@
     "references": {}
   },
   "5819-Newwworld.mod": {
+    "name": "RuinCliffRocks_01",
     "stringId": "5819-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33639,6 +34141,7 @@
     "references": {}
   },
   "48698-Newwworld.mod": {
+    "name": "Roctower01",
     "stringId": "48698-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33704,6 +34207,7 @@
     "references": {}
   },
   "5794-Newwworld.mod": {
+    "name": "AirRock01",
     "stringId": "5794-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33769,6 +34273,7 @@
     "references": {}
   },
   "5830-Newwworld.mod": {
+    "name": "BlackRock04",
     "stringId": "5830-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33834,6 +34339,7 @@
     "references": {}
   },
   "3226-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle02",
     "stringId": "3226-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33899,6 +34405,7 @@
     "references": {}
   },
   "14546-Newwworld.mod": {
+    "name": "Crumble-Building01",
     "stringId": "14546-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -33964,6 +34471,7 @@
     "references": {}
   },
   "40630-Newwworld.mod": {
+    "name": "FlatTop_Hoodoo09",
     "stringId": "40630-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34029,6 +34537,7 @@
     "references": {}
   },
   "5798-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Fern-Stalked Orange",
     "stringId": "5798-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34094,6 +34603,7 @@
     "references": {}
   },
   "5802-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Ferngrey green",
     "stringId": "5802-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34159,6 +34669,7 @@
     "references": {}
   },
   "17968-Newwworld.mod": {
+    "name": "Barkworm_Pillar03- MESA VERSION",
     "stringId": "17968-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34224,6 +34735,7 @@
     "references": {}
   },
   "5741-Newwworld.mod": {
+    "name": "foliagerocks_ManyDark Small DUNES002",
     "stringId": "5741-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34289,6 +34801,7 @@
     "references": {}
   },
   "48702-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_Coloured_01",
     "stringId": "48702-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34354,6 +34867,7 @@
     "references": {}
   },
   "5546-Newwworld.mod": {
+    "name": "Cactus_Type03",
     "stringId": "5546-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34419,6 +34933,7 @@
     "references": {}
   },
   "18943-Newwworld.mod": {
+    "name": "Ghost-Town House02",
     "stringId": "18943-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34484,6 +34999,7 @@
     "references": {}
   },
   "46970-Newwworld.mod": {
+    "name": "Thorny Plant Singles",
     "stringId": "46970-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34549,6 +35065,7 @@
     "references": {}
   },
   "4502-Newwworld.mod": {
+    "name": "Baobabesque Tree",
     "stringId": "4502-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34614,6 +35131,7 @@
     "references": {}
   },
   "5690-Newwworld.mod": {
+    "name": "ResourceRock-IRON03",
     "stringId": "5690-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34687,6 +35205,7 @@
     }
   },
   "48715-Newwworld.mod": {
+    "name": "RoboFoliage5",
     "stringId": "48715-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34752,6 +35271,7 @@
     "references": {}
   },
   "3121-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootCluster04",
     "stringId": "3121-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34817,6 +35337,7 @@
     "references": {}
   },
   "48713-Newwworld.mod": {
+    "name": "RoboFoliage3",
     "stringId": "48713-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34882,6 +35403,7 @@
     "references": {}
   },
   "5734-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder-PLAINS-Star",
     "stringId": "5734-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -34947,6 +35469,7 @@
     "references": {}
   },
   "4473-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack02",
     "stringId": "4473-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35012,6 +35535,7 @@
     "references": {}
   },
   "3428-Newwworld.mod": {
+    "name": "Rock_Horizontal_Outcrop",
     "stringId": "3428-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35077,6 +35601,7 @@
     "references": {}
   },
   "3239-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Swamp-beard_Frame",
     "stringId": "3239-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35142,6 +35667,7 @@
     "references": {}
   },
   "2739-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Beantree01",
     "stringId": "2739-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35207,6 +35733,7 @@
     "references": {}
   },
   "4445-Newwworld.mod": {
+    "name": "Giant_BigWood",
     "stringId": "4445-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35272,6 +35799,7 @@
     "references": {}
   },
   "2969-Newwworld.mod": {
+    "name": "FOLIAGE_Swamp Nodule02",
     "stringId": "2969-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35337,6 +35865,7 @@
     "references": {}
   },
   "2921-Newwworld.mod": {
+    "name": "FOLIAGE_WADI-Boulder02",
     "stringId": "2921-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35402,6 +35931,7 @@
     "references": {}
   },
   "5844-Newwworld.mod": {
+    "name": "CactiTrumpet03",
     "stringId": "5844-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35467,6 +35997,7 @@
     "references": {}
   },
   "3420-Newwworld.mod": {
+    "name": "FOLIAGE_Boulder_GREY-03",
     "stringId": "3420-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35532,6 +36063,7 @@
     "references": {}
   },
   "2744-Newwworld.mod": {
+    "name": "FOLIAGE_TumbleBoulder01",
     "stringId": "2744-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35597,6 +36129,7 @@
     "references": {}
   },
   "47184-Newwworld.mod": {
+    "name": "Yucka01",
     "stringId": "47184-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35662,6 +36195,7 @@
     "references": {}
   },
   "5737-Newwworld.mod": {
+    "name": "SageBrush_DESERT-OASIS",
     "stringId": "5737-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35727,6 +36261,7 @@
     "references": {}
   },
   "42268-Newwworld.mod": {
+    "name": "Motor_Cover01",
     "stringId": "42268-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35792,6 +36327,7 @@
     "references": {}
   },
   "2797-Newwworld.mod": {
+    "name": "FOLIAGE_TumbleBoulder02",
     "stringId": "2797-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35857,6 +36393,7 @@
     "references": {}
   },
   "4484-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle02-GREEN",
     "stringId": "4484-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35922,6 +36459,7 @@
     "references": {}
   },
   "48457-Newwworld.mod": {
+    "name": "Swamp_Head_Clump",
     "stringId": "48457-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -35987,6 +36525,7 @@
     "references": {}
   },
   "5847-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_KneeLeaf",
     "stringId": "5847-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36052,6 +36591,7 @@
     "references": {}
   },
   "3631-Newwworld.mod": {
+    "name": "Thin Tree [Wide] GREY-leaves",
     "stringId": "3631-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36117,6 +36657,7 @@
     "references": {}
   },
   "50575-Newwworld.mod": {
+    "name": "LeafyPlant_",
     "stringId": "50575-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36182,6 +36723,7 @@
     "references": {}
   },
   "3222-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_BananaStyle01",
     "stringId": "3222-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36247,6 +36789,7 @@
     "references": {}
   },
   "50635-Newwworld.mod": {
+    "name": "Sticky Plant01",
     "stringId": "50635-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36312,6 +36855,7 @@
     "references": {}
   },
   "50637-Newwworld.mod": {
+    "name": "CanyonLandCrater_Tree",
     "stringId": "50637-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36377,6 +36921,7 @@
     "references": {}
   },
   "50643-Newwworld.mod": {
+    "name": "Urchin_Like",
     "stringId": "50643-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36442,6 +36987,7 @@
     "references": {}
   },
   "50921-Newwworld.mod": {
+    "name": "RocStakk_Canyon01",
     "stringId": "50921-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36507,6 +37053,7 @@
     "references": {}
   },
   "50922-Newwworld.mod": {
+    "name": "RocStakk_Canyon02",
     "stringId": "50922-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36572,6 +37119,7 @@
     "references": {}
   },
   "50923-Newwworld.mod": {
+    "name": "RocStakk_Canyon03",
     "stringId": "50923-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36637,6 +37185,7 @@
     "references": {}
   },
   "50924-Newwworld.mod": {
+    "name": "RocStakk_Canyon04",
     "stringId": "50924-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36702,6 +37251,7 @@
     "references": {}
   },
   "50926-Newwworld.mod": {
+    "name": "ForestFern01 CanyonLands ",
     "stringId": "50926-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36767,6 +37317,7 @@
     "references": {}
   },
   "50990-Newwworld.mod": {
+    "name": "Canyon_NewBlockside01",
     "stringId": "50990-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36832,6 +37383,7 @@
     "references": {}
   },
   "50993-Newwworld.mod": {
+    "name": "Canyon_NewBlockside02",
     "stringId": "50993-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36897,6 +37449,7 @@
     "references": {}
   },
   "50994-Newwworld.mod": {
+    "name": "Canyon_NewBlockside03",
     "stringId": "50994-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -36962,6 +37515,7 @@
     "references": {}
   },
   "50995-Newwworld.mod": {
+    "name": "Canyon_NewBlockside04",
     "stringId": "50995-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37027,6 +37581,7 @@
     "references": {}
   },
   "50996-Newwworld.mod": {
+    "name": "Canyon_NewBlockside05",
     "stringId": "50996-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37092,6 +37647,7 @@
     "references": {}
   },
   "50997-Newwworld.mod": {
+    "name": "Canyon_NewBlockside06",
     "stringId": "50997-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37157,6 +37713,7 @@
     "references": {}
   },
   "50998-Newwworld.mod": {
+    "name": "Canyon_NewBlockside07",
     "stringId": "50998-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37222,6 +37779,7 @@
     "references": {}
   },
   "51016-Newwworld.mod": {
+    "name": "SpindleTree01",
     "stringId": "51016-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37287,6 +37845,7 @@
     "references": {}
   },
   "51018-Newwworld.mod": {
+    "name": "SpindleTree02",
     "stringId": "51018-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37352,6 +37911,7 @@
     "references": {}
   },
   "51019-Newwworld.mod": {
+    "name": "SpindleTree03",
     "stringId": "51019-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37417,6 +37977,7 @@
     "references": {}
   },
   "51020-Newwworld.mod": {
+    "name": "SpindleTree04",
     "stringId": "51020-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37482,6 +38043,7 @@
     "references": {}
   },
   "51021-Newwworld.mod": {
+    "name": "SpindleTree05",
     "stringId": "51021-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37547,6 +38109,7 @@
     "references": {}
   },
   "51367-Newwworld.mod": {
+    "name": "Human_Skeleton_Part01",
     "stringId": "51367-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37705,6 +38268,7 @@
     }
   },
   "51369-Newwworld.mod": {
+    "name": "Human_Skeleton_Part02",
     "stringId": "51369-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37770,6 +38334,7 @@
     "references": {}
   },
   "51370-Newwworld.mod": {
+    "name": "Human_Skeleton_Part04",
     "stringId": "51370-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37835,6 +38400,7 @@
     "references": {}
   },
   "51371-Newwworld.mod": {
+    "name": "Human_Skeleton_Part03",
     "stringId": "51371-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37900,6 +38466,7 @@
     "references": {}
   },
   "51372-Newwworld.mod": {
+    "name": "Human_Skeleton_Part05",
     "stringId": "51372-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -37965,6 +38532,7 @@
     "references": {}
   },
   "51373-Newwworld.mod": {
+    "name": "Human_Skeleton_Part06",
     "stringId": "51373-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38030,6 +38598,7 @@
     "references": {}
   },
   "51374-Newwworld.mod": {
+    "name": "Human_Skeleton_Part07",
     "stringId": "51374-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38095,6 +38664,7 @@
     "references": {}
   },
   "51375-Newwworld.mod": {
+    "name": "Human_Skeleton_Part08",
     "stringId": "51375-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38160,6 +38730,7 @@
     "references": {}
   },
   "51376-Newwworld.mod": {
+    "name": "Human_Skeleton_Part09",
     "stringId": "51376-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38225,6 +38796,7 @@
     "references": {}
   },
   "51377-Newwworld.mod": {
+    "name": "Human_Skeleton_Part10",
     "stringId": "51377-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38290,6 +38862,7 @@
     "references": {}
   },
   "51378-Newwworld.mod": {
+    "name": "Human_Skeleton_Part11",
     "stringId": "51378-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38355,6 +38928,7 @@
     "references": {}
   },
   "51379-Newwworld.mod": {
+    "name": "Human_Skeleton_Part12",
     "stringId": "51379-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38420,6 +38994,7 @@
     "references": {}
   },
   "51380-Newwworld.mod": {
+    "name": "Human_Skeleton_Part13",
     "stringId": "51380-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38485,6 +39060,7 @@
     "references": {}
   },
   "51381-Newwworld.mod": {
+    "name": "Human_Skeleton_Part14",
     "stringId": "51381-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38550,6 +39126,7 @@
     "references": {}
   },
   "51382-Newwworld.mod": {
+    "name": "Human_Skeleton_Part15",
     "stringId": "51382-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38615,6 +39192,7 @@
     "references": {}
   },
   "51383-Newwworld.mod": {
+    "name": "Human_Skeleton_Part16",
     "stringId": "51383-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38680,6 +39258,7 @@
     "references": {}
   },
   "51384-Newwworld.mod": {
+    "name": "Human_Skeleton_Part17",
     "stringId": "51384-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38745,6 +39324,7 @@
     "references": {}
   },
   "51385-Newwworld.mod": {
+    "name": "Human_Skeleton_Part18",
     "stringId": "51385-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38810,6 +39390,7 @@
     "references": {}
   },
   "51386-Newwworld.mod": {
+    "name": "Human_Skeleton_Part19",
     "stringId": "51386-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38875,6 +39456,7 @@
     "references": {}
   },
   "51387-Newwworld.mod": {
+    "name": "Jungle_LargeScale_plant",
     "stringId": "51387-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -38940,6 +39522,7 @@
     "references": {}
   },
   "51389-Newwworld.mod": {
+    "name": "PhantomGrass001_SWAMP",
     "stringId": "51389-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39005,6 +39588,7 @@
     "references": {}
   },
   "51390-Newwworld.mod": {
+    "name": "PhantomGrass001_SWAMP-no cluster",
     "stringId": "51390-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39070,6 +39654,7 @@
     "references": {}
   },
   "51399-Newwworld.mod": {
+    "name": "PalmType OASIS HEIGHT",
     "stringId": "51399-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39135,6 +39720,7 @@
     "references": {}
   },
   "51401-Newwworld.mod": {
+    "name": "Yucka01 OASIS",
     "stringId": "51401-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39200,6 +39786,7 @@
     "references": {}
   },
   "51403-Newwworld.mod": {
+    "name": "BigGrassClump OASIS",
     "stringId": "51403-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39265,6 +39852,7 @@
     "references": {}
   },
   "51417-Newwworld.mod": {
+    "name": "CUP-PlantLeaf",
     "stringId": "51417-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39330,6 +39918,7 @@
     "references": {}
   },
   "51634-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_01_FLINT",
     "stringId": "51634-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39395,6 +39984,7 @@
     "references": {}
   },
   "51635-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_02_FLINT",
     "stringId": "51635-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39460,6 +40050,7 @@
     "references": {}
   },
   "51636-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_03_FLINT",
     "stringId": "51636-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39525,6 +40116,7 @@
     "references": {}
   },
   "51637-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_04_FLINT",
     "stringId": "51637-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39590,6 +40182,7 @@
     "references": {}
   },
   "51638-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_05_FLINT",
     "stringId": "51638-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39655,6 +40248,7 @@
     "references": {}
   },
   "51639-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_06_FLINT",
     "stringId": "51639-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39720,6 +40314,7 @@
     "references": {}
   },
   "51640-Newwworld.mod": {
+    "name": "CanyonLand_Pillar01_InsetDeeper",
     "stringId": "51640-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39785,6 +40380,7 @@
     "references": {}
   },
   "51641-Newwworld.mod": {
+    "name": "CanyonLand_Pillar02InsetDeeper",
     "stringId": "51641-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39850,6 +40446,7 @@
     "references": {}
   },
   "51642-Newwworld.mod": {
+    "name": "CanyonLand_Pillar03InsetDeeper",
     "stringId": "51642-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -39915,6 +40512,7 @@
     "references": {}
   },
   "51644-Newwworld.mod": {
+    "name": "Robotics-Junk01",
     "stringId": "51644-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40058,6 +40656,7 @@
     }
   },
   "51645-Newwworld.mod": {
+    "name": "Robotics-Junk02",
     "stringId": "51645-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40123,6 +40722,7 @@
     "references": {}
   },
   "51646-Newwworld.mod": {
+    "name": "Robotics-Junk03",
     "stringId": "51646-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40188,6 +40788,7 @@
     "references": {}
   },
   "51647-Newwworld.mod": {
+    "name": "Robotics-Junk04",
     "stringId": "51647-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40253,6 +40854,7 @@
     "references": {}
   },
   "51648-Newwworld.mod": {
+    "name": "Robotics-Junk05",
     "stringId": "51648-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40318,6 +40920,7 @@
     "references": {}
   },
   "51649-Newwworld.mod": {
+    "name": "Robotics-Junk06",
     "stringId": "51649-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40383,6 +40986,7 @@
     "references": {}
   },
   "51650-Newwworld.mod": {
+    "name": "Robotics-Junk07",
     "stringId": "51650-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40448,6 +41052,7 @@
     "references": {}
   },
   "51651-Newwworld.mod": {
+    "name": "Robotics-Junk08",
     "stringId": "51651-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40513,6 +41118,7 @@
     "references": {}
   },
   "51652-Newwworld.mod": {
+    "name": "Robotics-Junk09",
     "stringId": "51652-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40578,6 +41184,7 @@
     "references": {}
   },
   "51653-Newwworld.mod": {
+    "name": "Robotics-Junk10",
     "stringId": "51653-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40643,6 +41250,7 @@
     "references": {}
   },
   "51654-Newwworld.mod": {
+    "name": "Robotics-Junk11",
     "stringId": "51654-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40708,6 +41316,7 @@
     "references": {}
   },
   "51655-Newwworld.mod": {
+    "name": "Robotics-Junk12",
     "stringId": "51655-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40773,6 +41382,7 @@
     "references": {}
   },
   "51656-Newwworld.mod": {
+    "name": "Robotics-Junk13",
     "stringId": "51656-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40838,6 +41448,7 @@
     "references": {}
   },
   "51657-Newwworld.mod": {
+    "name": "Robotics-Junk14",
     "stringId": "51657-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40903,6 +41514,7 @@
     "references": {}
   },
   "51658-Newwworld.mod": {
+    "name": "Robotics-Junk15",
     "stringId": "51658-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -40968,6 +41580,7 @@
     "references": {}
   },
   "51659-Newwworld.mod": {
+    "name": "Robotics-Junk16",
     "stringId": "51659-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41033,6 +41646,7 @@
     "references": {}
   },
   "51815-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_01_Canyonlands",
     "stringId": "51815-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41098,6 +41712,7 @@
     "references": {}
   },
   "51816-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_02_Canyonlands",
     "stringId": "51816-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41163,6 +41778,7 @@
     "references": {}
   },
   "51818-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_03_Canyonlands",
     "stringId": "51818-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41228,6 +41844,7 @@
     "references": {}
   },
   "51819-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_04_Canyonlands",
     "stringId": "51819-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41293,6 +41910,7 @@
     "references": {}
   },
   "51820-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_05_Canyonlands",
     "stringId": "51820-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41358,6 +41976,7 @@
     "references": {}
   },
   "51821-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_06_Canyonlands",
     "stringId": "51821-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41423,6 +42042,7 @@
     "references": {}
   },
   "51822-Newwworld.mod": {
+    "name": "WaterPlant_A_01",
     "stringId": "51822-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41488,6 +42108,7 @@
     "references": {}
   },
   "51823-Newwworld.mod": {
+    "name": "WaterPlant_A_02",
     "stringId": "51823-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41553,6 +42174,7 @@
     "references": {}
   },
   "51824-Newwworld.mod": {
+    "name": "WaterPlant_A_03",
     "stringId": "51824-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41618,6 +42240,7 @@
     "references": {}
   },
   "51827-Newwworld.mod": {
+    "name": "WaterPlant_B",
     "stringId": "51827-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41683,6 +42306,7 @@
     "references": {}
   },
   "51829-Newwworld.mod": {
+    "name": "WaterPlant_C_01",
     "stringId": "51829-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41748,6 +42372,7 @@
     "references": {}
   },
   "51831-Newwworld.mod": {
+    "name": "WaterPlant_C_02",
     "stringId": "51831-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41813,6 +42438,7 @@
     "references": {}
   },
   "51832-Newwworld.mod": {
+    "name": "WaterPlant_C_03",
     "stringId": "51832-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41878,6 +42504,7 @@
     "references": {}
   },
   "51833-Newwworld.mod": {
+    "name": "WaterPlant_C_01 DEAD",
     "stringId": "51833-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -41943,6 +42570,7 @@
     "references": {}
   },
   "51834-Newwworld.mod": {
+    "name": "Canyon_CliffPlant01",
     "stringId": "51834-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42008,6 +42636,7 @@
     "references": {}
   },
   "51836-Newwworld.mod": {
+    "name": "YuccaSpiderBush",
     "stringId": "51836-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42073,6 +42702,7 @@
     "references": {}
   },
   "51842-Newwworld.mod": {
+    "name": "ResourceRock_Copper01 SWAMP",
     "stringId": "51842-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42146,6 +42776,7 @@
     }
   },
   "51843-Newwworld.mod": {
+    "name": "ResourceRock_Copper02  SWAMP",
     "stringId": "51843-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42219,6 +42850,7 @@
     }
   },
   "51845-Newwworld.mod": {
+    "name": "ResourceRock-IRON02 Easy Reach  SWAMP",
     "stringId": "51845-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42292,6 +42924,7 @@
     }
   },
   "51846-Newwworld.mod": {
+    "name": "ResourceRock-IRON03 Easy Reach  SWAMP",
     "stringId": "51846-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42365,6 +42998,7 @@
     }
   },
   "51847-Newwworld.mod": {
+    "name": "ResourceRock-IRON04 Easy Reach  SWAMP",
     "stringId": "51847-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42438,6 +43072,7 @@
     }
   },
   "51848-Newwworld.mod": {
+    "name": "ResourceRock-IRON05 Easy Reach  SWAMP",
     "stringId": "51848-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42511,6 +43146,7 @@
     }
   },
   "52156-Newwworld.mod": {
+    "name": "Rod-Tree001",
     "stringId": "52156-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42589,6 +43225,7 @@
     }
   },
   "52158-Newwworld.mod": {
+    "name": "Rod-Tree002",
     "stringId": "52158-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42654,6 +43291,7 @@
     "references": {}
   },
   "52159-Newwworld.mod": {
+    "name": "Rod-Tree003",
     "stringId": "52159-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42719,6 +43357,7 @@
     "references": {}
   },
   "53191-Newwworld.mod": {
+    "name": "Big4Seed_Tree1",
     "stringId": "53191-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42784,6 +43423,7 @@
     "references": {}
   },
   "55111-Newwworld.mod": {
+    "name": "Roaming_Tree01",
     "stringId": "55111-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42862,6 +43502,7 @@
     }
   },
   "55112-Newwworld.mod": {
+    "name": "Roaming_Tree02",
     "stringId": "55112-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42927,6 +43568,7 @@
     "references": {}
   },
   "55113-Newwworld.mod": {
+    "name": "Roaming_Tree03",
     "stringId": "55113-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -42992,6 +43634,7 @@
     "references": {}
   },
   "55228-Newwworld.mod": {
+    "name": "MonuRock01 Lower slopes SMALLER",
     "stringId": "55228-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43058,6 +43701,7 @@
     "references": {}
   },
   "55229-Newwworld.mod": {
+    "name": "MonuRock02 Lower slopes SMALLER",
     "stringId": "55229-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43124,6 +43768,7 @@
     "references": {}
   },
   "55230-Newwworld.mod": {
+    "name": "MonuRock03 Lower slopes SMALLER",
     "stringId": "55230-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43190,6 +43835,7 @@
     "references": {}
   },
   "55231-Newwworld.mod": {
+    "name": "MonuRock04 Lower slopes SMALLER",
     "stringId": "55231-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43256,6 +43902,7 @@
     "references": {}
   },
   "55235-Newwworld.mod": {
+    "name": "Pale_BigGrass01",
     "stringId": "55235-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43321,6 +43968,7 @@
     "references": {}
   },
   "55237-Newwworld.mod": {
+    "name": "Pale_BigGrass02",
     "stringId": "55237-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43386,6 +44034,7 @@
     "references": {}
   },
   "55238-Newwworld.mod": {
+    "name": "Pale_BigGrass03",
     "stringId": "55238-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43451,6 +44100,7 @@
     "references": {}
   },
   "55239-Newwworld.mod": {
+    "name": "Pale_BigGrass04",
     "stringId": "55239-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43516,6 +44166,7 @@
     "references": {}
   },
   "55240-Newwworld.mod": {
+    "name": "Pale_BigGrass05",
     "stringId": "55240-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43581,6 +44232,7 @@
     "references": {}
   },
   "55241-Newwworld.mod": {
+    "name": "Pale_BigGrass06",
     "stringId": "55241-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43646,6 +44298,7 @@
     "references": {}
   },
   "55242-Newwworld.mod": {
+    "name": "Pale_BigGrass07",
     "stringId": "55242-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43711,6 +44364,7 @@
     "references": {}
   },
   "55243-Newwworld.mod": {
+    "name": "Pale_BigGrass08",
     "stringId": "55243-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43776,6 +44430,7 @@
     "references": {}
   },
   "55244-Newwworld.mod": {
+    "name": "Pale_BigGrass09",
     "stringId": "55244-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43841,6 +44496,7 @@
     "references": {}
   },
   "55245-Newwworld.mod": {
+    "name": "Pale_BigGrass10",
     "stringId": "55245-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43906,6 +44562,7 @@
     "references": {}
   },
   "55246-Newwworld.mod": {
+    "name": "Pale_BigGrass11",
     "stringId": "55246-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -43971,6 +44628,7 @@
     "references": {}
   },
   "55248-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-white-inGrass02",
     "stringId": "55248-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44037,6 +44695,7 @@
     "references": {}
   },
   "55249-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-white-inGrass03",
     "stringId": "55249-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44103,6 +44762,7 @@
     "references": {}
   },
   "55250-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-white-inGrass04",
     "stringId": "55250-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44169,6 +44829,7 @@
     "references": {}
   },
   "55254-Newwworld.mod": {
+    "name": "FanTree LightBlue",
     "stringId": "55254-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44235,6 +44896,7 @@
     "references": {}
   },
   "55256-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Monster-Style01-LIGHT",
     "stringId": "55256-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44309,6 +44971,7 @@
     }
   },
   "55258-Newwworld.mod": {
+    "name": "Barkworm_Pillar01KenshiBowl",
     "stringId": "55258-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44375,6 +45038,7 @@
     "references": {}
   },
   "55259-Newwworld.mod": {
+    "name": "Barkworm_Pillar02 KenshiBowl",
     "stringId": "55259-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44441,6 +45105,7 @@
     "references": {}
   },
   "55260-Newwworld.mod": {
+    "name": "Barkworm_Pillar03 KenshiBowl",
     "stringId": "55260-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44507,6 +45172,7 @@
     "references": {}
   },
   "55262-Newwworld.mod": {
+    "name": "Foliage_1K_RockStack01 KenshiBowl",
     "stringId": "55262-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44573,6 +45239,7 @@
     "references": {}
   },
   "55263-Newwworld.mod": {
+    "name": "Foliage_1K_RockStack02 KenshiBowl",
     "stringId": "55263-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44639,6 +45306,7 @@
     "references": {}
   },
   "55264-Newwworld.mod": {
+    "name": "Foliage_1K_RockStack03 KenshiBowl",
     "stringId": "55264-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44705,6 +45373,7 @@
     "references": {}
   },
   "55402-Newwworld.mod": {
+    "name": "DesertGrass02",
     "stringId": "55402-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44771,6 +45440,7 @@
     "references": {}
   },
   "56186-Newwworld.mod": {
+    "name": "FruitBall_Tree",
     "stringId": "56186-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44837,6 +45507,7 @@
     "references": {}
   },
   "56734-Newwworld.mod": {
+    "name": "TallSpikeyCactus",
     "stringId": "56734-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44902,6 +45573,7 @@
     "references": {}
   },
   "56736-Newwworld.mod": {
+    "name": "HydraPlant01",
     "stringId": "56736-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -44967,6 +45639,7 @@
     "references": {}
   },
   "56738-Newwworld.mod": {
+    "name": "JunkSat01",
     "stringId": "56738-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45032,6 +45705,7 @@
     "references": {}
   },
   "56741-Newwworld.mod": {
+    "name": "Gulch_Grassclump_01",
     "stringId": "56741-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45097,6 +45771,7 @@
     "references": {}
   },
   "56893-Newwworld.mod": {
+    "name": "Land HULL",
     "stringId": "56893-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45162,6 +45837,7 @@
     "references": {}
   },
   "56894-Newwworld.mod": {
+    "name": "Land Sail",
     "stringId": "56894-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45227,6 +45903,7 @@
     "references": {}
   },
   "56895-Newwworld.mod": {
+    "name": "Land Sail-Wrapped",
     "stringId": "56895-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45292,6 +45969,7 @@
     "references": {}
   },
   "56896-Newwworld.mod": {
+    "name": "Land Pinion",
     "stringId": "56896-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45357,6 +46035,7 @@
     "references": {}
   },
   "56897-Newwworld.mod": {
+    "name": "Land Capsule",
     "stringId": "56897-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45422,6 +46101,7 @@
     "references": {}
   },
   "56898-Newwworld.mod": {
+    "name": "Land Tripod",
     "stringId": "56898-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45487,6 +46167,7 @@
     "references": {}
   },
   "56899-Newwworld.mod": {
+    "name": "Land Mast",
     "stringId": "56899-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45552,6 +46233,7 @@
     "references": {}
   },
   "56900-Newwworld.mod": {
+    "name": "Land RING",
     "stringId": "56900-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45625,6 +46307,7 @@
     }
   },
   "57287-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower01",
     "stringId": "57287-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45738,6 +46421,7 @@
     }
   },
   "57289-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower02",
     "stringId": "57289-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45803,6 +46487,7 @@
     "references": {}
   },
   "57290-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower03",
     "stringId": "57290-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45868,6 +46553,7 @@
     "references": {}
   },
   "57291-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower04",
     "stringId": "57291-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45933,6 +46619,7 @@
     "references": {}
   },
   "57292-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower05",
     "stringId": "57292-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -45998,6 +46685,7 @@
     "references": {}
   },
   "57293-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower06",
     "stringId": "57293-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46063,6 +46751,7 @@
     "references": {}
   },
   "57294-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower07",
     "stringId": "57294-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46128,6 +46817,7 @@
     "references": {}
   },
   "57297-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower09",
     "stringId": "57297-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46193,6 +46883,7 @@
     "references": {}
   },
   "57296-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower08",
     "stringId": "57296-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46258,6 +46949,7 @@
     "references": {}
   },
   "57298-Newwworld.mod": {
+    "name": "Canyon_Lichen_Tower10",
     "stringId": "57298-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46323,6 +47015,7 @@
     "references": {}
   },
   "57308-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_01_Gulchtype",
     "stringId": "57308-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46388,6 +47081,7 @@
     "references": {}
   },
   "57309-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_02_Gulchtype",
     "stringId": "57309-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46453,6 +47147,7 @@
     "references": {}
   },
   "57310-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_03_Gulchtype",
     "stringId": "57310-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46518,6 +47213,7 @@
     "references": {}
   },
   "57311-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_04_Gulchtype",
     "stringId": "57311-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46583,6 +47279,7 @@
     "references": {}
   },
   "57312-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_05_Gulchtype",
     "stringId": "57312-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46648,6 +47345,7 @@
     "references": {}
   },
   "57313-Newwworld.mod": {
+    "name": "Canyon_BlockSmaller_06_Gulchtype",
     "stringId": "57313-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46713,6 +47411,7 @@
     "references": {}
   },
   "57315-Newwworld.mod": {
+    "name": "ResourceRock_Copper01_Gulchtype",
     "stringId": "57315-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46787,6 +47486,7 @@
     }
   },
   "57316-Newwworld.mod": {
+    "name": "ResourceRock_Copper02 Gulchype",
     "stringId": "57316-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46861,6 +47561,7 @@
     }
   },
   "57318-Newwworld.mod": {
+    "name": "Canyon_NewBlockside01_Gulch",
     "stringId": "57318-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46926,6 +47627,7 @@
     "references": {}
   },
   "57319-Newwworld.mod": {
+    "name": "Canyon_NewBlockside02_Gulch",
     "stringId": "57319-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -46991,6 +47693,7 @@
     "references": {}
   },
   "57320-Newwworld.mod": {
+    "name": "Canyon_NewBlockside03_Gulch",
     "stringId": "57320-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47056,6 +47759,7 @@
     "references": {}
   },
   "57321-Newwworld.mod": {
+    "name": "Canyon_NewBlockside04_Gulch",
     "stringId": "57321-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47121,6 +47825,7 @@
     "references": {}
   },
   "57322-Newwworld.mod": {
+    "name": "Canyon_NewBlockside05_Gulch",
     "stringId": "57322-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47186,6 +47891,7 @@
     "references": {}
   },
   "57323-Newwworld.mod": {
+    "name": "Canyon_NewBlockside06_Gulch",
     "stringId": "57323-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47251,6 +47957,7 @@
     "references": {}
   },
   "57324-Newwworld.mod": {
+    "name": "Canyon_NewBlockside07_Gulch",
     "stringId": "57324-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47316,6 +48023,7 @@
     "references": {}
   },
   "57325-Newwworld.mod": {
+    "name": "Gulch_Glow-Plant01",
     "stringId": "57325-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47382,6 +48090,7 @@
     "references": {}
   },
   "64596-Newwworld.mod": {
+    "name": "Ashland_StructureWreck01",
     "stringId": "64596-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47447,6 +48156,7 @@
     "references": {}
   },
   "64597-Newwworld.mod": {
+    "name": "Ashland_StructureWreck02",
     "stringId": "64597-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47512,6 +48222,7 @@
     "references": {}
   },
   "64598-Newwworld.mod": {
+    "name": "Ashland_StructureWreck03",
     "stringId": "64598-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47577,6 +48288,7 @@
     "references": {}
   },
   "64600-Newwworld.mod": {
+    "name": "AshCreteChunk001",
     "stringId": "64600-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47642,6 +48354,7 @@
     "references": {}
   },
   "64601-Newwworld.mod": {
+    "name": "AshCreteChunk002",
     "stringId": "64601-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47707,6 +48420,7 @@
     "references": {}
   },
   "64602-Newwworld.mod": {
+    "name": "AshCreteChunk003",
     "stringId": "64602-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47772,6 +48486,7 @@
     "references": {}
   },
   "64603-Newwworld.mod": {
+    "name": "AshCreteChunk004",
     "stringId": "64603-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47837,6 +48552,7 @@
     "references": {}
   },
   "64604-Newwworld.mod": {
+    "name": "AshCreteChunk005",
     "stringId": "64604-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47902,6 +48618,7 @@
     "references": {}
   },
   "64605-Newwworld.mod": {
+    "name": "AshCreteChunk006",
     "stringId": "64605-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -47967,6 +48684,7 @@
     "references": {}
   },
   "64867-Newwworld.mod": {
+    "name": "TechWreck SPARSER",
     "stringId": "64867-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48047,6 +48765,7 @@
     }
   },
   "64868-Newwworld.mod": {
+    "name": "TechJunk SPARSER",
     "stringId": "64868-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48157,6 +48876,7 @@
     }
   },
   "64869-Newwworld.mod": {
+    "name": "TechRustyJunk_01 SPARSER",
     "stringId": "64869-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48277,6 +48997,7 @@
     }
   },
   "64870-Newwworld.mod": {
+    "name": "TechRustyJunk_02 SPARSER",
     "stringId": "64870-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48342,6 +49063,7 @@
     "references": {}
   },
   "64871-Newwworld.mod": {
+    "name": "TechRustyJunk_03 SPARSER",
     "stringId": "64871-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48407,6 +49129,7 @@
     "references": {}
   },
   "64872-Newwworld.mod": {
+    "name": "TechRustyJunk_04 SPARSER",
     "stringId": "64872-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48472,6 +49195,7 @@
     "references": {}
   },
   "64873-Newwworld.mod": {
+    "name": "TechRustyJunk_05 SPARSER",
     "stringId": "64873-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48537,6 +49261,7 @@
     "references": {}
   },
   "64874-Newwworld.mod": {
+    "name": "TechRustyJunk_06 SPARSER",
     "stringId": "64874-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48602,6 +49327,7 @@
     "references": {}
   },
   "64875-Newwworld.mod": {
+    "name": "TechRustyJunk_07 SPARSER",
     "stringId": "64875-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48667,6 +49393,7 @@
     "references": {}
   },
   "64876-Newwworld.mod": {
+    "name": "TechRustyJunk_08 SPARSER",
     "stringId": "64876-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48732,6 +49459,7 @@
     "references": {}
   },
   "64877-Newwworld.mod": {
+    "name": "TechRustyJunk_09 SPARSER",
     "stringId": "64877-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48797,6 +49525,7 @@
     "references": {}
   },
   "64878-Newwworld.mod": {
+    "name": "TechRustyJunk_10 SPARSER",
     "stringId": "64878-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48862,6 +49591,7 @@
     "references": {}
   },
   "64879-Newwworld.mod": {
+    "name": "TechJunk01 SPARSER",
     "stringId": "64879-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -48972,6 +49702,7 @@
     }
   },
   "64880-Newwworld.mod": {
+    "name": "TechJunk02 SPARSER",
     "stringId": "64880-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49037,6 +49768,7 @@
     "references": {}
   },
   "64881-Newwworld.mod": {
+    "name": "TechJunk03 SPARSER",
     "stringId": "64881-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49102,6 +49834,7 @@
     "references": {}
   },
   "64882-Newwworld.mod": {
+    "name": "TechJunk04 SPARSER",
     "stringId": "64882-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49167,6 +49900,7 @@
     "references": {}
   },
   "64883-Newwworld.mod": {
+    "name": "TechJunk05 SPARSER",
     "stringId": "64883-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49232,6 +49966,7 @@
     "references": {}
   },
   "64884-Newwworld.mod": {
+    "name": "TechJunk06 SPARSER",
     "stringId": "64884-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49297,6 +50032,7 @@
     "references": {}
   },
   "64885-Newwworld.mod": {
+    "name": "TechJunk07 SPARSER",
     "stringId": "64885-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49362,6 +50098,7 @@
     "references": {}
   },
   "64886-Newwworld.mod": {
+    "name": "TechJunk08 SPARSER",
     "stringId": "64886-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49427,6 +50164,7 @@
     "references": {}
   },
   "1532242-Newwworld.mod": {
+    "name": "Pink Top",
     "stringId": "1532242-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49493,6 +50231,7 @@
     "references": {}
   },
   "1532244-Newwworld.mod": {
+    "name": "Pink Top Shoot",
     "stringId": "1532244-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49559,6 +50298,7 @@
     "references": {}
   },
   "1533075-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones01 mid tex",
     "stringId": "1533075-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49624,6 +50364,7 @@
     "references": {}
   },
   "1533076-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones02 mid tex",
     "stringId": "1533076-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49689,6 +50430,7 @@
     "references": {}
   },
   "1533077-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones03 mid tex",
     "stringId": "1533077-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49754,6 +50496,7 @@
     "references": {}
   },
   "1533078-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones04 mid tex",
     "stringId": "1533078-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49819,6 +50562,7 @@
     "references": {}
   },
   "1533079-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones05 mid tex",
     "stringId": "1533079-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49884,6 +50628,7 @@
     "references": {}
   },
   "1533277-Newwworld.mod": {
+    "name": "Thin Craggy Tree",
     "stringId": "1533277-Newwworld.mod",
     "type": "FoliageMesh",
     "values": {
@@ -49949,6 +50694,7 @@
     "references": {}
   },
   "47951-rebirth.mod": {
+    "name": "rusted drone upright",
     "stringId": "47951-rebirth.mod",
     "type": "FoliageMesh",
     "values": {
@@ -50014,6 +50760,7 @@
     "references": {}
   },
   "47954-rebirth.mod": {
+    "name": "rusted drone crooked",
     "stringId": "47954-rebirth.mod",
     "type": "FoliageMesh",
     "values": {
@@ -50079,6 +50826,7 @@
     "references": {}
   },
   "47955-rebirth.mod": {
+    "name": "rusted drone crooked legless",
     "stringId": "47955-rebirth.mod",
     "type": "FoliageMesh",
     "values": {

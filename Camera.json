@@ -1,5 +1,6 @@
 {
   "1437-gamedata.base": {
+    "name": "grass1",
     "stringId": "1437-gamedata.base",
     "type": "Camera",
     "values": {

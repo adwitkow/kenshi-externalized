@@ -1,5 +1,6 @@
 {
   "3990-gamedata.base": {
+    "name": "bull walk",
     "stringId": "3990-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -47,6 +48,7 @@
     }
   },
   "4026-gamedata.base": {
+    "name": "mouthclack",
     "stringId": "4026-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -81,6 +83,7 @@
     "references": {}
   },
   "42072-gamedata.base": {
+    "name": "spider walk robo",
     "stringId": "42072-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -115,6 +118,7 @@
     "references": {}
   },
   "42073-gamedata.base": {
+    "name": "spider strafe robo",
     "stringId": "42073-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -149,6 +153,7 @@
     "references": {}
   },
   "3995-gamedata.base": {
+    "name": "goat run",
     "stringId": "3995-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -183,6 +188,7 @@
     "references": {}
   },
   "4023-gamedata.base": {
+    "name": "sleeponfloor",
     "stringId": "4023-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -217,6 +223,7 @@
     "references": {}
   },
   "3978-gamedata.base": {
+    "name": "idle4",
     "stringId": "3978-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -251,6 +258,7 @@
     "references": {}
   },
   "2863-gamedata.base": {
+    "name": "walk giraffe",
     "stringId": "2863-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -285,6 +293,7 @@
     "references": {}
   },
   "4024-gamedata.base": {
+    "name": "sleeponfloor",
     "stringId": "4024-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -319,6 +328,7 @@
     "references": {}
   },
   "3972-gamedata.base": {
+    "name": "walk whale",
     "stringId": "3972-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -353,6 +363,7 @@
     "references": {}
   },
   "4000-gamedata.base": {
+    "name": "beast walk",
     "stringId": "4000-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -387,6 +398,7 @@
     "references": {}
   },
   "3381-gamedata.base": {
+    "name": "idle2",
     "stringId": "3381-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -421,6 +433,7 @@
     "references": {}
   },
   "3991-gamedata.base": {
+    "name": "turtle walk",
     "stringId": "3991-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -455,6 +468,7 @@
     "references": {}
   },
   "3975-gamedata.base": {
+    "name": "giraffe turning",
     "stringId": "3975-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -489,6 +503,7 @@
     "references": {}
   },
   "3994-gamedata.base": {
+    "name": "goat walk",
     "stringId": "3994-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -523,6 +538,7 @@
     "references": {}
   },
   "3980-gamedata.base": {
+    "name": "dog run",
     "stringId": "3980-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -557,6 +573,7 @@
     "references": {}
   },
   "46395-gamedata.base": {
+    "name": "idle noloop",
     "stringId": "46395-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -591,6 +608,7 @@
     "references": {}
   },
   "3974-gamedata.base": {
+    "name": "whale turning",
     "stringId": "3974-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -625,6 +643,7 @@
     "references": {}
   },
   "2862-gamedata.base": {
+    "name": "run",
     "stringId": "2862-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -659,6 +678,7 @@
     "references": {}
   },
   "42076-gamedata.base": {
+    "name": "cagebeast walk",
     "stringId": "42076-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -693,6 +713,7 @@
     "references": {}
   },
   "42068-gamedata.base": {
+    "name": "strafe",
     "stringId": "42068-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -727,6 +748,7 @@
     "references": {}
   },
   "3977-gamedata.base": {
+    "name": "idle3",
     "stringId": "3977-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -761,6 +783,7 @@
     "references": {}
   },
   "4025-gamedata.base": {
+    "name": "mouthclose",
     "stringId": "4025-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -795,6 +818,7 @@
     "references": {}
   },
   "3981-gamedata.base": {
+    "name": "dog walk",
     "stringId": "3981-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -829,6 +853,7 @@
     "references": {}
   },
   "3989-gamedata.base": {
+    "name": "bull run",
     "stringId": "3989-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -876,6 +901,7 @@
     }
   },
   "4001-gamedata.base": {
+    "name": "beast run",
     "stringId": "4001-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -910,6 +936,7 @@
     "references": {}
   },
   "2861-gamedata.base": {
+    "name": "idle1",
     "stringId": "2861-gamedata.base",
     "type": "AnimalAnimation",
     "values": {
@@ -944,6 +971,7 @@
     "references": {}
   },
   "65264-Newwworld.mod": {
+    "name": "Crimper run",
     "stringId": "65264-Newwworld.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -978,6 +1006,7 @@
     "references": {}
   },
   "43886-rebirth.mod": {
+    "name": "spider strafe insect",
     "stringId": "43886-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1012,6 +1041,7 @@
     "references": {}
   },
   "43880-rebirth.mod": {
+    "name": "duck walk",
     "stringId": "43880-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1046,6 +1076,7 @@
     "references": {}
   },
   "43881-rebirth.mod": {
+    "name": "duck run",
     "stringId": "43881-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1080,6 +1111,7 @@
     "references": {}
   },
   "43916-rebirth.mod": {
+    "name": "dog strafe",
     "stringId": "43916-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1114,6 +1146,7 @@
     "references": {}
   },
   "43885-rebirth.mod": {
+    "name": "spider turn",
     "stringId": "43885-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1148,6 +1181,7 @@
     "references": {}
   },
   "43890-rebirth.mod": {
+    "name": "eat",
     "stringId": "43890-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1182,6 +1216,7 @@
     "references": {}
   },
   "43900-rebirth.mod": {
+    "name": "gorilla walk",
     "stringId": "43900-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1216,6 +1251,7 @@
     "references": {}
   },
   "43879-rebirth.mod": {
+    "name": "spider walk insect",
     "stringId": "43879-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1250,6 +1286,7 @@
     "references": {}
   },
   "43896-rebirth.mod": {
+    "name": "strafe gorilla",
     "stringId": "43896-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1284,6 +1321,7 @@
     "references": {}
   },
   "43899-rebirth.mod": {
+    "name": "gorilla run",
     "stringId": "43899-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1318,6 +1356,7 @@
     "references": {}
   },
   "51394-rebirth.mod": {
+    "name": "ANIMAL_ANIMATION",
     "stringId": "51394-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1352,6 +1391,7 @@
     "references": {}
   },
   "56089-rebirth.mod": {
+    "name": "skim walk",
     "stringId": "56089-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1386,6 +1426,7 @@
     "references": {}
   },
   "56090-rebirth.mod": {
+    "name": "sleeponfloor",
     "stringId": "56090-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1420,6 +1461,7 @@
     "references": {}
   },
   "56091-rebirth.mod": {
+    "name": "skim strafe",
     "stringId": "56091-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1454,6 +1496,7 @@
     "references": {}
   },
   "56113-rebirth.mod": {
+    "name": "spider strafe crab",
     "stringId": "56113-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1488,6 +1531,7 @@
     "references": {}
   },
   "65828-rebirth.mod": {
+    "name": "idle1 -crab",
     "stringId": "65828-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {
@@ -1522,6 +1566,7 @@
     "references": {}
   },
   "96181-rebirth.mod": {
+    "name": "eat (attack1)",
     "stringId": "96181-rebirth.mod",
     "type": "AnimalAnimation",
     "values": {

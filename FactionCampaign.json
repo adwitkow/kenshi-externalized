@@ -1,5 +1,6 @@
 {
   "18943-gamedata.base": {
+    "name": "BASE- standard cannibal raid",
     "stringId": "18943-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -61,6 +62,7 @@
     }
   },
   "14550-gamedata.base": {
+    "name": "BASE Basic Invasion",
     "stringId": "14550-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -122,6 +124,7 @@
     }
   },
   "18921-gamedata.base": {
+    "name": "slave raider silent",
     "stringId": "18921-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -190,6 +193,7 @@
     }
   },
   "16854-gamedata.base": {
+    "name": "dustbandit Invasion with demands",
     "stringId": "16854-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -258,6 +262,7 @@
     }
   },
   "18964-gamedata.base": {
+    "name": "cannibal bigger raid",
     "stringId": "18964-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -310,6 +315,7 @@
     }
   },
   "18933-gamedata.base": {
+    "name": "cannibal standard raid",
     "stringId": "18933-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -369,6 +375,7 @@
     }
   },
   "18932-gamedata.base": {
+    "name": "BASE- standard assault AI",
     "stringId": "18932-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -430,6 +437,7 @@
     }
   },
   "17919-gamedata.base": {
+    "name": "dustbandit Invasion with dialog -1 claim",
     "stringId": "17919-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -477,6 +485,7 @@
     }
   },
   "17971-gamedata.base": {
+    "name": "dustbandit Invasion EXTRA ANGRY",
     "stringId": "17971-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -529,6 +538,7 @@
     }
   },
   "17934-gamedata.base": {
+    "name": "empire tax collector",
     "stringId": "17934-gamedata.base",
     "type": "FactionCampaign",
     "values": {
@@ -591,6 +601,7 @@
     }
   },
   "59668-Dialogue.mod": {
+    "name": "Shek Visit Tribute",
     "stringId": "59668-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -674,6 +685,7 @@
     }
   },
   "59669-Dialogue.mod": {
+    "name": "BASE normal assault",
     "stringId": "59669-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -734,6 +746,7 @@
     }
   },
   "59672-Dialogue.mod": {
+    "name": "Shek Assault Return",
     "stringId": "59672-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -819,6 +832,7 @@
     }
   },
   "59673-Dialogue.mod": {
+    "name": "Shek Assault (loss trigger)",
     "stringId": "59673-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -904,6 +918,7 @@
     }
   },
   "59781-Dialogue.mod": {
+    "name": "Shek 5 Invincible Enemy Hunt",
     "stringId": "59781-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -980,6 +995,7 @@
     }
   },
   "59783-Dialogue.mod": {
+    "name": "Shek 5 Invincible Esata killed/ caged",
     "stringId": "59783-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1053,6 +1069,7 @@
     }
   },
   "59785-Dialogue.mod": {
+    "name": "Shek Esata seeks revenge - bayan",
     "stringId": "59785-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1136,6 +1153,7 @@
     }
   },
   "59795-Dialogue.mod": {
+    "name": "Shek Esata seeks revenge - seto",
     "stringId": "59795-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1219,6 +1237,7 @@
     }
   },
   "60124-Dialogue.mod": {
+    "name": "HN Assault (trigger) race removal",
     "stringId": "60124-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1277,6 +1296,7 @@
     }
   },
   "60455-Dialogue.mod": {
+    "name": "Empire elite bounty hunter",
     "stringId": "60455-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1342,6 +1362,7 @@
     }
   },
   "60456-Dialogue.mod": {
+    "name": "Empire eyegore hunts player (tengu trigger)",
     "stringId": "60456-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1439,6 +1460,7 @@
     }
   },
   "61035-Dialogue.mod": {
+    "name": "Empire Assault eyegore (trigger)",
     "stringId": "61035-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1528,6 +1550,7 @@
     }
   },
   "61061-Dialogue.mod": {
+    "name": "Empire Visit TaxMan",
     "stringId": "61061-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1608,6 +1631,7 @@
     }
   },
   "61062-Dialogue.mod": {
+    "name": "Empire Visit TaxMan - 2nd (trigger)",
     "stringId": "61062-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1693,6 +1717,7 @@
     }
   },
   "61063-Dialogue.mod": {
+    "name": "Empire Assault Tax Evasion (trigger)",
     "stringId": "61063-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1758,6 +1783,7 @@
     }
   },
   "61079-Dialogue.mod": {
+    "name": "Empire Assault Big (loss trigger)",
     "stringId": "61079-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1816,6 +1842,7 @@
     }
   },
   "61094-Dialogue.mod": {
+    "name": "Empire Assault elite hunter (trigger)",
     "stringId": "61094-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1874,6 +1901,7 @@
     }
   },
   "62171-Dialogue.mod": {
+    "name": "BASE- standard- attack and ransack",
     "stringId": "62171-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -1934,6 +1962,7 @@
     }
   },
   "61300-Dialogue.mod": {
+    "name": "Shek Visit Tribute -2nd (trigger)",
     "stringId": "61300-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2019,6 +2048,7 @@
     }
   },
   "61335-Dialogue.mod": {
+    "name": "Shek Assault Big (loss trigger)",
     "stringId": "61335-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2082,6 +2112,7 @@
     }
   },
   "61397-Dialogue.mod": {
+    "name": "Shek Assault Berserker (Bugmaster)",
     "stringId": "61397-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2135,6 +2166,7 @@
     }
   },
   "61460-Dialogue.mod": {
+    "name": "Empire Assault Noble (dialogue trigger)",
     "stringId": "61460-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2210,6 +2242,7 @@
     }
   },
   "61473-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed sanda)",
     "stringId": "61473-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2302,6 +2335,7 @@
     }
   },
   "61497-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed inaba) ",
     "stringId": "61497-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2394,6 +2428,7 @@
     }
   },
   "61498-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed yoshinaga)",
     "stringId": "61498-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2486,6 +2521,7 @@
     }
   },
   "61499-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed ohta)",
     "stringId": "61499-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2578,6 +2614,7 @@
     }
   },
   "61500-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed tsugi)",
     "stringId": "61500-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2670,6 +2707,7 @@
     }
   },
   "61501-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed nagata)",
     "stringId": "61501-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2762,6 +2800,7 @@
     }
   },
   "61568-Dialogue.mod": {
+    "name": "Traders Guild Visit TaxMan",
     "stringId": "61568-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2835,6 +2874,7 @@
     }
   },
   "61584-Dialogue.mod": {
+    "name": "Hounds base visit",
     "stringId": "61584-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2903,6 +2943,7 @@
     }
   },
   "61636-Dialogue.mod": {
+    "name": "Swamp Stonerat Protection",
     "stringId": "61636-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -2973,6 +3014,7 @@
     }
   },
   "61696-Dialogue.mod": {
+    "name": "Hound Assault Killed Grim",
     "stringId": "61696-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3026,6 +3068,7 @@
     }
   },
   "61697-Dialogue.mod": {
+    "name": "Hound Assault Enemy",
     "stringId": "61697-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3084,6 +3127,7 @@
     }
   },
   "61753-Dialogue.mod": {
+    "name": "Traders Guild Visit TaxMan 2",
     "stringId": "61753-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3157,6 +3201,7 @@
     }
   },
   "97603-Dialogue.mod": {
+    "name": "Traders Guild Assault thug (Big)",
     "stringId": "97603-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3238,6 +3283,7 @@
     }
   },
   "61789-Dialogue.mod": {
+    "name": "Traders Guild Assault hired thug",
     "stringId": "61789-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3312,6 +3358,7 @@
     }
   },
   "61817-Dialogue.mod": {
+    "name": "HN Assault (Phoenix kidnap)",
     "stringId": "61817-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3368,6 +3415,7 @@
     }
   },
   "61819-Dialogue.mod": {
+    "name": "HN Assault (killed phoenix) seta alive",
     "stringId": "61819-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3419,6 +3467,7 @@
     }
   },
   "61820-Dialogue.mod": {
+    "name": "HN Assault (inquisitor seta killed)",
     "stringId": "61820-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3475,6 +3524,7 @@
     }
   },
   "61821-Dialogue.mod": {
+    "name": "HN Assault Flotsam Enemy --DISCARD--",
     "stringId": "61821-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3550,6 +3600,7 @@
     }
   },
   "64196-Dialogue.mod": {
+    "name": "Slave Capture (dialogue trigger)",
     "stringId": "64196-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3603,6 +3654,7 @@
     }
   },
   "61918-Dialogue.mod": {
+    "name": "Swamp Stonerat Assault (trigger)",
     "stringId": "61918-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3678,6 +3730,7 @@
     }
   },
   "61928-Dialogue.mod": {
+    "name": "Swamp Stonerat Assault Big (trigger)",
     "stringId": "61928-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3748,6 +3801,7 @@
     }
   },
   "61994-Dialogue.mod": {
+    "name": "Anti Slaver Assault (killed/knapped tinfist)",
     "stringId": "61994-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3823,6 +3877,7 @@
     }
   },
   "62025-Dialogue.mod": {
+    "name": "Empire Visit TaxMan - 3rd (trigger)",
     "stringId": "62025-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3903,6 +3958,7 @@
     }
   },
   "62119-Dialogue.mod": {
+    "name": "Merchant visit",
     "stringId": "62119-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -3956,6 +4012,7 @@
     }
   },
   "62172-Dialogue.mod": {
+    "name": "BASE- Non aggressive take food/ stuff",
     "stringId": "62172-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4016,6 +4073,7 @@
     }
   },
   "62374-Dialogue.mod": {
+    "name": "BASE- Ally protect player",
     "stringId": "62374-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4083,6 +4141,7 @@
     }
   },
   "62728-Dialogue.mod": {
+    "name": "Merchant Hive visit (crops)",
     "stringId": "62728-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4141,6 +4200,7 @@
     }
   },
   "62762-Dialogue.mod": {
+    "name": "Merchant free trader visit",
     "stringId": "62762-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4173,6 +4233,7 @@
     }
   },
   "63744-Dialogue.mod": {
+    "name": "Food Raid - Empire Farmer Bandit",
     "stringId": "63744-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4231,6 +4292,7 @@
     }
   },
   "63836-Dialogue.mod": {
+    "name": "Kidnap - Southern Hive Sacrifice",
     "stringId": "63836-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4296,6 +4358,7 @@
     }
   },
   "63915-Dialogue.mod": {
+    "name": "Swamp Red Sabre Assault",
     "stringId": "63915-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4356,6 +4419,7 @@
     }
   },
   "63968-Dialogue.mod": {
+    "name": "Shek Visit Tribute -3rd (trigger) ",
     "stringId": "63968-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4441,6 +4505,7 @@
     }
   },
   "63979-Dialogue.mod": {
+    "name": "FORCES- Shek strong",
     "stringId": "63979-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4473,6 +4538,7 @@
     }
   },
   "63980-Dialogue.mod": {
+    "name": "FORCES- Shek weak",
     "stringId": "63980-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4505,6 +4571,7 @@
     }
   },
   "64139-Dialogue.mod": {
+    "name": "FORCES- Stone Rat",
     "stringId": "64139-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4537,6 +4604,7 @@
     }
   },
   "64204-Dialogue.mod": {
+    "name": "BASE- standard- Steal/ ransack base",
     "stringId": "64204-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4597,6 +4665,7 @@
     }
   },
   "64393-Dialogue.mod": {
+    "name": "FORCES- Anti Slaver strong",
     "stringId": "64393-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4634,6 +4703,7 @@
     }
   },
   "64398-Dialogue.mod": {
+    "name": "FORCES- Anti Slaver weak",
     "stringId": "64398-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4671,6 +4741,7 @@
     }
   },
   "64409-Dialogue.mod": {
+    "name": "Anti Slaver Assault (Enemy)",
     "stringId": "64409-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4746,6 +4817,7 @@
     }
   },
   "64607-Dialogue.mod": {
+    "name": "Empire Assault Noble (killed kana)",
     "stringId": "64607-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4838,6 +4910,7 @@
     }
   },
   "66527-Dialogue.mod": {
+    "name": "Empire eyegore hunts player (Longen trigger)",
     "stringId": "66527-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4935,6 +5008,7 @@
     }
   },
   "66529-Dialogue.mod": {
+    "name": "FORCES- Hound weak",
     "stringId": "66529-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -4967,6 +5041,7 @@
     }
   },
   "66531-Dialogue.mod": {
+    "name": "Swamp Stonerat Protect (trigger)",
     "stringId": "66531-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5032,6 +5107,7 @@
     }
   },
   "66535-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger1) valtena alive",
     "stringId": "66535-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5088,6 +5164,7 @@
     }
   },
   "66536-Dialogue.mod": {
+    "name": "BASE enemy assault capture",
     "stringId": "66536-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5148,6 +5225,7 @@
     }
   },
   "66537-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger2)",
     "stringId": "66537-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5204,6 +5282,7 @@
     }
   },
   "95438-Dialogue.mod": {
+    "name": "Empire Visit TaxMan -1.5 (trigger)",
     "stringId": "95438-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5284,6 +5363,7 @@
     }
   },
   "95483-Dialogue.mod": {
+    "name": "Empire elite bounty hunter (enemy)",
     "stringId": "95483-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5354,6 +5434,7 @@
     }
   },
   "95484-Dialogue.mod": {
+    "name": "FORCES- Holy Nation weak",
     "stringId": "95484-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5386,6 +5467,7 @@
     }
   },
   "95485-Dialogue.mod": {
+    "name": "HN Assault Bigger (trigger) ",
     "stringId": "95485-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5464,6 +5546,7 @@
     }
   },
   "95486-Dialogue.mod": {
+    "name": "FORCES- Holy Nation strong",
     "stringId": "95486-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5496,6 +5579,7 @@
     }
   },
   "95488-Dialogue.mod": {
+    "name": "HN Inquisitor Enemy Hunt (trigger)",
     "stringId": "95488-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5552,6 +5636,7 @@
     }
   },
   "95496-Dialogue.mod": {
+    "name": "HN Assault (ultimate enemy)",
     "stringId": "95496-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5647,6 +5732,7 @@
     }
   },
   "95532-Dialogue.mod": {
+    "name": "Slave raid",
     "stringId": "95532-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5710,6 +5796,7 @@
     }
   },
   "96757-Dialogue.mod": {
+    "name": "Empire Assault Big (loss trigger) (non tax)",
     "stringId": "96757-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5768,6 +5855,7 @@
     }
   },
   "95993-Dialogue.mod": {
+    "name": "Anti Slaver Assault (trigger)",
     "stringId": "95993-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5831,6 +5919,7 @@
     }
   },
   "95994-Dialogue.mod": {
+    "name": "Empire Small Assault elite hunter (trigger)",
     "stringId": "95994-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5891,6 +5980,7 @@
     }
   },
   "95995-Dialogue.mod": {
+    "name": "Empire hunts player (Longen trigger)",
     "stringId": "95995-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -5959,6 +6049,7 @@
     }
   },
   "95996-Dialogue.mod": {
+    "name": "Empire hunts player (tengu trigger)",
     "stringId": "95996-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6027,6 +6118,7 @@
     }
   },
   "96101-Dialogue.mod": {
+    "name": "Hiver Queen Rescue",
     "stringId": "96101-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6087,6 +6179,7 @@
     }
   },
   "96443-Dialogue.mod": {
+    "name": "Fog standard raid",
     "stringId": "96443-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6134,6 +6227,7 @@
     }
   },
   "96451-Dialogue.mod": {
+    "name": "Shek Krals Chosen Raid",
     "stringId": "96451-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6205,6 +6299,7 @@
     }
   },
   "96488-Dialogue.mod": {
+    "name": "Krals Chosen Victory Trigger",
     "stringId": "96488-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6271,6 +6366,7 @@
     }
   },
   "96494-Dialogue.mod": {
+    "name": "Shek Krals Chosen Raid (battleborn)",
     "stringId": "96494-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6325,6 +6421,7 @@
     }
   },
   "96496-Dialogue.mod": {
+    "name": "Band of Bones Raid",
     "stringId": "96496-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6403,6 +6500,7 @@
     }
   },
   "96522-Dialogue.mod": {
+    "name": "Black Dog Visit",
     "stringId": "96522-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6449,6 +6547,7 @@
     }
   },
   "96529-Dialogue.mod": {
+    "name": "Band Of B Assault (loss trigger)",
     "stringId": "96529-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6526,6 +6625,7 @@
     }
   },
   "96536-Dialogue.mod": {
+    "name": "Reaver slave raid",
     "stringId": "96536-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6584,6 +6684,7 @@
     }
   },
   "96563-Dialogue.mod": {
+    "name": "gurgler standard raid",
     "stringId": "96563-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6638,6 +6739,7 @@
     }
   },
   "96654-Dialogue.mod": {
+    "name": "Black Dragon Ninja standard raid",
     "stringId": "96654-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6699,6 +6801,7 @@
     }
   },
   "96667-Dialogue.mod": {
+    "name": "Crab Raider standard raid",
     "stringId": "96667-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6758,6 +6861,7 @@
     }
   },
   "96688-Dialogue.mod": {
+    "name": "Sand ninja standard raid",
     "stringId": "96688-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6822,6 +6926,7 @@
     }
   },
   "96752-Dialogue.mod": {
+    "name": "Empire Assault Drugbust (dialogue)",
     "stringId": "96752-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6880,6 +6985,7 @@
     }
   },
   "96753-Dialogue.mod": {
+    "name": "Empire Assault Small (loss trigger)",
     "stringId": "96753-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -6938,6 +7044,7 @@
     }
   },
   "96946-Dialogue.mod": {
+    "name": "skin bandit standard raid small",
     "stringId": "96946-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7004,6 +7111,7 @@
     }
   },
   "98647-Dialogue.mod": {
+    "name": "Hound Visits Ally",
     "stringId": "98647-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7076,6 +7184,7 @@
     }
   },
   "98697-Dialogue.mod": {
+    "name": "Hound Visits Ally 2nd Trigger",
     "stringId": "98697-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7148,6 +7257,7 @@
     }
   },
   "98719-Dialogue.mod": {
+    "name": "Hound Visits Ally Last Trigger",
     "stringId": "98719-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7220,6 +7330,7 @@
     }
   },
   "98877-Dialogue.mod": {
+    "name": "Swamp Stonerat Victory Trigger",
     "stringId": "98877-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7285,6 +7396,7 @@
     }
   },
   "98888-Dialogue.mod": {
+    "name": "Hound Assault",
     "stringId": "98888-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7338,6 +7450,7 @@
     }
   },
   "98999-Dialogue.mod": {
+    "name": "HN Visit Prayer",
     "stringId": "98999-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7413,6 +7526,7 @@
     }
   },
   "99114-Dialogue.mod": {
+    "name": "Hiver Queen Rescue (loss trigger)",
     "stringId": "99114-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7473,6 +7587,7 @@
     }
   },
   "99115-Dialogue.mod": {
+    "name": "Hiver Queen Rescue South",
     "stringId": "99115-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7533,6 +7648,7 @@
     }
   },
   "99120-Dialogue.mod": {
+    "name": "south Hiver Queen Rescue (loss trigger)",
     "stringId": "99120-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7593,6 +7709,7 @@
     }
   },
   "99122-Dialogue.mod": {
+    "name": "Kidnap - Southern Hive Sacrifice (loss trigger)",
     "stringId": "99122-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7646,6 +7763,7 @@
     }
   },
   "99176-Dialogue.mod": {
+    "name": "Ally UC (trigger)",
     "stringId": "99176-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7716,6 +7834,7 @@
     }
   },
   "99179-Dialogue.mod": {
+    "name": "Ally AS (trigger) 1",
     "stringId": "99179-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7793,6 +7912,7 @@
     }
   },
   "99185-Dialogue.mod": {
+    "name": "Ally SK (trigger) 1",
     "stringId": "99185-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7856,6 +7976,7 @@
     }
   },
   "99186-Dialogue.mod": {
+    "name": "Ally SK (trigger) 2",
     "stringId": "99186-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7919,6 +8040,7 @@
     }
   },
   "99187-Dialogue.mod": {
+    "name": "Ally FL (trigger)",
     "stringId": "99187-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -7991,6 +8113,7 @@
     }
   },
   "99188-Dialogue.mod": {
+    "name": "Ally RF (trigger)",
     "stringId": "99188-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8061,6 +8184,7 @@
     }
   },
   "99190-Dialogue.mod": {
+    "name": "Ally AS (trigger) 2",
     "stringId": "99190-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8138,6 +8262,7 @@
     }
   },
   "99194-Dialogue.mod": {
+    "name": "Ally HN (trigger)",
     "stringId": "99194-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8201,6 +8326,7 @@
     }
   },
   "1531979-Dialogue.mod": {
+    "name": "HN Assault (trigger) woman",
     "stringId": "1531979-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8259,6 +8385,7 @@
     }
   },
   "1531991-Dialogue.mod": {
+    "name": "HN Assault (trigger) prayer day",
     "stringId": "1531991-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8317,6 +8444,7 @@
     }
   },
   "1532743-Dialogue.mod": {
+    "name": "BASE - HN Assault (inquisitor killed)",
     "stringId": "1532743-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8412,6 +8540,7 @@
     }
   },
   "1532744-Dialogue.mod": {
+    "name": "HN Assault (inquisitor valtena killed)",
     "stringId": "1532744-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8463,6 +8592,7 @@
     }
   },
   "1532745-Dialogue.mod": {
+    "name": "HN Assault (inquisitors both killed)",
     "stringId": "1532745-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8507,6 +8637,7 @@
     }
   },
   "1532746-Dialogue.mod": {
+    "name": "BASE - HN Assault (killed phoenix)",
     "stringId": "1532746-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8602,6 +8733,7 @@
     }
   },
   "1532747-Dialogue.mod": {
+    "name": "HN Assault (killed phoenix) valtena alive",
     "stringId": "1532747-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8658,6 +8790,7 @@
     }
   },
   "1532748-Dialogue.mod": {
+    "name": "HN Assault (killed phoenix)",
     "stringId": "1532748-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8714,6 +8847,7 @@
     }
   },
   "1532750-Dialogue.mod": {
+    "name": "BASE - HN Assault (Phoenix kidnap)",
     "stringId": "1532750-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8809,6 +8943,7 @@
     }
   },
   "1532751-Dialogue.mod": {
+    "name": "HN Assault (Phoenix kidnap) seta alive",
     "stringId": "1532751-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8865,6 +9000,7 @@
     }
   },
   "1532752-Dialogue.mod": {
+    "name": "HN Assault (Phoenix kidnap) valtena alive",
     "stringId": "1532752-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8921,6 +9057,7 @@
     }
   },
   "1532754-Dialogue.mod": {
+    "name": "BASE - HN Assault (ultimate) (trigger1)",
     "stringId": "1532754-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -8997,6 +9134,7 @@
     }
   },
   "1532755-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger1) seta alive",
     "stringId": "1532755-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9053,6 +9191,7 @@
     }
   },
   "1532756-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger1) inquistors dead",
     "stringId": "1532756-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9097,6 +9236,7 @@
     }
   },
   "1532757-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger1)",
     "stringId": "1532757-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9153,6 +9293,7 @@
     }
   },
   "1532758-Dialogue.mod": {
+    "name": "BASE - HN Assault (ultimate) (trigger2)",
     "stringId": "1532758-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9234,6 +9375,7 @@
     }
   },
   "1532759-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger2) seta alive",
     "stringId": "1532759-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9290,6 +9432,7 @@
     }
   },
   "1532760-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger2) valtena alive",
     "stringId": "1532760-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9346,6 +9489,7 @@
     }
   },
   "1532761-Dialogue.mod": {
+    "name": "HN Assault (ultimate) (trigger2) inquisitors dead",
     "stringId": "1532761-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9390,6 +9534,7 @@
     }
   },
   "1532762-Dialogue.mod": {
+    "name": "BASE - HN Inquisitor Enemy Hunt (trigger)",
     "stringId": "1532762-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9456,6 +9601,7 @@
     }
   },
   "1532763-Dialogue.mod": {
+    "name": "HN Inquisitor Enemy Hunt (trigger) seta alive",
     "stringId": "1532763-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9512,6 +9658,7 @@
     }
   },
   "1532764-Dialogue.mod": {
+    "name": "HN Inquisitor Enemy Hunt (trigger) valtena alive",
     "stringId": "1532764-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9568,6 +9715,7 @@
     }
   },
   "1532765-Dialogue.mod": {
+    "name": "HN Inquisitor Enemy Hunt (trigger) inquisitors dead",
     "stringId": "1532765-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9629,6 +9777,7 @@
     }
   },
   "61178-Dialogue.mod": {
+    "name": "Empire Visit Rogue Extort --UNFINISHED--",
     "stringId": "61178-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9653,6 +9802,7 @@
     "references": {}
   },
   "61816-Dialogue.mod": {
+    "name": "HN High Tech WitchHunt --UNFINISHED--",
     "stringId": "61816-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9677,6 +9827,7 @@
     "references": {}
   },
   "61824-Dialogue.mod": {
+    "name": "HN Visit Conscription --UNFINISHED--",
     "stringId": "61824-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9701,6 +9852,7 @@
     "references": {}
   },
   "61931-Dialogue.mod": {
+    "name": "cannibal visit 1st - to replace standard raid --UNFINISHED--",
     "stringId": "61931-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9725,6 +9877,7 @@
     "references": {}
   },
   "61954-Dialogue.mod": {
+    "name": "cannibal visit 2nd --UNFINISHED--",
     "stringId": "61954-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9749,6 +9902,7 @@
     "references": {}
   },
   "62373-Dialogue.mod": {
+    "name": "Shek Protect Base --UNFINISHED--",
     "stringId": "62373-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9773,6 +9927,7 @@
     "references": {}
   },
   "63552-Dialogue.mod": {
+    "name": "HN Visit Inspection --UNFINISHED--",
     "stringId": "63552-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9797,6 +9952,7 @@
     "references": {}
   },
   "64385-Dialogue.mod": {
+    "name": "Hounds base visit ally --UNFINISHED--",
     "stringId": "64385-Dialogue.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9821,6 +9977,7 @@
     "references": {}
   },
   "61376-rebirth.mod": {
+    "name": "FORCES- Empire forces weak",
     "stringId": "61376-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9858,6 +10015,7 @@
     }
   },
   "61857-rebirth.mod": {
+    "name": "FORCES- Empire small bodyguard",
     "stringId": "61857-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9890,6 +10048,7 @@
     }
   },
   "61909-rebirth.mod": {
+    "name": "FORCES- Empire forces strong",
     "stringId": "61909-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9927,6 +10086,7 @@
     }
   },
   "62182-rebirth.mod": {
+    "name": "cannibal standard raid scrawny",
     "stringId": "62182-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -9980,6 +10140,7 @@
     }
   },
   "62183-rebirth.mod": {
+    "name": "cannibal boss raid",
     "stringId": "62183-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10047,6 +10208,7 @@
     }
   },
   "62815-rebirth.mod": {
+    "name": "Merchant Hive visit  (materials)",
     "stringId": "62815-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10105,6 +10267,7 @@
     }
   },
   "62821-rebirth.mod": {
+    "name": "Base- trader visit AI",
     "stringId": "62821-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10158,6 +10321,7 @@
     }
   },
   "63536-rebirth.mod": {
+    "name": "Merchant Animals nomad",
     "stringId": "63536-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10204,6 +10368,7 @@
     }
   },
   "64607-rebirth.mod": {
+    "name": "FORCES- dustbandit",
     "stringId": "64607-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10241,6 +10406,7 @@
     }
   },
   "66501-__November.mod": {
+    "name": "FORCES- Shek medium",
     "stringId": "66501-__November.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10274,6 +10440,7 @@
     }
   },
   "66538-__November.mod": {
+    "name": "Shek 5 Invincible Enemy Hunt (trigger)",
     "stringId": "66538-__November.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10345,6 +10512,7 @@
     }
   },
   "96797-rebirth.mod": {
+    "name": "BASE- standard assault AI copy",
     "stringId": "96797-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10406,6 +10574,7 @@
     }
   },
   "1532366-__May 18.mod": {
+    "name": "Ally Hounds (trigger) 1",
     "stringId": "1532366-__May 18.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10471,6 +10640,7 @@
     }
   },
   "1532373-__May 18.mod": {
+    "name": "Ally Hounds (trigger) 2",
     "stringId": "1532373-__May 18.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10536,6 +10706,7 @@
     }
   },
   "1532664-rebirth.mod": {
+    "name": "Crab tournament 1",
     "stringId": "1532664-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10604,6 +10775,7 @@
     }
   },
   "1532706-rebirth.mod": {
+    "name": "Crab tournament 2 (quarter finals)",
     "stringId": "1532706-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10672,6 +10844,7 @@
     }
   },
   "1532724-rebirth.mod": {
+    "name": "Crab tournament 3 (semi finals)",
     "stringId": "1532724-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10733,6 +10906,7 @@
     }
   },
   "1532725-rebirth.mod": {
+    "name": "Crab tournament 0 (remedial)",
     "stringId": "1532725-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10794,6 +10968,7 @@
     }
   },
   "1532768-rebirth.mod": {
+    "name": "Crab tournament 4 (finals)",
     "stringId": "1532768-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10855,6 +11030,7 @@
     }
   },
   "1532797-rebirth.mod": {
+    "name": "crab champion",
     "stringId": "1532797-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10901,6 +11077,7 @@
     }
   },
   "1532833-rebirth.mod": {
+    "name": "skin bandit standard raid big",
     "stringId": "1532833-rebirth.mod",
     "type": "FactionCampaign",
     "values": {
@@ -10960,6 +11137,7 @@
     }
   },
   "1532693-__June 18.mod": {
+    "name": "Black Dog Assault",
     "stringId": "1532693-__June 18.mod",
     "type": "FactionCampaign",
     "values": {
@@ -11006,6 +11184,7 @@
     }
   },
   "1534444-__Fixes.mod": {
+    "name": "Ally SK (trigger) 3",
     "stringId": "1534444-__Fixes.mod",
     "type": "FactionCampaign",
     "values": {
@@ -11069,6 +11248,7 @@
     }
   },
   "1535032-__November3.mod": {
+    "name": "slave raider silent (non slave trade)",
     "stringId": "1535032-__November3.mod",
     "type": "FactionCampaign",
     "values": {

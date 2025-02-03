@@ -1,5 +1,6 @@
 {
   "3998-gamedata.base": {
+    "name": "Garru",
     "stringId": "3998-gamedata.base",
     "type": "Race",
     "values": {
@@ -182,6 +183,7 @@
     }
   },
   "17946-stick_people.mod": {
+    "name": "Skeleton",
     "stringId": "17946-stick_people.mod",
     "type": "Race",
     "values": {
@@ -397,6 +399,7 @@
     }
   },
   "42068-small_changes_otto.mod": {
+    "name": "Cage Beast",
     "stringId": "42068-small_changes_otto.mod",
     "type": "Race",
     "values": {
@@ -565,6 +568,7 @@
     }
   },
   "3992-gamedata.base": {
+    "name": "Goat",
     "stringId": "3992-gamedata.base",
     "type": "Race",
     "values": {
@@ -754,6 +758,7 @@
     }
   },
   "3985-gamedata.base": {
+    "name": "Bull",
     "stringId": "3985-gamedata.base",
     "type": "Race",
     "values": {
@@ -936,6 +941,7 @@
     }
   },
   "3987-gamedata.base": {
+    "name": "Swamp Turtle",
     "stringId": "3987-gamedata.base",
     "type": "Race",
     "values": {
@@ -1111,6 +1117,7 @@
     }
   },
   "2860-gamedata.base": {
+    "name": "Beak Thing",
     "stringId": "2860-gamedata.base",
     "type": "Race",
     "values": {
@@ -1286,6 +1293,7 @@
     }
   },
   "17-gamedata.quack": {
+    "name": "Greenlander",
     "stringId": "17-gamedata.quack",
     "type": "Race",
     "values": {
@@ -1960,6 +1968,7 @@
     }
   },
   "18961-gamedata.base": {
+    "name": "Hive Soldier Drone",
     "stringId": "18961-gamedata.base",
     "type": "Race",
     "values": {
@@ -2230,6 +2239,7 @@
     }
   },
   "3966-gamedata.base": {
+    "name": "Leviathan",
     "stringId": "3966-gamedata.base",
     "type": "Race",
     "values": {
@@ -2398,6 +2408,7 @@
     }
   },
   "42070-small_changes_otto.mod": {
+    "name": "Robot Spider Worker",
     "stringId": "42070-small_changes_otto.mod",
     "type": "Race",
     "values": {
@@ -2573,6 +2584,7 @@
     }
   },
   "5346-stick_people.mod": {
+    "name": "Hive Prince",
     "stringId": "5346-stick_people.mod",
     "type": "Race",
     "values": {
@@ -2825,6 +2837,7 @@
     }
   },
   "5276-chareditor.mod": {
+    "name": "Shek",
     "stringId": "5276-chareditor.mod",
     "type": "Race",
     "values": {
@@ -3112,6 +3125,7 @@
     }
   },
   "18915-small_changes_otto.mod": {
+    "name": "Deadhive Prince",
     "stringId": "18915-small_changes_otto.mod",
     "type": "Race",
     "values": {
@@ -3351,6 +3365,7 @@
     }
   },
   "3976-gamedata.base": {
+    "name": "Bonedog",
     "stringId": "3976-gamedata.base",
     "type": "Race",
     "values": {
@@ -3560,6 +3575,7 @@
     }
   },
   "18019-gamedata.base": {
+    "name": "Scorchlander",
     "stringId": "18019-gamedata.base",
     "type": "Race",
     "values": {
@@ -4161,6 +4177,7 @@
     }
   },
   "18960-gamedata.base": {
+    "name": "Hive Worker Drone",
     "stringId": "18960-gamedata.base",
     "type": "Race",
     "values": {
@@ -4424,6 +4441,7 @@
     }
   },
   "18917-small_changes_otto.mod": {
+    "name": "Hive Tall Head",
     "stringId": "18917-small_changes_otto.mod",
     "type": "Race",
     "values": {
@@ -4620,6 +4638,7 @@
     }
   },
   "2603-gamedata.base": {
+    "name": "Cannibal",
     "stringId": "2603-gamedata.base",
     "type": "Race",
     "values": {
@@ -4892,6 +4911,7 @@
     }
   },
   "55396-gamedata.base": {
+    "name": "Fishman",
     "stringId": "55396-gamedata.base",
     "type": "Race",
     "values": {
@@ -5095,6 +5115,7 @@
     }
   },
   "56089-Newwworld.mod": {
+    "name": "Crab",
     "stringId": "56089-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -5271,6 +5292,7 @@
     }
   },
   "56112-Newwworld.mod": {
+    "name": "Big-Bones",
     "stringId": "56112-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -5440,6 +5462,7 @@
     }
   },
   "57335-Newwworld.mod": {
+    "name": "Hive Queen",
     "stringId": "57335-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -5680,6 +5703,7 @@
     }
   },
   "57770-Newwworld.mod": {
+    "name": "Hive Prince South Hive",
     "stringId": "57770-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -5932,6 +5956,7 @@
     }
   },
   "57771-Newwworld.mod": {
+    "name": "Hive Soldier Drone South Hive",
     "stringId": "57771-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -6193,6 +6218,7 @@
     }
   },
   "57772-Newwworld.mod": {
+    "name": "Hive Worker Drone South Hive",
     "stringId": "57772-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -6446,6 +6472,7 @@
     }
   },
   "57773-Newwworld.mod": {
+    "name": "----edad",
     "stringId": "57773-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -6642,6 +6669,7 @@
     }
   },
   "57774-Newwworld.mod": {
+    "name": "Screamer MkI",
     "stringId": "57774-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -6849,6 +6877,7 @@
     }
   },
   "57778-Newwworld.mod": {
+    "name": "P4 Unit",
     "stringId": "57778-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -7063,6 +7092,7 @@
     }
   },
   "57782-Newwworld.mod": {
+    "name": "Soldierbot",
     "stringId": "57782-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -7270,6 +7300,7 @@
     }
   },
   "65260-Newwworld.mod": {
+    "name": "Crimper",
     "stringId": "65260-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -7442,6 +7473,7 @@
     }
   },
   "65266-Newwworld.mod": {
+    "name": "Skeleton P4MkII",
     "stringId": "65266-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -7655,6 +7687,7 @@
     }
   },
   "66294-Newwworld.mod": {
+    "name": "Boneyard Wolf",
     "stringId": "66294-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -7864,6 +7897,7 @@
     }
   },
   "66529-Newwworld.mod": {
+    "name": "Skeleton Log-Head MKII",
     "stringId": "66529-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -8072,6 +8106,7 @@
     }
   },
   "95870-Newwworld.mod": {
+    "name": "Skeleton No-Head MkII ",
     "stringId": "95870-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -8275,6 +8310,7 @@
     }
   },
   "96800-Newwworld.mod": {
+    "name": "Flayed Man",
     "stringId": "96800-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -8939,6 +8975,7 @@
     }
   },
   "96904-Newwworld.mod": {
+    "name": "Flayed Woman",
     "stringId": "96904-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -9603,6 +9640,7 @@
     }
   },
   "97570-Newwworld.mod": {
+    "name": "Land Bat",
     "stringId": "97570-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -9792,6 +9830,7 @@
     }
   },
   "1533504-Newwworld.mod": {
+    "name": "Skeleton MKII Screamer",
     "stringId": "1533504-Newwworld.mod",
     "type": "Race",
     "values": {
@@ -10000,6 +10039,7 @@
     }
   },
   "43947-rebirth.mod": {
+    "name": "Bull (domesticated)",
     "stringId": "43947-rebirth.mod",
     "type": "Race",
     "values": {
@@ -10182,6 +10222,7 @@
     }
   },
   "42031-rebirth.mod": {
+    "name": "Deadhive Soldier",
     "stringId": "42031-rebirth.mod",
     "type": "Race",
     "values": {
@@ -10430,6 +10471,7 @@
     }
   },
   "50523-rebirth.mod": {
+    "name": "Cannibal Skav",
     "stringId": "50523-rebirth.mod",
     "type": "Race",
     "values": {
@@ -10702,6 +10744,7 @@
     }
   },
   "48689-rebirth.mod": {
+    "name": "Robot Guard Spider",
     "stringId": "48689-rebirth.mod",
     "type": "Race",
     "values": {
@@ -10877,6 +10920,7 @@
     }
   },
   "43870-rebirth.mod": {
+    "name": "Spider",
     "stringId": "43870-rebirth.mod",
     "type": "Race",
     "values": {
@@ -11052,6 +11096,7 @@
     }
   },
   "44910-rebirth.mod": {
+    "name": "River Raptor",
     "stringId": "44910-rebirth.mod",
     "type": "Race",
     "values": {
@@ -11232,6 +11277,7 @@
     }
   },
   "42027-rebirth.mod": {
+    "name": "Deadhive Worker",
     "stringId": "42027-rebirth.mod",
     "type": "Race",
     "values": {
@@ -11471,6 +11517,7 @@
     }
   },
   "42071-small_changes_otto.mod": {
+    "name": "Swamp Raptor",
     "stringId": "42071-small_changes_otto.mod",
     "type": "Race",
     "values": {
@@ -11651,6 +11698,7 @@
     }
   },
   "43898-rebirth.mod": {
+    "name": "Gorillo",
     "stringId": "43898-rebirth.mod",
     "type": "Race",
     "values": {
@@ -11840,6 +11888,7 @@
     }
   },
   "50641-rebirth.mod": {
+    "name": "Small Spider",
     "stringId": "50641-rebirth.mod",
     "type": "Race",
     "values": {
@@ -12015,6 +12064,7 @@
     }
   },
   "55668-rebirth.mod": {
+    "name": "Black Gorillo",
     "stringId": "55668-rebirth.mod",
     "type": "Race",
     "values": {
@@ -12204,6 +12254,7 @@
     }
   },
   "56088-rebirth.mod": {
+    "name": "Skimmer",
     "stringId": "56088-rebirth.mod",
     "type": "Race",
     "values": {
@@ -12379,6 +12430,7 @@
     }
   },
   "1532523-rebirth.mod": {
+    "name": "Alpha Fishman",
     "stringId": "1532523-rebirth.mod",
     "type": "Race",
     "values": {
@@ -12582,6 +12634,7 @@
     }
   },
   "1532524-rebirth.mod": {
+    "name": "King Fishman",
     "stringId": "1532524-rebirth.mod",
     "type": "Race",
     "values": {
@@ -12785,6 +12838,7 @@
     }
   },
   "1532526-Newwworld Plus.mod": {
+    "name": "Alpha Fishman",
     "stringId": "1532526-Newwworld Plus.mod",
     "type": "Race",
     "values": {

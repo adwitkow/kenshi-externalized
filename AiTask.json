@@ -1,5 +1,6 @@
 {
   "12598-gamedata.base": {
+    "name": "get out of cage - escape",
     "stringId": "12598-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -11,6 +12,7 @@
     "references": {}
   },
   "14500-gamedata.base": {
+    "name": "obey the AI package (fluff)",
     "stringId": "14500-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -22,6 +24,7 @@
     "references": {}
   },
   "1165-gamedata.base": {
+    "name": "Bodyguard for leader",
     "stringId": "1165-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -33,6 +36,7 @@
     "references": {}
   },
   "18914-gamedata.base": {
+    "name": "Give away my slaves IF it's an import town",
     "stringId": "18914-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -45,6 +49,7 @@
     "references": {}
   },
   "2818-gamedata.base": {
+    "name": "Stand at general node",
     "stringId": "2818-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -56,6 +61,7 @@
     "references": {}
   },
   "957-gamedata.base": {
+    "name": "Protect allies",
     "stringId": "957-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -67,6 +73,7 @@
     "references": {}
   },
   "3397-gamedata.base": {
+    "name": "Slave get in Cage",
     "stringId": "3397-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -78,6 +85,7 @@
     "references": {}
   },
   "3944-gamedata.base": {
+    "name": "attack enemies and neutrals",
     "stringId": "3944-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -89,6 +97,7 @@
     "references": {}
   },
   "5301-gamedata.base": {
+    "name": "Give away my slaves",
     "stringId": "5301-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -100,6 +109,7 @@
     "references": {}
   },
   "5234-gamedata.base": {
+    "name": "Shoo strangers out of my building",
     "stringId": "5234-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -111,6 +121,7 @@
     "references": {}
   },
   "5262-gamedata.base": {
+    "name": "Work the slaves",
     "stringId": "5262-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -122,6 +133,7 @@
     "references": {}
   },
   "3394-gamedata.base": {
+    "name": "Follow slavemaster",
     "stringId": "3394-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -133,6 +145,7 @@
     "references": {}
   },
   "4038-gamedata.base": {
+    "name": "Animal Sleep",
     "stringId": "4038-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -144,6 +157,7 @@
     "references": {}
   },
   "5219-gamedata.base": {
+    "name": "Man the turrets",
     "stringId": "5219-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -155,6 +169,7 @@
     "references": {}
   },
   "2826-gamedata.base": {
+    "name": "Attack enemies- but don't leave town",
     "stringId": "2826-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -166,6 +181,7 @@
     "references": {}
   },
   "3390-gamedata.base": {
+    "name": "Carry wounded slaves",
     "stringId": "3390-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -177,6 +193,7 @@
     "references": {}
   },
   "2679-gamedata.base": {
+    "name": "Corpse disposal or Dead guys go in the pot",
     "stringId": "2679-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -188,6 +205,7 @@
     "references": {}
   },
   "1617-gamedata.base": {
+    "name": "Go Home Town",
     "stringId": "1617-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -199,6 +217,7 @@
     "references": {}
   },
   "2577-gamedata.base": {
+    "name": "Diplomat mission (fast)",
     "stringId": "2577-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -210,6 +229,7 @@
     "references": {}
   },
   "2791-gamedata.base": {
+    "name": "Put cairried dude in bed",
     "stringId": "2791-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -221,6 +241,7 @@
     "references": {}
   },
   "5430-gamedata.base": {
+    "name": "Escape",
     "stringId": "5430-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -232,6 +253,7 @@
     "references": {}
   },
   "5429-gamedata.base": {
+    "name": "loot to find weapon",
     "stringId": "5429-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -244,6 +266,7 @@
     "references": {}
   },
   "3391-gamedata.base": {
+    "name": "Put carried dude down when they can walk",
     "stringId": "3391-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -255,6 +278,7 @@
     "references": {}
   },
   "5282-gamedata.base": {
+    "name": "Find, kidnap and put in cage",
     "stringId": "5282-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -266,6 +290,7 @@
     "references": {}
   },
   "3109-gamedata.base": {
+    "name": "Static guard- town",
     "stringId": "3109-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -277,6 +302,7 @@
     "references": {}
   },
   "1136-gamedata.base": {
+    "name": "Stay home, sit around, use stuff INDOORS",
     "stringId": "1136-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -288,6 +314,7 @@
     "references": {}
   },
   "14552-gamedata.base": {
+    "name": "run around town looking for people",
     "stringId": "14552-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -299,6 +326,7 @@
     "references": {}
   },
   "2617-gamedata.base": {
+    "name": "Find and kidnap (with cages) urgent",
     "stringId": "2617-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -310,6 +338,7 @@
     "references": {}
   },
   "5006-gamedata.base": {
+    "name": "Smell Hunter",
     "stringId": "5006-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -321,6 +350,7 @@
     "references": {}
   },
   "1010-gamedata.base": {
+    "name": "Hold position",
     "stringId": "1010-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -332,6 +362,7 @@
     "references": {}
   },
   "5424-gamedata.base": {
+    "name": "get out of cage - legit",
     "stringId": "5424-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -343,6 +374,7 @@
     "references": {}
   },
   "2680-gamedata.base": {
+    "name": "Cannibal- Find a corpse",
     "stringId": "2680-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -354,6 +386,7 @@
     "references": {}
   },
   "3105-gamedata.base": {
+    "name": "Go home go to bed",
     "stringId": "3105-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -365,6 +398,7 @@
     "references": {}
   },
   "12608-gamedata.base": {
+    "name": "Investigate alarms",
     "stringId": "12608-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -376,6 +410,7 @@
     "references": {}
   },
   "3400-gamedata.base": {
+    "name": "Gather slaves from cages",
     "stringId": "3400-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -387,6 +422,7 @@
     "references": {}
   },
   "965-gamedata.base": {
+    "name": "Patrol hometown",
     "stringId": "965-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -398,6 +434,7 @@
     "references": {}
   },
   "959-gamedata.base": {
+    "name": "Law enforcer",
     "stringId": "959-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -409,6 +446,7 @@
     "references": {}
   },
   "5222-gamedata.base": {
+    "name": "Slave watching/stripping",
     "stringId": "5222-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -420,6 +458,7 @@
     "references": {}
   },
   "3388-gamedata.base": {
+    "name": "Capture Slaves",
     "stringId": "3388-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -431,6 +470,7 @@
     "references": {}
   },
   "1166-gamedata.base": {
+    "name": "Follow leader",
     "stringId": "1166-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -442,6 +482,7 @@
     "references": {}
   },
   "5091-gamedata.base": {
+    "name": "Bodyguard mission target",
     "stringId": "5091-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -453,6 +494,7 @@
     "references": {}
   },
   "5261-gamedata.base": {
+    "name": "Auto worker mining machines",
     "stringId": "5261-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -464,6 +506,7 @@
     "references": {}
   },
   "14543-gamedata.base": {
+    "name": "obey the AI package (non urgent)",
     "stringId": "14543-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -475,6 +518,7 @@
     "references": {}
   },
   "1360-gamedata.base": {
+    "name": "Medic",
     "stringId": "1360-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -486,6 +530,7 @@
     "references": {}
   },
   "5132-gamedata.base": {
+    "name": "Don't be unarmed",
     "stringId": "5132-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -497,6 +542,7 @@
     "references": {}
   },
   "2620-gamedata.base": {
+    "name": "Find cage and put someone in it - NON_URGENT",
     "stringId": "2620-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -508,6 +554,7 @@
     "references": {}
   },
   "1525-gamedata.base": {
+    "name": "Diplomat mission",
     "stringId": "1525-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -519,6 +566,7 @@
     "references": {}
   },
   "2790-gamedata.base": {
+    "name": "Pickup downed leader",
     "stringId": "2790-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -530,6 +578,7 @@
     "references": {}
   },
   "5486-gamedata.base": {
+    "name": "travel to target town fast",
     "stringId": "5486-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -541,6 +590,7 @@
     "references": {}
   },
   "958-gamedata.base": {
+    "name": "Self preservation",
     "stringId": "958-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -552,6 +602,7 @@
     "references": {}
   },
   "5314-gamedata.base": {
+    "name": "Lock all my cages",
     "stringId": "5314-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -563,6 +614,7 @@
     "references": {}
   },
   "5218-gamedata.base": {
+    "name": "Man the gate",
     "stringId": "5218-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -574,6 +626,7 @@
     "references": {}
   },
   "1170-gamedata.base": {
+    "name": "Shopkeeper",
     "stringId": "1170-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -585,6 +638,7 @@
     "references": {}
   },
   "1524-gamedata.base": {
+    "name": "Battle target",
     "stringId": "1524-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -596,6 +650,7 @@
     "references": {}
   },
   "5092-gamedata.base": {
+    "name": "follow mission target",
     "stringId": "5092-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -607,6 +662,7 @@
     "references": {}
   },
   "2590-gamedata.base": {
+    "name": "Looting food from base(desperate)",
     "stringId": "2590-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -618,6 +674,7 @@
     "references": {}
   },
   "198-gamedata.base": {
+    "name": "Raze Villages",
     "stringId": "198-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -629,6 +686,7 @@
     "references": {}
   },
   "197-gamedata.base": {
+    "name": "Attack enemies",
     "stringId": "197-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -640,6 +698,7 @@
     "references": {}
   },
   "1188-gamedata.base": {
+    "name": "Static guard- building",
     "stringId": "1188-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -651,6 +710,7 @@
     "references": {}
   },
   "2543-gamedata.base": {
+    "name": "Run away!",
     "stringId": "2543-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -662,6 +722,7 @@
     "references": {}
   },
   "5283-gamedata.base": {
+    "name": "Go some town for delivering slaves",
     "stringId": "5283-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -673,6 +734,7 @@
     "references": {}
   },
   "5345-gamedata.base": {
+    "name": "Lock all the doors - stay outside",
     "stringId": "5345-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -684,6 +746,7 @@
     "references": {}
   },
   "1089-gamedata.base": {
+    "name": "Wandering trader",
     "stringId": "1089-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -695,6 +758,7 @@
     "references": {}
   },
   "18915-gamedata.base": {
+    "name": "Gather slaves from cages IF it's an export town",
     "stringId": "18915-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -706,6 +770,7 @@
     "references": {}
   },
   "2825-gamedata.base": {
+    "name": "Protect squad",
     "stringId": "2825-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -717,6 +782,7 @@
     "references": {}
   },
   "12822-gamedata.base": {
+    "name": "police free prisoners",
     "stringId": "12822-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -728,6 +794,7 @@
     "references": {}
   },
   "2541-gamedata.base": {
+    "name": "Assault on target squad",
     "stringId": "2541-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -739,6 +806,7 @@
     "references": {}
   },
   "12587-gamedata.base": {
+    "name": "Arrest bounties",
     "stringId": "12587-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -750,6 +818,7 @@
     "references": {}
   },
   "3103-gamedata.base": {
+    "name": "Shop Lock all the doors",
     "stringId": "3103-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -761,6 +830,7 @@
     "references": {}
   },
   "202-gamedata.base": {
+    "name": "Patrol",
     "stringId": "202-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -772,6 +842,7 @@
     "references": {}
   },
   "12609-gamedata.base": {
+    "name": "Investigate alarms- allies only",
     "stringId": "12609-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -783,6 +854,7 @@
     "references": {}
   },
   "12607-gamedata.base": {
+    "name": "get out of bed when in trouble",
     "stringId": "12607-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -794,6 +866,7 @@
     "references": {}
   },
   "14542-gamedata.base": {
+    "name": "Travel to mission target",
     "stringId": "14542-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -805,6 +878,7 @@
     "references": {}
   },
   "12829-gamedata.base": {
+    "name": "confiscate stolen goods",
     "stringId": "12829-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -816,6 +890,7 @@
     "references": {}
   },
   "2542-gamedata.base": {
+    "name": "Go Home (Run away)",
     "stringId": "2542-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -827,6 +902,7 @@
     "references": {}
   },
   "3104-gamedata.base": {
+    "name": "Shop open up doors",
     "stringId": "3104-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -838,6 +914,7 @@
     "references": {}
   },
   "43867-gamedata.base": {
+    "name": "eating corpses",
     "stringId": "43867-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -849,6 +926,7 @@
     "references": {}
   },
   "969-gamedata.base": {
+    "name": "Shopping",
     "stringId": "969-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -860,6 +938,7 @@
     "references": {}
   },
   "2721-gamedata.base": {
+    "name": "Cannibal kill random prisoner when full",
     "stringId": "2721-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -871,6 +950,7 @@
     "references": {}
   },
   "5196-gamedata.base": {
+    "name": "Looting corpses and food",
     "stringId": "5196-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -882,6 +962,7 @@
     "references": {}
   },
   "199-gamedata.base": {
+    "name": "Wild partying",
     "stringId": "199-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -893,6 +974,7 @@
     "references": {}
   },
   "5232-gamedata.base": {
+    "name": "Put loot in storage",
     "stringId": "5232-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -904,6 +986,7 @@
     "references": {}
   },
   "14547-gamedata.base": {
+    "name": "travel to target town slow",
     "stringId": "14547-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -915,6 +998,7 @@
     "references": {}
   },
   "2891-gamedata.base": {
+    "name": "Turret Gunner Homebuilding",
     "stringId": "2891-gamedata.base",
     "type": "AiTask",
     "values": {
@@ -926,6 +1010,7 @@
     "references": {}
   },
   "43932-rebirth.mod": {
+    "name": "auto worker mining machines -pretend",
     "stringId": "43932-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -937,6 +1022,7 @@
     "references": {}
   },
   "18889-rebirth.mod": {
+    "name": "attack enemies of my slavemasters",
     "stringId": "18889-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -948,6 +1034,7 @@
     "references": {}
   },
   "47921-rebirth.mod": {
+    "name": "get food",
     "stringId": "47921-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -959,6 +1046,7 @@
     "references": {}
   },
   "44935-rebirth.mod": {
+    "name": "fogman worship victims",
     "stringId": "44935-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -970,6 +1058,7 @@
     "references": {}
   },
   "43893-rebirth.mod": {
+    "name": "eating any bodies",
     "stringId": "43893-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -981,6 +1070,7 @@
     "references": {}
   },
   "42898-rebirth.mod": {
+    "name": "take intruder outside",
     "stringId": "42898-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -992,6 +1082,7 @@
     "references": {}
   },
   "42897-rebirth.mod": {
+    "name": "pickup intruder",
     "stringId": "42897-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1003,6 +1094,7 @@
     "references": {}
   },
   "49573-rebirth.mod": {
+    "name": "Holy gather slaves from cages if not holy",
     "stringId": "49573-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1014,6 +1106,7 @@
     "references": {}
   },
   "46053-rebirth.mod": {
+    "name": "Go home go to bed - secure",
     "stringId": "46053-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1025,6 +1118,7 @@
     "references": {}
   },
   "42037-rebirth.mod": {
+    "name": "eat a random cage occupant",
     "stringId": "42037-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1036,6 +1130,7 @@
     "references": {}
   },
   "43892-rebirth.mod": {
+    "name": "eating crops",
     "stringId": "43892-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1047,6 +1142,7 @@
     "references": {}
   },
   "51395-rebirth.mod": {
+    "name": "rescue",
     "stringId": "51395-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1058,6 +1154,7 @@
     "references": {}
   },
   "55390-rebirth.mod": {
+    "name": "follow mission target (for urgent escapes)",
     "stringId": "55390-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1069,6 +1166,7 @@
     "references": {}
   },
   "55391-rebirth.mod": {
+    "name": "Protect allies (non-urgent)",
     "stringId": "55391-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1080,6 +1178,7 @@
     "references": {}
   },
   "57291-rebirth.mod": {
+    "name": "throne sitting",
     "stringId": "57291-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1091,6 +1190,7 @@
     "references": {}
   },
   "57336-__dont commit.mod": {
+    "name": "Patrol hometown (fluff)",
     "stringId": "57336-__dont commit.mod",
     "type": "AiTask",
     "values": {
@@ -1102,6 +1202,7 @@
     "references": {}
   },
   "59290-rebirth.mod": {
+    "name": "get out of cage -opportunistic escape",
     "stringId": "59290-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1113,6 +1214,7 @@
     "references": {}
   },
   "62009-rebirth.mod": {
+    "name": "Protect squad non-urgent",
     "stringId": "62009-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1124,6 +1226,7 @@
     "references": {}
   },
   "62008-rebirth.mod": {
+    "name": "Medic non-urgent",
     "stringId": "62008-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1135,6 +1238,7 @@
     "references": {}
   },
   "62007-rebirth.mod": {
+    "name": "Follow leader copy",
     "stringId": "62007-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1146,6 +1250,7 @@
     "references": {}
   },
   "63478-rebirth.mod": {
+    "name": "Give away my slaves if at prison or work camp",
     "stringId": "63478-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1157,6 +1262,7 @@
     "references": {}
   },
   "64595-rebirth.mod": {
+    "name": "eating food on the ground",
     "stringId": "64595-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1168,6 +1274,7 @@
     "references": {}
   },
   "64613-rebirth.mod": {
+    "name": "New slave processing",
     "stringId": "64613-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1179,6 +1286,7 @@
     "references": {}
   },
   "64966-rebirth.mod": {
+    "name": "idle",
     "stringId": "64966-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1190,6 +1298,7 @@
     "references": {}
   },
   "96796-rebirth.mod": {
+    "name": "liberate captives",
     "stringId": "96796-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1201,6 +1310,7 @@
     "references": {}
   },
   "95534-rebirth.mod": {
+    "name": "Static guard- building hidden indoors only",
     "stringId": "95534-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1212,6 +1322,7 @@
     "references": {}
   },
   "96153-rebirth.mod": {
+    "name": "Heal my legs when crippled",
     "stringId": "96153-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1223,6 +1334,7 @@
     "references": {}
   },
   "96449-rebirth.mod": {
+    "name": "assault player town gates",
     "stringId": "96449-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1234,6 +1346,7 @@
     "references": {}
   },
   "96452-rebirth.mod": {
+    "name": "pickup town intruders",
     "stringId": "96452-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1245,6 +1358,7 @@
     "references": {}
   },
   "96453-rebirth.mod": {
+    "name": "take intruders throw out of town gates",
     "stringId": "96453-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1256,6 +1370,7 @@
     "references": {}
   },
   "96454-rebirth.mod": {
+    "name": "sit around, use stuff lazy",
     "stringId": "96454-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1267,6 +1382,7 @@
     "references": {}
   },
   "96901-rebirth.mod": {
+    "name": "dogs grabbing severed limbs",
     "stringId": "96901-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1278,6 +1394,7 @@
     "references": {}
   },
   "97082-rebirth.mod": {
+    "name": "dogs running around playing with limbs",
     "stringId": "97082-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1289,6 +1406,7 @@
     "references": {}
   },
   "97093-rebirth.mod": {
+    "name": "dogs chasing dogs with limbs",
     "stringId": "97093-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1300,6 +1418,7 @@
     "references": {}
   },
   "97899-rebirth.mod": {
+    "name": "Put carried dead guys in cages",
     "stringId": "97899-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1311,6 +1430,7 @@
     "references": {}
   },
   "97900-rebirth.mod": {
+    "name": "Eat a random cage occupant at a sensible rate",
     "stringId": "97900-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1322,6 +1442,7 @@
     "references": {}
   },
   "1531898-rebirth.mod": {
+    "name": "Shoo strangers out of my building if its private",
     "stringId": "1531898-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1333,6 +1454,7 @@
     "references": {}
   },
   "1531905-rebirth.mod": {
+    "name": "Find cage and put someone in it - urgent",
     "stringId": "1531905-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1344,6 +1466,7 @@
     "references": {}
   },
   "1532845-rebirth.mod": {
+    "name": "Find and kidnap (raider) urgent",
     "stringId": "1532845-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1355,6 +1478,7 @@
     "references": {}
   },
   "1535034-rebirth.mod": {
+    "name": "Go Home (Run away) FLUFF",
     "stringId": "1535034-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1366,6 +1490,7 @@
     "references": {}
   },
   "1535061-rebirth.mod": {
+    "name": "Go Home Town fluff",
     "stringId": "1535061-rebirth.mod",
     "type": "AiTask",
     "values": {
@@ -1377,6 +1502,7 @@
     "references": {}
   },
   "1535072-rebirth.mod": {
+    "name": "protect allies - dont leave town",
     "stringId": "1535072-rebirth.mod",
     "type": "AiTask",
     "values": {

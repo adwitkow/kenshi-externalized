@@ -1,5 +1,6 @@
 {
   "1076-gamedata.base": {
+    "name": "Bark",
     "stringId": "1076-gamedata.base",
     "type": "Town",
     "values": {
@@ -102,6 +103,7 @@
     }
   },
   "2144-gamedata.base": {
+    "name": "Cannibal Village 2",
     "stringId": "2144-gamedata.base",
     "type": "Town",
     "values": {
@@ -153,6 +155,7 @@
     }
   },
   "1365-gamedata.base": {
+    "name": "Empty Ruin",
     "stringId": "1365-gamedata.base",
     "type": "Town",
     "values": {
@@ -191,6 +194,7 @@
     }
   },
   "1073-gamedata.base": {
+    "name": "Slave Farm",
     "stringId": "1073-gamedata.base",
     "type": "Town",
     "values": {
@@ -273,6 +277,7 @@
     }
   },
   "16842-gamedata.base": {
+    "name": "Dust Bandit Camp",
     "stringId": "16842-gamedata.base",
     "type": "Town",
     "values": {
@@ -372,6 +377,7 @@
     }
   },
   "1032-gamedata.base": {
+    "name": "Southern Hive",
     "stringId": "1032-gamedata.base",
     "type": "Town",
     "values": {
@@ -434,6 +440,7 @@
     }
   },
   "1222-gamedata.base": {
+    "name": "Fishing Village",
     "stringId": "1222-gamedata.base",
     "type": "Town",
     "values": {
@@ -523,6 +530,7 @@
     }
   },
   "962-gamedata.base": {
+    "name": "Brink",
     "stringId": "962-gamedata.base",
     "type": "Town",
     "values": {
@@ -625,6 +633,7 @@
     }
   },
   "961-gamedata.base": {
+    "name": "Farming Village",
     "stringId": "961-gamedata.base",
     "type": "Town",
     "values": {
@@ -695,6 +704,7 @@
     }
   },
   "2608-gamedata.base": {
+    "name": "Admag",
     "stringId": "2608-gamedata.base",
     "type": "Town",
     "values": {
@@ -750,6 +760,7 @@
     }
   },
   "1220-gamedata.base": {
+    "name": "Port North",
     "stringId": "1220-gamedata.base",
     "type": "Town",
     "values": {
@@ -881,6 +892,7 @@
     }
   },
   "1078-gamedata.base": {
+    "name": "Heft",
     "stringId": "1078-gamedata.base",
     "type": "Town",
     "values": {
@@ -1008,6 +1020,7 @@
     }
   },
   "1364-gamedata.base": {
+    "name": "Clownsteady",
     "stringId": "1364-gamedata.base",
     "type": "Town",
     "values": {
@@ -1089,6 +1102,7 @@
     }
   },
   "1201-gamedata.base": {
+    "name": "Mud Town",
     "stringId": "1201-gamedata.base",
     "type": "Town",
     "values": {
@@ -1154,6 +1168,7 @@
     }
   },
   "1080-gamedata.base": {
+    "name": "Slave Markets",
     "stringId": "1080-gamedata.base",
     "type": "Town",
     "values": {
@@ -1253,6 +1268,7 @@
     }
   },
   "4011-gamedata.base": {
+    "name": "Nest of Beak Things",
     "stringId": "4011-gamedata.base",
     "type": "Town",
     "values": {
@@ -1330,6 +1346,7 @@
     }
   },
   "1366-gamedata.base": {
+    "name": "Lab Ruin",
     "stringId": "1366-gamedata.base",
     "type": "Town",
     "values": {
@@ -1368,6 +1385,7 @@
     }
   },
   "16858-gamedata.base": {
+    "name": "Camp- Cannibal Hunters",
     "stringId": "16858-gamedata.base",
     "type": "Town",
     "values": {
@@ -1465,6 +1483,7 @@
     }
   },
   "1202-gamedata.base": {
+    "name": "Port South",
     "stringId": "1202-gamedata.base",
     "type": "Town",
     "values": {
@@ -1504,6 +1523,7 @@
     }
   },
   "16866-gamedata.base": {
+    "name": "Blood Bandit Camp",
     "stringId": "16866-gamedata.base",
     "type": "Town",
     "values": {
@@ -1603,6 +1623,7 @@
     }
   },
   "18920-gamedata.base": {
+    "name": "Slaver Camp",
     "stringId": "18920-gamedata.base",
     "type": "Town",
     "values": {
@@ -1707,6 +1728,7 @@
     }
   },
   "4034-gamedata.base": {
+    "name": "Wolf Den",
     "stringId": "4034-gamedata.base",
     "type": "Town",
     "values": {
@@ -1774,6 +1796,7 @@
     }
   },
   "964-gamedata.base": {
+    "name": "Eyesocket",
     "stringId": "964-gamedata.base",
     "type": "Town",
     "values": {
@@ -1878,6 +1901,7 @@
     }
   },
   "1785-gamedata.base": {
+    "name": "Stone Camp",
     "stringId": "1785-gamedata.base",
     "type": "Town",
     "values": {
@@ -1997,6 +2021,7 @@
     }
   },
   "2601-gamedata.base": {
+    "name": "Stoat",
     "stringId": "2601-gamedata.base",
     "type": "Town",
     "values": {
@@ -2124,6 +2149,7 @@
     }
   },
   "player_town_template": {
+    "name": "Your Outpost",
     "stringId": "player_town_template",
     "type": "Town",
     "values": {
@@ -2155,6 +2181,7 @@
     }
   },
   "1082-gamedata.base": {
+    "name": "Flats Lagoon",
     "stringId": "1082-gamedata.base",
     "type": "Town",
     "values": {
@@ -2272,6 +2299,7 @@
     }
   },
   "1221-gamedata.base": {
+    "name": "Abandoned Town",
     "stringId": "1221-gamedata.base",
     "type": "Town",
     "values": {
@@ -2310,6 +2338,7 @@
     }
   },
   "1075-gamedata.base": {
+    "name": "Ancient Tech Lab",
     "stringId": "1075-gamedata.base",
     "type": "Town",
     "values": {
@@ -2348,6 +2377,7 @@
     }
   },
   "1223-gamedata.base": {
+    "name": "Mercenary base",
     "stringId": "1223-gamedata.base",
     "type": "Town",
     "values": {
@@ -2386,6 +2416,7 @@
     }
   },
   "33-gamedata.quack": {
+    "name": "Catun",
     "stringId": "33-gamedata.quack",
     "type": "Town",
     "values": {
@@ -2470,6 +2501,7 @@
     }
   },
   "1074-gamedata.base": {
+    "name": "Heng",
     "stringId": "1074-gamedata.base",
     "type": "Town",
     "values": {
@@ -2587,6 +2619,7 @@
     }
   },
   "1224-gamedata.base": {
+    "name": "Cannibal Village",
     "stringId": "1224-gamedata.base",
     "type": "Town",
     "values": {
@@ -2671,6 +2704,7 @@
     }
   },
   "14539-gamedata.base": {
+    "name": "Skinhouse HQ",
     "stringId": "14539-gamedata.base",
     "type": "Town",
     "values": {
@@ -2728,6 +2762,7 @@
     }
   },
   "963-gamedata.base": {
+    "name": "Mourn",
     "stringId": "963-gamedata.base",
     "type": "Town",
     "values": {
@@ -2837,6 +2872,7 @@
     }
   },
   "1200-gamedata.base": {
+    "name": "Tengu's Vault",
     "stringId": "1200-gamedata.base",
     "type": "Town",
     "values": {
@@ -2887,6 +2923,7 @@
     }
   },
   "1079-gamedata.base": {
+    "name": "Squin",
     "stringId": "1079-gamedata.base",
     "type": "Town",
     "values": {
@@ -2942,6 +2979,7 @@
     }
   },
   "1081-gamedata.base": {
+    "name": "Manhunter Base",
     "stringId": "1081-gamedata.base",
     "type": "Town",
     "values": {
@@ -3011,6 +3049,7 @@
     }
   },
   "2143-gamedata.base": {
+    "name": "Ska",
     "stringId": "2143-gamedata.base",
     "type": "Town",
     "values": {
@@ -3049,6 +3088,7 @@
     }
   },
   "12628-Newwworld.mod": {
+    "name": "Blister Hill",
     "stringId": "12628-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3116,6 +3156,7 @@
     }
   },
   "18021-Newwworld.mod": {
+    "name": "Bad Teeth",
     "stringId": "18021-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3174,6 +3215,7 @@
     }
   },
   "18925-Newwworld.mod": {
+    "name": "Stack",
     "stringId": "18925-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3229,6 +3271,7 @@
     }
   },
   "42272-Newwworld.mod": {
+    "name": "Swamp Village",
     "stringId": "42272-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3267,6 +3310,7 @@
     }
   },
   "46401-Newwworld.mod": {
+    "name": "Gatherer Village",
     "stringId": "46401-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3310,6 +3354,7 @@
     }
   },
   "42306-Newwworld.mod": {
+    "name": "Military Outpost",
     "stringId": "42306-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3341,6 +3386,7 @@
     }
   },
   "40594-Newwworld.mod": {
+    "name": "MARKER-Nest-Cower",
     "stringId": "40594-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3364,6 +3410,7 @@
     "references": {}
   },
   "42305-Newwworld.mod": {
+    "name": "Settled Nomads",
     "stringId": "42305-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3414,6 +3461,7 @@
     }
   },
   "42271-Newwworld.mod": {
+    "name": "Tiny Settlement",
     "stringId": "42271-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3457,6 +3505,7 @@
     }
   },
   "18022-Newwworld.mod": {
+    "name": "Mongrel",
     "stringId": "18022-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3488,6 +3537,7 @@
     }
   },
   "40631-Newwworld.mod": {
+    "name": "Hive Village",
     "stringId": "40631-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3555,6 +3605,7 @@
     }
   },
   "18921-Newwworld.mod": {
+    "name": "Rebirth",
     "stringId": "18921-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3630,6 +3681,7 @@
     }
   },
   "18948-Newwworld.mod": {
+    "name": "Holy Mines",
     "stringId": "18948-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3710,6 +3762,7 @@
     }
   },
   "18919-Newwworld.mod": {
+    "name": "The Hub",
     "stringId": "18919-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3792,6 +3845,7 @@
     }
   },
   "18024-Newwworld.mod": {
+    "name": "Holy Farm",
     "stringId": "18024-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3881,6 +3935,7 @@
     }
   },
   "18923-Newwworld.mod": {
+    "name": "Holy Military Base",
     "stringId": "18923-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -3981,6 +4036,7 @@
     }
   },
   "52160-Newwworld.mod": {
+    "name": "Spring",
     "stringId": "52160-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4066,6 +4122,7 @@
     }
   },
   "52210-Newwworld.mod": {
+    "name": "Black Desert City",
     "stringId": "52210-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4146,6 +4203,7 @@
     }
   },
   "55394-Newwworld.mod": {
+    "name": "Lost Town",
     "stringId": "55394-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4213,6 +4271,7 @@
     }
   },
   "55396-Newwworld.mod": {
+    "name": "Archive Town",
     "stringId": "55396-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4278,6 +4337,7 @@
     }
   },
   "55397-Newwworld.mod": {
+    "name": "Looted Ruins",
     "stringId": "55397-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4333,6 +4393,7 @@
     }
   },
   "56065-Newwworld.mod": {
+    "name": "Ravaged Hamlet",
     "stringId": "56065-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4371,6 +4432,7 @@
     }
   },
   "56066-Newwworld.mod": {
+    "name": "Guard Outpost",
     "stringId": "56066-Newwworld.mod",
     "type": "Town",
     "values": {
@@ -4409,6 +4471,7 @@
     }
   },
   "66515-Dialogue.mod": {
+    "name": "Stone Rat Village",
     "stringId": "66515-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4488,6 +4551,7 @@
     }
   },
   "66517-Dialogue.mod": {
+    "name": "Rot",
     "stringId": "66517-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4562,6 +4626,7 @@
     }
   },
   "96293-Dialogue.mod": {
+    "name": "Western Hive",
     "stringId": "96293-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4619,6 +4684,7 @@
     }
   },
   "96148-Dialogue.mod": {
+    "name": "Reaver Camp",
     "stringId": "96148-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4693,6 +4759,7 @@
     }
   },
   "96157-Dialogue.mod": {
+    "name": "Crab Village",
     "stringId": "96157-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4784,6 +4851,7 @@
     }
   },
   "96159-Dialogue.mod": {
+    "name": "Cactus Den",
     "stringId": "96159-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4856,6 +4924,7 @@
     }
   },
   "96389-Dialogue.mod": {
+    "name": "Fish Isle",
     "stringId": "96389-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4906,6 +4975,7 @@
     }
   },
   "96390-Dialogue.mod": {
+    "name": "Island Lab",
     "stringId": "96390-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -4978,6 +5048,7 @@
     }
   },
   "96498-Dialogue.mod": {
+    "name": "Exile Camp",
     "stringId": "96498-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -5037,6 +5108,7 @@
     }
   },
   "96499-Dialogue.mod": {
+    "name": "New Kralia",
     "stringId": "96499-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -5113,6 +5185,7 @@
     }
   },
   "96519-Dialogue.mod": {
+    "name": "Black Dog HQ",
     "stringId": "96519-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -5151,6 +5224,7 @@
     }
   },
   "97071-Dialogue.mod": {
+    "name": "Cult Village",
     "stringId": "97071-Dialogue.mod",
     "type": "Town",
     "values": {
@@ -5225,6 +5299,7 @@
     }
   },
   "49368-rebirth.mod": {
+    "name": "Flotsam Village",
     "stringId": "49368-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5290,6 +5365,7 @@
     }
   },
   "48702-rebirth.mod": {
+    "name": "Ruined Tower",
     "stringId": "48702-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5328,6 +5404,7 @@
     }
   },
   "44885-rebirth.mod": {
+    "name": "Holy Mine Ruin",
     "stringId": "44885-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5373,6 +5450,7 @@
     }
   },
   "18015-rebirth.mod": {
+    "name": "White Eyebrow Camp",
     "stringId": "18015-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5482,6 +5560,7 @@
     }
   },
   "50322-rebirth.mod": {
+    "name": "nest spiders",
     "stringId": "50322-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5535,6 +5614,7 @@
     }
   },
   "42026-rebirth.mod": {
+    "name": "Fog Deathyard",
     "stringId": "42026-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5612,6 +5692,7 @@
     }
   },
   "44883-rebirth.mod": {
+    "name": "Deadhive Overrun",
     "stringId": "44883-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5679,6 +5760,7 @@
     }
   },
   "50243-rebirth.mod": {
+    "name": "Old Village",
     "stringId": "50243-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5717,6 +5799,7 @@
     }
   },
   "42096-rebirth.mod": {
+    "name": "Goat Herder's Camp",
     "stringId": "42096-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5789,6 +5872,7 @@
     }
   },
   "44887-rebirth.mod": {
+    "name": "nestruin- holy outpost",
     "stringId": "44887-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5820,6 +5904,7 @@
     }
   },
   "48447-rebirth.mod": {
+    "name": "Burn's Tower",
     "stringId": "48447-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5858,6 +5943,7 @@
     }
   },
   "49386-rebirth.mod": {
+    "name": "World's End",
     "stringId": "49386-rebirth.mod",
     "type": "Town",
     "values": {
@@ -5988,6 +6074,7 @@
     }
   },
   "49366-rebirth.mod": {
+    "name": "Flotsam Safehouse",
     "stringId": "49366-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6026,6 +6113,7 @@
     }
   },
   "49367-rebirth.mod": {
+    "name": "Drowned Ruins",
     "stringId": "49367-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6064,6 +6152,7 @@
     }
   },
   "48703-rebirth.mod": {
+    "name": "Empty Ruins",
     "stringId": "48703-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6102,6 +6191,7 @@
     }
   },
   "43977-rebirth.mod": {
+    "name": "River Nest",
     "stringId": "43977-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6140,6 +6230,7 @@
     }
   },
   "49942-rebirth.mod": {
+    "name": "Okran's Fist",
     "stringId": "49942-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6242,6 +6333,7 @@
     }
   },
   "47958-rebirth.mod": {
+    "name": "Fallen Tower",
     "stringId": "47958-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6273,6 +6365,7 @@
     }
   },
   "49766-rebirth.mod": {
+    "name": "Scout Post",
     "stringId": "49766-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6311,6 +6404,7 @@
     }
   },
   "44902-rebirth.mod": {
+    "name": "ruin warehouse",
     "stringId": "44902-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6342,6 +6436,7 @@
     }
   },
   "49369-rebirth.mod": {
+    "name": "Suspicious Lab",
     "stringId": "49369-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6380,6 +6475,7 @@
     }
   },
   "48446-rebirth.mod": {
+    "name": "Post-Ancient Workshop",
     "stringId": "48446-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6418,6 +6514,7 @@
     }
   },
   "49387-rebirth.mod": {
+    "name": "Ghost Village",
     "stringId": "49387-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6468,6 +6565,7 @@
     }
   },
   "44852-rebirth.mod": {
+    "name": "Ruined Holy Outpost",
     "stringId": "44852-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6513,6 +6611,7 @@
     }
   },
   "49935-rebirth.mod": {
+    "name": "Lost Armoury",
     "stringId": "49935-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6558,6 +6657,7 @@
     }
   },
   "48796-rebirth.mod": {
+    "name": "Lost Library",
     "stringId": "48796-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6613,6 +6713,7 @@
     }
   },
   "50326-rebirth.mod": {
+    "name": "Raptor Island",
     "stringId": "50326-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6651,6 +6752,7 @@
     }
   },
   "49940-rebirth.mod": {
+    "name": "nest armoury ruin",
     "stringId": "49940-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6687,6 +6789,7 @@
     }
   },
   "47960-rebirth.mod": {
+    "name": "Old Empire Watchtower",
     "stringId": "47960-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6732,6 +6835,7 @@
     }
   },
   "50321-rebirth.mod": {
+    "name": "Shark",
     "stringId": "50321-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6859,6 +6963,7 @@
     }
   },
   "42338-rebirth.mod": {
+    "name": "Nomads",
     "stringId": "42338-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6897,6 +7002,7 @@
     }
   },
   "49933-rebirth.mod": {
+    "name": "nest library ruin",
     "stringId": "49933-rebirth.mod",
     "type": "Town",
     "values": {
@@ -6942,6 +7048,7 @@
     }
   },
   "50522-rebirth.mod": {
+    "name": "Cannibal Capital",
     "stringId": "50522-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7046,6 +7153,7 @@
     }
   },
   "49365-rebirth.mod": {
+    "name": "Berserker Village",
     "stringId": "49365-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7103,6 +7211,7 @@
     }
   },
   "49765-rebirth.mod": {
+    "name": "Armoury Ruin",
     "stringId": "49765-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7141,6 +7250,7 @@
     }
   },
   "44913-rebirth.mod": {
+    "name": "Swamp Raptor Nest",
     "stringId": "44913-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7179,6 +7289,7 @@
     }
   },
   "44884-rebirth.mod": {
+    "name": "Tower Of Ninjas",
     "stringId": "44884-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7217,6 +7328,7 @@
     }
   },
   "44898-rebirth.mod": {
+    "name": "ruin- fogman resident",
     "stringId": "44898-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7272,6 +7384,7 @@
     }
   },
   "44425-rebirth.mod": {
+    "name": "nest housecamp",
     "stringId": "44425-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7352,6 +7465,7 @@
     }
   },
   "48752-rebirth.mod": {
+    "name": "Cannibals",
     "stringId": "48752-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7424,6 +7538,7 @@
     }
   },
   "44854-rebirth.mod": {
+    "name": "Waystation",
     "stringId": "44854-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7536,6 +7651,7 @@
     }
   },
   "18010-rebirth.mod": {
+    "name": "Black Dragon Camp",
     "stringId": "18010-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7640,6 +7756,7 @@
     }
   },
   "48706-rebirth.mod": {
+    "name": "floodland sword nest",
     "stringId": "48706-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7683,6 +7800,7 @@
     }
   },
   "44424-rebirth.mod": {
+    "name": "Rebel Base",
     "stringId": "44424-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7721,6 +7839,7 @@
     }
   },
   "47959-rebirth.mod": {
+    "name": "Leaning Tower",
     "stringId": "47959-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7759,6 +7878,7 @@
     }
   },
   "44853-rebirth.mod": {
+    "name": "Dust King Tower",
     "stringId": "44853-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7831,6 +7951,7 @@
     }
   },
   "49943-rebirth.mod": {
+    "name": "Farm Ruin",
     "stringId": "49943-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7869,6 +7990,7 @@
     }
   },
   "42025-rebirth.mod": {
+    "name": "spider camp marker",
     "stringId": "42025-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7892,6 +8014,7 @@
     "references": {}
   },
   "50988-rebirth.mod": {
+    "name": "nest- megaraptor",
     "stringId": "50988-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7940,6 +8063,7 @@
     }
   },
   "50992-rebirth.mod": {
+    "name": "Shek Ruins",
     "stringId": "50992-rebirth.mod",
     "type": "Town",
     "values": {
@@ -7985,6 +8109,7 @@
     }
   },
   "50993-rebirth.mod": {
+    "name": "Empty Lab",
     "stringId": "50993-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8016,6 +8141,7 @@
     }
   },
   "50994-rebirth.mod": {
+    "name": "Last Stand",
     "stringId": "50994-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8113,6 +8239,7 @@
     }
   },
   "50995-rebirth.mod": {
+    "name": "Throne of the Bugmaster",
     "stringId": "50995-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8151,6 +8278,7 @@
     }
   },
   "51004-rebirth.mod": {
+    "name": "Old Frontlines",
     "stringId": "51004-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8189,6 +8317,7 @@
     }
   },
   "51005-rebirth.mod": {
+    "name": "The Great Fortress",
     "stringId": "51005-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8244,6 +8373,7 @@
     }
   },
   "51328-rebirth.mod": {
+    "name": "nest- shek military ruins",
     "stringId": "51328-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8294,6 +8424,7 @@
     }
   },
   "51362-rebirth.mod": {
+    "name": "Workshop Complex",
     "stringId": "51362-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8332,6 +8463,7 @@
     }
   },
   "51482-rebirth.mod": {
+    "name": "Red Sabre Hideout",
     "stringId": "51482-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8370,6 +8502,7 @@
     }
   },
   "51377-rebirth.mod": {
+    "name": "nest- lab ruin",
     "stringId": "51377-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8401,6 +8534,7 @@
     }
   },
   "51381-rebirth.mod": {
+    "name": "Grayflayer Village",
     "stringId": "51381-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8451,6 +8585,7 @@
     }
   },
   "51383-rebirth.mod": {
+    "name": "Swamped Lab",
     "stringId": "51383-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8489,6 +8624,7 @@
     }
   },
   "51387-rebirth.mod": {
+    "name": "Bounty Hunter Camp",
     "stringId": "51387-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8586,6 +8722,7 @@
     }
   },
   "51388-rebirth.mod": {
+    "name": "Mercenary Camp",
     "stringId": "51388-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8683,6 +8820,7 @@
     }
   },
   "51396-rebirth.mod": {
+    "name": "Narko's Trap",
     "stringId": "51396-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8741,6 +8879,7 @@
     }
   },
   "51398-rebirth.mod": {
+    "name": "Ancient Labs",
     "stringId": "51398-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8779,6 +8918,7 @@
     }
   },
   "51400-rebirth.mod": {
+    "name": "Infested Lab",
     "stringId": "51400-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8817,6 +8957,7 @@
     }
   },
   "51402-rebirth.mod": {
+    "name": "Drifter's Last",
     "stringId": "51402-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8906,6 +9047,7 @@
     }
   },
   "51423-rebirth.mod": {
+    "name": "Library Ruins",
     "stringId": "51423-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8944,6 +9086,7 @@
     }
   },
   "51646-rebirth.mod": {
+    "name": "Swamp Ninja Base",
     "stringId": "51646-rebirth.mod",
     "type": "Town",
     "values": {
@@ -8982,6 +9125,7 @@
     }
   },
   "51817-rebirth.mod": {
+    "name": "Tower of Fog",
     "stringId": "51817-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9020,6 +9164,7 @@
     }
   },
   "53084-rebirth.mod": {
+    "name": "Watchtower",
     "stringId": "53084-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9058,6 +9203,7 @@
     }
   },
   "NO_TOWN": {
+    "name": "Nowhere",
     "stringId": "NO_TOWN",
     "type": "Town",
     "values": {
@@ -9089,6 +9235,7 @@
     }
   },
   "55396-rebirth.mod": {
+    "name": "Port South",
     "stringId": "55396-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9213,6 +9360,7 @@
     }
   },
   "55397-rebirth.mod": {
+    "name": "Lost Library Outpost",
     "stringId": "55397-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9278,6 +9426,7 @@
     }
   },
   "55644-rebirth.mod": {
+    "name": "Deadland Workshop",
     "stringId": "55644-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9328,6 +9477,7 @@
     }
   },
   "55649-rebirth.mod": {
+    "name": "Fort Simion",
     "stringId": "55649-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9400,6 +9550,7 @@
     }
   },
   "55650-rebirth.mod": {
+    "name": "Fishing Village",
     "stringId": "55650-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9465,6 +9616,7 @@
     }
   },
   "55651-rebirth.mod": {
+    "name": "Sho-Battai",
     "stringId": "55651-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9597,6 +9749,7 @@
     }
   },
   "55653-rebirth.mod": {
+    "name": "Drin",
     "stringId": "55653-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9674,6 +9827,7 @@
     }
   },
   "55654-rebirth.mod": {
+    "name": "Endin",
     "stringId": "55654-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9729,6 +9883,7 @@
     }
   },
   "55655-rebirth.mod": {
+    "name": "Bast",
     "stringId": "55655-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9784,6 +9939,7 @@
     }
   },
   "55656-rebirth.mod": {
+    "name": "Black Scratch",
     "stringId": "55656-rebirth.mod",
     "type": "Town",
     "values": {
@@ -9904,6 +10060,7 @@
     }
   },
   "55657-rebirth.mod": {
+    "name": "Okran's Shield",
     "stringId": "55657-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10013,6 +10170,7 @@
     }
   },
   "55660-rebirth.mod": {
+    "name": "Smugglers Bar",
     "stringId": "55660-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10068,6 +10226,7 @@
     }
   },
   "55661-rebirth.mod": {
+    "name": "Trader's Edge",
     "stringId": "55661-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10172,6 +10331,7 @@
     }
   },
   "55662-rebirth.mod": {
+    "name": "The Bastion",
     "stringId": "55662-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10227,6 +10387,7 @@
     }
   },
   "55663-rebirth.mod": {
+    "name": "Farm Ruins",
     "stringId": "55663-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10265,6 +10426,7 @@
     }
   },
   "55671-rebirth.mod": {
+    "name": "Gorillo Nest",
     "stringId": "55671-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10334,6 +10496,7 @@
     }
   },
   "55964-rebirth.mod": {
+    "name": "Ruined Farm",
     "stringId": "55964-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10372,6 +10535,7 @@
     }
   },
   "56085-rebirth.mod": {
+    "name": "Raided Caravan",
     "stringId": "56085-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10403,6 +10567,7 @@
     }
   },
   "56086-rebirth.mod": {
+    "name": "Raider Camp",
     "stringId": "56086-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10536,6 +10701,7 @@
     }
   },
   "56093-rebirth.mod": {
+    "name": "Skimmer Nest",
     "stringId": "56093-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10579,6 +10745,7 @@
     }
   },
   "56107-rebirth.mod": {
+    "name": "Crab Nest",
     "stringId": "56107-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10624,6 +10791,7 @@
     }
   },
   "56114-rebirth.mod": {
+    "name": "Small Skimmer Nest",
     "stringId": "56114-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10662,6 +10830,7 @@
     }
   },
   "56142-rebirth.mod": {
+    "name": "Vagrant Camp",
     "stringId": "56142-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10786,6 +10955,7 @@
     }
   },
   "56152-rebirth.mod": {
+    "name": "Waystation Ruins",
     "stringId": "56152-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10831,6 +11001,7 @@
     }
   },
   "56153-rebirth.mod": {
+    "name": "Scraphouse",
     "stringId": "56153-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10869,6 +11040,7 @@
     }
   },
   "96402-rebirth.mod": {
+    "name": "Strange Camp",
     "stringId": "96402-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10907,6 +11079,7 @@
     }
   },
   "58703-rebirth.mod": {
+    "name": "Crumbling Labs",
     "stringId": "58703-rebirth.mod",
     "type": "Town",
     "values": {
@@ -10950,6 +11123,7 @@
     }
   },
   "58704-rebirth.mod": {
+    "name": "Waystation Four",
     "stringId": "58704-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11054,6 +11228,7 @@
     }
   },
   "62767-rebirth.mod": {
+    "name": "Southern Hive Village",
     "stringId": "62767-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11106,6 +11281,7 @@
     }
   },
   "62769-rebirth.mod": {
+    "name": "nest- king gorillo",
     "stringId": "62769-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11149,6 +11325,7 @@
     }
   },
   "62770-rebirth.mod": {
+    "name": "Old Empire Supply Outpost",
     "stringId": "62770-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11194,6 +11371,7 @@
     }
   },
   "62782-rebirth.mod": {
+    "name": "Hiver-Claimed Armoury",
     "stringId": "62782-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11249,6 +11427,7 @@
     }
   },
   "62789-rebirth.mod": {
+    "name": "Crab Town",
     "stringId": "62789-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11355,6 +11534,7 @@
     }
   },
   "62790-rebirth.mod": {
+    "name": "Iron HQ",
     "stringId": "62790-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11410,6 +11590,7 @@
     }
   },
   "62795-rebirth.mod": {
+    "name": "Lost Armour Store",
     "stringId": "62795-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11455,6 +11636,7 @@
     }
   },
   "62796-rebirth.mod": {
+    "name": "Dead Workshop",
     "stringId": "62796-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11505,6 +11687,7 @@
     }
   },
   "62846-rebirth.mod": {
+    "name": "Spider Factory",
     "stringId": "62846-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11543,6 +11726,7 @@
     }
   },
   "63140-rebirth.mod": {
+    "name": "The Old Prison",
     "stringId": "63140-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11586,6 +11770,7 @@
     }
   },
   "63141-rebirth.mod": {
+    "name": "Empire Village",
     "stringId": "63141-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11617,6 +11802,7 @@
     }
   },
   "64561-rebirth.mod": {
+    "name": "Ashland Dome III",
     "stringId": "64561-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11655,6 +11841,7 @@
     }
   },
   "64903-rebirth.mod": {
+    "name": "Tower Of Goats",
     "stringId": "64903-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11693,6 +11880,7 @@
     }
   },
   "64912-rebirth.mod": {
+    "name": "First Village",
     "stringId": "64912-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11787,6 +11975,7 @@
     }
   },
   "64915-rebirth.mod": {
+    "name": "Dead Fishing Village",
     "stringId": "64915-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11825,6 +12014,7 @@
     }
   },
   "64919-rebirth.mod": {
+    "name": "Reprogramming Workshop",
     "stringId": "64919-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11863,6 +12053,7 @@
     }
   },
   "66295-Boneyard Wolf.mod": {
+    "name": "Boneyard Wolf Den",
     "stringId": "66295-Boneyard Wolf.mod",
     "type": "Town",
     "values": {
@@ -11930,6 +12121,7 @@
     }
   },
   "66538-rebirth.mod": {
+    "name": "Horrible Ruin",
     "stringId": "66538-rebirth.mod",
     "type": "Town",
     "values": {
@@ -11980,6 +12172,7 @@
     }
   },
   "66543-rebirth.mod": {
+    "name": "Skinhouse",
     "stringId": "66543-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12037,6 +12230,7 @@
     }
   },
   "95510-rebirth.mod": {
+    "name": "Police Barracks",
     "stringId": "95510-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12075,6 +12269,7 @@
     }
   },
   "95531-rebirth.mod": {
+    "name": "housecamp raider",
     "stringId": "95531-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12162,6 +12357,7 @@
     }
   },
   "95725-rebirth.mod": {
+    "name": "Tower of Spiders",
     "stringId": "95725-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12200,6 +12396,7 @@
     }
   },
   "95726-rebirth.mod": {
+    "name": "Tower of Abuse",
     "stringId": "95726-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12238,6 +12435,7 @@
     }
   },
   "95727-rebirth.mod": {
+    "name": "Old Village",
     "stringId": "95727-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12283,6 +12481,7 @@
     }
   },
   "95755-__december17.mod": {
+    "name": "Ark",
     "stringId": "95755-__december17.mod",
     "type": "Town",
     "values": {
@@ -12340,6 +12539,7 @@
     }
   },
   "96160-rebirth.mod": {
+    "name": "nest trashed house",
     "stringId": "96160-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12410,6 +12610,7 @@
     }
   },
   "96219-rebirth.mod": {
+    "name": "Old Control Tower",
     "stringId": "96219-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12455,6 +12656,7 @@
     }
   },
   "96403-rebirth.mod": {
+    "name": "Ruined Control Tower",
     "stringId": "96403-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12486,6 +12688,7 @@
     }
   },
   "96405-rebirth.mod": {
+    "name": "The Forgotten Throne",
     "stringId": "96405-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12531,6 +12734,7 @@
     }
   },
   "97660-rebirth.mod": {
+    "name": "nest housecamp fishman",
     "stringId": "97660-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12631,6 +12835,7 @@
     }
   },
   "97663-rebirth.mod": {
+    "name": "nest- lab ruin gurglers",
     "stringId": "97663-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12669,6 +12874,7 @@
     }
   },
   "97848-__March 18.mod": {
+    "name": "Fort Mirage",
     "stringId": "97848-__March 18.mod",
     "type": "Town",
     "values": {
@@ -12707,6 +12913,7 @@
     }
   },
   "97901-rebirth.mod": {
+    "name": "Gurgler Nest",
     "stringId": "97901-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12813,6 +13020,7 @@
     }
   },
   "98551-rebirth.mod": {
+    "name": "Sniper Tower",
     "stringId": "98551-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12858,6 +13066,7 @@
     }
   },
   "98552-rebirth.mod": {
+    "name": "Expedition 5",
     "stringId": "98552-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12908,6 +13117,7 @@
     }
   },
   "1531884-rebirth.mod": {
+    "name": "Fog Deathyard Invasion",
     "stringId": "1531884-rebirth.mod",
     "type": "Town",
     "values": {
@@ -12992,6 +13202,7 @@
     }
   },
   "1531889-rebirth.mod": {
+    "name": "Sho-Battai (override) half destroyed",
     "stringId": "1531889-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13171,6 +13382,7 @@
     }
   },
   "1531891-rebirth.mod": {
+    "name": "_Cannibal Village (override)",
     "stringId": "1531891-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13264,6 +13476,7 @@
     }
   },
   "1531894-rebirth.mod": {
+    "name": "Deadhive Overrun West (override)",
     "stringId": "1531894-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13338,6 +13551,7 @@
     }
   },
   "1531896-rebirth.mod": {
+    "name": "Deadhive Overrun South (override)",
     "stringId": "1531896-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13412,6 +13626,7 @@
     }
   },
   "1531900-rebirth.mod": {
+    "name": "housecamp raider w/poles",
     "stringId": "1531900-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13504,6 +13719,7 @@
     }
   },
   "1532481-__May 18 2.mod": {
+    "name": "Fort Yabuta",
     "stringId": "1532481-__May 18 2.mod",
     "type": "Town",
     "values": {
@@ -13571,6 +13787,7 @@
     }
   },
   "1532814-rebirth.mod": {
+    "name": "Expedition 4",
     "stringId": "1532814-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13621,6 +13838,7 @@
     }
   },
   "1532820-rebirth.mod": {
+    "name": "Settled Nomad Village",
     "stringId": "1532820-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13669,6 +13887,7 @@
     }
   },
   "1532821-rebirth.mod": {
+    "name": "Free Settlement",
     "stringId": "1532821-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13733,6 +13952,7 @@
     }
   },
   "1532822-rebirth.mod": {
+    "name": "Barrier Tower",
     "stringId": "1532822-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13778,6 +13998,7 @@
     }
   },
   "1532823-rebirth.mod": {
+    "name": "Secret Drug Farm",
     "stringId": "1532823-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13821,6 +14042,7 @@
     }
   },
   "1532824-rebirth.mod": {
+    "name": "Cat-Lon's Exile",
     "stringId": "1532824-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13864,6 +14086,7 @@
     }
   },
   "1532827-rebirth.mod": {
+    "name": "The Free City",
     "stringId": "1532827-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13954,6 +14177,7 @@
     }
   },
   "1532834-rebirth.mod": {
+    "name": "Ashland Dome I",
     "stringId": "1532834-rebirth.mod",
     "type": "Town",
     "values": {
@@ -13992,6 +14216,7 @@
     }
   },
   "1532835-rebirth.mod": {
+    "name": "Ashland Dome Ruin",
     "stringId": "1532835-rebirth.mod",
     "type": "Town",
     "values": {
@@ -14023,6 +14248,7 @@
     }
   },
   "1532893-__world reactions NE.mod": {
+    "name": "Bark (override prosperous)",
     "stringId": "1532893-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14185,6 +14411,7 @@
     }
   },
   "1532898-__world reactions NE.mod": {
+    "name": "Bark (override) half destroyed",
     "stringId": "1532898-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14331,6 +14558,7 @@
     }
   },
   "1532969-__world reactions NE.mod": {
+    "name": "Brink (override) destroyed",
     "stringId": "1532969-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14381,6 +14609,7 @@
     }
   },
   "1532854-__world reactions NE.mod": {
+    "name": "Brink (override) takeover",
     "stringId": "1532854-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14494,6 +14723,7 @@
     }
   },
   "1533487-__world reactions NE.mod": {
+    "name": "Cannibal Infestation",
     "stringId": "1533487-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14573,6 +14803,7 @@
     }
   },
   "1532935-__world reactions NE.mod": {
+    "name": "Drin (override)",
     "stringId": "1532935-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14667,6 +14898,7 @@
     }
   },
   "1533276-__world reactions NE.mod": {
+    "name": "Drin (override) destroyed",
     "stringId": "1533276-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14722,6 +14954,7 @@
     }
   },
   "1532899-__world reactions NE.mod": {
+    "name": "Fort Simion (override destroyed)",
     "stringId": "1532899-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14767,6 +15000,7 @@
     }
   },
   "1532882-__world reactions NE.mod": {
+    "name": "Heft (override)",
     "stringId": "1532882-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -14896,6 +15130,7 @@
     }
   },
   "1532940-__world reactions NE.mod": {
+    "name": "Heng (override) ",
     "stringId": "1532940-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15028,6 +15263,7 @@
     }
   },
   "1532943-__world reactions NE.mod": {
+    "name": "Heng (override) half destroyed",
     "stringId": "1532943-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15187,6 +15423,7 @@
     }
   },
   "1532944-__world reactions NE.mod": {
+    "name": "Heng (override) half destroyed",
     "stringId": "1532944-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15346,6 +15583,7 @@
     }
   },
   "1532938-__world reactions NE.mod": {
+    "name": "Heng (override) prosperous",
     "stringId": "1532938-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15498,6 +15736,7 @@
     }
   },
   "1532948-__world reactions.mod": {
+    "name": "Okran's Shield (override) destroyed",
     "stringId": "1532948-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -15560,6 +15799,7 @@
     }
   },
   "1533148-__world reactions NE.mod": {
+    "name": "Raider Camp (override)",
     "stringId": "1533148-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15681,6 +15921,7 @@
     }
   },
   "1532915-__world reactions NE.mod": {
+    "name": "Sho -Battai (override) cannibals",
     "stringId": "1532915-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15802,6 +16043,7 @@
     }
   },
   "1532914-__world reactions NE.mod": {
+    "name": "Sho-Battai (override) prosperous",
     "stringId": "1532914-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -15964,6 +16206,7 @@
     }
   },
   "1532929-__world reactions NE.mod": {
+    "name": "Stoat (override) half destroyed",
     "stringId": "1532929-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16130,6 +16373,7 @@
     }
   },
   "1532930-__world reactions NE.mod": {
+    "name": "Stoat (override) half destroyed",
     "stringId": "1532930-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16301,6 +16545,7 @@
     }
   },
   "1532932-__world reactions NE.mod": {
+    "name": "Stoat (override) takeover",
     "stringId": "1532932-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16425,6 +16670,7 @@
     }
   },
   "1532931-__world reactions NE.mod": {
+    "name": "Stoat (override) Yabuta",
     "stringId": "1532931-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16516,6 +16762,7 @@
     }
   },
   "1532939-__world reactions NE.mod": {
+    "name": "Trader's Edge (override) ",
     "stringId": "1532939-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16593,6 +16840,7 @@
     }
   },
   "1532945-__world reactions NE.mod": {
+    "name": "Trader's Edge (override) destroyed",
     "stringId": "1532945-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16689,6 +16937,7 @@
     }
   },
   "1532936-__world reactions NE.mod": {
+    "name": "Trader's Edge (override) prosperous",
     "stringId": "1532936-__world reactions NE.mod",
     "type": "Town",
     "values": {
@@ -16793,6 +17042,7 @@
     }
   },
   "1532986-__world reactions W.mod": {
+    "name": "Bad Teeth (override) destroyed",
     "stringId": "1532986-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -16853,6 +17103,7 @@
     }
   },
   "1532979-__world reactions W.mod": {
+    "name": "Bad Teeth (override) half destroyed",
     "stringId": "1532979-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -17039,6 +17290,7 @@
     }
   },
   "1532983-__world reactions W.mod": {
+    "name": "Bad Teeth (override) takeover",
     "stringId": "1532983-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -17188,6 +17440,7 @@
     }
   },
   "1532985-__world reactions W.mod": {
+    "name": "Bad Teeth (override) takeover ",
     "stringId": "1532985-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -17347,6 +17600,7 @@
     }
   },
   "1532974-__world reactions.mod": {
+    "name": "Blister Hill (override) destroyed",
     "stringId": "1532974-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -17404,6 +17658,7 @@
     }
   },
   "1532975-__world reactions.mod": {
+    "name": "Blister Hill (override) prosperous",
     "stringId": "1532975-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -17578,6 +17833,7 @@
     }
   },
   "1532976-__world reactions.mod": {
+    "name": "Blister Hill (override) takeover",
     "stringId": "1532976-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -17677,6 +17933,7 @@
     }
   },
   "1533241-__world reactions W.mod": {
+    "name": "Fogman Nest Invasion",
     "stringId": "1533241-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -17761,6 +18018,7 @@
     }
   },
   "1533242-__world reactions W.mod": {
+    "name": "Holy Military Base (override) Deadhive",
     "stringId": "1533242-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -17835,6 +18093,7 @@
     }
   },
   "1532978-__world reactions.mod": {
+    "name": "Holy Military Base (override) destroyed",
     "stringId": "1532978-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -17919,6 +18178,7 @@
     }
   },
   "1532993-__world reactions W.mod": {
+    "name": "Holy Mines (override) destroyed",
     "stringId": "1532993-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -17981,6 +18241,7 @@
     }
   },
   "1532990-__world reactions W.mod": {
+    "name": "Holy Mines (override) takeover",
     "stringId": "1532990-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -18063,6 +18324,7 @@
     }
   },
   "1532994-__world reactions W.mod": {
+    "name": "Holy Mines (override) takeover",
     "stringId": "1532994-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -18145,6 +18407,7 @@
     }
   },
   "1532950-__world reactions.mod": {
+    "name": "Okran's Fist (override) cannibals",
     "stringId": "1532950-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18261,6 +18524,7 @@
     }
   },
   "1532951-__world reactions.mod": {
+    "name": "Okran's Fist (override) half destroyed",
     "stringId": "1532951-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18367,6 +18631,7 @@
     }
   },
   "1532952-__world reactions.mod": {
+    "name": "Okran's Fist (override) half destroyed",
     "stringId": "1532952-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18463,6 +18728,7 @@
     }
   },
   "1532947-__world reactions.mod": {
+    "name": "Okran's Shield (override) empire",
     "stringId": "1532947-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18564,6 +18830,7 @@
     }
   },
   "1532949-__world reactions.mod": {
+    "name": "Okran's Shield (override) reavers",
     "stringId": "1532949-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18687,6 +18954,7 @@
     }
   },
   "1533113-__world reactions W.mod": {
+    "name": "Okran's Shield (override) shek",
     "stringId": "1533113-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -18788,6 +19056,7 @@
     }
   },
   "1532971-__world reactions.mod": {
+    "name": "Rebirth (override) destroyed",
     "stringId": "1532971-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18855,6 +19124,7 @@
     }
   },
   "1532970-__world reactions.mod": {
+    "name": "Rebirth (override) takeover",
     "stringId": "1532970-__world reactions.mod",
     "type": "Town",
     "values": {
@@ -18947,6 +19217,7 @@
     }
   },
   "1532987-__world reactions W.mod": {
+    "name": "Stack (override) destroyed",
     "stringId": "1532987-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -19007,6 +19278,7 @@
     }
   },
   "1532980-__world reactions W.mod": {
+    "name": "Stack (override) takeover",
     "stringId": "1532980-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -19161,6 +19433,7 @@
     }
   },
   "1532984-__world reactions W.mod": {
+    "name": "Stack (override) takeover ",
     "stringId": "1532984-__world reactions W.mod",
     "type": "Town",
     "values": {
@@ -19320,6 +19593,7 @@
     }
   },
   "1533317-__world reactions Shek.mod": {
+    "name": "Admag (override) esata dead",
     "stringId": "1533317-__world reactions Shek.mod",
     "type": "Town",
     "values": {
@@ -19382,6 +19656,7 @@
     }
   },
   "1533314-__world reactions Shek.mod": {
+    "name": "Admag (override) Seto",
     "stringId": "1533314-__world reactions Shek.mod",
     "type": "Town",
     "values": {
@@ -19523,6 +19798,7 @@
     }
   },
   "1533364-__world reactions Shek.mod": {
+    "name": "New Kralia (override)",
     "stringId": "1533364-__world reactions Shek.mod",
     "type": "Town",
     "values": {
@@ -19568,6 +19844,7 @@
     }
   },
   "1533327-__world reactions Shek.mod": {
+    "name": "Squin (override) destroyed",
     "stringId": "1533327-__world reactions Shek.mod",
     "type": "Town",
     "values": {
@@ -19640,6 +19917,7 @@
     }
   },
   "1533324-__world reactions Shek.mod": {
+    "name": "Squin (override) new leader",
     "stringId": "1533324-__world reactions Shek.mod",
     "type": "Town",
     "values": {
@@ -19704,6 +19982,7 @@
     }
   },
   "1533323-__world reactions Shek.mod": {
+    "name": "Squin (override) takeover",
     "stringId": "1533323-__world reactions Shek.mod",
     "type": "Town",
     "values": {
@@ -19858,6 +20137,7 @@
     }
   },
   "1533506-rebirth.mod": {
+    "name": "Ashland Dome II",
     "stringId": "1533506-rebirth.mod",
     "type": "Town",
     "values": {
@@ -19896,6 +20176,7 @@
     }
   },
   "1533507-rebirth.mod": {
+    "name": "Ashland Dome IV",
     "stringId": "1533507-rebirth.mod",
     "type": "Town",
     "values": {
@@ -19934,6 +20215,7 @@
     }
   },
   "1533599-__world reactions Slavers.mod": {
+    "name": "Bark (override prosperous) 2",
     "stringId": "1533599-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20106,6 +20388,7 @@
     }
   },
   "1533598-__world reactions Slavers.mod": {
+    "name": "Bark (override) malnourished",
     "stringId": "1533598-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20285,6 +20568,7 @@
     }
   },
   "1533601-__world reactions Slavers.mod": {
+    "name": "Brink (override) malnourished",
     "stringId": "1533601-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20456,6 +20740,7 @@
     }
   },
   "1533693-__world reactions Slavers.mod": {
+    "name": "Clownsteady (override) malnourished 1",
     "stringId": "1533693-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20611,6 +20896,7 @@
     }
   },
   "1533698-__world reactions Slavers.mod": {
+    "name": "Clownsteady (override) malnourished 2",
     "stringId": "1533698-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20771,6 +21057,7 @@
     }
   },
   "1533694-__world reactions Slavers.mod": {
+    "name": "Clownsteady (override) prosperous",
     "stringId": "1533694-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20915,6 +21202,7 @@
     }
   },
   "1533523-__world reactions Slavers.mod": {
+    "name": "Eyesocket (override) destroyed",
     "stringId": "1533523-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -20960,6 +21248,7 @@
     }
   },
   "1533587-__world reactions Slavers.mod": {
+    "name": "Heft (override) malnourished",
     "stringId": "1533587-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21131,6 +21420,7 @@
     }
   },
   "1533590-__world reactions Slavers.mod": {
+    "name": "Heft (override) malnourished 2",
     "stringId": "1533590-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21302,6 +21592,7 @@
     }
   },
   "1533591-__world reactions Slavers.mod": {
+    "name": "Heft (override) malnourished 3",
     "stringId": "1533591-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21473,6 +21764,7 @@
     }
   },
   "1533604-__world reactions Slavers.mod": {
+    "name": "Heng (override) malnourished",
     "stringId": "1533604-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21639,6 +21931,7 @@
     }
   },
   "1533691-__world reactions Slavers.mod": {
+    "name": "Manhunter Base (override)",
     "stringId": "1533691-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21709,6 +22002,7 @@
     }
   },
   "1533519-__world reactions Slavers.mod": {
+    "name": "Port North (override) destroyed",
     "stringId": "1533519-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21761,6 +22055,7 @@
     }
   },
   "1533584-__world reactions Slavers.mod": {
+    "name": "Port North (override) farm town",
     "stringId": "1533584-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21848,6 +22143,7 @@
     }
   },
   "1533520-__world reactions Slavers.mod": {
+    "name": "Port South (override) destroyed",
     "stringId": "1533520-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21900,6 +22196,7 @@
     }
   },
   "1533592-__world reactions Slavers.mod": {
+    "name": "Port South (override) farm town",
     "stringId": "1533592-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -21987,6 +22284,7 @@
     }
   },
   "1533529-__world reactions Slavers.mod": {
+    "name": "Sho-Battai (override) malnourished",
     "stringId": "1533529-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22193,6 +22491,7 @@
     }
   },
   "1533547-__world reactions Slavers.mod": {
+    "name": "Sho-Battai (override) malnourished + half destroyed",
     "stringId": "1533547-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22359,6 +22658,7 @@
     }
   },
   "1533548-__world reactions Slavers.mod": {
+    "name": "Sho-Battai (override) malnourished + half destroyed 2",
     "stringId": "1533548-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22530,6 +22830,7 @@
     }
   },
   "1533522-__world reactions Slavers.mod": {
+    "name": "Slave Farm (override) destroyed ",
     "stringId": "1533522-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22575,6 +22876,7 @@
     }
   },
   "1533524-__world reactions Slavers.mod": {
+    "name": "Slave Farm S (override) destroyed",
     "stringId": "1533524-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22627,6 +22929,7 @@
     }
   },
   "1533692-__world reactions Slavers.mod": {
+    "name": "Slave Farm S (override) farm town",
     "stringId": "1533692-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22709,6 +23012,7 @@
     }
   },
   "1533495-__world reactions Slavers.mod": {
+    "name": "Slave Farm South",
     "stringId": "1533495-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22796,6 +23100,7 @@
     }
   },
   "1533518-__world reactions Slavers.mod": {
+    "name": "Slave Market (override) destroyed",
     "stringId": "1533518-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22841,6 +23146,7 @@
     }
   },
   "1533492-__world reactions Slavers.mod": {
+    "name": "South Stone Camp",
     "stringId": "1533492-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -22960,6 +23266,7 @@
     }
   },
   "1533525-__world reactions Slavers.mod": {
+    "name": "South Stone Camp (override) destroyed",
     "stringId": "1533525-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23005,6 +23312,7 @@
     }
   },
   "1533593-__world reactions Slavers.mod": {
+    "name": "Stoat (override) malnourished",
     "stringId": "1533593-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23186,6 +23494,7 @@
     }
   },
   "1533595-__world reactions Slavers.mod": {
+    "name": "Stoat (override) malnourished half destroyed",
     "stringId": "1533595-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23332,6 +23641,7 @@
     }
   },
   "1533596-__world reactions Slavers.mod": {
+    "name": "Stoat (override) malnourished half destroyed 2",
     "stringId": "1533596-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23478,6 +23788,7 @@
     }
   },
   "1533526-__world reactions Slavers.mod": {
+    "name": "Stone Camp (override) destroyed",
     "stringId": "1533526-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23523,6 +23834,7 @@
     }
   },
   "1533606-__world reactions Slavers.mod": {
+    "name": "Trader's Edge (override) malnourished",
     "stringId": "1533606-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23629,6 +23941,7 @@
     }
   },
   "1533609-__world reactions Slavers.mod": {
+    "name": "Trader's Edge (override) malnourished 1",
     "stringId": "1533609-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23730,6 +24043,7 @@
     }
   },
   "1533709-__world reactions Slavers.mod": {
+    "name": "Catun (override) fishman takeover",
     "stringId": "1533709-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23794,6 +24108,7 @@
     }
   },
   "1533706-__world reactions Slavers.mod": {
+    "name": "Drifter's Last (override) half destroyed",
     "stringId": "1533706-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -23920,6 +24235,7 @@
     }
   },
   "1533704-__world reactions Slavers.mod": {
+    "name": "Drifter's Last (override) prosperous",
     "stringId": "1533704-__world reactions Slavers.mod",
     "type": "Town",
     "values": {
@@ -24064,6 +24380,7 @@
     }
   },
   "1533722-__world reactios swamp.mod": {
+    "name": "Grayflayer Village (override)",
     "stringId": "1533722-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24116,6 +24433,7 @@
     }
   },
   "1533732-__world reactios swamp.mod": {
+    "name": "Grayflayer Village (override) takeover",
     "stringId": "1533732-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24195,6 +24513,7 @@
     }
   },
   "1533726-__world reactios swamp.mod": {
+    "name": "nest spiders bones",
     "stringId": "1533726-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24268,6 +24587,7 @@
     }
   },
   "1533723-__world reactios swamp.mod": {
+    "name": "Rot (override)",
     "stringId": "1533723-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24328,6 +24648,7 @@
     }
   },
   "1533719-__world reactios swamp.mod": {
+    "name": "Shark (override) all ded",
     "stringId": "1533719-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24457,6 +24778,7 @@
     }
   },
   "1533713-__world reactios swamp.mod": {
+    "name": "Shark (override) blackshifter",
     "stringId": "1533713-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24591,6 +24913,7 @@
     }
   },
   "1533711-__world reactios swamp.mod": {
+    "name": "Shark (override) Grayflayer",
     "stringId": "1533711-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24725,6 +25048,7 @@
     }
   },
   "1533720-__world reactios swamp.mod": {
+    "name": "Stone Rat Village (override)",
     "stringId": "1533720-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24782,6 +25106,7 @@
     }
   },
   "1533721-__world reactios swamp.mod": {
+    "name": "Stone Rat Village (takeover)",
     "stringId": "1533721-__world reactios swamp.mod",
     "type": "Town",
     "values": {
@@ -24842,6 +25167,7 @@
     }
   },
   "1534013-__SE world states.mod": {
+    "name": "Ark (override) destroyed",
     "stringId": "1534013-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -24892,6 +25218,7 @@
     }
   },
   "1534011-__SE world states.mod": {
+    "name": "Ark (override) takover",
     "stringId": "1534011-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -24949,6 +25276,7 @@
     }
   },
   "1533944-__SE world states.mod": {
+    "name": "Crab Town (override) Gurgler takeover",
     "stringId": "1533944-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25006,6 +25334,7 @@
     }
   },
   "1533943-__SE world states.mod": {
+    "name": "Crab Village (override) destroyed",
     "stringId": "1533943-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25088,6 +25417,7 @@
     }
   },
   "1533939-__SE world states.mod": {
+    "name": "Crab Village (override) Reaver takeover",
     "stringId": "1533939-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25174,6 +25504,7 @@
     }
   },
   "1533964-__SE world states.mod": {
+    "name": "Cult town (override) destroyed",
     "stringId": "1533964-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25224,6 +25555,7 @@
     }
   },
   "1533963-__SE world states.mod": {
+    "name": "Cult village (override) slaver takeover",
     "stringId": "1533963-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25323,6 +25655,7 @@
     }
   },
   "1533962-__SE world states.mod": {
+    "name": "Distant Hive Village",
     "stringId": "1533962-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25390,6 +25723,7 @@
     }
   },
   "1533961-__SE world states.mod": {
+    "name": "Hive Village N (override) empty",
     "stringId": "1533961-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25445,6 +25779,7 @@
     }
   },
   "1533860-__SE world states.mod": {
+    "name": "Iron HQ (destroyed)",
     "stringId": "1533860-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25500,6 +25835,7 @@
     }
   },
   "1533859-__SE world states.mod": {
+    "name": "Iron HQ (south hive takeover)",
     "stringId": "1533859-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25572,6 +25908,7 @@
     }
   },
   "1533869-__SE world states.mod": {
+    "name": "Reaver Camp (override) destroyed",
     "stringId": "1533869-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25632,6 +25969,7 @@
     }
   },
   "1533868-__SE world states.mod": {
+    "name": "Reaver Camp (south hive takeover)",
     "stringId": "1533868-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25704,6 +26042,7 @@
     }
   },
   "1533960-__SE world states.mod": {
+    "name": "Settled Nomads (override) empty",
     "stringId": "1533960-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25759,6 +26098,7 @@
     }
   },
   "1533865-__SE world states.mod": {
+    "name": "Skinhouse (override) destroyed",
     "stringId": "1533865-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25802,6 +26142,7 @@
     }
   },
   "1533863-__SE world states.mod": {
+    "name": "Skinhouse (south hive takeover)",
     "stringId": "1533863-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25859,6 +26200,7 @@
     }
   },
   "1533866-__SE world states.mod": {
+    "name": "Skinhouse HQ (override) destroyed",
     "stringId": "1533866-__SE world states.mod",
     "type": "Town",
     "values": {
@@ -25897,6 +26239,7 @@
     }
   },
   "1534430-__Fixes.mod": {
+    "name": "Bad Teeth (override) takeover UC",
     "stringId": "1534430-__Fixes.mod",
     "type": "Town",
     "values": {
@@ -25962,6 +26305,7 @@
     }
   },
   "1534434-__Fixes.mod": {
+    "name": "Blister Hill (override) takeover UC",
     "stringId": "1534434-__Fixes.mod",
     "type": "Town",
     "values": {
@@ -26069,6 +26413,7 @@
     }
   },
   "1534435-__Fixes.mod": {
+    "name": "Fishing Village (override) slaver takeover",
     "stringId": "1534435-__Fixes.mod",
     "type": "Town",
     "values": {
@@ -26168,6 +26513,7 @@
     }
   },
   "1534429-__Fixes.mod": {
+    "name": "Holy Farm (override) takeover TG",
     "stringId": "1534429-__Fixes.mod",
     "type": "Town",
     "values": {
@@ -26324,6 +26670,7 @@
     }
   },
   "1534433-__Fixes.mod": {
+    "name": "Holy Farm (override) takeover TG",
     "stringId": "1534433-__Fixes.mod",
     "type": "Town",
     "values": {
@@ -26480,6 +26827,7 @@
     }
   },
   "1534428-__Fixes.mod": {
+    "name": "Holy Mines (override) takeover TG",
     "stringId": "1534428-__Fixes.mod",
     "type": "Town",
     "values": {

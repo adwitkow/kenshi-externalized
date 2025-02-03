@@ -1,5 +1,6 @@
 {
   "5420-lights_otto.mod": {
+    "name": "white light",
     "stringId": "5420-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -19,6 +20,7 @@
     "references": {}
   },
   "42312-Newwworld.mod": {
+    "name": "HolyStreetTorch",
     "stringId": "42312-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -38,6 +40,7 @@
     "references": {}
   },
   "12619-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12619-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -58,6 +61,7 @@
     "references": {}
   },
   "12614-Newwworld.mod": {
+    "name": "Streetlamp[Quad]01",
     "stringId": "12614-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -77,6 +81,7 @@
     "references": {}
   },
   "14380-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "14380-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -96,6 +101,7 @@
     "references": {}
   },
   "12620-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12620-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -116,6 +122,7 @@
     "references": {}
   },
   "5430-lights_otto.mod": {
+    "name": "wall_light_blue_strong",
     "stringId": "5430-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -135,6 +142,7 @@
     "references": {}
   },
   "5436-lights_otto.mod": {
+    "name": "wall_light_yellow",
     "stringId": "5436-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -154,6 +162,7 @@
     "references": {}
   },
   "14383-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "14383-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -174,6 +183,7 @@
     "references": {}
   },
   "18966-gamedata.base": {
+    "name": "street_light_yellow",
     "stringId": "18966-gamedata.base",
     "type": "Light",
     "values": {
@@ -193,6 +203,7 @@
     "references": {}
   },
   "5353-lights_otto.mod": {
+    "name": "street_light_for lampposts",
     "stringId": "5353-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -212,6 +223,7 @@
     "references": {}
   },
   "14382-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "14382-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -232,6 +244,7 @@
     "references": {}
   },
   "5434-lights_otto.mod": {
+    "name": "street_light_yellow_wide",
     "stringId": "5434-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -251,6 +264,7 @@
     "references": {}
   },
   "12627-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12627-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -271,6 +285,7 @@
     "references": {}
   },
   "12622-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12622-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -291,6 +306,7 @@
     "references": {}
   },
   "5365-lights_otto.mod": {
+    "name": "street_light_yellow_variant1",
     "stringId": "5365-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -310,6 +326,7 @@
     "references": {}
   },
   "5437-lights_otto.mod": {
+    "name": "indoor_lamp_light_variant1",
     "stringId": "5437-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -329,6 +346,7 @@
     "references": {}
   },
   "5335-gamedata.base": {
+    "name": "pack beast light",
     "stringId": "5335-gamedata.base",
     "type": "Light",
     "values": {
@@ -348,6 +366,7 @@
     "references": {}
   },
   "40545-weather_otto1.mod": {
+    "name": "Effect_lightning1",
     "stringId": "40545-weather_otto1.mod",
     "type": "Light",
     "values": {
@@ -367,6 +386,7 @@
     "references": {}
   },
   "12625-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12625-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -387,6 +407,7 @@
     "references": {}
   },
   "5365-gamedata.base": {
+    "name": "spotlight powerful",
     "stringId": "5365-gamedata.base",
     "type": "Light",
     "values": {
@@ -406,6 +427,7 @@
     "references": {}
   },
   "14381-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "14381-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -426,6 +448,7 @@
     "references": {}
   },
   "12621-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12621-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -446,6 +469,7 @@
     "references": {}
   },
   "14446-nodes_otto.mod": {
+    "name": "wall_light_blue_weak",
     "stringId": "14446-nodes_otto.mod",
     "type": "Light",
     "values": {
@@ -465,6 +489,7 @@
     "references": {}
   },
   "5436-new_furniture_otto.mod": {
+    "name": "torch_light",
     "stringId": "5436-new_furniture_otto.mod",
     "type": "Light",
     "values": {
@@ -484,6 +509,7 @@
     "references": {}
   },
   "14448-nodes_otto.mod": {
+    "name": "strip_light_blue",
     "stringId": "14448-nodes_otto.mod",
     "type": "Light",
     "values": {
@@ -503,6 +529,7 @@
     "references": {}
   },
   "5417-lights_otto.mod": {
+    "name": "indoor_lamp_light",
     "stringId": "5417-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -522,6 +549,7 @@
     "references": {}
   },
   "12624-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12624-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -542,6 +570,7 @@
     "references": {}
   },
   "40562-small_changes_otto.mod": {
+    "name": "indoor_farm_light",
     "stringId": "40562-small_changes_otto.mod",
     "type": "Light",
     "values": {
@@ -561,6 +590,7 @@
     "references": {}
   },
   "5428-lights_otto.mod": {
+    "name": "wall_light_blue",
     "stringId": "5428-lights_otto.mod",
     "type": "Light",
     "values": {
@@ -580,6 +610,7 @@
     "references": {}
   },
   "12626-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "12626-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -600,6 +631,7 @@
     "references": {}
   },
   "16852-gamedata.base": {
+    "name": "campfire light",
     "stringId": "16852-gamedata.base",
     "type": "Light",
     "values": {
@@ -619,6 +651,7 @@
     "references": {}
   },
   "47938-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "47938-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -638,6 +671,7 @@
     "references": {}
   },
   "47179-Newwworld.mod": {
+    "name": "LIGHT",
     "stringId": "47179-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -657,6 +691,7 @@
     "references": {}
   },
   "51007-Newwworld.mod": {
+    "name": "FlameTwisterOmni001",
     "stringId": "51007-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -676,6 +711,7 @@
     "references": {}
   },
   "51850-Newwworld.mod": {
+    "name": "Oil Lamp Hanging",
     "stringId": "51850-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -695,6 +731,7 @@
     "references": {}
   },
   "56116-Newwworld.mod": {
+    "name": "Streetlight-Droidtype-OmniLIGHT",
     "stringId": "56116-Newwworld.mod",
     "type": "Light",
     "values": {
@@ -715,6 +752,7 @@
     "references": {}
   },
   "47750-rebirth.mod": {
+    "name": "spotlight turret",
     "stringId": "47750-rebirth.mod",
     "type": "Light",
     "values": {
@@ -734,6 +772,7 @@
     "references": {}
   },
   "47919-rebirth.mod": {
+    "name": "LIGHT",
     "stringId": "47919-rebirth.mod",
     "type": "Light",
     "values": {
@@ -753,6 +792,7 @@
     "references": {}
   },
   "50392-rebirth.mod": {
+    "name": "indoor_lamp_light blue",
     "stringId": "50392-rebirth.mod",
     "type": "Light",
     "values": {
@@ -772,6 +812,7 @@
     "references": {}
   },
   "48676-rebirth.mod": {
+    "name": "labs fluorescent light",
     "stringId": "48676-rebirth.mod",
     "type": "Light",
     "values": {
@@ -791,6 +832,7 @@
     "references": {}
   },
   "55110-rebirth.mod": {
+    "name": "streetlight point yellow",
     "stringId": "55110-rebirth.mod",
     "type": "Light",
     "values": {

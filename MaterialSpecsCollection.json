@@ -1,5 +1,6 @@
 {
   "346-gamedata.base": {
+    "name": "base buildings tiled",
     "stringId": "346-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -74,6 +75,7 @@
     }
   },
   "365-gamedata.base": {
+    "name": "buildings interior smooth tiled",
     "stringId": "365-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -108,6 +110,7 @@
     }
   },
   "593-gamedata.base": {
+    "name": "temple",
     "stringId": "593-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -122,6 +125,7 @@
     }
   },
   "493-gamedata.base": {
+    "name": "wall02 tex 2 sandstone",
     "stringId": "493-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -146,6 +150,7 @@
     }
   },
   "481-gamedata.base": {
+    "name": "windows",
     "stringId": "481-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -160,6 +165,7 @@
     }
   },
   "604-gamedata.base": {
+    "name": "watertower",
     "stringId": "604-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -174,6 +180,7 @@
     }
   },
   "608-gamedata.base": {
+    "name": "Tall atlas 02 moor",
     "stringId": "608-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -188,6 +195,7 @@
     }
   },
   "480-gamedata.base": {
+    "name": "base buildings tiled sensible",
     "stringId": "480-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -232,6 +240,7 @@
     }
   },
   "356-gamedata.base": {
+    "name": "Building Atlases",
     "stringId": "356-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -246,6 +255,7 @@
     }
   },
   "591-gamedata.base": {
+    "name": "tall atlas 01",
     "stringId": "591-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},
@@ -260,6 +270,7 @@
     }
   },
   "492-gamedata.base": {
+    "name": "wall02 tex 1",
     "stringId": "492-gamedata.base",
     "type": "MaterialSpecsCollection",
     "values": {},

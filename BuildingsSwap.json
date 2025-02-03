@@ -1,5 +1,6 @@
 {
   "44908-rebirth.mod": {
+    "name": "no carpets",
     "stringId": "44908-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -14,6 +15,7 @@
     }
   },
   "44907-rebirth.mod": {
+    "name": "crossbow turrets only",
     "stringId": "44907-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -55,6 +57,7 @@
     }
   },
   "44924-rebirth.mod": {
+    "name": "stools -> cheap boxes",
     "stringId": "44924-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -81,6 +84,7 @@
     }
   },
   "49371-rebirth.mod": {
+    "name": "invisible sitting spots",
     "stringId": "49371-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -102,6 +106,7 @@
     }
   },
   "45551-rebirth.mod": {
+    "name": "ceiling fans",
     "stringId": "45551-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -123,6 +128,7 @@
     }
   },
   "44923-rebirth.mod": {
+    "name": "add medicrates sometimes",
     "stringId": "44923-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -159,6 +165,7 @@
     }
   },
   "44927-rebirth.mod": {
+    "name": "random weapon cabinet",
     "stringId": "44927-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -190,6 +197,7 @@
     }
   },
   "44906-rebirth.mod": {
+    "name": "low tech indoor torches",
     "stringId": "44906-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -211,6 +219,7 @@
     }
   },
   "44904-rebirth.mod": {
+    "name": "lampposts - holy torch mix",
     "stringId": "44904-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -287,6 +296,7 @@
     }
   },
   "44925-rebirth.mod": {
+    "name": "shitty beds",
     "stringId": "44925-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -308,6 +318,7 @@
     }
   },
   "50573-rebirth.mod": {
+    "name": "carpets metal sheet",
     "stringId": "50573-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -329,6 +340,7 @@
     }
   },
   "44922-rebirth.mod": {
+    "name": "secure chest for towers",
     "stringId": "44922-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -350,6 +362,7 @@
     }
   },
   "50969-rebirth.mod": {
+    "name": "banner swamp",
     "stringId": "50969-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -381,6 +394,7 @@
     }
   },
   "50970-rebirth.mod": {
+    "name": "banner holy",
     "stringId": "50970-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -412,6 +426,7 @@
     }
   },
   "50991-rebirth.mod": {
+    "name": "low level dummies",
     "stringId": "50991-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -438,6 +453,7 @@
     }
   },
   "51288-rebirth.mod": {
+    "name": "holy torch - lamppost",
     "stringId": "51288-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -459,6 +475,7 @@
     }
   },
   "51309-rebirth.mod": {
+    "name": "banners- shek",
     "stringId": "51309-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -490,6 +507,7 @@
     }
   },
   "52278-rebirth.mod": {
+    "name": "empire turrets",
     "stringId": "52278-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -541,6 +559,7 @@
     }
   },
   "52286-rebirth.mod": {
+    "name": "empire banners",
     "stringId": "52286-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -572,6 +591,7 @@
     }
   },
   "52333-rebirth.mod": {
+    "name": "electrical torches",
     "stringId": "52333-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -593,12 +613,14 @@
     }
   },
   "54581-rebirth.mod": {
+    "name": "BUILDINGS_SWAP",
     "stringId": "54581-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
     "references": {}
   },
   "55118-rebirth.mod": {
+    "name": "limit to simple harpoons",
     "stringId": "55118-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -655,6 +677,7 @@
     }
   },
   "56102-rebirth.mod": {
+    "name": "broken small barrel 50/50",
     "stringId": "56102-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -681,6 +704,7 @@
     }
   },
   "56103-rebirth.mod": {
+    "name": "broken basket 50/50",
     "stringId": "56103-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -707,6 +731,7 @@
     }
   },
   "56104-rebirth.mod": {
+    "name": "broken barrel 50/50",
     "stringId": "56104-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -733,6 +758,7 @@
     }
   },
   "56105-rebirth.mod": {
+    "name": "broken general storage chest ",
     "stringId": "56105-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -759,6 +785,7 @@
     }
   },
   "56134-rebirth.mod": {
+    "name": "banner traders guild",
     "stringId": "56134-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -795,6 +822,7 @@
     }
   },
   "56162-rebirth.mod": {
+    "name": "bar sign 01",
     "stringId": "56162-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -826,6 +854,7 @@
     }
   },
   "62797-rebirth.mod": {
+    "name": "no beds / ruin beds",
     "stringId": "62797-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -840,6 +869,7 @@
     }
   },
   "62798-rebirth.mod": {
+    "name": "no pillows",
     "stringId": "62798-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -854,6 +884,7 @@
     }
   },
   "62800-rebirth.mod": {
+    "name": "broken fans",
     "stringId": "62800-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -880,6 +911,7 @@
     }
   },
   "64490-rebirth.mod": {
+    "name": "prisoner poles only",
     "stringId": "64490-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -906,6 +938,7 @@
     }
   },
   "64654-rebirth.mod": {
+    "name": "no robot beds",
     "stringId": "64654-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -927,6 +960,7 @@
     }
   },
   "96498-__February 18.mod": {
+    "name": "no turrets",
     "stringId": "96498-__February 18.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -1006,6 +1040,7 @@
     }
   },
   "97846-__March 18.mod": {
+    "name": "invisible fire",
     "stringId": "97846-__March 18.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -1027,6 +1062,7 @@
     }
   },
   "97896-rebirth.mod": {
+    "name": "fish beds",
     "stringId": "97896-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -1048,6 +1084,7 @@
     }
   },
   "97897-rebirth.mod": {
+    "name": "fish campfire",
     "stringId": "97897-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -1074,6 +1111,7 @@
     }
   },
   "97946-__March 18.mod": {
+    "name": "fish beds",
     "stringId": "97946-__March 18.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -1095,6 +1133,7 @@
     }
   },
   "1533505-rebirth.mod": {
+    "name": "crossbow turrets only MkI",
     "stringId": "1533505-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},
@@ -1146,6 +1185,7 @@
     }
   },
   "1535062-rebirth.mod": {
+    "name": "broken emperor statue",
     "stringId": "1535062-rebirth.mod",
     "type": "BuildingsSwap",
     "values": {},

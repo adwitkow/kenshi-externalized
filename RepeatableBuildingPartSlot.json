@@ -1,5 +1,6 @@
 {
   "371-gamedata.base": {
+    "name": "hatches",
     "stringId": "371-gamedata.base",
     "type": "RepeatableBuildingPartSlot",
     "values": {},
@@ -14,12 +15,14 @@
     }
   },
   "314-gamedata.base": {
+    "name": "house-window",
     "stringId": "314-gamedata.base",
     "type": "RepeatableBuildingPartSlot",
     "values": {},
     "references": {}
   },
   "369-gamedata.base": {
+    "name": "small-doors",
     "stringId": "369-gamedata.base",
     "type": "RepeatableBuildingPartSlot",
     "values": {},
@@ -34,6 +37,7 @@
     }
   },
   "330-gamedata.base": {
+    "name": "hangar-base",
     "stringId": "330-gamedata.base",
     "type": "RepeatableBuildingPartSlot",
     "values": {},

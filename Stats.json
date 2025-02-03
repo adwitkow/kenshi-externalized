@@ -1,5 +1,6 @@
 {
   "1773-gamedata.base": {
+    "name": "hire medic",
     "stringId": "1773-gamedata.base",
     "type": "Stats",
     "values": {
@@ -40,6 +41,7 @@
     "references": {}
   },
   "1989-gamedata.base": {
+    "name": "retired soldier",
     "stringId": "1989-gamedata.base",
     "type": "Stats",
     "values": {
@@ -80,6 +82,7 @@
     "references": {}
   },
   "458-gamedata.base": {
+    "name": "maxxed",
     "stringId": "458-gamedata.base",
     "type": "Stats",
     "values": {
@@ -120,6 +123,7 @@
     "references": {}
   },
   "3945-gamedata.base": {
+    "name": "beak thing 60 25",
     "stringId": "3945-gamedata.base",
     "type": "Stats",
     "values": {
@@ -160,6 +164,7 @@
     "references": {}
   },
   "461-gamedata.base": {
+    "name": "60",
     "stringId": "461-gamedata.base",
     "type": "Stats",
     "values": {
@@ -200,6 +205,7 @@
     "references": {}
   },
   "1724-gamedata.base": {
+    "name": "sabre20",
     "stringId": "1724-gamedata.base",
     "type": "Stats",
     "values": {
@@ -240,6 +246,7 @@
     "references": {}
   },
   "2831-gamedata.base": {
+    "name": "farmer stats",
     "stringId": "2831-gamedata.base",
     "type": "Stats",
     "values": {
@@ -280,6 +287,7 @@
     "references": {}
   },
   "107-gamedata.quack": {
+    "name": "20",
     "stringId": "107-gamedata.quack",
     "type": "Stats",
     "values": {
@@ -320,6 +328,7 @@
     "references": {}
   },
   "1396-gamedata.base": {
+    "name": "5",
     "stringId": "1396-gamedata.base",
     "type": "Stats",
     "values": {
@@ -360,6 +369,7 @@
     "references": {}
   },
   "1390-gamedata.base": {
+    "name": "15",
     "stringId": "1390-gamedata.base",
     "type": "Stats",
     "values": {
@@ -400,6 +410,7 @@
     "references": {}
   },
   "468-gamedata.base": {
+    "name": "50",
     "stringId": "468-gamedata.base",
     "type": "Stats",
     "values": {
@@ -440,6 +451,7 @@
     "references": {}
   },
   "467-gamedata.base": {
+    "name": "30",
     "stringId": "467-gamedata.base",
     "type": "Stats",
     "values": {
@@ -480,6 +492,7 @@
     "references": {}
   },
   "14470-rebirth.mod": {
+    "name": "Doctor",
     "stringId": "14470-rebirth.mod",
     "type": "Stats",
     "values": {
@@ -520,6 +533,7 @@
     "references": {}
   },
   "14493-rebirth.mod": {
+    "name": "theif",
     "stringId": "14493-rebirth.mod",
     "type": "Stats",
     "values": {
@@ -560,6 +574,7 @@
     "references": {}
   },
   "108-gamedata.quack": {
+    "name": "40",
     "stringId": "108-gamedata.quack",
     "type": "Stats",
     "values": {
@@ -600,6 +615,7 @@
     "references": {}
   },
   "2734-gamedata.base": {
+    "name": "strong60 25",
     "stringId": "2734-gamedata.base",
     "type": "Stats",
     "values": {
@@ -640,6 +656,7 @@
     "references": {}
   },
   "146-gamedata.quack": {
+    "name": "New character stats",
     "stringId": "146-gamedata.quack",
     "type": "Stats",
     "values": {
@@ -680,6 +697,7 @@
     "references": {}
   },
   "1774-gamedata.base": {
+    "name": "hire engineer",
     "stringId": "1774-gamedata.base",
     "type": "Stats",
     "values": {
@@ -720,6 +738,7 @@
     "references": {}
   },
   "1298-gamedata.base": {
+    "name": "Doctor",
     "stringId": "1298-gamedata.base",
     "type": "Stats",
     "values": {
@@ -760,6 +779,7 @@
     "references": {}
   },
   "106-gamedata.quack": {
+    "name": "1",
     "stringId": "106-gamedata.quack",
     "type": "Stats",
     "values": {
@@ -800,6 +820,7 @@
     "references": {}
   },
   "3973-gamedata.base": {
+    "name": "leviathan",
     "stringId": "3973-gamedata.base",
     "type": "Stats",
     "values": {
@@ -840,6 +861,7 @@
     "references": {}
   },
   "218-gamedata.base": {
+    "name": "10",
     "stringId": "218-gamedata.base",
     "type": "Stats",
     "values": {
@@ -880,6 +902,7 @@
     "references": {}
   },
   "1317-gamedata.base": {
+    "name": "80",
     "stringId": "1317-gamedata.base",
     "type": "Stats",
     "values": {
@@ -920,6 +943,7 @@
     "references": {}
   },
   "5215-gamedata.base": {
+    "name": "beginner thief start",
     "stringId": "5215-gamedata.base",
     "type": "Stats",
     "values": {
@@ -960,6 +984,7 @@
     "references": {}
   },
   "46064-Newwworld.mod": {
+    "name": "10000 experience",
     "stringId": "46064-Newwworld.mod",
     "type": "Stats",
     "values": {
@@ -1000,6 +1025,7 @@
     "references": {}
   },
   "51009-Newwworld.mod": {
+    "name": "Fast but mostly average",
     "stringId": "51009-Newwworld.mod",
     "type": "Stats",
     "values": {
@@ -1040,6 +1066,7 @@
     "references": {}
   },
   "50497-Dialogue.mod": {
+    "name": "farmer",
     "stringId": "50497-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1085,6 +1112,7 @@
     "references": {}
   },
   "7994-Dialogue.mod": {
+    "name": "Uber Ninja",
     "stringId": "7994-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1125,6 +1153,7 @@
     "references": {}
   },
   "19652-Dialogue.mod": {
+    "name": "10 dextrous",
     "stringId": "19652-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1179,6 +1208,7 @@
     "references": {}
   },
   "19960-Dialogue.mod": {
+    "name": "All rounder",
     "stringId": "19960-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1233,6 +1263,7 @@
     "references": {}
   },
   "50281-Dialogue.mod": {
+    "name": "Runner",
     "stringId": "50281-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1287,6 +1318,7 @@
     "references": {}
   },
   "8736-Dialogue.mod": {
+    "name": "intermediate thief",
     "stringId": "8736-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1344,6 +1376,7 @@
     "references": {}
   },
   "19538-Dialogue.mod": {
+    "name": "shek low",
     "stringId": "19538-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1398,6 +1431,7 @@
     "references": {}
   },
   "17227-Dialogue.mod": {
+    "name": "Lockpicking for testing",
     "stringId": "17227-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1438,6 +1472,7 @@
     "references": {}
   },
   "19905-Dialogue.mod": {
+    "name": "hire medic tough",
     "stringId": "19905-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1485,6 +1520,7 @@
     "references": {}
   },
   "19577-Dialogue.mod": {
+    "name": "Shek fast",
     "stringId": "19577-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1539,6 +1575,7 @@
     "references": {}
   },
   "49183-Dialogue.mod": {
+    "name": "Miu",
     "stringId": "49183-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1579,6 +1616,7 @@
     "references": {}
   },
   "52600-Dialogue.mod": {
+    "name": "hire cook",
     "stringId": "52600-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1626,6 +1664,7 @@
     "references": {}
   },
   "53391-Dialogue.mod": {
+    "name": "hire farmer",
     "stringId": "53391-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1673,6 +1712,7 @@
     "references": {}
   },
   "53483-Dialogue.mod": {
+    "name": "hire gunner",
     "stringId": "53483-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1720,6 +1760,7 @@
     "references": {}
   },
   "53484-Dialogue.mod": {
+    "name": "Sharpshooter",
     "stringId": "53484-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1767,6 +1808,7 @@
     "references": {}
   },
   "53599-Dialogue.mod": {
+    "name": "gunner advanced",
     "stringId": "53599-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1814,6 +1856,7 @@
     "references": {}
   },
   "55930-Dialogue.mod": {
+    "name": "Harmothoe",
     "stringId": "55930-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1854,6 +1897,7 @@
     "references": {}
   },
   "59266-Dialogue.mod": {
+    "name": "Yamdu",
     "stringId": "59266-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1894,6 +1938,7 @@
     "references": {}
   },
   "62404-Dialogue.mod": {
+    "name": "Sword weak",
     "stringId": "62404-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1934,6 +1979,7 @@
     "references": {}
   },
   "63355-Dialogue.mod": {
+    "name": "Ludin",
     "stringId": "63355-Dialogue.mod",
     "type": "Stats",
     "values": {
@@ -1974,6 +2020,7 @@
     "references": {}
   },
   "49575-arg.mod": {
+    "name": "ninja 40",
     "stringId": "49575-arg.mod",
     "type": "Stats",
     "values": {
@@ -2014,6 +2061,7 @@
     "references": {}
   },
   "49769-rebirth.mod": {
+    "name": "ninja 60",
     "stringId": "49769-rebirth.mod",
     "type": "Stats",
     "values": {
@@ -2054,6 +2102,7 @@
     "references": {}
   },
   "51637-rebirth.mod": {
+    "name": "swamp ninja 17",
     "stringId": "51637-rebirth.mod",
     "type": "Stats",
     "values": {
@@ -2094,6 +2143,7 @@
     "references": {}
   },
   "95997-rebirth.mod": {
+    "name": "tinfist",
     "stringId": "95997-rebirth.mod",
     "type": "Stats",
     "values": {
@@ -2134,6 +2184,7 @@
     "references": {}
   },
   "1534205-__Fixes.mod": {
+    "name": "Bo",
     "stringId": "1534205-__Fixes.mod",
     "type": "Stats",
     "values": {

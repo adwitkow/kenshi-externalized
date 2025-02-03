@@ -1,5 +1,6 @@
 {
   "2951-gamedata.base": {
+    "name": "UNIQUE bandit test",
     "stringId": "2951-gamedata.base",
     "type": "UniqueSquadTemplate",
     "values": {
@@ -59,6 +60,7 @@
     }
   },
   "2954-gamedata.base": {
+    "name": "General Epson Army",
     "stringId": "2954-gamedata.base",
     "type": "UniqueSquadTemplate",
     "values": {

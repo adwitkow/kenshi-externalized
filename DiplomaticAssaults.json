@@ -1,5 +1,6 @@
 {
   "2457-gamedata.base": {
+    "name": "Dust bandits",
     "stringId": "2457-gamedata.base",
     "type": "DiplomaticAssaults",
     "values": {},
@@ -29,6 +30,7 @@
     }
   },
   "2361-gamedata.base": {
+    "name": "UC",
     "stringId": "2361-gamedata.base",
     "type": "DiplomaticAssaults",
     "values": {},
@@ -48,6 +50,7 @@
     }
   },
   "2955-gamedata.base": {
+    "name": "Army",
     "stringId": "2955-gamedata.base",
     "type": "DiplomaticAssaults",
     "values": {},
@@ -62,6 +65,7 @@
     }
   },
   "2610-gamedata.base": {
+    "name": "Cannibal raids",
     "stringId": "2610-gamedata.base",
     "type": "DiplomaticAssaults",
     "values": {},
@@ -76,6 +80,7 @@
     }
   },
   "2585-gamedata.base": {
+    "name": "Starving bandits",
     "stringId": "2585-gamedata.base",
     "type": "DiplomaticAssaults",
     "values": {},

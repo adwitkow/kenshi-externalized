@@ -1,5 +1,6 @@
 {
   "95378-sfx.mod": {
+    "name": "Attack",
     "stringId": "95378-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -14,6 +15,7 @@
     "references": {}
   },
   "95379-sfx.mod": {
+    "name": "Attack 2",
     "stringId": "95379-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -28,6 +30,7 @@
     "references": {}
   },
   "95376-sfx.mod": {
+    "name": "Footstep R",
     "stringId": "95376-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -42,6 +45,7 @@
     "references": {}
   },
   "95377-sfx.mod": {
+    "name": "Footstep L",
     "stringId": "95377-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -56,6 +60,7 @@
     "references": {}
   },
   "95381-sfx.mod": {
+    "name": "Gorillo Attack 1",
     "stringId": "95381-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -70,6 +75,7 @@
     "references": {}
   },
   "95382-sfx.mod": {
+    "name": "Gorillo Attack 2",
     "stringId": "95382-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -84,6 +90,7 @@
     "references": {}
   },
   "95380-sfx.mod": {
+    "name": "Gorillo Bite",
     "stringId": "95380-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -98,6 +105,7 @@
     "references": {}
   },
   "95375-sfx.mod": {
+    "name": "Impact Copper",
     "stringId": "95375-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -112,6 +120,7 @@
     "references": {}
   },
   "95386-sfx.mod": {
+    "name": "Impact Farm",
     "stringId": "95386-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -126,6 +135,7 @@
     "references": {}
   },
   "95383-sfx.mod": {
+    "name": "Impact Dummy",
     "stringId": "95383-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -140,6 +150,7 @@
     "references": {}
   },
   "95374-sfx.mod": {
+    "name": "Impact Ore",
     "stringId": "95374-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -154,6 +165,7 @@
     "references": {}
   },
   "95373-sfx.mod": {
+    "name": "Impact Stone",
     "stringId": "95373-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -168,6 +180,7 @@
     "references": {}
   },
   "95372-sfx.mod": {
+    "name": "Pickaxe",
     "stringId": "95372-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -182,6 +195,7 @@
     "references": {}
   },
   "95388-sfx.mod": {
+    "name": "Impact Plate",
     "stringId": "95388-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -196,6 +210,7 @@
     "references": {}
   },
   "95389-sfx.mod": {
+    "name": "Swim",
     "stringId": "95389-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -210,6 +225,7 @@
     "references": {}
   },
   "95394-sfx.mod": {
+    "name": "Impact Farm",
     "stringId": "95394-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -224,6 +240,7 @@
     "references": {}
   },
   "95396-sfx.mod": {
+    "name": "Swim1",
     "stringId": "95396-sfx.mod",
     "type": "AnimationEvent",
     "values": {
@@ -238,6 +255,7 @@
     "references": {}
   },
   "95767-sfx.mod": {
+    "name": "Reload Crossbow",
     "stringId": "95767-sfx.mod",
     "type": "AnimationEvent",
     "values": {

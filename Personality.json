@@ -1,5 +1,6 @@
 {
   "3308-gamedata.base": {
+    "name": "bandit types",
     "stringId": "3308-gamedata.base",
     "type": "Personality",
     "values": {
@@ -19,6 +20,7 @@
     "references": {}
   },
   "blank personality": {
+    "name": "blank personality",
     "stringId": "blank personality",
     "type": "Personality",
     "values": {
@@ -31,6 +33,7 @@
     "references": {}
   },
   "12499-Dialogue (10) (2).mod": {
+    "name": "PERSONALITY",
     "stringId": "12499-Dialogue (10) (2).mod",
     "type": "Personality",
     "values": {
@@ -42,6 +45,7 @@
     "references": {}
   },
   "19508-Dialogue.mod": {
+    "name": "Traitorous",
     "stringId": "19508-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -53,6 +57,7 @@
     "references": {}
   },
   "13273-Escapes.mod": {
+    "name": "Honorable",
     "stringId": "13273-Escapes.mod",
     "type": "Personality",
     "values": {
@@ -67,6 +72,7 @@
     "references": {}
   },
   "51877-Dialogue.mod": {
+    "name": "Empire guard",
     "stringId": "51877-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -80,6 +86,7 @@
     "references": {}
   },
   "17196-Dialogue.mod": {
+    "name": "Random",
     "stringId": "17196-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -97,6 +104,7 @@
     "references": {}
   },
   "17698-Dialogue.mod": {
+    "name": "Fearful",
     "stringId": "17698-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -108,6 +116,7 @@
     "references": {}
   },
   "48770-Dialogue.mod": {
+    "name": "Dumb",
     "stringId": "48770-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -119,6 +128,7 @@
     "references": {}
   },
   "47936-Dialogue.mod": {
+    "name": "Flotsam recruit",
     "stringId": "47936-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -136,6 +146,7 @@
     "references": {}
   },
   "14995-Dialogue.mod": {
+    "name": "Shek town guard",
     "stringId": "14995-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -150,6 +161,7 @@
     "references": {}
   },
   "41178-Dialogue.mod": {
+    "name": "Hire medic",
     "stringId": "41178-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -161,6 +173,7 @@
     "references": {}
   },
   "16237-Dialogue.mod": {
+    "name": "Crazy",
     "stringId": "16237-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -172,6 +185,7 @@
     "references": {}
   },
   "18098-Dialogue.mod": {
+    "name": "Ronin Rebel/Brave",
     "stringId": "18098-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -186,6 +200,7 @@
     "references": {}
   },
   "16727-Dialogue.mod": {
+    "name": "Not honourable",
     "stringId": "16727-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -202,6 +217,7 @@
     "references": {}
   },
   "18242-Dialogue.mod": {
+    "name": "Traitorous brave crazy",
     "stringId": "18242-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -215,6 +231,7 @@
     "references": {}
   },
   "18401-Dialogue.mod": {
+    "name": "Shek Warrior Standard",
     "stringId": "18401-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -231,6 +248,7 @@
     "references": {}
   },
   "19578-Dialogue.mod": {
+    "name": "Brave",
     "stringId": "19578-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -242,6 +260,7 @@
     "references": {}
   },
   "18402-Dialogue.mod": {
+    "name": "Shek Working Class Standard",
     "stringId": "18402-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -253,6 +272,7 @@
     "references": {}
   },
   "18419-Dialogue.mod": {
+    "name": "Not fearful",
     "stringId": "18419-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -270,6 +290,7 @@
     "references": {}
   },
   "16728-Dialogue.mod": {
+    "name": "Smart Doc Type",
     "stringId": "16728-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -284,6 +305,7 @@
     "references": {}
   },
   "53390-Dialogue.mod": {
+    "name": "Not smart",
     "stringId": "53390-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -301,6 +323,7 @@
     "references": {}
   },
   "54467-Dialogue.mod": {
+    "name": "Escaped slave",
     "stringId": "54467-Dialogue.mod",
     "type": "Personality",
     "values": {
@@ -313,6 +336,7 @@
     "references": {}
   },
   "50342-rebirth.mod": {
+    "name": "deadcat",
     "stringId": "50342-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -325,6 +349,7 @@
     "references": {}
   },
   "50965-rebirth.mod": {
+    "name": "bumpkins",
     "stringId": "50965-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -338,6 +363,7 @@
     "references": {}
   },
   "51358-rebirth.mod": {
+    "name": "brave bad guys",
     "stringId": "51358-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -351,6 +377,7 @@
     "references": {}
   },
   "52154-rebirth.mod": {
+    "name": "gate guard",
     "stringId": "52154-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -363,6 +390,7 @@
     "references": {}
   },
   "53571-rebirth.mod": {
+    "name": "fearful traitorous honor",
     "stringId": "53571-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -376,6 +404,7 @@
     "references": {}
   },
   "53818-rebirth.mod": {
+    "name": "gate guard",
     "stringId": "53818-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -390,6 +419,7 @@
     "references": {}
   },
   "57391-rebirth.mod": {
+    "name": "dumb honorable brave",
     "stringId": "57391-rebirth.mod",
     "type": "Personality",
     "values": {
@@ -403,6 +433,7 @@
     "references": {}
   },
   "58075-Seto.mod": {
+    "name": "Ninja Neutral - brave, hon, crazy, trait",
     "stringId": "58075-Seto.mod",
     "type": "Personality",
     "values": {

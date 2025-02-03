@@ -1,5 +1,6 @@
 {
   "2871-gamedata.base": {
+    "name": "Turret double",
     "stringId": "2871-gamedata.base",
     "type": "GunData",
     "values": {
@@ -28,6 +29,7 @@
     "references": {}
   },
   "2886-gamedata.base": {
+    "name": "crossbow 00 norm",
     "stringId": "2886-gamedata.base",
     "type": "GunData",
     "values": {
@@ -56,6 +58,7 @@
     "references": {}
   },
   "2858-gamedata.base": {
+    "name": "Turret 00",
     "stringId": "2858-gamedata.base",
     "type": "GunData",
     "values": {
@@ -84,6 +87,7 @@
     "references": {}
   },
   "2875-gamedata.base": {
+    "name": "Turret 02 six",
     "stringId": "2875-gamedata.base",
     "type": "GunData",
     "values": {
@@ -112,6 +116,7 @@
     "references": {}
   },
   "2883-gamedata.base": {
+    "name": "crossbow 02 - advanced",
     "stringId": "2883-gamedata.base",
     "type": "GunData",
     "values": {
@@ -140,6 +145,7 @@
     "references": {}
   },
   "65267-rebirth.mod": {
+    "name": "GUN_DATA",
     "stringId": "65267-rebirth.mod",
     "type": "GunData",
     "values": {

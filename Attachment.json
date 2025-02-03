@@ -1,5 +1,6 @@
 {
   "2627-clothes_v2.mod": {
+    "name": "Haircut10-oldman",
     "stringId": "2627-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -36,6 +37,7 @@
     "references": {}
   },
   "5368-hair_fix_otto.mod": {
+    "name": "Bone_HairCut01-hawk",
     "stringId": "5368-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -72,6 +74,7 @@
     "references": {}
   },
   "2624-clothes_v2.mod": {
+    "name": "Haircut06- ponydreds",
     "stringId": "2624-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -108,6 +111,7 @@
     "references": {}
   },
   "5390-hair_fix_otto.mod": {
+    "name": "Bone_Haircut23-short",
     "stringId": "5390-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -144,6 +148,7 @@
     "references": {}
   },
   "2709-clothes_v2.mod": {
+    "name": "Beard13",
     "stringId": "2709-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -180,6 +185,7 @@
     "references": {}
   },
   "5391-hair_fix_otto.mod": {
+    "name": "Shave",
     "stringId": "5391-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -216,6 +222,7 @@
     "references": {}
   },
   "2652-clothes_v2.mod": {
+    "name": "Haircut15- roughpony2",
     "stringId": "2652-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -252,6 +259,7 @@
     "references": {}
   },
   "2625-clothes_v2.mod": {
+    "name": "Haircut07-millet",
     "stringId": "2625-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -288,6 +296,7 @@
     "references": {}
   },
   "2626-clothes_v2.mod": {
+    "name": "Haircut09-merc",
     "stringId": "2626-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -324,6 +333,7 @@
     "references": {}
   },
   "5373-hair_fix_otto.mod": {
+    "name": "Bone_Haircut06- ponydreds",
     "stringId": "5373-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -360,6 +370,7 @@
     "references": {}
   },
   "3983-gamedata.base": {
+    "name": "dog hair",
     "stringId": "3983-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -396,6 +407,7 @@
     "references": {}
   },
   "2610-clothes_v2.mod": {
+    "name": "Beard03",
     "stringId": "2610-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -432,6 +444,7 @@
     "references": {}
   },
   "2653-clothes_v2.mod": {
+    "name": "Haircut14-rough pony",
     "stringId": "2653-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -468,6 +481,7 @@
     "references": {}
   },
   "2614-clothes_v2.mod": {
+    "name": "Beard07",
     "stringId": "2614-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -504,6 +518,7 @@
     "references": {}
   },
   "5386-hair_fix_otto.mod": {
+    "name": "Bone_Haircut19-elfish",
     "stringId": "5386-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -540,6 +555,7 @@
     "references": {}
   },
   "2919-gamedata.base": {
+    "name": "baldish",
     "stringId": "2919-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -576,6 +592,7 @@
     "references": {}
   },
   "2649-clothes_v2.mod": {
+    "name": "Haircut21-pony",
     "stringId": "2649-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -612,6 +629,7 @@
     "references": {}
   },
   "2629-clothes_v2.mod": {
+    "name": "Haircut04-foxshort",
     "stringId": "2629-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -648,6 +666,7 @@
     "references": {}
   },
   "2622-clothes_v2.mod": {
+    "name": "Haircut03-specialbrew",
     "stringId": "2622-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -684,6 +703,7 @@
     "references": {}
   },
   "2609-clothes_v2.mod": {
+    "name": "Beard01",
     "stringId": "2609-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -720,6 +740,7 @@
     "references": {}
   },
   "5376-hair_fix_otto.mod": {
+    "name": "Bone_Haircut09-merc",
     "stringId": "5376-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -756,6 +777,7 @@
     "references": {}
   },
   "5385-hair_fix_otto.mod": {
+    "name": "Bone_Haircut18",
     "stringId": "5385-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -792,6 +814,7 @@
     "references": {}
   },
   "5392-hair_fix_otto.mod": {
+    "name": "Rough Shave ",
     "stringId": "5392-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -828,6 +851,7 @@
     "references": {}
   },
   "2650-clothes_v2.mod": {
+    "name": "Haircut22- dreds",
     "stringId": "2650-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -864,6 +888,7 @@
     "references": {}
   },
   "2172-gamedata.base": {
+    "name": "Bald",
     "stringId": "2172-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -900,6 +925,7 @@
     "references": {}
   },
   "5394-hair_fix_otto.mod": {
+    "name": "Tribal Shave",
     "stringId": "5394-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -936,6 +962,7 @@
     "references": {}
   },
   "2612-clothes_v2.mod": {
+    "name": "Beard05",
     "stringId": "2612-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -972,6 +999,7 @@
     "references": {}
   },
   "2628-clothes_v2.mod": {
+    "name": "Haircut08-hobo",
     "stringId": "2628-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1008,6 +1036,7 @@
     "references": {}
   },
   "2623-clothes_v2.mod": {
+    "name": "Haircut05-70sAnime",
     "stringId": "2623-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1044,6 +1073,7 @@
     "references": {}
   },
   "2616-clothes_v2.mod": {
+    "name": "Beard09",
     "stringId": "2616-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1080,6 +1110,7 @@
     "references": {}
   },
   "2619-clothes_v2.mod": {
+    "name": "Beard12",
     "stringId": "2619-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1116,6 +1147,7 @@
     "references": {}
   },
   "2621-clothes_v2.mod": {
+    "name": "Haircut02-flat",
     "stringId": "2621-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1152,6 +1184,7 @@
     "references": {}
   },
   "2613-clothes_v2.mod": {
+    "name": "Beard06",
     "stringId": "2613-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1188,6 +1221,7 @@
     "references": {}
   },
   "5369-hair_fix_otto.mod": {
+    "name": "Bone_Haircut02-flat",
     "stringId": "5369-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1224,6 +1258,7 @@
     "references": {}
   },
   "3996-gamedata.base": {
+    "name": "goat hair",
     "stringId": "3996-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -1260,6 +1295,7 @@
     "references": {}
   },
   "2722-gamedata.base": {
+    "name": "No beard",
     "stringId": "2722-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -1296,6 +1332,7 @@
     "references": {}
   },
   "5377-hair_fix_otto.mod": {
+    "name": "Bone_Haircut10-oldman",
     "stringId": "5377-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1332,6 +1369,7 @@
     "references": {}
   },
   "2920-gamedata.base": {
+    "name": "Beard05-copy",
     "stringId": "2920-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -1368,6 +1406,7 @@
     "references": {}
   },
   "5370-hair_fix_otto.mod": {
+    "name": "Bone_Haircut03-specialbrew",
     "stringId": "5370-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1404,6 +1443,7 @@
     "references": {}
   },
   "2655-clothes_v2.mod": {
+    "name": "Haircut12-anime3",
     "stringId": "2655-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1440,6 +1480,7 @@
     "references": {}
   },
   "2615-clothes_v2.mod": {
+    "name": "Beard08",
     "stringId": "2615-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1476,6 +1517,7 @@
     "references": {}
   },
   "5384-hair_fix_otto.mod": {
+    "name": "Bone_Haircut17-longandcrappy",
     "stringId": "5384-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1512,6 +1554,7 @@
     "references": {}
   },
   "2617-clothes_v2.mod": {
+    "name": "Beard10",
     "stringId": "2617-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1548,6 +1591,7 @@
     "references": {}
   },
   "2651-clothes_v2.mod": {
+    "name": "Haircut23-short",
     "stringId": "2651-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1584,6 +1628,7 @@
     "references": {}
   },
   "2618-clothes_v2.mod": {
+    "name": "Beard11",
     "stringId": "2618-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1620,6 +1665,7 @@
     "references": {}
   },
   "2646-clothes_v2.mod": {
+    "name": "Haircut18",
     "stringId": "2646-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1656,6 +1702,7 @@
     "references": {}
   },
   "5389-hair_fix_otto.mod": {
+    "name": "Bone_Haircut22- dreds",
     "stringId": "5389-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1692,6 +1739,7 @@
     "references": {}
   },
   "5374-hair_fix_otto.mod": {
+    "name": "Bone_Haircut07-millet",
     "stringId": "5374-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1728,6 +1776,7 @@
     "references": {}
   },
   "2921-gamedata.base": {
+    "name": "Beard05-copy-copy",
     "stringId": "2921-gamedata.base",
     "type": "Attachment",
     "values": {
@@ -1764,6 +1813,7 @@
     "references": {}
   },
   "2620-clothes_v2.mod": {
+    "name": "Haircut01-hawk",
     "stringId": "2620-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1800,6 +1850,7 @@
     "references": {}
   },
   "5393-hair_fix_otto.mod": {
+    "name": "Cool Shave",
     "stringId": "5393-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1836,6 +1887,7 @@
     "references": {}
   },
   "5371-hair_fix_otto.mod": {
+    "name": "Bone_Haircut04-foxshort",
     "stringId": "5371-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -1872,6 +1924,7 @@
     "references": {}
   },
   "2643-clothes_v2.mod": {
+    "name": "Haircut11-slimy",
     "stringId": "2643-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1908,6 +1961,7 @@
     "references": {}
   },
   "2644-clothes_v2.mod": {
+    "name": "Haircut16-anime1",
     "stringId": "2644-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1944,6 +1998,7 @@
     "references": {}
   },
   "2645-clothes_v2.mod": {
+    "name": "Haircut17-longandcrappy",
     "stringId": "2645-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -1980,6 +2035,7 @@
     "references": {}
   },
   "2608-clothes_v2.mod": {
+    "name": "Beard02",
     "stringId": "2608-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -2016,6 +2072,7 @@
     "references": {}
   },
   "2611-clothes_v2.mod": {
+    "name": "Beard04",
     "stringId": "2611-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -2052,6 +2109,7 @@
     "references": {}
   },
   "2648-clothes_v2.mod": {
+    "name": "Haircut20-mop",
     "stringId": "2648-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -2088,6 +2146,7 @@
     "references": {}
   },
   "2654-clothes_v2.mod": {
+    "name": "Haircut13-sidepony (male mesh broken)",
     "stringId": "2654-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -2124,6 +2183,7 @@
     "references": {}
   },
   "2647-clothes_v2.mod": {
+    "name": "Haircut19-elfish",
     "stringId": "2647-clothes_v2.mod",
     "type": "Attachment",
     "values": {
@@ -2160,6 +2220,7 @@
     "references": {}
   },
   "5372-hair_fix_otto.mod": {
+    "name": "Bone_Haircut05-70sAnime",
     "stringId": "5372-hair_fix_otto.mod",
     "type": "Attachment",
     "values": {
@@ -2196,6 +2257,7 @@
     "references": {}
   },
   "97569-Newwworld.mod": {
+    "name": "Land Bat",
     "stringId": "97569-Newwworld.mod",
     "type": "Attachment",
     "values": {
@@ -2232,6 +2294,7 @@
     "references": {}
   },
   "43894-rebirth.mod": {
+    "name": "insect hair",
     "stringId": "43894-rebirth.mod",
     "type": "Attachment",
     "values": {
@@ -2268,6 +2331,7 @@
     "references": {}
   },
   "43903-rebirth.mod": {
+    "name": "animal-gorillo",
     "stringId": "43903-rebirth.mod",
     "type": "Attachment",
     "values": {
@@ -2304,6 +2368,7 @@
     "references": {}
   },
   "59454-Ark Haircuts.mod": {
+    "name": "ark_beard01",
     "stringId": "59454-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2346,6 +2411,7 @@
     "references": {}
   },
   "59456-Ark Haircuts.mod": {
+    "name": "ark_beard01b",
     "stringId": "59456-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2388,6 +2454,7 @@
     "references": {}
   },
   "59444-Ark Haircuts.mod": {
+    "name": "ark_beard02",
     "stringId": "59444-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2430,6 +2497,7 @@
     "references": {}
   },
   "59457-Ark Haircuts.mod": {
+    "name": "ark_beard02b",
     "stringId": "59457-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2472,6 +2540,7 @@
     "references": {}
   },
   "59445-Ark Haircuts.mod": {
+    "name": "ark_beard03",
     "stringId": "59445-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2514,6 +2583,7 @@
     "references": {}
   },
   "59458-Ark Haircuts.mod": {
+    "name": "ark_beard03b",
     "stringId": "59458-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2556,6 +2626,7 @@
     "references": {}
   },
   "59433-Ark Haircuts.mod": {
+    "name": "ark_beard04",
     "stringId": "59433-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2598,6 +2669,7 @@
     "references": {}
   },
   "59459-Ark Haircuts.mod": {
+    "name": "ark_beard04b",
     "stringId": "59459-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2640,6 +2712,7 @@
     "references": {}
   },
   "59446-Ark Haircuts.mod": {
+    "name": "ark_beard05",
     "stringId": "59446-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2682,6 +2755,7 @@
     "references": {}
   },
   "59455-Ark Haircuts.mod": {
+    "name": "ark_beard05b",
     "stringId": "59455-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2724,6 +2798,7 @@
     "references": {}
   },
   "59447-Ark Haircuts.mod": {
+    "name": "ark_beard06",
     "stringId": "59447-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2766,6 +2841,7 @@
     "references": {}
   },
   "59460-Ark Haircuts.mod": {
+    "name": "ark_beard06b",
     "stringId": "59460-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2808,6 +2884,7 @@
     "references": {}
   },
   "59448-Ark Haircuts.mod": {
+    "name": "ark_beard07",
     "stringId": "59448-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2850,6 +2927,7 @@
     "references": {}
   },
   "59461-Ark Haircuts.mod": {
+    "name": "ark_beard07b",
     "stringId": "59461-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2892,6 +2970,7 @@
     "references": {}
   },
   "59449-Ark Haircuts.mod": {
+    "name": "ark_beard08",
     "stringId": "59449-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2934,6 +3013,7 @@
     "references": {}
   },
   "59462-Ark Haircuts.mod": {
+    "name": "ark_beard08b",
     "stringId": "59462-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -2976,6 +3056,7 @@
     "references": {}
   },
   "59450-Ark Haircuts.mod": {
+    "name": "ark_beard09",
     "stringId": "59450-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3018,6 +3099,7 @@
     "references": {}
   },
   "59463-Ark Haircuts.mod": {
+    "name": "ark_beard10",
     "stringId": "59463-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3060,6 +3142,7 @@
     "references": {}
   },
   "58697-Ark Haircuts.mod": {
+    "name": "ark_hair01",
     "stringId": "58697-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3102,6 +3185,7 @@
     "references": {}
   },
   "59425-Ark Haircuts.mod": {
+    "name": "ark_hair02",
     "stringId": "59425-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3144,6 +3228,7 @@
     "references": {}
   },
   "59426-Ark Haircuts.mod": {
+    "name": "ark_hair03",
     "stringId": "59426-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3186,6 +3271,7 @@
     "references": {}
   },
   "59427-Ark Haircuts.mod": {
+    "name": "ark_hair04",
     "stringId": "59427-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3228,6 +3314,7 @@
     "references": {}
   },
   "59429-Ark Haircuts.mod": {
+    "name": "ark_hair04b",
     "stringId": "59429-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3270,6 +3357,7 @@
     "references": {}
   },
   "59435-Ark Haircuts.mod": {
+    "name": "ark_haircut01a",
     "stringId": "59435-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3312,6 +3400,7 @@
     "references": {}
   },
   "59451-Ark Haircuts.mod": {
+    "name": "ark_haircut01b",
     "stringId": "59451-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3354,6 +3443,7 @@
     "references": {}
   },
   "59436-Ark Haircuts.mod": {
+    "name": "ark_haircut02a",
     "stringId": "59436-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3396,6 +3486,7 @@
     "references": {}
   },
   "59452-Ark Haircuts.mod": {
+    "name": "ark_haircut02b",
     "stringId": "59452-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3438,6 +3529,7 @@
     "references": {}
   },
   "59437-Ark Haircuts.mod": {
+    "name": "ark_haircut03",
     "stringId": "59437-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3480,6 +3572,7 @@
     "references": {}
   },
   "59438-Ark Haircuts.mod": {
+    "name": "ark_haircut04",
     "stringId": "59438-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3522,6 +3615,7 @@
     "references": {}
   },
   "59439-Ark Haircuts.mod": {
+    "name": "ark_haircut05",
     "stringId": "59439-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3564,6 +3658,7 @@
     "references": {}
   },
   "59440-Ark Haircuts.mod": {
+    "name": "ark_haircut06a",
     "stringId": "59440-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3606,6 +3701,7 @@
     "references": {}
   },
   "59453-Ark Haircuts.mod": {
+    "name": "ark_haircut06b",
     "stringId": "59453-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3648,6 +3744,7 @@
     "references": {}
   },
   "59441-Ark Haircuts.mod": {
+    "name": "ark_haircut07",
     "stringId": "59441-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3690,6 +3787,7 @@
     "references": {}
   },
   "59442-Ark Haircuts.mod": {
+    "name": "ark_haircut08",
     "stringId": "59442-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3732,6 +3830,7 @@
     "references": {}
   },
   "59443-Ark Haircuts.mod": {
+    "name": "ark_haircut09",
     "stringId": "59443-Ark Haircuts.mod",
     "type": "Attachment",
     "values": {
@@ -3774,6 +3873,7 @@
     "references": {}
   },
   "65829-rebirth.mod": {
+    "name": "ark_haircut10b",
     "stringId": "65829-rebirth.mod",
     "type": "Attachment",
     "values": {
@@ -3816,6 +3916,7 @@
     "references": {}
   },
   "65830-rebirth.mod": {
+    "name": "ark_haircut10",
     "stringId": "65830-rebirth.mod",
     "type": "Attachment",
     "values": {
@@ -3858,6 +3959,7 @@
     "references": {}
   },
   "66299-Boneyard Wolf.mod": {
+    "name": "Boneyard Wolf hair",
     "stringId": "66299-Boneyard Wolf.mod",
     "type": "Attachment",
     "values": {

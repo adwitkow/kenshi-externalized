@@ -1,5 +1,6 @@
 {
   "58291-Dialogue.mod": {
+    "name": "Player killed Phoenix",
     "stringId": "58291-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -17,6 +18,7 @@
     }
   },
   "58292-Dialogue.mod": {
+    "name": "Player killed bugmaster",
     "stringId": "58292-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -34,6 +36,7 @@
     }
   },
   "58299-Dialogue.mod": {
+    "name": "Bugmaster and Phoenix are alive",
     "stringId": "58299-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -56,6 +59,7 @@
     }
   },
   "58522-Dialogue.mod": {
+    "name": "Bugmaster is not okay (p",
     "stringId": "58522-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -73,6 +77,7 @@
     }
   },
   "58523-Dialogue.mod": {
+    "name": "Holy phoenix is not okay",
     "stringId": "58523-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -90,6 +95,7 @@
     }
   },
   "58586-Dialogue.mod": {
+    "name": "Esata Imprisoned by player",
     "stringId": "58586-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -107,6 +113,7 @@
     }
   },
   "58591-Dialogue.mod": {
+    "name": "Seto is not alive",
     "stringId": "58591-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -124,6 +131,7 @@
     }
   },
   "58592-Dialogue.mod": {
+    "name": "Bayan is not alive",
     "stringId": "58592-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -141,6 +149,7 @@
     }
   },
   "58595-Dialogue.mod": {
+    "name": "Player killed Esata",
     "stringId": "58595-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -158,6 +167,7 @@
     }
   },
   "59029-Dialogue.mod": {
+    "name": "Tinfist is not alive",
     "stringId": "59029-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -175,6 +185,7 @@
     }
   },
   "59123-Dialogue.mod": {
+    "name": "WORLD_EVENT_STATE",
     "stringId": "59123-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -184,6 +195,7 @@
     "references": {}
   },
   "59166-Dialogue.mod": {
+    "name": "Seta and Valtena are alive",
     "stringId": "59166-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -206,6 +218,7 @@
     }
   },
   "59583-Dialogue.mod": {
+    "name": "Tengu is alive",
     "stringId": "59583-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -223,6 +236,7 @@
     }
   },
   "59584-Dialogue.mod": {
+    "name": "Kana is alive",
     "stringId": "59584-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -240,6 +254,7 @@
     }
   },
   "59585-Dialogue.mod": {
+    "name": "Longen is alive",
     "stringId": "59585-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -257,6 +272,7 @@
     }
   },
   "59685-Dialogue.mod": {
+    "name": "Player is ally of Shek Kingdom",
     "stringId": "59685-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -274,6 +290,7 @@
     }
   },
   "59743-Dialogue.mod": {
+    "name": "Player is ally of HN",
     "stringId": "59743-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -291,6 +308,7 @@
     }
   },
   "59744-Dialogue.mod": {
+    "name": "Player is ally of UC",
     "stringId": "59744-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -308,6 +326,7 @@
     }
   },
   "59745-Dialogue.mod": {
+    "name": "Player is ally of Traders Guild",
     "stringId": "59745-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -325,6 +344,7 @@
     }
   },
   "59750-Dialogue.mod": {
+    "name": "Player is not ally of UC, HN, TG",
     "stringId": "59750-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -357,6 +377,7 @@
     }
   },
   "59782-Dialogue.mod": {
+    "name": "Player is enemy of Shek Kingdom",
     "stringId": "59782-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -374,6 +395,7 @@
     }
   },
   "59784-Dialogue.mod": {
+    "name": "Player killed/napped esata",
     "stringId": "59784-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -391,6 +413,7 @@
     }
   },
   "59817-Dialogue.mod": {
+    "name": "Player is ally of Flotsam",
     "stringId": "59817-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -408,6 +431,7 @@
     }
   },
   "59881-Dialogue.mod": {
+    "name": "Seta is alive",
     "stringId": "59881-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -425,6 +449,7 @@
     }
   },
   "59882-Dialogue.mod": {
+    "name": "Valtena is alive",
     "stringId": "59882-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -442,6 +467,7 @@
     }
   },
   "59927-Dialogue.mod": {
+    "name": "Player is ally of Anti slavers",
     "stringId": "59927-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -459,6 +485,7 @@
     }
   },
   "59978-Dialogue.mod": {
+    "name": "Moll is not okay",
     "stringId": "59978-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -476,6 +503,7 @@
     }
   },
   "60098-Dialogue.mod": {
+    "name": "Player killed/knapped Tengu",
     "stringId": "60098-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -493,6 +521,7 @@
     }
   },
   "60413-Dialogue.mod": {
+    "name": "Player killed/knapped Eyegore",
     "stringId": "60413-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -510,6 +539,7 @@
     }
   },
   "60659-Dialogue.mod": {
+    "name": "Tengu killed",
     "stringId": "60659-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -527,6 +557,7 @@
     }
   },
   "60660-Dialogue.mod": {
+    "name": "Tengu imprisoned",
     "stringId": "60660-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -544,6 +575,7 @@
     }
   },
   "60730-Dialogue.mod": {
+    "name": "Grey is not alive",
     "stringId": "60730-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -561,6 +593,7 @@
     }
   },
   "60731-Dialogue.mod": {
+    "name": "Jaegar is not alive",
     "stringId": "60731-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -578,6 +611,7 @@
     }
   },
   "60733-Dialogue.mod": {
+    "name": "Bo is not alive",
     "stringId": "60733-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -595,6 +629,7 @@
     }
   },
   "60964-Dialogue.mod": {
+    "name": "Player is enemy of Holy Nation",
     "stringId": "60964-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -612,6 +647,7 @@
     }
   },
   "61004-Dialogue.mod": {
+    "name": "Player is enemy of UC",
     "stringId": "61004-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -629,6 +665,7 @@
     }
   },
   "61430-Dialogue.mod": {
+    "name": "Player is enemy of Slave Traders",
     "stringId": "61430-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -646,6 +683,7 @@
     }
   },
   "61467-Dialogue.mod": {
+    "name": "Lord Inaba is not alive",
     "stringId": "61467-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -663,6 +701,7 @@
     }
   },
   "61468-Dialogue.mod": {
+    "name": "Lord Nagata is not alive",
     "stringId": "61468-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -680,6 +719,7 @@
     }
   },
   "61469-Dialogue.mod": {
+    "name": "Lord Ohta is not alive",
     "stringId": "61469-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -697,6 +737,7 @@
     }
   },
   "61470-Dialogue.mod": {
+    "name": "Lord Yoshinaga is not alive",
     "stringId": "61470-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -714,6 +755,7 @@
     }
   },
   "61471-Dialogue.mod": {
+    "name": "Lord Sanda is not alive",
     "stringId": "61471-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -731,6 +773,7 @@
     }
   },
   "61472-Dialogue.mod": {
+    "name": "Lady Tsugi is not alive",
     "stringId": "61472-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -748,6 +791,7 @@
     }
   },
   "61570-Dialogue.mod": {
+    "name": "Grimm is not alive",
     "stringId": "61570-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -765,6 +809,7 @@
     }
   },
   "61569-Dialogue.mod": {
+    "name": "Player is enemy of Hounds",
     "stringId": "61569-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -782,6 +827,7 @@
     }
   },
   "61604-Dialogue.mod": {
+    "name": "Player is enemy of Traders Guild",
     "stringId": "61604-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -799,6 +845,7 @@
     }
   },
   "61669-Dialogue.mod": {
+    "name": "Player is ally of Hounds",
     "stringId": "61669-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -816,6 +863,7 @@
     }
   },
   "61818-Dialogue.mod": {
+    "name": "Player kidnapped Phoenix",
     "stringId": "61818-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -833,6 +881,7 @@
     }
   },
   "62347-Dialogue.mod": {
+    "name": "WORLD_EVENT_STATE",
     "stringId": "62347-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -842,6 +891,7 @@
     "references": {}
   },
   "62729-Dialogue.mod": {
+    "name": "Player is enemy of Hive",
     "stringId": "62729-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -859,6 +909,7 @@
     }
   },
   "63185-Dialogue.mod": {
+    "name": "Player is ally of Skin bandits",
     "stringId": "63185-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -876,6 +927,7 @@
     }
   },
   "63186-Dialogue.mod": {
+    "name": "Player is ally of Skeleton bandits",
     "stringId": "63186-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -893,6 +945,7 @@
     }
   },
   "63187-Dialogue.mod": {
+    "name": "Player is ally of crab raiders",
     "stringId": "63187-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -910,6 +963,7 @@
     }
   },
   "63880-Dialogue.mod": {
+    "name": "Skin bandit boss ok",
     "stringId": "63880-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -927,6 +981,7 @@
     }
   },
   "63881-Dialogue.mod": {
+    "name": "Skeleton bandit boss ok",
     "stringId": "63881-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -936,6 +991,7 @@
     "references": {}
   },
   "64340-Dialogue.mod": {
+    "name": "Big Gray is alive",
     "stringId": "64340-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -953,6 +1009,7 @@
     }
   },
   "64400-Dialogue.mod": {
+    "name": "Player is ally of Slave Traders",
     "stringId": "64400-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -970,6 +1027,7 @@
     }
   },
   "64410-Dialogue.mod": {
+    "name": "Player is enemy of Anti Slavers",
     "stringId": "64410-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -987,6 +1045,7 @@
     }
   },
   "65302-Dialogue.mod": {
+    "name": "WORLD_EVENT_STATE",
     "stringId": "65302-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -996,6 +1055,7 @@
     "references": {}
   },
   "65565-Dialogue.mod": {
+    "name": "Tengu dead, Longen alive",
     "stringId": "65565-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1020,6 +1080,7 @@
     }
   },
   "65632-Dialogue.mod": {
+    "name": "Bugmaster and Phoenix are NOT alive",
     "stringId": "65632-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1042,6 +1103,7 @@
     }
   },
   "66167-Dialogue.mod": {
+    "name": "Holy phoenix is dead",
     "stringId": "66167-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1059,6 +1121,7 @@
     }
   },
   "66198-Dialogue.mod": {
+    "name": "Player is not ally of Shek, HN, A-S",
     "stringId": "66198-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1086,6 +1149,7 @@
     }
   },
   "66299-Dialogue.mod": {
+    "name": "Ghost bounty caught",
     "stringId": "66299-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1103,6 +1167,7 @@
     }
   },
   "66300-Dialogue.mod": {
+    "name": "Flying bull bounty caught",
     "stringId": "66300-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1120,6 +1185,7 @@
     }
   },
   "66315-Dialogue.mod": {
+    "name": "Savant bounty caught",
     "stringId": "66315-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1137,6 +1203,7 @@
     }
   },
   "66327-Dialogue.mod": {
+    "name": "Simion bounty caught",
     "stringId": "66327-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1154,6 +1221,7 @@
     }
   },
   "66486-Dialogue.mod": {
+    "name": "Grim imprisoned",
     "stringId": "66486-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1171,6 +1239,7 @@
     }
   },
   "66521-Dialogue.mod": {
+    "name": "Longen kidnapped by player",
     "stringId": "66521-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1188,6 +1257,7 @@
     }
   },
   "66522-Dialogue.mod": {
+    "name": "Longen killed by player",
     "stringId": "66522-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1205,6 +1275,7 @@
     }
   },
   "96350-Dialogue.mod": {
+    "name": "Hive queen kidnapped WEST",
     "stringId": "96350-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1222,6 +1293,7 @@
     }
   },
   "96495-Dialogue.mod": {
+    "name": "Bugmaster, Esata and Phoenix are alive",
     "stringId": "96495-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1249,6 +1321,7 @@
     }
   },
   "96537-Dialogue.mod": {
+    "name": "Player is ally of Reavers",
     "stringId": "96537-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1266,6 +1339,7 @@
     }
   },
   "96588-Dialogue.mod": {
+    "name": "All leaders are alive",
     "stringId": "96588-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1303,6 +1377,7 @@
     }
   },
   "96616-Dialogue.mod": {
+    "name": "Gurgler boss is alive",
     "stringId": "96616-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1320,6 +1395,7 @@
     }
   },
   "96655-Dialogue.mod": {
+    "name": "Dimak is alive",
     "stringId": "96655-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1337,6 +1413,7 @@
     }
   },
   "96689-Dialogue.mod": {
+    "name": "Sand Ninja Oni is alive",
     "stringId": "96689-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1354,6 +1431,7 @@
     }
   },
   "97159-Dialogue.mod": {
+    "name": "Kana is not alive",
     "stringId": "97159-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1371,6 +1449,7 @@
     }
   },
   "97160-Dialogue.mod": {
+    "name": "WORLD_EVENT_STATE",
     "stringId": "97160-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1380,6 +1459,7 @@
     "references": {}
   },
   "97165-Dialogue.mod": {
+    "name": "Lord Inaba is dead",
     "stringId": "97165-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1397,6 +1477,7 @@
     }
   },
   "97166-Dialogue.mod": {
+    "name": "Lord Nagata is dead",
     "stringId": "97166-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1414,6 +1495,7 @@
     }
   },
   "97167-Dialogue.mod": {
+    "name": "Lord Ohta is dead",
     "stringId": "97167-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1431,6 +1513,7 @@
     }
   },
   "97168-Dialogue.mod": {
+    "name": "Lord Sanda is dead",
     "stringId": "97168-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1448,6 +1531,7 @@
     }
   },
   "97169-Dialogue.mod": {
+    "name": "Lord Yoshinaga is dead",
     "stringId": "97169-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1465,6 +1549,7 @@
     }
   },
   "97172-Dialogue.mod": {
+    "name": "Lady Tsugi is dead",
     "stringId": "97172-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1482,6 +1567,7 @@
     }
   },
   "97173-Dialogue.mod": {
+    "name": "Lord Kana is dead",
     "stringId": "97173-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1499,6 +1585,7 @@
     }
   },
   "99118-Dialogue.mod": {
+    "name": "South hive queen kidnapped",
     "stringId": "99118-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1516,6 +1603,7 @@
     }
   },
   "99182-Dialogue.mod": {
+    "name": "Player is ally of Shek (NOT Flotsam)",
     "stringId": "99182-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1538,6 +1626,7 @@
     }
   },
   "99183-Dialogue.mod": {
+    "name": "Player is ally of Flotsam (NOT Shek) ",
     "stringId": "99183-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1560,6 +1649,7 @@
     }
   },
   "99184-Dialogue.mod": {
+    "name": "Player is ally of Shek AND Flotsam",
     "stringId": "99184-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1582,6 +1672,7 @@
     }
   },
   "99189-Dialogue.mod": {
+    "name": "Player is ally of Anti slavers (NOT farmers)",
     "stringId": "99189-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1604,6 +1695,7 @@
     }
   },
   "99191-Dialogue.mod": {
+    "name": "Player is ally of Anti slavers AND farmers",
     "stringId": "99191-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1626,6 +1718,7 @@
     }
   },
   "99192-Dialogue.mod": {
+    "name": "Player is ally of Rebel Farmers",
     "stringId": "99192-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1643,6 +1736,7 @@
     }
   },
   "1532365-Dialogue.mod": {
+    "name": "Bo, Jaegar, Grey are not alive",
     "stringId": "1532365-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1677,6 +1771,7 @@
     }
   },
   "1533310-Dialogue.mod": {
+    "name": "Phoenix, Seta and Valtena are not okay",
     "stringId": "1533310-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1704,6 +1799,7 @@
     }
   },
   "1533311-Dialogue.mod": {
+    "name": "All nobles are not alive",
     "stringId": "1533311-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1746,6 +1842,7 @@
     }
   },
   "1534371-Dialogue.mod": {
+    "name": "Tinfist, Simion and Valtena all not alive",
     "stringId": "1534371-Dialogue.mod",
     "type": "WorldEventState",
     "values": {
@@ -1773,6 +1870,7 @@
     }
   },
   "57392-rebirth.mod": {
+    "name": "holy phoenix okay",
     "stringId": "57392-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1790,6 +1888,7 @@
     }
   },
   "62377-rebirth.mod": {
+    "name": "south hive queen okay",
     "stringId": "62377-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1807,6 +1906,7 @@
     }
   },
   "62810-rebirth.mod": {
+    "name": "skeleton bandit king is OK",
     "stringId": "62810-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1824,6 +1924,7 @@
     }
   },
   "62829-rebirth.mod": {
+    "name": "crab bandit queen is OK",
     "stringId": "62829-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1841,6 +1942,7 @@
     }
   },
   "62862-rebirth.mod": {
+    "name": "red sabre boss ok",
     "stringId": "62862-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1858,6 +1960,7 @@
     }
   },
   "63144-rebirth.mod": {
+    "name": "conscript bandit boss is OK",
     "stringId": "63144-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1867,6 +1970,7 @@
     "references": {}
   },
   "63744-rebirth.mod": {
+    "name": "dust king ALIVE",
     "stringId": "63744-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1884,6 +1988,7 @@
     }
   },
   "64859-rebirth.mod": {
+    "name": "spider factory is alive",
     "stringId": "64859-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1901,6 +2006,7 @@
     }
   },
   "66290-rebirth.mod": {
+    "name": "Yabuta is alive",
     "stringId": "66290-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1918,6 +2024,7 @@
     }
   },
   "96078-rebirth.mod": {
+    "name": "valamon is alive (reavers)",
     "stringId": "96078-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1935,6 +2042,7 @@
     }
   },
   "96401-rebirth.mod": {
+    "name": "thrall masters defeated",
     "stringId": "96401-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1957,6 +2065,7 @@
     }
   },
   "1531879-rebirth.mod": {
+    "name": "gorillo bandit leader alive",
     "stringId": "1531879-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1974,6 +2083,7 @@
     }
   },
   "1531881-rebirth.mod": {
+    "name": "west hive queen okay",
     "stringId": "1531881-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -1991,6 +2101,7 @@
     }
   },
   "1531890-rebirth.mod": {
+    "name": "Tengu ok",
     "stringId": "1531890-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2008,6 +2119,7 @@
     }
   },
   "1531892-rebirth.mod": {
+    "name": "Moll is ok",
     "stringId": "1531892-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2025,6 +2137,7 @@
     }
   },
   "1531897-rebirth.mod": {
+    "name": "flying bull is ok",
     "stringId": "1531897-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2042,6 +2155,7 @@
     }
   },
   "1532252-__May 18.mod": {
+    "name": "Big Al is alive",
     "stringId": "1532252-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2059,6 +2173,7 @@
     }
   },
   "1532242-__May 18.mod": {
+    "name": "Flying Bull is alive",
     "stringId": "1532242-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2076,6 +2191,7 @@
     }
   },
   "1532243-__May 18.mod": {
+    "name": "Ghost is alive",
     "stringId": "1532243-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2093,6 +2209,7 @@
     }
   },
   "1532247-__May 18.mod": {
+    "name": "Grimm is not alive (player not involved)",
     "stringId": "1532247-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2110,6 +2227,7 @@
     }
   },
   "1532251-__May 18.mod": {
+    "name": "Gutterhead is alive",
     "stringId": "1532251-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2127,6 +2245,7 @@
     }
   },
   "1532248-__May 18.mod": {
+    "name": "Shade is alive",
     "stringId": "1532248-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2144,6 +2263,7 @@
     }
   },
   "1532245-__May 18.mod": {
+    "name": "Tora is alive",
     "stringId": "1532245-__May 18.mod",
     "type": "WorldEventState",
     "values": {
@@ -2161,6 +2281,7 @@
     }
   },
   "1532480-__May 18 2.mod": {
+    "name": "Boss Simion is alive",
     "stringId": "1532480-__May 18 2.mod",
     "type": "WorldEventState",
     "values": {
@@ -2178,6 +2299,7 @@
     }
   },
   "1533242-__world reactions NE.mod": {
+    "name": "All nobles are alive",
     "stringId": "1533242-__world reactions NE.mod",
     "type": "WorldEventState",
     "values": {
@@ -2220,6 +2342,7 @@
     }
   },
   "1532876-__world reactions NE.mod": {
+    "name": "Inaba is alive",
     "stringId": "1532876-__world reactions NE.mod",
     "type": "WorldEventState",
     "values": {
@@ -2237,6 +2360,7 @@
     }
   },
   "1532879-__world reactions NE.mod": {
+    "name": "Lady Tsugi is alive",
     "stringId": "1532879-__world reactions NE.mod",
     "type": "WorldEventState",
     "values": {
@@ -2254,6 +2378,7 @@
     }
   },
   "1532877-__world reactions NE.mod": {
+    "name": "Lord Nagata is alive",
     "stringId": "1532877-__world reactions NE.mod",
     "type": "WorldEventState",
     "values": {
@@ -2271,6 +2396,7 @@
     }
   },
   "1532880-__world reactions NE.mod": {
+    "name": "Lord Sanda is alive",
     "stringId": "1532880-__world reactions NE.mod",
     "type": "WorldEventState",
     "values": {
@@ -2288,6 +2414,7 @@
     }
   },
   "1532878-__world reactions NE.mod": {
+    "name": "Lord Yoshinaga is alive",
     "stringId": "1532878-__world reactions NE.mod",
     "type": "WorldEventState",
     "values": {
@@ -2305,6 +2432,7 @@
     }
   },
   "1532623-__world reactions.mod": {
+    "name": "Esata is alive",
     "stringId": "1532623-__world reactions.mod",
     "type": "WorldEventState",
     "values": {
@@ -2322,6 +2450,7 @@
     }
   },
   "1533328-__world reactions Shek.mod": {
+    "name": "Mukai is alive",
     "stringId": "1533328-__world reactions Shek.mod",
     "type": "WorldEventState",
     "values": {
@@ -2339,6 +2468,7 @@
     }
   },
   "1533690-__world reactions Slavers.mod": {
+    "name": "All North Slave Masters are not alive",
     "stringId": "1533690-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2423,6 +2553,7 @@
     }
   },
   "1533501-__world reactions Slavers.mod": {
+    "name": "Slave Market Master is alive",
     "stringId": "1533501-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2440,6 +2571,7 @@
     }
   },
   "1533502-__world reactions Slavers.mod": {
+    "name": "Slave Master Grande is alive",
     "stringId": "1533502-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2457,6 +2589,7 @@
     }
   },
   "1533503-__world reactions Slavers.mod": {
+    "name": "Slave Master Haga is alive",
     "stringId": "1533503-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2474,6 +2607,7 @@
     }
   },
   "1533504-__world reactions Slavers.mod": {
+    "name": "Slave Master Ruben is alive",
     "stringId": "1533504-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2491,6 +2625,7 @@
     }
   },
   "1533505-__world reactions Slavers.mod": {
+    "name": "Slave Master Wada is alive",
     "stringId": "1533505-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2508,6 +2643,7 @@
     }
   },
   "1533506-__world reactions Slavers.mod": {
+    "name": "Slave Mistress Grace is alive",
     "stringId": "1533506-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2525,6 +2661,7 @@
     }
   },
   "1533507-__world reactions Slavers.mod": {
+    "name": "Slave Mistress Ren is alive",
     "stringId": "1533507-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2542,6 +2679,7 @@
     }
   },
   "1533661-__world reactions Slavers.mod": {
+    "name": "Tinfist is alive",
     "stringId": "1533661-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2559,6 +2697,7 @@
     }
   },
   "1533699-__world reactions Slavers.mod": {
+    "name": "All South Slave Masters are not alive",
     "stringId": "1533699-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2593,6 +2732,7 @@
     }
   },
   "1533710-__world reactions Slavers.mod": {
+    "name": "Lord Shiro is alive",
     "stringId": "1533710-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2610,6 +2750,7 @@
     }
   },
   "1533705-__world reactions Slavers.mod": {
+    "name": "Merin is alive",
     "stringId": "1533705-__world reactions Slavers.mod",
     "type": "WorldEventState",
     "values": {
@@ -2627,6 +2768,7 @@
     }
   },
   "1533739-__world reactios swamp.mod": {
+    "name": "All South Bosses are not alive",
     "stringId": "1533739-__world reactios swamp.mod",
     "type": "WorldEventState",
     "values": {
@@ -2671,6 +2813,7 @@
     }
   },
   "1533716-__world reactios swamp.mod": {
+    "name": "Big Darkbrow is alive",
     "stringId": "1533716-__world reactios swamp.mod",
     "type": "WorldEventState",
     "values": {
@@ -2688,6 +2831,7 @@
     }
   },
   "1533825-rebirth.mod": {
+    "name": "beep is ok",
     "stringId": "1533825-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2705,6 +2849,7 @@
     }
   },
   "1533826-rebirth.mod": {
+    "name": "agnu is dead",
     "stringId": "1533826-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2722,6 +2867,7 @@
     }
   },
   "1533834-rebirth.mod": {
+    "name": "nthnth",
     "stringId": "1533834-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2731,6 +2877,7 @@
     "references": {}
   },
   "1533844-rebirth.mod": {
+    "name": "beep is dead",
     "stringId": "1533844-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2748,6 +2895,7 @@
     }
   },
   "1534045-rebirth.mod": {
+    "name": "WORLD_EVENT_STATE",
     "stringId": "1534045-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2757,6 +2905,7 @@
     "references": {}
   },
   "1534047-rebirth.mod": {
+    "name": "cat-lon alive",
     "stringId": "1534047-rebirth.mod",
     "type": "WorldEventState",
     "values": {
@@ -2774,6 +2923,7 @@
     }
   },
   "1534461-__Fixes.mod": {
+    "name": "All North Slave Masters are alive",
     "stringId": "1534461-__Fixes.mod",
     "type": "WorldEventState",
     "values": {
@@ -2821,6 +2971,7 @@
     }
   },
   "1534462-__Fixes.mod": {
+    "name": "All South Slave Masters are alive",
     "stringId": "1534462-__Fixes.mod",
     "type": "WorldEventState",
     "values": {
@@ -2843,6 +2994,7 @@
     }
   },
   "1534164-__Fixes.mod": {
+    "name": "Seta and Valtena are not okay",
     "stringId": "1534164-__Fixes.mod",
     "type": "WorldEventState",
     "values": {

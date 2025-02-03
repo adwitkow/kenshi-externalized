@@ -1,5 +1,6 @@
 {
   "1234-gamedata.base": {
+    "name": "Medics Guild",
     "stringId": "1234-gamedata.base",
     "type": "Faction",
     "values": {
@@ -64,6 +65,7 @@
     }
   },
   "3943-gamedata.base": {
+    "name": "Wildlife",
     "stringId": "3943-gamedata.base",
     "type": "Faction",
     "values": {
@@ -126,6 +128,7 @@
     }
   },
   "1171-gamedata.base": {
+    "name": "Mercenary Police",
     "stringId": "1171-gamedata.base",
     "type": "Faction",
     "values": {
@@ -190,6 +193,7 @@
     }
   },
   "16860-gamedata.base": {
+    "name": "Bloodraiders",
     "stringId": "16860-gamedata.base",
     "type": "Faction",
     "values": {
@@ -266,6 +270,7 @@
     }
   },
   "14508-gamedata.base": {
+    "name": "Bounty Hunters",
     "stringId": "14508-gamedata.base",
     "type": "Faction",
     "values": {
@@ -340,6 +345,7 @@
     }
   },
   "2607-gamedata.base": {
+    "name": "Police",
     "stringId": "2607-gamedata.base",
     "type": "Faction",
     "values": {
@@ -425,6 +431,7 @@
     }
   },
   "42264-gamedata.base": {
+    "name": "United Heroes League",
     "stringId": "42264-gamedata.base",
     "type": "Faction",
     "values": {
@@ -513,6 +520,7 @@
     }
   },
   "1305-gamedata.base": {
+    "name": "Starving Bandits",
     "stringId": "1305-gamedata.base",
     "type": "Faction",
     "values": {
@@ -628,6 +636,7 @@
     }
   },
   "518-gamedata.base": {
+    "name": "Cannibals",
     "stringId": "518-gamedata.base",
     "type": "Faction",
     "values": {
@@ -765,6 +774,7 @@
     }
   },
   "defaultEmpireFactionSID": {
+    "name": "United Cities",
     "stringId": "defaultEmpireFactionSID",
     "type": "Faction",
     "values": {
@@ -1371,6 +1381,7 @@
     }
   },
   "200-gamedata.base": {
+    "name": "Dust Bandits",
     "stringId": "200-gamedata.base",
     "type": "Faction",
     "values": {
@@ -1609,6 +1620,7 @@
     }
   },
   "1088-gamedata.base": {
+    "name": "Traders Guild",
     "stringId": "1088-gamedata.base",
     "type": "Faction",
     "values": {
@@ -1924,6 +1936,7 @@
     }
   },
   "204-gamedata.base": {
+    "name": "Nameless",
     "stringId": "204-gamedata.base",
     "type": "Faction",
     "values": {
@@ -1988,6 +2001,7 @@
     }
   },
   "1085-gamedata.base": {
+    "name": "Sand ninjas",
     "stringId": "1085-gamedata.base",
     "type": "Faction",
     "values": {
@@ -2085,6 +2099,7 @@
     }
   },
   "1087-gamedata.base": {
+    "name": "Imperial Lords",
     "stringId": "1087-gamedata.base",
     "type": "Faction",
     "values": {
@@ -2171,6 +2186,7 @@
     }
   },
   "513-gamedata.base": {
+    "name": "Deadcat",
     "stringId": "513-gamedata.base",
     "type": "Faction",
     "values": {
@@ -2546,6 +2562,7 @@
     }
   },
   "14491-rebirth.mod": {
+    "name": "Shinobi Thieves",
     "stringId": "14491-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -2643,6 +2660,7 @@
     }
   },
   "1084-gamedata.base": {
+    "name": "Slave Traders",
     "stringId": "1084-gamedata.base",
     "type": "Faction",
     "values": {
@@ -2811,6 +2829,7 @@
     }
   },
   "1229-gamedata.base": {
+    "name": "Free Traders",
     "stringId": "1229-gamedata.base",
     "type": "Faction",
     "values": {
@@ -3016,6 +3035,7 @@
     }
   },
   "GENERATION_TEMPLATE_FACTION": {
+    "name": "generation template",
     "stringId": "GENERATION_TEMPLATE_FACTION",
     "type": "Faction",
     "values": {
@@ -3066,6 +3086,7 @@
     }
   },
   "1214-gamedata.base": {
+    "name": "Mercenary Guild",
     "stringId": "1214-gamedata.base",
     "type": "Faction",
     "values": {
@@ -3135,6 +3156,7 @@
     }
   },
   "1083-gamedata.base": {
+    "name": "The Holy Nation",
     "stringId": "1083-gamedata.base",
     "type": "Faction",
     "values": {
@@ -3916,6 +3938,7 @@
     }
   },
   "11624-Dialogue (10).mod": {
+    "name": "Shek Kingdom",
     "stringId": "11624-Dialogue (10).mod",
     "type": "Faction",
     "values": {
@@ -4209,6 +4232,7 @@
     }
   },
   "1086-gamedata.base": {
+    "name": "Temple of truth",
     "stringId": "1086-gamedata.base",
     "type": "Faction",
     "values": {
@@ -4276,6 +4300,7 @@
     }
   },
   "1209-gamedata.base": {
+    "name": "Fisher",
     "stringId": "1209-gamedata.base",
     "type": "Faction",
     "values": {
@@ -4357,6 +4382,7 @@
     }
   },
   "nofac": {
+    "name": "No Faction",
     "stringId": "nofac",
     "type": "Faction",
     "values": {
@@ -4399,6 +4425,7 @@
     "references": {}
   },
   "16855-gamedata.base": {
+    "name": "Cannibal Hunters",
     "stringId": "16855-gamedata.base",
     "type": "Faction",
     "values": {
@@ -4475,6 +4502,7 @@
     }
   },
   "18000-gamedata.base": {
+    "name": "Western Hive",
     "stringId": "18000-gamedata.base",
     "type": "Faction",
     "values": {
@@ -4664,6 +4692,7 @@
     }
   },
   "1233-gamedata.base": {
+    "name": "Tech Hunters",
     "stringId": "1233-gamedata.base",
     "type": "Faction",
     "values": {
@@ -4782,6 +4811,7 @@
     }
   },
   "5442-gamedata.base": {
+    "name": "Outlaw",
     "stringId": "5442-gamedata.base",
     "type": "Faction",
     "values": {
@@ -4871,6 +4901,7 @@
     }
   },
   "65263-Newwworld.mod": {
+    "name": "Crimper",
     "stringId": "65263-Newwworld.mod",
     "type": "Faction",
     "values": {
@@ -4946,6 +4977,7 @@
     }
   },
   "65268-Newwworld.mod": {
+    "name": "Skeleton MkII",
     "stringId": "65268-Newwworld.mod",
     "type": "Faction",
     "values": {
@@ -5059,6 +5091,7 @@
     }
   },
   "66532-Newwworld.mod": {
+    "name": "Skeleton MkII Log Head",
     "stringId": "66532-Newwworld.mod",
     "type": "Faction",
     "values": {
@@ -5172,6 +5205,7 @@
     }
   },
   "97574-Newwworld.mod": {
+    "name": "Land Bat",
     "stringId": "97574-Newwworld.mod",
     "type": "Faction",
     "values": {
@@ -5237,6 +5271,7 @@
     }
   },
   "1533505-Newwworld.mod": {
+    "name": "Skeleton MkII Screamer",
     "stringId": "1533505-Newwworld.mod",
     "type": "Faction",
     "values": {
@@ -5350,6 +5385,7 @@
     }
   },
   "48814-Dialogue.mod": {
+    "name": "Hounds",
     "stringId": "48814-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -5496,6 +5532,7 @@
     }
   },
   "41162-Dialogue.mod": {
+    "name": "Swampers",
     "stringId": "41162-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -5664,6 +5701,7 @@
     }
   },
   "48753-Dialogue.mod": {
+    "name": "Stone Rats",
     "stringId": "48753-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -5790,6 +5828,7 @@
     }
   },
   "46241-Dialogue.mod": {
+    "name": "Okranites",
     "stringId": "46241-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -5832,6 +5871,7 @@
     "references": {}
   },
   "48791-Dialogue.mod": {
+    "name": "Grayflayers",
     "stringId": "48791-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -5904,6 +5944,7 @@
     }
   },
   "15579-Dialogue.mod": {
+    "name": "Republic of Tertius",
     "stringId": "15579-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -5955,6 +5996,7 @@
     }
   },
   "48760-Dialogue.mod": {
+    "name": "Twinblades",
     "stringId": "48760-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6005,6 +6047,7 @@
     }
   },
   "48743-Dialogue.mod": {
+    "name": "Blackshifters",
     "stringId": "48743-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6067,6 +6110,7 @@
     }
   },
   "51646-Dialogue.mod": {
+    "name": "Empire Peasants",
     "stringId": "51646-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6229,6 +6273,7 @@
     }
   },
   "56595-Dialogue.mod": {
+    "name": "Band of Bones",
     "stringId": "56595-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6392,6 +6437,7 @@
     }
   },
   "56644-Dialogue.mod": {
+    "name": "Black Dog",
     "stringId": "56644-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6434,6 +6480,7 @@
     "references": {}
   },
   "56777-Dialogue.mod": {
+    "name": "Southern Hive",
     "stringId": "56777-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6584,6 +6631,7 @@
     }
   },
   "58229-Dialogue.mod": {
+    "name": "Anti-Slavers",
     "stringId": "58229-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6787,6 +6835,7 @@
     }
   },
   "63028-Dialogue.mod": {
+    "name": "Skin Bandits",
     "stringId": "63028-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6912,6 +6961,7 @@
     }
   },
   "97072-Dialogue.mod": {
+    "name": "Preacher Cult",
     "stringId": "97072-Dialogue.mod",
     "type": "Faction",
     "values": {
@@ -6969,6 +7019,7 @@
     }
   },
   "18897-rebirth.mod": {
+    "name": "Broken Cities",
     "stringId": "18897-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7036,6 +7087,7 @@
     }
   },
   "14459-rebirth.mod": {
+    "name": "The Old Empire",
     "stringId": "14459-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7148,6 +7200,7 @@
     }
   },
   "49356-rebirth.mod": {
+    "name": "Second Empire",
     "stringId": "49356-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7259,6 +7312,7 @@
     }
   },
   "18893-rebirth.mod": {
+    "name": "Fogmen",
     "stringId": "18893-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7344,6 +7398,7 @@
     }
   },
   "40551-rebirth.mod": {
+    "name": "Trade Ninjas",
     "stringId": "40551-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7386,6 +7441,7 @@
     "references": {}
   },
   "49377-rebirth.mod": {
+    "name": "Flotsam Ninjas",
     "stringId": "49377-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7578,6 +7634,7 @@
     }
   },
   "50358-rebirth.mod": {
+    "name": "Machinists",
     "stringId": "50358-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -7669,6 +7726,7 @@
     }
   },
   "42097-rebirth.mod": {
+    "name": "Nomads",
     "stringId": "42097-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8029,6 +8087,7 @@
     }
   },
   "18891-rebirth.mod": {
+    "name": "Mongrel",
     "stringId": "18891-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8336,6 +8395,7 @@
     }
   },
   "18011-rebirth.mod": {
+    "name": "White Eyebrow Clan",
     "stringId": "18011-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8400,6 +8460,7 @@
     }
   },
   "40544-rebirth.mod": {
+    "name": "Herbivore",
     "stringId": "40544-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8450,6 +8511,7 @@
     }
   },
   "42085-rebirth.mod": {
+    "name": "Old Machines",
     "stringId": "42085-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8547,6 +8609,7 @@
     }
   },
   "48708-rebirth.mod": {
+    "name": "Floodland Ruins",
     "stringId": "48708-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8589,6 +8652,7 @@
     "references": {}
   },
   "42088-rebirth.mod": {
+    "name": "Skeletons",
     "stringId": "42088-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8707,6 +8771,7 @@
     }
   },
   "18007-rebirth.mod": {
+    "name": "Black Dragon Ninjas",
     "stringId": "18007-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8810,6 +8875,7 @@
     }
   },
   "48671-rebirth.mod": {
+    "name": "Ancient Ruins",
     "stringId": "48671-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8867,6 +8933,7 @@
     }
   },
   "42235-rebirth.mod": {
+    "name": "Shrieking Bandits",
     "stringId": "42235-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -8931,6 +8998,7 @@
     }
   },
   "49392-rebirth.mod": {
+    "name": "Rebirth Slaves",
     "stringId": "49392-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9006,6 +9074,7 @@
     }
   },
   "42257-rebirth.mod": {
+    "name": "Berserkers",
     "stringId": "42257-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9124,6 +9193,7 @@
     }
   },
   "42022-rebirth.mod": {
+    "name": "Holy Nation Outlaws",
     "stringId": "42022-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9201,6 +9271,7 @@
     }
   },
   "51331-rebirth.mod": {
+    "name": "Spiders",
     "stringId": "51331-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9290,6 +9361,7 @@
     }
   },
   "51357-rebirth.mod": {
+    "name": "Kral's Chosen",
     "stringId": "51357-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9423,6 +9495,7 @@
     }
   },
   "51638-rebirth.mod": {
+    "name": "Swamp Ninjas",
     "stringId": "51638-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9615,6 +9688,7 @@
     }
   },
   "51652-rebirth.mod": {
+    "name": "Red Sabres",
     "stringId": "51652-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9847,6 +9921,7 @@
     }
   },
   "51707-rebirth.mod": {
+    "name": "Drifters",
     "stringId": "51707-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -9949,6 +10024,7 @@
     }
   },
   "51811-rebirth.mod": {
+    "name": "Swamp Creatures",
     "stringId": "51811-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10031,6 +10107,7 @@
     }
   },
   "51812-rebirth.mod": {
+    "name": "Gutters",
     "stringId": "51812-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10088,6 +10165,7 @@
     }
   },
   "51813-rebirth.mod": {
+    "name": "Gorillos",
     "stringId": "51813-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10148,6 +10226,7 @@
     }
   },
   "54297-rebirth.mod": {
+    "name": "Rebel Farmers",
     "stringId": "54297-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10269,6 +10348,7 @@
     }
   },
   "54587-rebirth.mod": {
+    "name": "Manhunters",
     "stringId": "54587-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10341,6 +10421,7 @@
     }
   },
   "55101-rebirth.mod": {
+    "name": "Slave Hunters",
     "stringId": "55101-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10415,6 +10496,7 @@
     }
   },
   "56098-rebirth.mod": {
+    "name": "Skimmers",
     "stringId": "56098-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10465,6 +10547,7 @@
     }
   },
   "56101-rebirth.mod": {
+    "name": "Megacity",
     "stringId": "56101-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10713,6 +10796,7 @@
     }
   },
   "56108-rebirth.mod": {
+    "name": "Crabs",
     "stringId": "56108-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10770,6 +10854,7 @@
     }
   },
   "56128-rebirth.mod": {
+    "name": "Wolves",
     "stringId": "56128-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10820,6 +10905,7 @@
     }
   },
   "62805-rebirth.mod": {
+    "name": "Reavers",
     "stringId": "62805-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -10935,6 +11021,7 @@
     }
   },
   "57737-rebirth.mod": {
+    "name": "Skeleton Legion",
     "stringId": "57737-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11029,6 +11116,7 @@
     }
   },
   "57740-rebirth.mod": {
+    "name": "Slaves",
     "stringId": "57740-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11071,6 +11159,7 @@
     "references": {}
   },
   "58701-rebirth.mod": {
+    "name": "Raptors",
     "stringId": "58701-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11133,6 +11222,7 @@
     }
   },
   "62792-rebirth.mod": {
+    "name": "Skeleton Bandits",
     "stringId": "62792-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11212,6 +11302,7 @@
     }
   },
   "62806-rebirth.mod": {
+    "name": "Crab Raiders",
     "stringId": "62806-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11298,6 +11389,7 @@
     }
   },
   "64918-rebirth.mod": {
+    "name": "Broken Ones",
     "stringId": "64918-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11348,6 +11440,7 @@
     }
   },
   "66292-rebirth.mod": {
+    "name": "Black Desert Ninjas",
     "stringId": "66292-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11429,6 +11522,7 @@
     }
   },
   "95512-rebirth.mod": {
+    "name": "Scavengers",
     "stringId": "95512-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11513,6 +11607,7 @@
     }
   },
   "96156-rebirth.mod": {
+    "name": "Vagrants",
     "stringId": "96156-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11587,6 +11682,7 @@
     }
   },
   "96175-rebirth.mod": {
+    "name": "Grass Pirates",
     "stringId": "96175-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11746,6 +11842,7 @@
     }
   },
   "96261-rebirth.mod": {
+    "name": "The Gorrillo Bandits",
     "stringId": "96261-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11813,6 +11910,7 @@
     }
   },
   "96359-rebirth.mod": {
+    "name": "Fishmen",
     "stringId": "96359-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -11933,6 +12031,7 @@
     }
   },
   "97613-rebirth.mod": {
+    "name": "Thrall Masters",
     "stringId": "97613-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -12015,6 +12114,7 @@
     }
   },
   "1532482-__May 18 2.mod": {
+    "name": "Yabuta Outlaws",
     "stringId": "1532482-__May 18 2.mod",
     "type": "Faction",
     "values": {
@@ -12089,6 +12189,7 @@
     }
   },
   "1532900-__world reactions NE.mod": {
+    "name": "Rebel Swordsmen",
     "stringId": "1532900-__world reactions NE.mod",
     "type": "Faction",
     "values": {
@@ -12252,6 +12353,7 @@
     }
   },
   "1533874-rebirth.mod": {
+    "name": "Second Empire Exile",
     "stringId": "1533874-rebirth.mod",
     "type": "Faction",
     "values": {
@@ -12363,6 +12465,7 @@
     }
   },
   "1534558-rebirth.mod": {
+    "name": "Bar Thugs",
     "stringId": "1534558-rebirth.mod",
     "type": "Faction",
     "values": {

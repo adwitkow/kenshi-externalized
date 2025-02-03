@@ -1,5 +1,6 @@
 {
   "55639-Newwworld.mod": {
+    "name": "Fishman",
     "stringId": "55639-Newwworld.mod",
     "type": "RaceGroup",
     "values": {
@@ -17,6 +18,7 @@
     }
   },
   "65269-Newwworld.mod": {
+    "name": "Skeleton MkII",
     "stringId": "65269-Newwworld.mod",
     "type": "RaceGroup",
     "values": {
@@ -34,6 +36,7 @@
     }
   },
   "66530-Newwworld.mod": {
+    "name": "Skeleton MkII Log Head",
     "stringId": "66530-Newwworld.mod",
     "type": "RaceGroup",
     "values": {
@@ -51,6 +54,7 @@
     }
   },
   "42903-rebirth.mod": {
+    "name": "Skeleton",
     "stringId": "42903-rebirth.mod",
     "type": "RaceGroup",
     "values": {
@@ -92,6 +96,7 @@
     }
   },
   "42902-rebirth.mod": {
+    "name": "Shek",
     "stringId": "42902-rebirth.mod",
     "type": "RaceGroup",
     "values": {
@@ -108,6 +113,7 @@
     }
   },
   "42900-rebirth.mod": {
+    "name": "Human",
     "stringId": "42900-rebirth.mod",
     "type": "RaceGroup",
     "values": {
@@ -129,6 +135,7 @@
     }
   },
   "42901-rebirth.mod": {
+    "name": "Hive",
     "stringId": "42901-rebirth.mod",
     "type": "RaceGroup",
     "values": {
@@ -155,6 +162,7 @@
     }
   },
   "1533856-rebirth.mod": {
+    "name": "Southern Hive",
     "stringId": "1533856-rebirth.mod",
     "type": "RaceGroup",
     "values": {

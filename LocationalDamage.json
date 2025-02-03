@@ -1,5 +1,6 @@
 {
   "32-gamedata.quack": {
+    "name": "Head",
     "stringId": "32-gamedata.quack",
     "type": "LocationalDamage",
     "values": {
@@ -33,6 +34,7 @@
     }
   },
   "28-gamedata.quack": {
+    "name": "Left Arm",
     "stringId": "28-gamedata.quack",
     "type": "LocationalDamage",
     "values": {
@@ -66,6 +68,7 @@
     }
   },
   "31-gamedata.quack": {
+    "name": "Right Leg",
     "stringId": "31-gamedata.quack",
     "type": "LocationalDamage",
     "values": {
@@ -92,6 +95,7 @@
     }
   },
   "4019-gamedata.base": {
+    "name": "Left Foreleg",
     "stringId": "4019-gamedata.base",
     "type": "LocationalDamage",
     "values": {
@@ -125,6 +129,7 @@
     }
   },
   "101-gamedata.quack": {
+    "name": "Chest",
     "stringId": "101-gamedata.quack",
     "type": "LocationalDamage",
     "values": {
@@ -158,6 +163,7 @@
     }
   },
   "100-gamedata.quack": {
+    "name": "Stomach",
     "stringId": "100-gamedata.quack",
     "type": "LocationalDamage",
     "values": {
@@ -191,6 +197,7 @@
     }
   },
   "30-gamedata.quack": {
+    "name": "Left Leg",
     "stringId": "30-gamedata.quack",
     "type": "LocationalDamage",
     "values": {
@@ -217,6 +224,7 @@
     }
   },
   "4018-gamedata.base": {
+    "name": "Right Foreleg",
     "stringId": "4018-gamedata.base",
     "type": "LocationalDamage",
     "values": {
@@ -250,6 +258,7 @@
     }
   },
   "29-gamedata.quack": {
+    "name": "Right Arm",
     "stringId": "29-gamedata.quack",
     "type": "LocationalDamage",
     "values": {

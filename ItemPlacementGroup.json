@@ -1,5 +1,6 @@
 {
   "12615-nodes_otto.mod": {
+    "name": "Food Ingridients",
     "stringId": "12615-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -44,6 +45,7 @@
     }
   },
   "16853-nodes_otto1.mod": {
+    "name": "Writings",
     "stringId": "16853-nodes_otto1.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -78,6 +80,7 @@
     }
   },
   "12616-nodes_otto.mod": {
+    "name": "General Medical",
     "stringId": "12616-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -122,6 +125,7 @@
     }
   },
   "12610-nodes_otto.mod": {
+    "name": "General Weapons",
     "stringId": "12610-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -178,6 +182,7 @@
     }
   },
   "12614-nodes_otto.mod": {
+    "name": "General Materials",
     "stringId": "12614-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -252,6 +257,7 @@
     }
   },
   "12608-nodes_otto.mod": {
+    "name": "Food",
     "stringId": "12608-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -366,6 +372,7 @@
     }
   },
   "12612-nodes_otto.mod": {
+    "name": "General Clothing",
     "stringId": "12612-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -455,6 +462,7 @@
     }
   },
   "12611-nodes_otto.mod": {
+    "name": "Luxury Weapons",
     "stringId": "12611-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -506,6 +514,7 @@
     }
   },
   "5257-gamedata.base": {
+    "name": "slaver loot store",
     "stringId": "5257-gamedata.base",
     "type": "ItemPlacementGroup",
     "values": {
@@ -557,6 +566,7 @@
     }
   },
   "12607-nodes_otto.mod": {
+    "name": "General Items",
     "stringId": "12607-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -636,6 +646,7 @@
     }
   },
   "12613-nodes_otto.mod": {
+    "name": "Gereral Armor",
     "stringId": "12613-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -705,6 +716,7 @@
     }
   },
   "12609-nodes_otto.mod": {
+    "name": "Luxury Items",
     "stringId": "12609-nodes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -759,6 +771,7 @@
     }
   },
   "54033-Newwworld.mod": {
+    "name": "Carpet",
     "stringId": "54033-Newwworld.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -778,6 +791,7 @@
     }
   },
   "54548-Newwworld.mod": {
+    "name": "COIN",
     "stringId": "54548-Newwworld.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -807,6 +821,7 @@
     }
   },
   "1534065-Newwworld.mod": {
+    "name": "Economy Carpet",
     "stringId": "1534065-Newwworld.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -826,6 +841,7 @@
     }
   },
   "43403-changes_otto.mod": {
+    "name": "Hi-Tech Parts",
     "stringId": "43403-changes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -860,6 +876,7 @@
     }
   },
   "49372-rebirth.mod": {
+    "name": "Cannibal bait",
     "stringId": "49372-rebirth.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -924,6 +941,7 @@
     }
   },
   "50344-rebirth.mod": {
+    "name": "booze",
     "stringId": "50344-rebirth.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -983,6 +1001,7 @@
     }
   },
   "49928-rebirth.mod": {
+    "name": "Old Library",
     "stringId": "49928-rebirth.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -1022,6 +1041,7 @@
     }
   },
   "43401-changes_otto.mod": {
+    "name": "Low-Tech Parts",
     "stringId": "43401-changes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {
@@ -1056,6 +1076,7 @@
     }
   },
   "43402-changes_otto.mod": {
+    "name": "Mid-Tech Parts",
     "stringId": "43402-changes_otto.mod",
     "type": "ItemPlacementGroup",
     "values": {

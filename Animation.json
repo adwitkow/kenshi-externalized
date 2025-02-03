@@ -1,5 +1,6 @@
 {
   "5215-chareditor.mod": {
+    "name": "idle_stand_relax",
     "stringId": "5215-chareditor.mod",
     "type": "Animation",
     "values": {
@@ -68,6 +69,7 @@
     "references": {}
   },
   "112-gamedata.quack": {
+    "name": "hand2chest",
     "stringId": "112-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -136,6 +138,7 @@
     "references": {}
   },
   "72-gamedata.quack": {
+    "name": "walk upper",
     "stringId": "72-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -204,6 +207,7 @@
     "references": {}
   },
   "1522-gamedata.base": {
+    "name": "sleepinbed",
     "stringId": "1522-gamedata.base",
     "type": "Animation",
     "values": {
@@ -272,6 +276,7 @@
     "references": {}
   },
   "113-gamedata.quack": {
+    "name": "hand2shoulder",
     "stringId": "113-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -340,6 +345,7 @@
     "references": {}
   },
   "43863-gamedata.base": {
+    "name": "swim carry",
     "stringId": "43863-gamedata.base",
     "type": "Animation",
     "values": {
@@ -416,6 +422,7 @@
     }
   },
   "2662-gamedata.base": {
+    "name": "kneeling hostage idle",
     "stringId": "2662-gamedata.base",
     "type": "Animation",
     "values": {
@@ -484,6 +491,7 @@
     "references": {}
   },
   "1430-gamedata.base": {
+    "name": "run upper sword lefty",
     "stringId": "1430-gamedata.base",
     "type": "Animation",
     "values": {
@@ -552,6 +560,7 @@
     "references": {}
   },
   "1429-gamedata.base": {
+    "name": "jog carrying left",
     "stringId": "1429-gamedata.base",
     "type": "Animation",
     "values": {
@@ -620,6 +629,7 @@
     "references": {}
   },
   "85-gamedata.quack": {
+    "name": "limp R upper",
     "stringId": "85-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -688,6 +698,7 @@
     "references": {}
   },
   "75-gamedata.quack": {
+    "name": "stand 1",
     "stringId": "75-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -756,6 +767,7 @@
     "references": {}
   },
   "81-gamedata.quack": {
+    "name": "jog upper sword",
     "stringId": "81-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -824,6 +836,7 @@
     "references": {}
   },
   "44932-gamedata.base": {
+    "name": "guard katana high",
     "stringId": "44932-gamedata.base",
     "type": "Animation",
     "values": {
@@ -892,6 +905,7 @@
     "references": {}
   },
   "78-gamedata.quack": {
+    "name": "jog lower",
     "stringId": "78-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -973,6 +987,7 @@
     }
   },
   "1424-gamedata.base": {
+    "name": "stand carrying left",
     "stringId": "1424-gamedata.base",
     "type": "Animation",
     "values": {
@@ -1041,6 +1056,7 @@
     "references": {}
   },
   "95-gamedata.quack": {
+    "name": "mid blow",
     "stringId": "95-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1147,6 +1163,7 @@
     }
   },
   "117-gamedata.quack": {
+    "name": "hand2leftshoulder",
     "stringId": "117-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1215,6 +1232,7 @@
     "references": {}
   },
   "2856-gamedata.base": {
+    "name": "standing up 3",
     "stringId": "2856-gamedata.base",
     "type": "Animation",
     "values": {
@@ -1283,6 +1301,7 @@
     "references": {}
   },
   "14533-gamedata.base": {
+    "name": "sitting chair",
     "stringId": "14533-gamedata.base",
     "type": "Animation",
     "values": {
@@ -1351,6 +1370,7 @@
     "references": {}
   },
   "88-gamedata.quack": {
+    "name": "strafe lower",
     "stringId": "88-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1419,6 +1439,7 @@
     "references": {}
   },
   "5213-chareditor.mod": {
+    "name": "idle_stand_guard",
     "stringId": "5213-chareditor.mod",
     "type": "Animation",
     "values": {
@@ -1487,6 +1508,7 @@
     "references": {}
   },
   "5214-chareditor.mod": {
+    "name": "idle_stand_timid",
     "stringId": "5214-chareditor.mod",
     "type": "Animation",
     "values": {
@@ -1555,6 +1577,7 @@
     "references": {}
   },
   "119-gamedata.quack": {
+    "name": "hand2ribs-R",
     "stringId": "119-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1623,6 +1646,7 @@
     "references": {}
   },
   "44933-gamedata.base": {
+    "name": "guard 1",
     "stringId": "44933-gamedata.base",
     "type": "Animation",
     "values": {
@@ -1691,6 +1715,7 @@
     "references": {}
   },
   "83-gamedata.quack": {
+    "name": "pickup",
     "stringId": "83-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1759,6 +1784,7 @@
     "references": {}
   },
   "5212-chareditor.mod": {
+    "name": "idle_stand_confident",
     "stringId": "5212-chareditor.mod",
     "type": "Animation",
     "values": {
@@ -1827,6 +1853,7 @@
     "references": {}
   },
   "98-gamedata.quack": {
+    "name": "combatstance",
     "stringId": "98-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1895,6 +1922,7 @@
     "references": {}
   },
   "120-gamedata.quack": {
+    "name": "hand2chest-R",
     "stringId": "120-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -1963,6 +1991,7 @@
     "references": {}
   },
   "89-gamedata.quack": {
+    "name": "sidestep--",
     "stringId": "89-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -2031,6 +2060,7 @@
     "references": {}
   },
   "1419-gamedata.base": {
+    "name": "shoulder lift right",
     "stringId": "1419-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2099,6 +2129,7 @@
     "references": {}
   },
   "40562-gamedata.base": {
+    "name": "stand pole",
     "stringId": "40562-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2167,6 +2198,7 @@
     "references": {}
   },
   "1426-gamedata.base": {
+    "name": "jog carrying right",
     "stringId": "1426-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2235,6 +2267,7 @@
     "references": {}
   },
   "73-gamedata.quack": {
+    "name": "run lower",
     "stringId": "73-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -2316,6 +2349,7 @@
     }
   },
   "84-gamedata.quack": {
+    "name": "limp R lower",
     "stringId": "84-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -2397,6 +2431,7 @@
     }
   },
   "111-gamedata.quack": {
+    "name": "hand2stomach",
     "stringId": "111-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -2465,6 +2500,7 @@
     "references": {}
   },
   "1428-gamedata.base": {
+    "name": "walk carrying right",
     "stringId": "1428-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2533,6 +2569,7 @@
     "references": {}
   },
   "1423-gamedata.base": {
+    "name": "carry me",
     "stringId": "1423-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2601,6 +2638,7 @@
     "references": {}
   },
   "5216-chareditor.mod": {
+    "name": "idle_stand_normal",
     "stringId": "5216-chareditor.mod",
     "type": "Animation",
     "values": {
@@ -2669,6 +2707,7 @@
     "references": {}
   },
   "99-gamedata.quack": {
+    "name": "strafe upper",
     "stringId": "99-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -2738,6 +2777,7 @@
     "references": {}
   },
   "1421-gamedata.base": {
+    "name": "shoulder lift B",
     "stringId": "1421-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2806,6 +2846,7 @@
     "references": {}
   },
   "1413-gamedata.base": {
+    "name": "gotobed",
     "stringId": "1413-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2874,6 +2915,7 @@
     "references": {}
   },
   "1520-gamedata.base": {
+    "name": "chop down static",
     "stringId": "1520-gamedata.base",
     "type": "Animation",
     "values": {
@@ -2950,6 +2992,7 @@
     }
   },
   "1427-gamedata.base": {
+    "name": "shoulder lift left",
     "stringId": "1427-gamedata.base",
     "type": "Animation",
     "values": {
@@ -3018,6 +3061,7 @@
     "references": {}
   },
   "80-gamedata.quack": {
+    "name": "walk upper sword",
     "stringId": "80-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3086,6 +3130,7 @@
     "references": {}
   },
   "94-gamedata.quack": {
+    "name": "guard 1 default",
     "stringId": "94-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3155,6 +3200,7 @@
     "references": {}
   },
   "115-gamedata.quack": {
+    "name": "hand2chest ext",
     "stringId": "115-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3223,6 +3269,7 @@
     "references": {}
   },
   "1431-gamedata.base": {
+    "name": "stand carrying right",
     "stringId": "1431-gamedata.base",
     "type": "Animation",
     "values": {
@@ -3291,6 +3338,7 @@
     "references": {}
   },
   "116-gamedata.quack": {
+    "name": "hand2ribs",
     "stringId": "116-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3359,6 +3407,7 @@
     "references": {}
   },
   "82-gamedata.quack": {
+    "name": "run upper sword",
     "stringId": "82-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3427,6 +3476,7 @@
     "references": {}
   },
   "12610-animation.mod": {
+    "name": "head turning",
     "stringId": "12610-animation.mod",
     "type": "Animation",
     "values": {
@@ -3495,6 +3545,7 @@
     "references": {}
   },
   "2623-gamedata.base": {
+    "name": "sitting idle",
     "stringId": "2623-gamedata.base",
     "type": "Animation",
     "values": {
@@ -3563,6 +3614,7 @@
     "references": {}
   },
   "77-gamedata.quack": {
+    "name": "run upper",
     "stringId": "77-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3631,6 +3683,7 @@
     "references": {}
   },
   "2621-gamedata.base": {
+    "name": "foetal",
     "stringId": "2621-gamedata.base",
     "type": "Animation",
     "values": {
@@ -3699,6 +3752,7 @@
     "references": {}
   },
   "74-gamedata.quack": {
+    "name": "stand 1 sword",
     "stringId": "74-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3767,6 +3821,7 @@
     "references": {}
   },
   "121-gamedata.quack": {
+    "name": "hand2stomach-R",
     "stringId": "121-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3835,6 +3890,7 @@
     "references": {}
   },
   "205-gamedata.base": {
+    "name": "medic",
     "stringId": "205-gamedata.base",
     "type": "Animation",
     "values": {
@@ -3903,6 +3959,7 @@
     "references": {}
   },
   "86-gamedata.quack": {
+    "name": "limp L upper",
     "stringId": "86-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -3971,6 +4028,7 @@
     "references": {}
   },
   "1432-gamedata.base": {
+    "name": "stand 1 sword lefty",
     "stringId": "1432-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4039,6 +4097,7 @@
     "references": {}
   },
   "1420-gamedata.base": {
+    "name": "walk carrying left",
     "stringId": "1420-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4107,6 +4166,7 @@
     "references": {}
   },
   "2121-gamedata.base": {
+    "name": "stand 1 sword noarms",
     "stringId": "2121-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4175,6 +4235,7 @@
     "references": {}
   },
   "87-gamedata.quack": {
+    "name": "limp L lower",
     "stringId": "87-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -4256,6 +4317,7 @@
     }
   },
   "5217-chareditor.mod": {
+    "name": "idle_stand_stiff",
     "stringId": "5217-chareditor.mod",
     "type": "Animation",
     "values": {
@@ -4324,6 +4386,7 @@
     "references": {}
   },
   "96-gamedata.quack": {
+    "name": "breathing",
     "stringId": "96-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -4392,6 +4455,7 @@
     "references": {}
   },
   "71-gamedata.quack": {
+    "name": "walk lower",
     "stringId": "71-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -4473,6 +4537,7 @@
     }
   },
   "118-gamedata.quack": {
+    "name": "hand2head-R",
     "stringId": "118-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -4541,6 +4606,7 @@
     "references": {}
   },
   "114-gamedata.quack": {
+    "name": "hand2head",
     "stringId": "114-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -4609,6 +4675,7 @@
     "references": {}
   },
   "206-gamedata.base": {
+    "name": "squat T",
     "stringId": "206-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4677,6 +4744,7 @@
     "references": {}
   },
   "208-gamedata.base": {
+    "name": "stonemine",
     "stringId": "208-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4753,6 +4821,7 @@
     }
   },
   "2624-gamedata.base": {
+    "name": "sitting dazed",
     "stringId": "2624-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4821,6 +4890,7 @@
     "references": {}
   },
   "97-gamedata.quack": {
+    "name": "breathing noarms",
     "stringId": "97-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -4889,6 +4959,7 @@
     "references": {}
   },
   "207-gamedata.base": {
+    "name": "squat",
     "stringId": "207-gamedata.base",
     "type": "Animation",
     "values": {
@@ -4957,6 +5028,7 @@
     "references": {}
   },
   "1433-gamedata.base": {
+    "name": "carrying left arm only",
     "stringId": "1433-gamedata.base",
     "type": "Animation",
     "values": {
@@ -5025,6 +5097,7 @@
     "references": {}
   },
   "43862-gamedata.base": {
+    "name": "swim",
     "stringId": "43862-gamedata.base",
     "type": "Animation",
     "values": {
@@ -5106,6 +5179,7 @@
     }
   },
   "79-gamedata.quack": {
+    "name": "jog upper",
     "stringId": "79-gamedata.quack",
     "type": "Animation",
     "values": {
@@ -5174,6 +5248,7 @@
     "references": {}
   },
   "1434-gamedata.base": {
+    "name": "carrying right arm only",
     "stringId": "1434-gamedata.base",
     "type": "Animation",
     "values": {
@@ -5242,6 +5317,7 @@
     "references": {}
   },
   "46041-rebirth.mod": {
+    "name": "run upper stealth",
     "stringId": "46041-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5310,6 +5386,7 @@
     "references": {}
   },
   "46396-rebirth.mod": {
+    "name": "mid blow light",
     "stringId": "46396-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5416,6 +5493,7 @@
     }
   },
   "44920-rebirth.mod": {
+    "name": "sleeponfloor",
     "stringId": "44920-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5484,6 +5562,7 @@
     "references": {}
   },
   "43889-rebirth.mod": {
+    "name": "eat",
     "stringId": "43889-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5552,6 +5631,7 @@
     "references": {}
   },
   "46049-rebirth.mod": {
+    "name": "jog upper limp L",
     "stringId": "46049-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5620,6 +5700,7 @@
     "references": {}
   },
   "45553-rebirth.mod": {
+    "name": "crouch walk upper",
     "stringId": "45553-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5688,6 +5769,7 @@
     "references": {}
   },
   "46050-rebirth.mod": {
+    "name": "jog lower limp R",
     "stringId": "46050-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5769,6 +5851,7 @@
     }
   },
   "46040-rebirth.mod": {
+    "name": "run lower stealth",
     "stringId": "46040-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5837,6 +5920,7 @@
     "references": {}
   },
   "46048-rebirth.mod": {
+    "name": "jog lower limp L",
     "stringId": "46048-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5918,6 +6002,7 @@
     }
   },
   "45548-rebirth.mod": {
+    "name": "crouch walk lower",
     "stringId": "45548-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -5986,6 +6071,7 @@
     "references": {}
   },
   "45549-rebirth.mod": {
+    "name": "stealth idle",
     "stringId": "45549-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6054,6 +6140,7 @@
     "references": {}
   },
   "43397-rebirth.mod": {
+    "name": "sword ready (carry)",
     "stringId": "43397-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6122,6 +6209,7 @@
     "references": {}
   },
   "46056-rebirth.mod": {
+    "name": "walk lower combat shuffle long BK",
     "stringId": "46056-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6190,6 +6278,7 @@
     "references": {}
   },
   "46399-rebirth.mod": {
+    "name": "back blow low",
     "stringId": "46399-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6281,6 +6370,7 @@
     }
   },
   "46398-rebirth.mod": {
+    "name": "walk lower combat shuffle short",
     "stringId": "46398-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6349,6 +6439,7 @@
     "references": {}
   },
   "43866-rebirth.mod": {
+    "name": "carrying left arm only -swim",
     "stringId": "43866-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6425,6 +6516,7 @@
     }
   },
   "43871-rebirth.mod": {
+    "name": "generic use",
     "stringId": "43871-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6493,6 +6585,7 @@
     "references": {}
   },
   "46400-rebirth.mod": {
+    "name": "back blow light",
     "stringId": "46400-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6599,6 +6692,7 @@
     }
   },
   "46397-rebirth.mod": {
+    "name": "back blow high",
     "stringId": "46397-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6685,6 +6779,7 @@
     }
   },
   "43864-rebirth.mod": {
+    "name": "swim carry left",
     "stringId": "43864-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6761,6 +6856,7 @@
     }
   },
   "50574-rebirth.mod": {
+    "name": "walk lower combat shuffle long FW",
     "stringId": "50574-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6829,6 +6925,7 @@
     "references": {}
   },
   "46051-rebirth.mod": {
+    "name": "jog upper limp R",
     "stringId": "46051-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6897,6 +6994,7 @@
     "references": {}
   },
   "46957-rebirth.mod": {
+    "name": "mid blow drop",
     "stringId": "46957-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -6973,6 +7071,7 @@
     }
   },
   "44934-rebirth.mod": {
+    "name": "bowing",
     "stringId": "44934-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7041,6 +7140,7 @@
     "references": {}
   },
   "43865-rebirth.mod": {
+    "name": "swim idle",
     "stringId": "43865-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7109,6 +7209,7 @@
     "references": {}
   },
   "43867-rebirth.mod": {
+    "name": "knockout",
     "stringId": "43867-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7177,6 +7278,7 @@
     "references": {}
   },
   "95385-sfx.mod": {
+    "name": "knockout training",
     "stringId": "95385-sfx.mod",
     "type": "Animation",
     "values": {
@@ -7245,6 +7347,7 @@
     "references": {}
   },
   "53655-rebirth.mod": {
+    "name": "MA idle1",
     "stringId": "53655-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7313,6 +7416,7 @@
     "references": {}
   },
   "53657-rebirth.mod": {
+    "name": "MA idle2 lower skill",
     "stringId": "53657-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7381,6 +7485,7 @@
     "references": {}
   },
   "53658-rebirth.mod": {
+    "name": "guard 3",
     "stringId": "53658-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7449,6 +7554,7 @@
     "references": {}
   },
   "55111-__dont commit.mod": {
+    "name": "guard4 main",
     "stringId": "55111-__dont commit.mod",
     "type": "Animation",
     "values": {
@@ -7517,6 +7623,7 @@
     "references": {}
   },
   "55112-__dont commit.mod": {
+    "name": "guard5",
     "stringId": "55112-__dont commit.mod",
     "type": "Animation",
     "values": {
@@ -7585,6 +7692,7 @@
     "references": {}
   },
   "55113-__dont commit.mod": {
+    "name": "guard6",
     "stringId": "55113-__dont commit.mod",
     "type": "Animation",
     "values": {
@@ -7653,6 +7761,7 @@
     "references": {}
   },
   "55122-rebirth.mod": {
+    "name": "jog lower combat fallback",
     "stringId": "55122-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7734,6 +7843,7 @@
     }
   },
   "55123-rebirth.mod": {
+    "name": "jog upper combat fallback",
     "stringId": "55123-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7802,6 +7912,7 @@
     "references": {}
   },
   "55127-rebirth.mod": {
+    "name": "guard 1h",
     "stringId": "55127-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7870,6 +7981,7 @@
     "references": {}
   },
   "55128-rebirth.mod": {
+    "name": "guard polearm",
     "stringId": "55128-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -7938,6 +8050,7 @@
     "references": {}
   },
   "55392-rebirth.mod": {
+    "name": "wind in face",
     "stringId": "55392-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8006,6 +8119,7 @@
     "references": {}
   },
   "62168-rebirth.mod": {
+    "name": "crawling move",
     "stringId": "62168-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8074,6 +8188,7 @@
     "references": {}
   },
   "62194-rebirth.mod": {
+    "name": "crouch walk upper carrying",
     "stringId": "62194-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8142,6 +8257,7 @@
     "references": {}
   },
   "65266-rebirth.mod": {
+    "name": "aimwalk",
     "stringId": "65266-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8210,6 +8326,7 @@
     "references": {}
   },
   "65274-rebirth.mod": {
+    "name": "reload 1 phase",
     "stringId": "65274-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8286,6 +8403,7 @@
     }
   },
   "65977-rebirth.mod": {
+    "name": "aimH",
     "stringId": "65977-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8354,6 +8472,7 @@
     "references": {}
   },
   "65978-rebirth.mod": {
+    "name": "shoot",
     "stringId": "65978-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8422,6 +8541,7 @@
     "references": {}
   },
   "66501-rebirth.mod": {
+    "name": "crawl idle up",
     "stringId": "66501-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8490,6 +8610,7 @@
     "references": {}
   },
   "66502-rebirth.mod": {
+    "name": "crawl idle down",
     "stringId": "66502-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8558,6 +8679,7 @@
     "references": {}
   },
   "66503-rebirth.mod": {
+    "name": "crawl use",
     "stringId": "66503-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8626,6 +8748,7 @@
     "references": {}
   },
   "66547-rebirth.mod": {
+    "name": "reload 2 phase",
     "stringId": "66547-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8702,6 +8825,7 @@
     }
   },
   "66548-rebirth.mod": {
+    "name": "reload 3 phase",
     "stringId": "66548-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8778,6 +8902,7 @@
     }
   },
   "95544-rebirth.mod": {
+    "name": "stand 1 crossbow",
     "stringId": "95544-rebirth.mod",
     "type": "Animation",
     "values": {
@@ -8846,6 +8971,7 @@
     "references": {}
   },
   "1533495-rebirth.mod": {
+    "name": "crouch run upper carrying",
     "stringId": "1533495-rebirth.mod",
     "type": "Animation",
     "values": {

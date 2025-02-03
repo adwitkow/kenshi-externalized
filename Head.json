@@ -1,5 +1,6 @@
 {
   "5347-chareditor.mod": {
+    "name": "HumanMale05",
     "stringId": "5347-chareditor.mod",
     "type": "Head",
     "values": {
@@ -17,6 +18,7 @@
     "references": {}
   },
   "5342-chareditor.mod": {
+    "name": "BonePeopleFemale02",
     "stringId": "5342-chareditor.mod",
     "type": "Head",
     "values": {
@@ -34,6 +36,7 @@
     "references": {}
   },
   "5347-stick_people.mod": {
+    "name": "StickPeopleHead00",
     "stringId": "5347-stick_people.mod",
     "type": "Head",
     "values": {
@@ -51,6 +54,7 @@
     "references": {}
   },
   "5346-chareditor.mod": {
+    "name": "ScorchMale03",
     "stringId": "5346-chareditor.mod",
     "type": "Head",
     "values": {
@@ -68,6 +72,7 @@
     "references": {}
   },
   "5345-chareditor.mod": {
+    "name": "BonePeopleMale02",
     "stringId": "5345-chareditor.mod",
     "type": "Head",
     "values": {
@@ -85,6 +90,7 @@
     "references": {}
   },
   "5443-lights_otto.mod": {
+    "name": "CannibalMale00",
     "stringId": "5443-lights_otto.mod",
     "type": "Head",
     "values": {
@@ -102,6 +108,7 @@
     "references": {}
   },
   "5348-chareditor.mod": {
+    "name": "HumanFemale00",
     "stringId": "5348-chareditor.mod",
     "type": "Head",
     "values": {
@@ -119,6 +126,7 @@
     "references": {}
   },
   "18916-small_changes_otto.mod": {
+    "name": "StickPeopleHeadPale00",
     "stringId": "18916-small_changes_otto.mod",
     "type": "Head",
     "values": {
@@ -136,6 +144,7 @@
     "references": {}
   },
   "5444-lights_otto.mod": {
+    "name": "CannibalFemale00",
     "stringId": "5444-lights_otto.mod",
     "type": "Head",
     "values": {
@@ -153,6 +162,7 @@
     "references": {}
   },
   "5344-chareditor.mod": {
+    "name": "BonePeopleMale01",
     "stringId": "5344-chareditor.mod",
     "type": "Head",
     "values": {
@@ -170,6 +180,7 @@
     "references": {}
   },
   "5338-chareditor.mod": {
+    "name": "BonePeopleFemale00",
     "stringId": "5338-chareditor.mod",
     "type": "Head",
     "values": {
@@ -187,6 +198,7 @@
     "references": {}
   },
   "18919-small_changes_otto.mod": {
+    "name": "StickPeopleHead01",
     "stringId": "18919-small_changes_otto.mod",
     "type": "Head",
     "values": {
@@ -204,6 +216,7 @@
     "references": {}
   },
   "5343-chareditor.mod": {
+    "name": "BonePeopleMale00",
     "stringId": "5343-chareditor.mod",
     "type": "Head",
     "values": {
@@ -221,6 +234,7 @@
     "references": {}
   },
   "5341-chareditor.mod": {
+    "name": "HumanMale01",
     "stringId": "5341-chareditor.mod",
     "type": "Head",
     "values": {
@@ -238,6 +252,7 @@
     "references": {}
   },
   "5340-chareditor.mod": {
+    "name": "BonePeopleFemale01",
     "stringId": "5340-chareditor.mod",
     "type": "Head",
     "values": {
@@ -255,6 +270,7 @@
     "references": {}
   },
   "5350-chareditor.mod": {
+    "name": "ScorchFemale03",
     "stringId": "5350-chareditor.mod",
     "type": "Head",
     "values": {
@@ -272,6 +288,7 @@
     "references": {}
   },
   "5349-chareditor.mod": {
+    "name": "HumanFemale01",
     "stringId": "5349-chareditor.mod",
     "type": "Head",
     "values": {
@@ -289,6 +306,7 @@
     "references": {}
   },
   "5339-chareditor.mod": {
+    "name": "HumanMale00",
     "stringId": "5339-chareditor.mod",
     "type": "Head",
     "values": {
@@ -306,6 +324,7 @@
     "references": {}
   },
   "18920-small_changes_otto.mod": {
+    "name": "StickPeopleHead02",
     "stringId": "18920-small_changes_otto.mod",
     "type": "Head",
     "values": {
@@ -323,6 +342,7 @@
     "references": {}
   },
   "55397-gamedata.base": {
+    "name": "HEAD",
     "stringId": "55397-gamedata.base",
     "type": "Head",
     "values": {
@@ -340,6 +360,7 @@
     "references": {}
   },
   "57336-Newwworld.mod": {
+    "name": "Hive Queen Head",
     "stringId": "57336-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -357,6 +378,7 @@
     "references": {}
   },
   "57767-Newwworld.mod": {
+    "name": "StickPeopleHead00_South_Hive",
     "stringId": "57767-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -374,6 +396,7 @@
     "references": {}
   },
   "57768-Newwworld.mod": {
+    "name": "StickPeopleHead01_South_Hive",
     "stringId": "57768-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -391,6 +414,7 @@
     "references": {}
   },
   "57769-Newwworld.mod": {
+    "name": "StickPeopleHead02_South_Hive",
     "stringId": "57769-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -408,6 +432,7 @@
     "references": {}
   },
   "57775-Newwworld.mod": {
+    "name": "SkeletonHeadVariant01",
     "stringId": "57775-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -425,6 +450,7 @@
     "references": {}
   },
   "57779-Newwworld.mod": {
+    "name": "SkeletonHeadVariant02",
     "stringId": "57779-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -442,6 +468,7 @@
     "references": {}
   },
   "57783-Newwworld.mod": {
+    "name": "SkeletonHeadVariant03",
     "stringId": "57783-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -459,6 +486,7 @@
     "references": {}
   },
   "99183-Newwworld.mod": {
+    "name": "HumanFemale04",
     "stringId": "99183-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -476,6 +504,7 @@
     "references": {}
   },
   "99184-Newwworld.mod": {
+    "name": "HumanMale06",
     "stringId": "99184-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -493,6 +522,7 @@
     "references": {}
   },
   "99654-Newwworld.mod": {
+    "name": "Fish Head",
     "stringId": "99654-Newwworld.mod",
     "type": "Head",
     "values": {
@@ -510,6 +540,7 @@
     "references": {}
   },
   "42032-rebirth.mod": {
+    "name": "StickPeopleHeadPale01",
     "stringId": "42032-rebirth.mod",
     "type": "Head",
     "values": {
@@ -527,6 +558,7 @@
     "references": {}
   },
   "50525-rebirth.mod": {
+    "name": "CannibalMale00 scav",
     "stringId": "50525-rebirth.mod",
     "type": "Head",
     "values": {
@@ -544,6 +576,7 @@
     "references": {}
   },
   "42033-rebirth.mod": {
+    "name": "StickPeopleHeadPale02",
     "stringId": "42033-rebirth.mod",
     "type": "Head",
     "values": {
@@ -561,6 +594,7 @@
     "references": {}
   },
   "43320-rebirth.mod": {
+    "name": "HumanFemale03nth",
     "stringId": "43320-rebirth.mod",
     "type": "Head",
     "values": {
@@ -578,6 +612,7 @@
     "references": {}
   },
   "42339-changes_otto.mod": {
+    "name": "HumanFemale03",
     "stringId": "42339-changes_otto.mod",
     "type": "Head",
     "values": {
@@ -595,6 +630,7 @@
     "references": {}
   },
   "50524-rebirth.mod": {
+    "name": "CannibalFemale00 scav",
     "stringId": "50524-rebirth.mod",
     "type": "Head",
     "values": {
@@ -612,6 +648,7 @@
     "references": {}
   },
   "52847-rebirth.mod": {
+    "name": "ScorchFemale06",
     "stringId": "52847-rebirth.mod",
     "type": "Head",
     "values": {
@@ -629,6 +666,7 @@
     "references": {}
   },
   "1532525-Newwworld Plus.mod": {
+    "name": "Alpha Fish Head",
     "stringId": "1532525-Newwworld Plus.mod",
     "type": "Head",
     "values": {

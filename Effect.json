@@ -1,5 +1,6 @@
 {
   "40560-weather_otto1.mod": {
+    "name": "weather_volcano_smoke1",
     "stringId": "40560-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -36,6 +37,7 @@
     "references": {}
   },
   "18967-small_changes_otto.mod": {
+    "name": "twister_fire1",
     "stringId": "18967-small_changes_otto.mod",
     "type": "Effect",
     "values": {
@@ -72,6 +74,7 @@
     "references": {}
   },
   "40565-weather_otto1.mod": {
+    "name": "weather_twister_dust1",
     "stringId": "40565-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -121,6 +124,7 @@
     }
   },
   "18966-small_changes_otto.mod": {
+    "name": "weather_sandstorm_wall1",
     "stringId": "18966-small_changes_otto.mod",
     "type": "Effect",
     "values": {
@@ -157,6 +161,7 @@
     "references": {}
   },
   "5463-nodes_furniture1_otto.mod": {
+    "name": "small- sparks1",
     "stringId": "5463-nodes_furniture1_otto.mod",
     "type": "Effect",
     "values": {
@@ -193,6 +198,7 @@
     "references": {}
   },
   "5462-new_furniture_otto.mod": {
+    "name": "small- fire2_torch",
     "stringId": "5462-new_furniture_otto.mod",
     "type": "Effect",
     "values": {
@@ -229,6 +235,7 @@
     "references": {}
   },
   "40563-weather_otto1.mod": {
+    "name": "weather_dust_point1",
     "stringId": "40563-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -265,6 +272,7 @@
     "references": {}
   },
   "5461-new_furniture_otto.mod": {
+    "name": "small- fire1_small",
     "stringId": "5461-new_furniture_otto.mod",
     "type": "Effect",
     "values": {
@@ -301,6 +309,7 @@
     "references": {}
   },
   "40561-weather_otto1.mod": {
+    "name": "rain_light",
     "stringId": "40561-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -337,6 +346,7 @@
     "references": {}
   },
   "40558-weather_otto1.mod": {
+    "name": "weather_fire_jet1",
     "stringId": "40558-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -373,6 +383,7 @@
     "references": {}
   },
   "40559-weather_otto1.mod": {
+    "name": "weather_chocking_clouds1",
     "stringId": "40559-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -409,6 +420,7 @@
     "references": {}
   },
   "40543-weather_otto1.mod": {
+    "name": "weather_lightning1",
     "stringId": "40543-weather_otto1.mod",
     "type": "Effect",
     "values": {
@@ -445,6 +457,7 @@
     "references": {}
   },
   "5462-nodes_furniture1_otto.mod": {
+    "name": "small- smoke3_small",
     "stringId": "5462-nodes_furniture1_otto.mod",
     "type": "Effect",
     "values": {
@@ -481,6 +494,7 @@
     "references": {}
   },
   "48450-Newwworld.mod": {
+    "name": "Kenshi_red_Rain",
     "stringId": "48450-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -517,6 +531,7 @@
     "references": {}
   },
   "48463-Newwworld.mod": {
+    "name": "Kenshi_Ash-Flakes_CameraCover",
     "stringId": "48463-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -553,6 +568,7 @@
     "references": {}
   },
   "48679-Newwworld.mod": {
+    "name": "Kenshi_Rising_Steam",
     "stringId": "48679-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -589,6 +605,7 @@
     "references": {}
   },
   "44959-Newwworld.mod": {
+    "name": "DesertBlast-BillowCloud",
     "stringId": "44959-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -625,6 +642,7 @@
     "references": {}
   },
   "48469-Newwworld.mod": {
+    "name": "steam-vent",
     "stringId": "48469-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -661,6 +679,7 @@
     "references": {}
   },
   "44881-Newwworld.mod": {
+    "name": "DesertCloudStorm",
     "stringId": "44881-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -697,6 +716,7 @@
     "references": {}
   },
   "44950-Newwworld.mod": {
+    "name": "small- FlameStarter",
     "stringId": "44950-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -733,6 +753,7 @@
     "references": {}
   },
   "44948-Newwworld.mod": {
+    "name": "small- Holy SIINNER Torch Flame",
     "stringId": "44948-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -769,6 +790,7 @@
     "references": {}
   },
   "48467-Newwworld.mod": {
+    "name": "Kenshi_Ash-Flakes_BLACK",
     "stringId": "48467-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -805,6 +827,7 @@
     "references": {}
   },
   "48446-Newwworld.mod": {
+    "name": "Kenshi_Mist_Cloud",
     "stringId": "48446-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -841,6 +864,7 @@
     "references": {}
   },
   "47952-Newwworld.mod": {
+    "name": "Kenshi_Heavy_Rain",
     "stringId": "47952-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -877,6 +901,7 @@
     "references": {}
   },
   "44951-Newwworld.mod": {
+    "name": "small- Holy SIINNER Torch Flame copy",
     "stringId": "44951-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -913,6 +938,7 @@
     "references": {}
   },
   "44934-Newwworld.mod": {
+    "name": "small- Holy Street Torch Flame",
     "stringId": "44934-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -949,6 +975,7 @@
     "references": {}
   },
   "44877-Newwworld.mod": {
+    "name": "Twister-of-fire01",
     "stringId": "44877-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -985,6 +1012,7 @@
     "references": {}
   },
   "48453-Newwworld.mod": {
+    "name": "Kenshi_black_rain",
     "stringId": "48453-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1021,6 +1049,7 @@
     "references": {}
   },
   "44942-Newwworld.mod": {
+    "name": "Sand-Stream any altitude",
     "stringId": "44942-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1057,6 +1086,7 @@
     "references": {}
   },
   "44949-Newwworld.mod": {
+    "name": "Lightning_Bolt",
     "stringId": "44949-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1093,6 +1123,7 @@
     "references": {}
   },
   "48459-Newwworld.mod": {
+    "name": "Kenshi_Ash-Flakes_Light",
     "stringId": "48459-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1129,6 +1160,7 @@
     "references": {}
   },
   "48689-Newwworld.mod": {
+    "name": "Twister-Chuff_Desert01",
     "stringId": "48689-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1178,6 +1210,7 @@
     }
   },
   "50920-Newwworld.mod": {
+    "name": "Watersplash",
     "stringId": "50920-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1214,6 +1247,7 @@
     "references": {}
   },
   "50999-Newwworld.mod": {
+    "name": "WadingFoam",
     "stringId": "50999-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1250,6 +1284,7 @@
     "references": {}
   },
   "51000-Newwworld.mod": {
+    "name": "Dustkick01",
     "stringId": "51000-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1286,6 +1321,7 @@
     "references": {}
   },
   "51001-Newwworld.mod": {
+    "name": "Dustkick01a",
     "stringId": "51001-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1322,6 +1358,7 @@
     "references": {}
   },
   "51002-Newwworld.mod": {
+    "name": "Dustkick01b",
     "stringId": "51002-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1358,6 +1395,7 @@
     "references": {}
   },
   "51003-Newwworld.mod": {
+    "name": "Dustkick01c",
     "stringId": "51003-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1394,6 +1432,7 @@
     "references": {}
   },
   "51004-Newwworld.mod": {
+    "name": "Twister-Chuff",
     "stringId": "51004-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1438,6 +1477,7 @@
     }
   },
   "51325-Newwworld.mod": {
+    "name": "Desert-dust-swirls EFFECT",
     "stringId": "51325-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1474,6 +1514,7 @@
     "references": {}
   },
   "51667-Newwworld.mod": {
+    "name": "Twister-LARGE",
     "stringId": "51667-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1523,6 +1564,7 @@
     }
   },
   "53579-Newwworld.mod": {
+    "name": "BloodSplatter01",
     "stringId": "53579-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1559,6 +1601,7 @@
     "references": {}
   },
   "53608-Newwworld.mod": {
+    "name": "Bloodspurter01",
     "stringId": "53608-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1595,6 +1638,7 @@
     "references": {}
   },
   "53609-Newwworld.mod": {
+    "name": "Bloodspurter02",
     "stringId": "53609-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1631,6 +1675,7 @@
     "references": {}
   },
   "55393-Newwworld.mod": {
+    "name": "Fly-Particle",
     "stringId": "55393-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1667,6 +1712,7 @@
     "references": {}
   },
   "55638-Newwworld.mod": {
+    "name": "Acid burn",
     "stringId": "55638-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1703,6 +1749,7 @@
     "references": {}
   },
   "56117-Newwworld.mod": {
+    "name": "Streetlight-Droidtype_fire_jet",
     "stringId": "56117-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1742,6 +1789,7 @@
     "references": {}
   },
   "56175-Newwworld.mod": {
+    "name": "DesertDetritus01",
     "stringId": "56175-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1778,6 +1826,7 @@
     "references": {}
   },
   "56185-Newwworld.mod": {
+    "name": "Desert-SandBlown_Streaks",
     "stringId": "56185-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1814,6 +1863,7 @@
     "references": {}
   },
   "56724-Newwworld.mod": {
+    "name": "Desert Haboob_cloud",
     "stringId": "56724-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1850,6 +1900,7 @@
     "references": {}
   },
   "57720-Newwworld.mod": {
+    "name": "SkyBeam",
     "stringId": "57720-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1894,6 +1945,7 @@
     }
   },
   "59290-Newwworld.mod": {
+    "name": "Volk-Cloud",
     "stringId": "59290-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1930,6 +1982,7 @@
     "references": {}
   },
   "62780-Newwworld.mod": {
+    "name": "poison gas [White]",
     "stringId": "62780-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -1966,6 +2019,7 @@
     "references": {}
   },
   "64197-Newwworld.mod": {
+    "name": "Desert-WISPS",
     "stringId": "64197-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2002,6 +2056,7 @@
     "references": {}
   },
   "64224-Newwworld.mod": {
+    "name": "Local-SWIRL-devil",
     "stringId": "64224-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2038,6 +2093,7 @@
     "references": {}
   },
   "64754-Newwworld.mod": {
+    "name": "Permanent-dust-storm",
     "stringId": "64754-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2074,6 +2130,7 @@
     "references": {}
   },
   "66292-Newwworld.mod": {
+    "name": "True-TORNADO",
     "stringId": "66292-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2118,6 +2175,7 @@
     }
   },
   "96364-Newwworld.mod": {
+    "name": "EFFECT",
     "stringId": "96364-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2154,6 +2212,7 @@
     "references": {}
   },
   "96905-Newwworld.mod": {
+    "name": "Drifting-foliage",
     "stringId": "96905-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2190,6 +2249,7 @@
     "references": {}
   },
   "99049-Newwworld.mod": {
+    "name": "Furnace_smoke",
     "stringId": "99049-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2226,6 +2286,7 @@
     "references": {}
   },
   "1532241-Newwworld.mod": {
+    "name": "peelerblood01",
     "stringId": "1532241-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2262,6 +2323,7 @@
     "references": {}
   },
   "1533487-Newwworld.mod": {
+    "name": "Volc-small-steamers",
     "stringId": "1533487-Newwworld.mod",
     "type": "Effect",
     "values": {
@@ -2298,6 +2360,7 @@
     "references": {}
   },
   "48749-rebirth.mod": {
+    "name": "purple desert",
     "stringId": "48749-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2334,6 +2397,7 @@
     "references": {}
   },
   "48712-rebirth.mod": {
+    "name": "ground sand",
     "stringId": "48712-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2370,6 +2434,7 @@
     "references": {}
   },
   "48692-rebirth.mod": {
+    "name": "fog islands",
     "stringId": "48692-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2406,6 +2471,7 @@
     "references": {}
   },
   "51324-rebirth.mod": {
+    "name": "shek desert",
     "stringId": "51324-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2442,6 +2508,7 @@
     "references": {}
   },
   "51366-rebirth.mod": {
+    "name": "rising steam slow",
     "stringId": "51366-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2478,6 +2545,7 @@
     "references": {}
   },
   "51369-rebirth.mod": {
+    "name": "Sand-Stream ambient",
     "stringId": "51369-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2514,6 +2582,7 @@
     "references": {}
   },
   "55643-rebirth.mod": {
+    "name": "EFFECT",
     "stringId": "55643-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2550,6 +2619,7 @@
     "references": {}
   },
   "56725-rebirth.mod": {
+    "name": "poison gas test",
     "stringId": "56725-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2586,6 +2656,7 @@
     "references": {}
   },
   "57718-rebirth.mod": {
+    "name": "venge beam",
     "stringId": "57718-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2630,6 +2701,7 @@
     }
   },
   "57719-rebirth.mod": {
+    "name": "beam1",
     "stringId": "57719-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2674,6 +2746,7 @@
     }
   },
   "63154-rebirth.mod": {
+    "name": "ground sand orange",
     "stringId": "63154-rebirth.mod",
     "type": "Effect",
     "values": {
@@ -2710,6 +2783,7 @@
     "references": {}
   },
   "63475-rebirth.mod": {
+    "name": "great desert streamers",
     "stringId": "63475-rebirth.mod",
     "type": "Effect",
     "values": {

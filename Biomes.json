@@ -1,5 +1,6 @@
 {
   "2315-biome_tweak.mod": {
+    "name": "desert",
     "stringId": "2315-biome_tweak.mod",
     "type": "Biomes",
     "values": {
@@ -207,6 +208,7 @@
     }
   },
   "5525-Newwworld.mod": {
+    "name": "Big Pit",
     "stringId": "5525-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -362,6 +364,7 @@
     }
   },
   "17948-Newwworld.mod": {
+    "name": "Blister Sands",
     "stringId": "17948-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -609,6 +612,7 @@
     }
   },
   "2723-gamedata.base": {
+    "name": "EMPTY",
     "stringId": "2723-gamedata.base",
     "type": "Biomes",
     "values": {
@@ -719,6 +723,7 @@
     "references": {}
   },
   "2730-Newwworld.mod": {
+    "name": "Ashlands",
     "stringId": "2730-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -901,6 +906,7 @@
     }
   },
   "2806-Newwworld.mod": {
+    "name": "Artery",
     "stringId": "2806-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -1220,6 +1226,7 @@
     }
   },
   "5736-Newwworld.mod": {
+    "name": "Ancient Hills",
     "stringId": "5736-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -1471,6 +1478,7 @@
     }
   },
   "14390-Newwworld.mod": {
+    "name": "Blister Cliffs",
     "stringId": "14390-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -1748,6 +1756,7 @@
     }
   },
   "2990-Newwworld.mod": {
+    "name": "BoneYard",
     "stringId": "2990-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -2047,6 +2056,7 @@
     }
   },
   "123-gamedata.quack": {
+    "name": "TERRAIN SPLATS",
     "stringId": "123-gamedata.quack",
     "type": "Biomes",
     "values": {
@@ -2157,6 +2167,7 @@
     "references": {}
   },
   "5515-Newwworld.mod": {
+    "name": "Barkworm Mountains",
     "stringId": "5515-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -2436,6 +2447,7 @@
     }
   },
   "5655-Newwworld.mod": {
+    "name": "Ancient Ruins",
     "stringId": "5655-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -2700,6 +2712,7 @@
     }
   },
   "2822-Newwworld.mod": {
+    "name": "Akakus ",
     "stringId": "2822-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -2919,6 +2932,7 @@
     }
   },
   "2928-Newwworld.mod": {
+    "name": "Akakus Desert Neighbour",
     "stringId": "2928-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -3153,6 +3167,7 @@
     }
   },
   "5570-Newwworld.mod": {
+    "name": "Blister",
     "stringId": "5570-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -3433,6 +3448,7 @@
     }
   },
   "3116-Newwworld.mod": {
+    "name": "Batholith",
     "stringId": "3116-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -3712,6 +3728,7 @@
     }
   },
   "42320-Newwworld.mod": {
+    "name": "Northern Towers",
     "stringId": "42320-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -3964,6 +3981,7 @@
     }
   },
   "14399-Newwworld.mod": {
+    "name": "Desert",
     "stringId": "14399-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -4215,6 +4233,7 @@
     }
   },
   "2741-Newwworld.mod": {
+    "name": "Dessica",
     "stringId": "2741-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -4459,6 +4478,7 @@
     }
   },
   "14540-Newwworld.mod": {
+    "name": "Hunter's Sight",
     "stringId": "14540-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -4748,6 +4768,7 @@
     }
   },
   "3620-Newwworld.mod": {
+    "name": "The Rakes",
     "stringId": "3620-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -5017,6 +5038,7 @@
     }
   },
   "47950-Newwworld.mod": {
+    "name": "The Rift SANDS",
     "stringId": "47950-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -5231,6 +5253,7 @@
     }
   },
   "5611-Newwworld.mod": {
+    "name": "Okran's Pride",
     "stringId": "5611-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -5543,6 +5566,7 @@
     }
   },
   "2950-Newwworld.mod": {
+    "name": "Green Edge -Desert Pools",
     "stringId": "2950-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -5817,6 +5841,7 @@
     }
   },
   "48690-Newwworld.mod": {
+    "name": "Skinner's Crawl",
     "stringId": "48690-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -6051,6 +6076,7 @@
     }
   },
   "5516-Newwworld.mod": {
+    "name": "Boneyard Pyraminds",
     "stringId": "5516-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -6293,6 +6319,7 @@
     }
   },
   "2974-Newwworld.mod": {
+    "name": "Kenshi Bowl",
     "stringId": "2974-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -6590,6 +6617,7 @@
     }
   },
   "2961-Newwworld.mod": {
+    "name": "Swamp",
     "stringId": "2961-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -6922,6 +6950,7 @@
     }
   },
   "4415-Newwworld.mod": {
+    "name": "Hard Shoulder",
     "stringId": "4415-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -7159,6 +7188,7 @@
     }
   },
   "5581-Newwworld.mod": {
+    "name": "Deadmen's Fingers",
     "stringId": "5581-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -7420,6 +7450,7 @@
     }
   },
   "4442-Newwworld.mod": {
+    "name": "ForestLand",
     "stringId": "4442-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -7732,6 +7763,7 @@
     }
   },
   "2742-Newwworld.mod": {
+    "name": "Mafic  Enclaves",
     "stringId": "2742-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -8041,6 +8073,7 @@
     }
   },
   "3629-Newwworld.mod": {
+    "name": "Swamp Head Outcrop",
     "stringId": "3629-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -8316,6 +8349,7 @@
     }
   },
   "5850-Newwworld.mod": {
+    "name": "Dark Finger",
     "stringId": "5850-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -8635,6 +8669,7 @@
     }
   },
   "5735-Newwworld.mod": {
+    "name": "RiftLake Hills Version",
     "stringId": "5735-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -8941,6 +8976,7 @@
     }
   },
   "2997-Newwworld.mod": {
+    "name": "Four Ways",
     "stringId": "2997-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -9165,6 +9201,7 @@
     }
   },
   "3195-Newwworld.mod": {
+    "name": "Hellish",
     "stringId": "3195-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -9407,6 +9444,7 @@
     }
   },
   "2644-Newwworld.mod": {
+    "name": "Canyonlands",
     "stringId": "2644-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -9734,6 +9772,7 @@
     }
   },
   "5663-Newwworld.mod": {
+    "name": "DesertMountains",
     "stringId": "5663-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -9963,6 +10002,7 @@
     }
   },
   "2732-Newwworld.mod": {
+    "name": "Mudpool Lands",
     "stringId": "2732-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -10073,6 +10113,7 @@
     "references": {}
   },
   "48748-Newwworld.mod": {
+    "name": "Red Coast",
     "stringId": "48748-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -10332,6 +10373,7 @@
     }
   },
   "4416-Newwworld.mod": {
+    "name": "Old Beach",
     "stringId": "4416-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -10598,6 +10640,7 @@
     }
   },
   "2920-Newwworld.mod": {
+    "name": "Wadi Rumble",
     "stringId": "2920-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -10892,6 +10935,7 @@
     }
   },
   "43874-Newwworld.mod": {
+    "name": "Canyonland FlatTop",
     "stringId": "43874-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -11149,6 +11193,7 @@
     }
   },
   "3395-Newwworld.mod": {
+    "name": "Floodwastes",
     "stringId": "3395-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -11364,6 +11409,7 @@
     }
   },
   "12613-Newwworld.mod": {
+    "name": "Swampfeeder Canyon",
     "stringId": "12613-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -11646,6 +11692,7 @@
     }
   },
   "5745-Newwworld.mod": {
+    "name": "White Inlet",
     "stringId": "5745-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -11897,6 +11944,7 @@
     }
   },
   "5583-Newwworld.mod": {
+    "name": "Head",
     "stringId": "5583-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -12154,6 +12202,7 @@
     }
   },
   "18940-Newwworld.mod": {
+    "name": "Tekic  Enclaves",
     "stringId": "18940-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -12428,6 +12477,7 @@
     }
   },
   "2923-Newwworld.mod": {
+    "name": "Wastemine",
     "stringId": "2923-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -12652,6 +12702,7 @@
     }
   },
   "3247-Newwworld.mod": {
+    "name": "Swamps",
     "stringId": "3247-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -12999,6 +13050,7 @@
     }
   },
   "16858-Newwworld.mod": {
+    "name": "Northern Flats",
     "stringId": "16858-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -13308,6 +13360,7 @@
     }
   },
   "5635-Newwworld.mod": {
+    "name": "Hoodoo Badland",
     "stringId": "5635-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -13612,6 +13665,7 @@
     }
   },
   "5727-Newwworld.mod": {
+    "name": "RiftLake Hills",
     "stringId": "5727-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -13926,6 +13980,7 @@
     }
   },
   "4501-Newwworld.mod": {
+    "name": "Desert Maze",
     "stringId": "4501-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -14190,6 +14245,7 @@
     }
   },
   "4467-Newwworld.mod": {
+    "name": "Whetbone ",
     "stringId": "4467-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -14454,6 +14510,7 @@
     }
   },
   "17949-Newwworld.mod": {
+    "name": "Infested Canyon",
     "stringId": "17949-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -14805,6 +14862,7 @@
     }
   },
   "14384-Newwworld.mod": {
+    "name": "Cinder RIdge",
     "stringId": "14384-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -15057,6 +15115,7 @@
     }
   },
   "5578-Newwworld.mod": {
+    "name": "South Coast Canyons",
     "stringId": "5578-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -15354,6 +15413,7 @@
     }
   },
   "2684-Newwworld.mod": {
+    "name": "Canyonlands Crater",
     "stringId": "2684-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -15596,6 +15656,7 @@
     }
   },
   "2953-Newwworld.mod": {
+    "name": "Old Pits",
     "stringId": "2953-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -15855,6 +15916,7 @@
     }
   },
   "2804-Newwworld.mod": {
+    "name": "Tarsands",
     "stringId": "2804-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -16030,6 +16092,7 @@
     }
   },
   "2952-Newwworld.mod": {
+    "name": "The Rift",
     "stringId": "2952-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -16279,6 +16342,7 @@
     }
   },
   "5746-Newwworld.mod": {
+    "name": "Tarsands Town",
     "stringId": "5746-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -16444,6 +16508,7 @@
     }
   },
   "5833-Newwworld.mod": {
+    "name": "Howler Maze",
     "stringId": "5833-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -16703,6 +16768,7 @@
     }
   },
   "5532-Newwworld.mod": {
+    "name": "Robot Graveyard",
     "stringId": "5532-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -16821,6 +16887,7 @@
     }
   },
   "2743-Newwworld.mod": {
+    "name": "Skinner's Roam",
     "stringId": "2743-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -17160,6 +17227,7 @@
     }
   },
   "3626-Newwworld.mod": {
+    "name": "Serpentine Wastes",
     "stringId": "3626-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -17474,6 +17542,7 @@
     }
   },
   "44943-Newwworld.mod": {
+    "name": "Hard Shoulder copy",
     "stringId": "44943-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -17671,6 +17740,7 @@
     }
   },
   "2954-Newwworld.mod": {
+    "name": "StoneTowers",
     "stringId": "2954-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -17848,6 +17918,7 @@
     }
   },
   "51632-Newwworld.mod": {
+    "name": "Southern Flint Hills",
     "stringId": "51632-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -18120,6 +18191,7 @@
     }
   },
   "55399-Newwworld.mod": {
+    "name": "Flintcanyon Tarpits",
     "stringId": "55399-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -18332,6 +18404,7 @@
     }
   },
   "55400-Newwworld.mod": {
+    "name": "Dry Edge",
     "stringId": "55400-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -18566,6 +18639,7 @@
     }
   },
   "56740-Newwworld.mod": {
+    "name": "Asp Gulch",
     "stringId": "56740-Newwworld.mod",
     "type": "Biomes",
     "values": {
@@ -18838,6 +18912,7 @@
     }
   },
   "64488-Newwworld.mod": {
+    "name": "Dark Finger NT",
     "stringId": "64488-Newwworld.mod",
     "type": "Biomes",
     "values": {

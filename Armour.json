@@ -1,5 +1,6 @@
 {
   "18033-small_changes_otto.mod": {
+    "name": "Swamp Ninja Mask",
     "stringId": "18033-small_changes_otto.mod",
     "type": "Armour",
     "values": {
@@ -116,6 +117,7 @@
     }
   },
   "5346-armor_otto.mod": {
+    "name": "Armoured Rag Skirt",
     "stringId": "5346-armor_otto.mod",
     "type": "Armour",
     "values": {
@@ -236,6 +238,7 @@
     }
   },
   "1395-gamedata.base": {
+    "name": "Halfpants [sneaky chain]",
     "stringId": "1395-gamedata.base",
     "type": "Armour",
     "values": {
@@ -363,6 +366,7 @@
     }
   },
   "2198-gamedata.base": {
+    "name": "Flared Helmet",
     "stringId": "2198-gamedata.base",
     "type": "Armour",
     "values": {
@@ -495,6 +499,7 @@
     }
   },
   "1167-gamedata.base": {
+    "name": "White Vest",
     "stringId": "1167-gamedata.base",
     "type": "Armour",
     "values": {
@@ -655,6 +660,7 @@
     }
   },
   "549-gamedata.base": {
+    "name": "Samurai Boots",
     "stringId": "549-gamedata.base",
     "type": "Armour",
     "values": {
@@ -775,6 +781,7 @@
     }
   },
   "18962-gamedata.base": {
+    "name": "Armoured Face Plates",
     "stringId": "18962-gamedata.base",
     "type": "Armour",
     "values": {
@@ -890,6 +897,7 @@
     }
   },
   "2210-gamedata.base": {
+    "name": "Chainmail",
     "stringId": "2210-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1065,6 +1073,7 @@
     }
   },
   "2283-gamedata.base": {
+    "name": "Mercenary Leather Armour",
     "stringId": "2283-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1195,6 +1204,7 @@
     }
   },
   "550-gamedata.base": {
+    "name": "Cargopants",
     "stringId": "550-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1303,6 +1313,7 @@
     }
   },
   "2200-gamedata.base": {
+    "name": "Armoured Hood",
     "stringId": "2200-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1420,6 +1431,7 @@
     }
   },
   "1311-gamedata.base": {
+    "name": "Halfpants [reinforced]",
     "stringId": "1311-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1547,6 +1559,7 @@
     }
   },
   "2211-gamedata.base": {
+    "name": "Blackened Chainmail",
     "stringId": "2211-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1722,6 +1735,7 @@
     }
   },
   "2145-gamedata.base": {
+    "name": "Samurai Helmet",
     "stringId": "2145-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1837,6 +1851,7 @@
     }
   },
   "684-gamedata.base": {
+    "name": "Sleeveless Longcoat",
     "stringId": "684-gamedata.base",
     "type": "Armour",
     "values": {
@@ -1967,6 +1982,7 @@
     }
   },
   "554-gamedata.base": {
+    "name": "Halfpants [padded]",
     "stringId": "554-gamedata.base",
     "type": "Armour",
     "values": {
@@ -2087,6 +2103,7 @@
     }
   },
   "1392-gamedata.base": {
+    "name": "Cargopants [sneaky chain]",
     "stringId": "1392-gamedata.base",
     "type": "Armour",
     "values": {
@@ -2214,6 +2231,7 @@
     }
   },
   "2712-clothes_v2.mod": {
+    "name": "Haircut22_attachment",
     "stringId": "2712-clothes_v2.mod",
     "type": "Armour",
     "values": {
@@ -2329,6 +2347,7 @@
     }
   },
   "18018-small_changes_otto.mod": {
+    "name": "Rusty Chain Shirt",
     "stringId": "18018-small_changes_otto.mod",
     "type": "Armour",
     "values": {
@@ -2504,6 +2523,7 @@
     }
   },
   "2188-gamedata.base": {
+    "name": "Monk Pants",
     "stringId": "2188-gamedata.base",
     "type": "Armour",
     "values": {
@@ -2612,6 +2632,7 @@
     }
   },
   "2150-gamedata.base": {
+    "name": "Samurai Legplates",
     "stringId": "2150-gamedata.base",
     "type": "Armour",
     "values": {
@@ -2851,6 +2872,7 @@
     }
   },
   "2225-chris_r.mod": {
+    "name": "Bucket Zukin",
     "stringId": "2225-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -2966,6 +2988,7 @@
     }
   },
   "2185-gamedata.base": {
+    "name": "Rattan Hat",
     "stringId": "2185-gamedata.base",
     "type": "Armour",
     "values": {
@@ -3081,6 +3104,7 @@
     }
   },
   "2224-chris_r.mod": {
+    "name": "Hachigane",
     "stringId": "2224-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -3208,6 +3232,7 @@
     }
   },
   "2168-gamedata.base": {
+    "name": "Square Goggles",
     "stringId": "2168-gamedata.base",
     "type": "Armour",
     "values": {
@@ -3316,6 +3341,7 @@
     }
   },
   "2309-clothes_v1.mod": {
+    "name": "Rag Shirt",
     "stringId": "2309-clothes_v1.mod",
     "type": "Armour",
     "values": {
@@ -3441,6 +3467,7 @@
     }
   },
   "1169-gamedata.base": {
+    "name": "Leather Shirt",
     "stringId": "1169-gamedata.base",
     "type": "Armour",
     "values": {
@@ -3616,6 +3643,7 @@
     }
   },
   "2229-chris_r.mod": {
+    "name": "Kusari Zukin",
     "stringId": "2229-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -3749,6 +3777,7 @@
     }
   },
   "2711-clothes_v2.mod": {
+    "name": "Haircut21_attachment",
     "stringId": "2711-clothes_v2.mod",
     "type": "Armour",
     "values": {
@@ -3864,6 +3893,7 @@
     }
   },
   "2148-gamedata.base": {
+    "name": "Mercenary Plate",
     "stringId": "2148-gamedata.base",
     "type": "Armour",
     "values": {
@@ -3994,6 +4024,7 @@
     }
   },
   "2326-gamedata.base": {
+    "name": "Martial Artist Bindings",
     "stringId": "2326-gamedata.base",
     "type": "Armour",
     "values": {
@@ -4147,6 +4178,7 @@
     }
   },
   "2158-gamedata.base": {
+    "name": "Worn-out Shorts",
     "stringId": "2158-gamedata.base",
     "type": "Armour",
     "values": {
@@ -4255,6 +4287,7 @@
     }
   },
   "18034-small_changes_otto.mod": {
+    "name": "Mask Type III",
     "stringId": "18034-small_changes_otto.mod",
     "type": "Armour",
     "values": {
@@ -4371,6 +4404,7 @@
     }
   },
   "2213-gamedata.base": {
+    "name": "Leather Turtleneck",
     "stringId": "2213-gamedata.base",
     "type": "Armour",
     "values": {
@@ -4546,6 +4580,7 @@
     }
   },
   "18911-gamedata.base": {
+    "name": "Stout Hessian",
     "stringId": "18911-gamedata.base",
     "type": "Armour",
     "values": {
@@ -4654,6 +4689,7 @@
     }
   },
   "2197-gamedata.base": {
+    "name": "Ninja Gi",
     "stringId": "2197-gamedata.base",
     "type": "Armour",
     "values": {
@@ -4762,6 +4798,7 @@
     }
   },
   "2182-gamedata.base": {
+    "name": "Plate Jacket",
     "stringId": "2182-gamedata.base",
     "type": "Armour",
     "values": {
@@ -4899,6 +4936,7 @@
     }
   },
   "2189-gamedata.base": {
+    "name": "Monk Robe",
     "stringId": "2189-gamedata.base",
     "type": "Armour",
     "values": {
@@ -5029,6 +5067,7 @@
     }
   },
   "1394-gamedata.base": {
+    "name": "Cargopants [padded]",
     "stringId": "1394-gamedata.base",
     "type": "Armour",
     "values": {
@@ -5149,6 +5188,7 @@
     }
   },
   "2156-gamedata.base": {
+    "name": "Heart Protector",
     "stringId": "2156-gamedata.base",
     "type": "Armour",
     "values": {
@@ -5264,6 +5304,7 @@
     }
   },
   "2223-chris_r.mod": {
+    "name": "Side-Angle Hachigane",
     "stringId": "2223-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -5391,6 +5432,7 @@
     }
   },
   "2180-gamedata.base": {
+    "name": "Police Helmet",
     "stringId": "2180-gamedata.base",
     "type": "Armour",
     "values": {
@@ -5506,6 +5548,7 @@
     }
   },
   "2149-gamedata.base": {
+    "name": "Tin Can",
     "stringId": "2149-gamedata.base",
     "type": "Armour",
     "values": {
@@ -5621,6 +5664,7 @@
     }
   },
   "2151-gamedata.base": {
+    "name": "Ninja Rags",
     "stringId": "2151-gamedata.base",
     "type": "Armour",
     "values": {
@@ -5756,6 +5800,7 @@
     }
   },
   "18019-small_changes_otto.mod": {
+    "name": "Rusty Chainmail",
     "stringId": "18019-small_changes_otto.mod",
     "type": "Armour",
     "values": {
@@ -5931,6 +5976,7 @@
     }
   },
   "2304-clothes_v1.mod": {
+    "name": "Drifter's Leather Jacket",
     "stringId": "2304-clothes_v1.mod",
     "type": "Armour",
     "values": {
@@ -6061,6 +6107,7 @@
     }
   },
   "2227-chris_r.mod": {
+    "name": "Iron Hat",
     "stringId": "2227-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -6176,6 +6223,7 @@
     }
   },
   "2305-clothes_v1.mod": {
+    "name": "Drifter's Leather Pants",
     "stringId": "2305-clothes_v1.mod",
     "type": "Armour",
     "values": {
@@ -6296,6 +6344,7 @@
     }
   },
   "2306-clothes_v1.mod": {
+    "name": "Drifter's Boots",
     "stringId": "2306-clothes_v1.mod",
     "type": "Armour",
     "values": {
@@ -6423,6 +6472,7 @@
     }
   },
   "2122-gamedata.base": {
+    "name": "Samurai Armour",
     "stringId": "2122-gamedata.base",
     "type": "Armour",
     "values": {
@@ -6553,6 +6603,7 @@
     }
   },
   "5255-gamedata.base": {
+    "name": "Faulty Prisoner Shackles",
     "stringId": "5255-gamedata.base",
     "type": "Armour",
     "values": {
@@ -6661,6 +6712,7 @@
     }
   },
   "2159-gamedata.base": {
+    "name": "Samurai Clothpants",
     "stringId": "2159-gamedata.base",
     "type": "Armour",
     "values": {
@@ -6813,6 +6865,7 @@
     }
   },
   "18018-gamedata.base": {
+    "name": "ARMOUR shek",
     "stringId": "18018-gamedata.base",
     "type": "Armour",
     "values": {
@@ -6952,6 +7005,7 @@
     }
   },
   "2308-clothes_v1.mod": {
+    "name": "Rag Loincloth",
     "stringId": "2308-clothes_v1.mod",
     "type": "Armour",
     "values": {
@@ -7060,6 +7114,7 @@
     }
   },
   "543-gamedata.base": {
+    "name": "Turtleneck",
     "stringId": "543-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7213,6 +7268,7 @@
     }
   },
   "575-gamedata.base": {
+    "name": "Straw Hat",
     "stringId": "575-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7321,6 +7377,7 @@
     }
   },
   "2201-gamedata.base": {
+    "name": "Masked Helmet",
     "stringId": "2201-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7453,6 +7510,7 @@
     }
   },
   "556-gamedata.base": {
+    "name": "Plated Longboots",
     "stringId": "556-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7573,6 +7631,7 @@
     }
   },
   "2165-gamedata.base": {
+    "name": "Longcoat",
     "stringId": "2165-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7718,6 +7777,7 @@
     }
   },
   "2167-gamedata.base": {
+    "name": "Cap",
     "stringId": "2167-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7838,6 +7898,7 @@
     }
   },
   "3940-gamedata.base": {
+    "name": "Armour Beakthing",
     "stringId": "3940-gamedata.base",
     "type": "Armour",
     "values": {
@@ -7959,6 +8020,7 @@
     }
   },
   "1273-gamedata.base": {
+    "name": "Halfpants (colored)",
     "stringId": "1273-gamedata.base",
     "type": "Armour",
     "values": {
@@ -8067,6 +8129,7 @@
     }
   },
   "2228-chris_r.mod": {
+    "name": "Karuta Zukin",
     "stringId": "2228-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -8200,6 +8263,7 @@
     }
   },
   "2202-gamedata.base": {
+    "name": "Visored Helmet",
     "stringId": "2202-gamedata.base",
     "type": "Armour",
     "values": {
@@ -8332,6 +8396,7 @@
     }
   },
   "2221-chris_r.mod": {
+    "name": "Ninja Mask",
     "stringId": "2221-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -8448,6 +8513,7 @@
     }
   },
   "1168-gamedata.base": {
+    "name": "Cloth Shirt",
     "stringId": "1168-gamedata.base",
     "type": "Armour",
     "values": {
@@ -8601,6 +8667,7 @@
     }
   },
   "2154-gamedata.base": {
+    "name": "Assassin's Rags",
     "stringId": "2154-gamedata.base",
     "type": "Armour",
     "values": {
@@ -8731,6 +8798,7 @@
     }
   },
   "577-gamedata.base": {
+    "name": "Blackened Chain Shirt",
     "stringId": "577-gamedata.base",
     "type": "Armour",
     "values": {
@@ -8906,6 +8974,7 @@
     }
   },
   "1393-gamedata.base": {
+    "name": "Cargopants [reinforced]",
     "stringId": "1393-gamedata.base",
     "type": "Armour",
     "values": {
@@ -9033,6 +9102,7 @@
     }
   },
   "18029-small_changes_otto.mod": {
+    "name": "Fog Mask",
     "stringId": "18029-small_changes_otto.mod",
     "type": "Armour",
     "values": {
@@ -9161,6 +9231,7 @@
     }
   },
   "2219-chris_r.mod": {
+    "name": "Turban",
     "stringId": "2219-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -9276,6 +9347,7 @@
     }
   },
   "2226-chris_r.mod": {
+    "name": "Paladin's Heavy Hachigane",
     "stringId": "2226-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -9391,6 +9463,7 @@
     }
   },
   "2193-gamedata.base": {
+    "name": "Gi Pants",
     "stringId": "2193-gamedata.base",
     "type": "Armour",
     "values": {
@@ -9499,6 +9572,7 @@
     }
   },
   "544-gamedata.base": {
+    "name": "Chain Shirt",
     "stringId": "544-gamedata.base",
     "type": "Armour",
     "values": {
@@ -9674,6 +9748,7 @@
     }
   },
   "SHACKLES": {
+    "name": "Prisoner Shackles",
     "stringId": "SHACKLES",
     "type": "Armour",
     "values": {
@@ -9782,6 +9857,7 @@
     }
   },
   "REFERENCEARMOUR": {
+    "name": "REFERENCE",
     "stringId": "REFERENCEARMOUR",
     "type": "Armour",
     "values": {
@@ -9890,6 +9966,7 @@
     }
   },
   "2163-gamedata.base": {
+    "name": "Trader's Leathers",
     "stringId": "2163-gamedata.base",
     "type": "Armour",
     "values": {
@@ -10020,6 +10097,7 @@
     }
   },
   "2212-gamedata.base": {
+    "name": "Leather Vest",
     "stringId": "2212-gamedata.base",
     "type": "Armour",
     "values": {
@@ -10195,6 +10273,7 @@
     }
   },
   "3061-gamedata.base": {
+    "name": "Dustcoat",
     "stringId": "3061-gamedata.base",
     "type": "Armour",
     "values": {
@@ -10342,6 +10421,7 @@
     }
   },
   "2222-chris_r.mod": {
+    "name": "Bandana",
     "stringId": "2222-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -10457,6 +10537,7 @@
     }
   },
   "2169-gamedata.base": {
+    "name": "Stout Hessian Uniform",
     "stringId": "2169-gamedata.base",
     "type": "Armour",
     "values": {
@@ -10565,6 +10646,7 @@
     }
   },
   "1415-gamedata.base": {
+    "name": "Tricorn Hat",
     "stringId": "1415-gamedata.base",
     "type": "Armour",
     "values": {
@@ -10680,6 +10762,7 @@
     }
   },
   "2220-chris_r.mod": {
+    "name": "Tagelmust",
     "stringId": "2220-chris_r.mod",
     "type": "Armour",
     "values": {
@@ -10795,6 +10878,7 @@
     }
   },
   "2713-clothes_v2.mod": {
+    "name": "Haircut23_attachment",
     "stringId": "2713-clothes_v2.mod",
     "type": "Armour",
     "values": {
@@ -10910,6 +10994,7 @@
     }
   },
   "18917-gamedata.base": {
+    "name": "Black Cloth Shirt",
     "stringId": "18917-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11070,6 +11155,7 @@
     }
   },
   "2214-gamedata.base": {
+    "name": "Dark Leather Shirt",
     "stringId": "2214-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11245,6 +11331,7 @@
     }
   },
   "551-gamedata.base": {
+    "name": "Halfpants (ragged)",
     "stringId": "551-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11353,6 +11440,7 @@
     }
   },
   "2194-gamedata.base": {
+    "name": "Ninja Pants",
     "stringId": "2194-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11461,6 +11549,7 @@
     }
   },
   "2307-clothes_v1.mod": {
+    "name": "Armoured Rags",
     "stringId": "2307-clothes_v1.mod",
     "type": "Armour",
     "values": {
@@ -11591,6 +11680,7 @@
     }
   },
   "2164-gamedata.base": {
+    "name": "Wool Hat",
     "stringId": "2164-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11711,6 +11801,7 @@
     }
   },
   "564-gamedata.base": {
+    "name": "Gi",
     "stringId": "564-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11819,6 +11910,7 @@
     }
   },
   "2166-gamedata.base": {
+    "name": "Holy Chest Plate",
     "stringId": "2166-gamedata.base",
     "type": "Armour",
     "values": {
@@ -11959,6 +12051,7 @@
     }
   },
   "2203-gamedata.base": {
+    "name": "Spiked Helmet",
     "stringId": "2203-gamedata.base",
     "type": "Armour",
     "values": {
@@ -12091,6 +12184,7 @@
     }
   },
   "557-gamedata.base": {
+    "name": "Wooden Sandals",
     "stringId": "557-gamedata.base",
     "type": "Armour",
     "values": {
@@ -12199,6 +12293,7 @@
     }
   },
   "51662-Newwworld.mod": {
+    "name": "Noble's Trousers",
     "stringId": "51662-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -12314,6 +12409,7 @@
     }
   },
   "51663-Newwworld.mod": {
+    "name": "Noble's Robe",
     "stringId": "51663-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -12451,6 +12547,7 @@
     }
   },
   "62795-Newwworld.mod": {
+    "name": "Skeleton Mask",
     "stringId": "62795-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -12567,6 +12664,7 @@
     }
   },
   "63234-Newwworld.mod": {
+    "name": "Black Rag Shirt copy",
     "stringId": "63234-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -12699,6 +12797,7 @@
     }
   },
   "63235-Newwworld.mod": {
+    "name": "Human Skin Suit",
     "stringId": "63235-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -12808,6 +12907,7 @@
     }
   },
   "63744-Newwworld.mod": {
+    "name": "Human Skin",
     "stringId": "63744-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -12917,6 +13017,7 @@
     }
   },
   "64888-Newwworld.mod": {
+    "name": "Crab Helmet",
     "stringId": "64888-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13084,6 +13185,7 @@
     }
   },
   "64890-Newwworld.mod": {
+    "name": "Crab Shoes",
     "stringId": "64890-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13216,6 +13318,7 @@
     }
   },
   "64891-Newwworld.mod": {
+    "name": "Crab Trousers",
     "stringId": "64891-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13360,6 +13463,7 @@
     }
   },
   "64892-Newwworld.mod": {
+    "name": "Crab Armour",
     "stringId": "64892-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13508,6 +13612,7 @@
     }
   },
   "64906-Newwworld.mod": {
+    "name": "Hack Stopper Jacket",
     "stringId": "64906-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13638,6 +13743,7 @@
     }
   },
   "64907-Newwworld.mod": {
+    "name": "Hack Stopper Pants",
     "stringId": "64907-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13780,6 +13886,7 @@
     }
   },
   "1532813-Newwworld.mod": {
+    "name": "Plated Drifter's Leather Pants",
     "stringId": "1532813-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -13900,6 +14007,7 @@
     }
   },
   "1532828-Newwworld.mod": {
+    "name": "Rusty Chainmail Tagelmust ",
     "stringId": "1532828-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -14015,6 +14123,7 @@
     }
   },
   "1533508-Newwworld.mod": {
+    "name": "Ancient Samurai Armour",
     "stringId": "1533508-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -14145,6 +14254,7 @@
     }
   },
   "1533509-Newwworld.mod": {
+    "name": "Ancient Samurai Boots",
     "stringId": "1533509-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -14265,6 +14375,7 @@
     }
   },
   "1533510-Newwworld.mod": {
+    "name": "Ancient Samurai Helmet",
     "stringId": "1533510-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -14380,6 +14491,7 @@
     }
   },
   "1533511-Newwworld.mod": {
+    "name": "Ancient Samurai Legplates",
     "stringId": "1533511-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -14587,6 +14699,7 @@
     }
   },
   "1534050-Newwworld.mod": {
+    "name": "Leather Hive Vest",
     "stringId": "1534050-Newwworld.mod",
     "type": "Armour",
     "values": {
@@ -14754,6 +14867,7 @@
     }
   },
   "51707-Dialogue.mod": {
+    "name": "Dyed Robes",
     "stringId": "51707-Dialogue.mod",
     "type": "Armour",
     "values": {
@@ -14885,6 +14999,7 @@
     }
   },
   "51746-Dialogue.mod": {
+    "name": "Dyed Trousers",
     "stringId": "51746-Dialogue.mod",
     "type": "Armour",
     "values": {
@@ -14994,6 +15109,7 @@
     }
   },
   "SHACKLES-BODY": {
+    "name": "Hive Prisoner Shackles",
     "stringId": "SHACKLES-BODY",
     "type": "Armour",
     "values": {
@@ -15102,6 +15218,7 @@
     }
   },
   "42021-rebirth.mod": {
+    "name": "Holy Servant Rags",
     "stringId": "42021-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -15234,6 +15351,7 @@
     }
   },
   "45556-changes_otto.mod": {
+    "name": "Basket Hat",
     "stringId": "45556-changes_otto.mod",
     "type": "Armour",
     "values": {
@@ -15342,6 +15460,7 @@
     }
   },
   "50391-rebirth.mod": {
+    "name": "Cargopants (colored)",
     "stringId": "50391-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -15450,6 +15569,7 @@
     }
   },
   "42060-rebirth.mod": {
+    "name": "Black Rag Shirt",
     "stringId": "42060-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -15582,6 +15702,7 @@
     }
   },
   "42052-rebirth.mod": {
+    "name": "Armoured Rags (colored)",
     "stringId": "42052-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -15712,6 +15833,7 @@
     }
   },
   "42260-rebirth.mod": {
+    "name": "Armoured Rag Skirt (colored)",
     "stringId": "42260-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -15832,6 +15954,7 @@
     }
   },
   "51640-rebirth.mod": {
+    "name": "Swamp Ninja Rags",
     "stringId": "51640-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -15968,6 +16091,7 @@
     }
   },
   "51642-rebirth.mod": {
+    "name": "Dyed Rag Shirt",
     "stringId": "51642-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16093,6 +16217,7 @@
     }
   },
   "51643-rebirth.mod": {
+    "name": "Dyed Turtleneck",
     "stringId": "51643-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16246,6 +16371,7 @@
     }
   },
   "51708-rebirth.mod": {
+    "name": "Empire Samurai Armour",
     "stringId": "51708-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16376,6 +16502,7 @@
     }
   },
   "53299-rebirth.mod": {
+    "name": "Black Plate Jacket",
     "stringId": "53299-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16513,6 +16640,7 @@
     }
   },
   "53301-rebirth.mod": {
+    "name": "White Plate Jacket",
     "stringId": "53301-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16643,6 +16771,7 @@
     }
   },
   "54582-rebirth.mod": {
+    "name": "Dyed Turban",
     "stringId": "54582-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16758,6 +16887,7 @@
     }
   },
   "55393-rebirth.mod": {
+    "name": "Ashland Hat",
     "stringId": "55393-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16882,6 +17012,7 @@
     }
   },
   "55395-rebirth.mod": {
+    "name": "Ashlander Stormgoggles",
     "stringId": "55395-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -16999,6 +17130,7 @@
     }
   },
   "56042-rebirth.mod": {
+    "name": "Conscript Leather Armour",
     "stringId": "56042-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17129,6 +17261,7 @@
     }
   },
   "62178-rebirth.mod": {
+    "name": "Sleeveless Dustcoat",
     "stringId": "62178-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17265,6 +17398,7 @@
     }
   },
   "64492-rebirth.mod": {
+    "name": "Halfpants (colored)",
     "stringId": "64492-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17373,6 +17507,7 @@
     }
   },
   "64923-rebirth.mod": {
+    "name": "Rag Loincloth (Dyed)",
     "stringId": "64923-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17481,6 +17616,7 @@
     }
   },
   "98562-rebirth.mod": {
+    "name": "Red Bandana",
     "stringId": "98562-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17603,6 +17739,7 @@
     }
   },
   "98563-rebirth.mod": {
+    "name": "Black Bandana",
     "stringId": "98563-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17725,6 +17862,7 @@
     }
   },
   "1533849-rebirth.mod": {
+    "name": "Unholy Chest Plate",
     "stringId": "1533849-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17865,6 +18003,7 @@
     }
   },
   "1533852-rebirth.mod": {
+    "name": "Blackened Chainmail Tagelmust",
     "stringId": "1533852-rebirth.mod",
     "type": "Armour",
     "values": {
@@ -17980,6 +18119,7 @@
     }
   },
   "1534053-Newwworld Plus.mod": {
+    "name": "Hiver Chain Shirt",
     "stringId": "1534053-Newwworld Plus.mod",
     "type": "Armour",
     "values": {
@@ -18147,6 +18287,7 @@
     }
   },
   "1534057-Newwworld Plus.mod": {
+    "name": "Padded Leather Jacket",
     "stringId": "1534057-Newwworld Plus.mod",
     "type": "Armour",
     "values": {
@@ -18277,6 +18418,7 @@
     }
   },
   "1534055-Newwworld Plus.mod": {
+    "name": "Sandogasa",
     "stringId": "1534055-Newwworld Plus.mod",
     "type": "Armour",
     "values": {
@@ -18385,6 +18527,7 @@
     }
   },
   "1534061-Newwworld Plus.mod": {
+    "name": "Blackened Chain Hive Shirt",
     "stringId": "1534061-Newwworld Plus.mod",
     "type": "Armour",
     "values": {
@@ -18552,6 +18695,7 @@
     }
   },
   "1534062-Newwworld Plus.mod": {
+    "name": "Rusted Hive Shirt",
     "stringId": "1534062-Newwworld Plus.mod",
     "type": "Armour",
     "values": {

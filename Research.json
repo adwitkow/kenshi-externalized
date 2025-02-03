@@ -1,5 +1,6 @@
 {
   "2995-gamedata.base": {
+    "name": "Heavy Building Foundations",
     "stringId": "2995-gamedata.base",
     "type": "Research",
     "values": {
@@ -27,6 +28,7 @@
     }
   },
   "2915-gamedata.base": {
+    "name": "Defensive Walls",
     "stringId": "2915-gamedata.base",
     "type": "Research",
     "values": {
@@ -78,6 +80,7 @@
     }
   },
   "2933-gamedata.base": {
+    "name": "Simple Clothing Types",
     "stringId": "2933-gamedata.base",
     "type": "Research",
     "values": {
@@ -159,6 +162,7 @@
     }
   },
   "2008-gamedata.base": {
+    "name": "Tech Level 2",
     "stringId": "2008-gamedata.base",
     "type": "Research",
     "values": {
@@ -200,6 +204,7 @@
     }
   },
   "1928-gamedata.base": {
+    "name": "Wells II",
     "stringId": "1928-gamedata.base",
     "type": "Research",
     "values": {
@@ -234,6 +239,7 @@
     }
   },
   "2888-gamedata.base": {
+    "name": "Mounted Crossbows II",
     "stringId": "2888-gamedata.base",
     "type": "Research",
     "values": {
@@ -275,6 +281,7 @@
     }
   },
   "RESEARCH_TEMPLATE": {
+    "name": "RESEARCH_TEMPLATE",
     "stringId": "RESEARCH_TEMPLATE",
     "type": "Research",
     "values": {
@@ -294,6 +301,7 @@
     "references": {}
   },
   "2793-gamedata.base": {
+    "name": "Imprisonment",
     "stringId": "2793-gamedata.base",
     "type": "Research",
     "values": {
@@ -328,6 +336,7 @@
     }
   },
   "1938-gamedata.base": {
+    "name": "Rum Brewing",
     "stringId": "1938-gamedata.base",
     "type": "Research",
     "values": {
@@ -367,6 +376,7 @@
     }
   },
   "2111-gamedata.base": {
+    "name": "The Plank",
     "stringId": "2111-gamedata.base",
     "type": "Research",
     "values": {
@@ -401,6 +411,7 @@
     }
   },
   "2233-gamedata.base": {
+    "name": "Heavy Weapons",
     "stringId": "2233-gamedata.base",
     "type": "Research",
     "values": {
@@ -440,6 +451,7 @@
     }
   },
   "3008-gamedata.base": {
+    "name": "Advanced Harpoonery",
     "stringId": "3008-gamedata.base",
     "type": "Research",
     "values": {
@@ -474,6 +486,7 @@
     }
   },
   "2024-gamedata.base": {
+    "name": "Hemp Farming",
     "stringId": "2024-gamedata.base",
     "type": "Research",
     "values": {
@@ -528,6 +541,7 @@
     }
   },
   "3965-gamedata.base": {
+    "name": "Corpse Disposal",
     "stringId": "3965-gamedata.base",
     "type": "Research",
     "values": {
@@ -555,6 +569,7 @@
     }
   },
   "1898-gamedata.base": {
+    "name": "Advanced Training Dummies",
     "stringId": "1898-gamedata.base",
     "type": "Research",
     "values": {
@@ -596,6 +611,7 @@
     }
   },
   "2107-gamedata.base": {
+    "name": "Wakizashis",
     "stringId": "2107-gamedata.base",
     "type": "Research",
     "values": {
@@ -623,6 +639,7 @@
     }
   },
   "2234-gamedata.base": {
+    "name": "Fragment Axe",
     "stringId": "2234-gamedata.base",
     "type": "Research",
     "values": {
@@ -657,6 +674,7 @@
     }
   },
   "3064-gamedata.base": {
+    "name": "Splints",
     "stringId": "3064-gamedata.base",
     "type": "Research",
     "values": {
@@ -698,6 +716,7 @@
     }
   },
   "3006-gamedata.base": {
+    "name": "Turret Training III",
     "stringId": "3006-gamedata.base",
     "type": "Research",
     "values": {
@@ -739,6 +758,7 @@
     }
   },
   "2091-gamedata.base": {
+    "name": "Tech Level 4",
     "stringId": "2091-gamedata.base",
     "type": "Research",
     "values": {
@@ -780,6 +800,7 @@
     }
   },
   "14445-gamedata.base": {
+    "name": "Light Post Efficiency",
     "stringId": "14445-gamedata.base",
     "type": "Research",
     "values": {
@@ -821,6 +842,7 @@
     }
   },
   "2838-gamedata.base": {
+    "name": "Mounted Crossbows",
     "stringId": "2838-gamedata.base",
     "type": "Research",
     "values": {
@@ -855,6 +877,7 @@
     }
   },
   "2297-gamedata.base": {
+    "name": "Plate Armour Crafting",
     "stringId": "2297-gamedata.base",
     "type": "Research",
     "values": {
@@ -911,6 +934,7 @@
     }
   },
   "1878-gamedata.base": {
+    "name": "Large Building Shells",
     "stringId": "1878-gamedata.base",
     "type": "Research",
     "values": {
@@ -972,6 +996,7 @@
     }
   },
   "2889-gamedata.base": {
+    "name": "Crossbow Turret Strings",
     "stringId": "2889-gamedata.base",
     "type": "Research",
     "values": {
@@ -1018,6 +1043,7 @@
     }
   },
   "2228-gamedata.base": {
+    "name": "Katanas",
     "stringId": "2228-gamedata.base",
     "type": "Research",
     "values": {
@@ -1050,6 +1076,7 @@
     }
   },
   "2948-gamedata.base": {
+    "name": "Storage Boxes: Ore",
     "stringId": "2948-gamedata.base",
     "type": "Research",
     "values": {
@@ -1092,6 +1119,7 @@
     }
   },
   "1881-gamedata.base": {
+    "name": "Outpost Type IV",
     "stringId": "1881-gamedata.base",
     "type": "Research",
     "values": {
@@ -1138,6 +1166,7 @@
     }
   },
   "2112-gamedata.base": {
+    "name": "Long Cleavers",
     "stringId": "2112-gamedata.base",
     "type": "Research",
     "values": {
@@ -1165,6 +1194,7 @@
     }
   },
   "3010-gamedata.base": {
+    "name": "Revolving-Barrel Harpoon Turret",
     "stringId": "3010-gamedata.base",
     "type": "Research",
     "values": {
@@ -1211,6 +1241,7 @@
     }
   },
   "3009-gamedata.base": {
+    "name": "Double-Barrel Harpoon Turret",
     "stringId": "3009-gamedata.base",
     "type": "Research",
     "values": {
@@ -1257,6 +1288,7 @@
     }
   },
   "2225-gamedata.base": {
+    "name": "Wheatstraw Farming",
     "stringId": "2225-gamedata.base",
     "type": "Research",
     "values": {
@@ -1323,6 +1355,7 @@
     }
   },
   "2230-gamedata.base": {
+    "name": "Naginatas",
     "stringId": "2230-gamedata.base",
     "type": "Research",
     "values": {
@@ -1355,6 +1388,7 @@
     }
   },
   "2088-gamedata.base": {
+    "name": "Advanced Stone Mining",
     "stringId": "2088-gamedata.base",
     "type": "Research",
     "values": {
@@ -1406,6 +1440,7 @@
     }
   },
   "1892-gamedata.base": {
+    "name": "Small House",
     "stringId": "1892-gamedata.base",
     "type": "Research",
     "values": {
@@ -1440,6 +1475,7 @@
     }
   },
   "2890-gamedata.base": {
+    "name": "Composite Runners",
     "stringId": "2890-gamedata.base",
     "type": "Research",
     "values": {
@@ -1479,6 +1515,7 @@
     }
   },
   "2092-gamedata.base": {
+    "name": "Tech Level 5",
     "stringId": "2092-gamedata.base",
     "type": "Research",
     "values": {
@@ -1520,6 +1557,7 @@
     }
   },
   "2099-gamedata.base": {
+    "name": "Ore Drill",
     "stringId": "2099-gamedata.base",
     "type": "Research",
     "values": {
@@ -1554,6 +1592,7 @@
     }
   },
   "2062-gamedata.base": {
+    "name": "Sabres",
     "stringId": "2062-gamedata.base",
     "type": "Research",
     "values": {
@@ -1581,6 +1620,7 @@
     }
   },
   "5346-gamedata.base": {
+    "name": "Indoor Lighting",
     "stringId": "5346-gamedata.base",
     "type": "Research",
     "values": {
@@ -1625,6 +1665,7 @@
     }
   },
   "1887-gamedata.base": {
+    "name": "Advanced Outpost Blueprints",
     "stringId": "1887-gamedata.base",
     "type": "Research",
     "values": {
@@ -1657,6 +1698,7 @@
     }
   },
   "2050-gamedata.base": {
+    "name": "Upgraded Small Generators",
     "stringId": "2050-gamedata.base",
     "type": "Research",
     "values": {
@@ -1698,6 +1740,7 @@
     }
   },
   "2996-gamedata.base": {
+    "name": "Strong Defensive Walls",
     "stringId": "2996-gamedata.base",
     "type": "Research",
     "values": {
@@ -1749,6 +1792,7 @@
     }
   },
   "1884-gamedata.base": {
+    "name": "Storage Boxes",
     "stringId": "1884-gamedata.base",
     "type": "Research",
     "values": {
@@ -1781,6 +1825,7 @@
     }
   },
   "2087-gamedata.base": {
+    "name": "Improved Stone Mining",
     "stringId": "2087-gamedata.base",
     "type": "Research",
     "values": {
@@ -1825,6 +1870,7 @@
     }
   },
   "3005-gamedata.base": {
+    "name": "Turret Training II",
     "stringId": "3005-gamedata.base",
     "type": "Research",
     "values": {
@@ -1866,6 +1912,7 @@
     }
   },
   "3007-gamedata.base": {
+    "name": "Harpoon Turrets mkII",
     "stringId": "3007-gamedata.base",
     "type": "Research",
     "values": {
@@ -1907,6 +1954,7 @@
     }
   },
   "2231-gamedata.base": {
+    "name": "Ninja Blades",
     "stringId": "2231-gamedata.base",
     "type": "Research",
     "values": {
@@ -1934,6 +1982,7 @@
     }
   },
   "1933-gamedata.base": {
+    "name": "Flour Grinding",
     "stringId": "1933-gamedata.base",
     "type": "Research",
     "values": {
@@ -1967,6 +2016,7 @@
     }
   },
   "14444-gamedata.base": {
+    "name": "Light Post",
     "stringId": "14444-gamedata.base",
     "type": "Research",
     "values": {
@@ -2008,6 +2058,7 @@
     }
   },
   "5366-gamedata.base": {
+    "name": "Search Lights",
     "stringId": "5366-gamedata.base",
     "type": "Research",
     "values": {
@@ -2047,6 +2098,7 @@
     }
   },
   "2058-gamedata.base": {
+    "name": "Basic Weapon Grades",
     "stringId": "2058-gamedata.base",
     "type": "Research",
     "values": {
@@ -2108,6 +2160,7 @@
     }
   },
   "2731-gamedata.base": {
+    "name": "Lockpick Training II",
     "stringId": "2731-gamedata.base",
     "type": "Research",
     "values": {
@@ -2154,6 +2207,7 @@
     }
   },
   "1962-gamedata.base": {
+    "name": "Baking",
     "stringId": "1962-gamedata.base",
     "type": "Research",
     "values": {
@@ -2203,6 +2257,7 @@
     }
   },
   "1890-gamedata.base": {
+    "name": "Stone Refinery Upgrade",
     "stringId": "1890-gamedata.base",
     "type": "Research",
     "values": {
@@ -2254,6 +2309,7 @@
     }
   },
   "1897-gamedata.base": {
+    "name": "Better Training Dummies",
     "stringId": "1897-gamedata.base",
     "type": "Research",
     "values": {
@@ -2295,6 +2351,7 @@
     }
   },
   "2949-gamedata.base": {
+    "name": "Storage Boxes: Farming",
     "stringId": "2949-gamedata.base",
     "type": "Research",
     "values": {
@@ -2332,6 +2389,7 @@
     }
   },
   "2089-gamedata.base": {
+    "name": "Automated Mining Tech",
     "stringId": "2089-gamedata.base",
     "type": "Research",
     "values": {
@@ -2366,6 +2424,7 @@
     }
   },
   "2025-gamedata.base": {
+    "name": "Fabric Manufacture",
     "stringId": "2025-gamedata.base",
     "type": "Research",
     "values": {
@@ -2405,6 +2464,7 @@
     }
   },
   "2910-gamedata.base": {
+    "name": "Makeshift Walls",
     "stringId": "2910-gamedata.base",
     "type": "Research",
     "values": {
@@ -2444,6 +2504,7 @@
     }
   },
   "1880-gamedata.base": {
+    "name": "Outpost Type III",
     "stringId": "1880-gamedata.base",
     "type": "Research",
     "values": {
@@ -2490,6 +2551,7 @@
     }
   },
   "2051-gamedata.base": {
+    "name": "Public Sales",
     "stringId": "2051-gamedata.base",
     "type": "Research",
     "values": {
@@ -2517,6 +2579,7 @@
     }
   },
   "2271-gamedata.base": {
+    "name": "Advanced Medicine",
     "stringId": "2271-gamedata.base",
     "type": "Research",
     "values": {
@@ -2558,6 +2621,7 @@
     }
   },
   "2947-gamedata.base": {
+    "name": "Storage Boxes: Crafting",
     "stringId": "2947-gamedata.base",
     "type": "Research",
     "values": {
@@ -2610,6 +2674,7 @@
     }
   },
   "2270-gamedata.base": {
+    "name": "Medicine",
     "stringId": "2270-gamedata.base",
     "type": "Research",
     "values": {
@@ -2658,6 +2723,7 @@
     }
   },
   "3961-gamedata.base": {
+    "name": "Weapon Melting",
     "stringId": "3961-gamedata.base",
     "type": "Research",
     "values": {
@@ -2692,6 +2758,7 @@
     }
   },
   "2994-gamedata.base": {
+    "name": "Large Defensive Walls",
     "stringId": "2994-gamedata.base",
     "type": "Research",
     "values": {
@@ -2748,6 +2815,7 @@
     }
   },
   "2090-gamedata.base": {
+    "name": "Tech Level 3",
     "stringId": "2090-gamedata.base",
     "type": "Research",
     "values": {
@@ -2789,6 +2857,7 @@
     }
   },
   "1929-gamedata.base": {
+    "name": "Wells III",
     "stringId": "1929-gamedata.base",
     "type": "Research",
     "values": {
@@ -2830,6 +2899,7 @@
     }
   },
   "2263-gamedata.base": {
+    "name": "Basic First Aid Kits",
     "stringId": "2263-gamedata.base",
     "type": "Research",
     "values": {
@@ -2876,6 +2946,7 @@
     }
   },
   "1886-gamedata.base": {
+    "name": "Item Storage",
     "stringId": "1886-gamedata.base",
     "type": "Research",
     "values": {
@@ -2923,6 +2994,7 @@
     }
   },
   "2120-gamedata.base": {
+    "name": "Steel Bars",
     "stringId": "2120-gamedata.base",
     "type": "Research",
     "values": {
@@ -2967,6 +3039,7 @@
     }
   },
   "2070-gamedata.base": {
+    "name": "Ore Mining",
     "stringId": "2070-gamedata.base",
     "type": "Research",
     "values": {
@@ -3005,6 +3078,7 @@
     }
   },
   "1888-gamedata.base": {
+    "name": "Beds",
     "stringId": "1888-gamedata.base",
     "type": "Research",
     "values": {
@@ -3033,6 +3107,7 @@
     }
   },
   "1879-gamedata.base": {
+    "name": "Medium Building Shells",
     "stringId": "1879-gamedata.base",
     "type": "Research",
     "values": {
@@ -3084,6 +3159,7 @@
     }
   },
   "3065-gamedata.base": {
+    "name": "Advanced Splints",
     "stringId": "3065-gamedata.base",
     "type": "Research",
     "values": {
@@ -3125,6 +3201,7 @@
     }
   },
   "2229-gamedata.base": {
+    "name": "Nodachi",
     "stringId": "2229-gamedata.base",
     "type": "Research",
     "values": {
@@ -3159,6 +3236,7 @@
     }
   },
   "3001-gamedata.base": {
+    "name": "Turret Training",
     "stringId": "3001-gamedata.base",
     "type": "Research",
     "values": {
@@ -3193,6 +3271,7 @@
     }
   },
   "2108-gamedata.base": {
+    "name": "Polearms",
     "stringId": "2108-gamedata.base",
     "type": "Research",
     "values": {
@@ -3225,6 +3304,7 @@
     }
   },
   "2093-gamedata.base": {
+    "name": "Tech Level 6",
     "stringId": "2093-gamedata.base",
     "type": "Research",
     "values": {
@@ -3266,6 +3346,7 @@
     }
   },
   "2026-gamedata.base": {
+    "name": "Leather Armour Crafting",
     "stringId": "2026-gamedata.base",
     "type": "Research",
     "values": {
@@ -3312,6 +3393,7 @@
     }
   },
   "2729-gamedata.base": {
+    "name": "Lockpick Training",
     "stringId": "2729-gamedata.base",
     "type": "Research",
     "values": {
@@ -3346,6 +3428,7 @@
     }
   },
   "3002-gamedata.base": {
+    "name": "Prototype Harpoon Turrets",
     "stringId": "3002-gamedata.base",
     "type": "Research",
     "values": {
@@ -3387,6 +3470,7 @@
     }
   },
   "2106-gamedata.base": {
+    "name": "Advanced Weapon Smithing",
     "stringId": "2106-gamedata.base",
     "type": "Research",
     "values": {
@@ -3426,6 +3510,7 @@
     }
   },
   "2224-gamedata.base": {
+    "name": "Wind Generator Theory",
     "stringId": "2224-gamedata.base",
     "type": "Research",
     "values": {
@@ -3467,6 +3552,7 @@
     }
   },
   "1979-gamedata.base": {
+    "name": "Upgraded Generators",
     "stringId": "1979-gamedata.base",
     "type": "Research",
     "values": {
@@ -3495,6 +3581,7 @@
     }
   },
   "5360-gamedata.base": {
+    "name": "Basic Exterior Lighting",
     "stringId": "5360-gamedata.base",
     "type": "Research",
     "values": {
@@ -3529,6 +3616,7 @@
     }
   },
   "5359-gamedata.base": {
+    "name": "_Default Start",
     "stringId": "5359-gamedata.base",
     "type": "Research",
     "values": {
@@ -3613,6 +3701,7 @@
     }
   },
   "2232-gamedata.base": {
+    "name": "Longswords",
     "stringId": "2232-gamedata.base",
     "type": "Research",
     "values": {
@@ -3640,6 +3729,7 @@
     }
   },
   "2932-gamedata.base": {
+    "name": "Clothing Manufacture",
     "stringId": "2932-gamedata.base",
     "type": "Research",
     "values": {
@@ -3691,6 +3781,7 @@
     }
   },
   "2298-gamedata.base": {
+    "name": "Chain Armour Crafting",
     "stringId": "2298-gamedata.base",
     "type": "Research",
     "values": {
@@ -3730,6 +3821,7 @@
     }
   },
   "2109-gamedata.base": {
+    "name": "Ringed Sabres",
     "stringId": "2109-gamedata.base",
     "type": "Research",
     "values": {
@@ -3757,6 +3849,7 @@
     }
   },
   "1889-gamedata.base": {
+    "name": "Simple Training Dummies",
     "stringId": "1889-gamedata.base",
     "type": "Research",
     "values": {
@@ -3791,6 +3884,7 @@
     }
   },
   "43963-rebirth.mod": {
+    "name": "Desert Cooking",
     "stringId": "43963-rebirth.mod",
     "type": "Research",
     "values": {
@@ -3830,6 +3924,7 @@
     }
   },
   "50020-rebirth.mod": {
+    "name": "Copper Alloys",
     "stringId": "50020-rebirth.mod",
     "type": "Research",
     "values": {
@@ -3869,6 +3964,7 @@
     }
   },
   "47761-rebirth.mod": {
+    "name": "Double-Barrel Turret Spotlight Fitting",
     "stringId": "47761-rebirth.mod",
     "type": "Research",
     "values": {
@@ -3910,6 +4006,7 @@
     }
   },
   "43317-rebirth.mod": {
+    "name": "Cactus Farming",
     "stringId": "43317-rebirth.mod",
     "type": "Research",
     "values": {
@@ -3976,6 +4073,7 @@
     }
   },
   "46045-rebirth.mod": {
+    "name": "Building Materials",
     "stringId": "46045-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4008,6 +4106,7 @@
     }
   },
   "50024-rebirth.mod": {
+    "name": "Hydroponic Hemp",
     "stringId": "50024-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4054,6 +4153,7 @@
     }
   },
   "43913-rebirth.mod": {
+    "name": "Biofuel",
     "stringId": "43913-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4098,6 +4198,7 @@
     }
   },
   "43876-rebirth.mod": {
+    "name": "Assassin Training III",
     "stringId": "43876-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4139,6 +4240,7 @@
     }
   },
   "42175-rebirth.mod": {
+    "name": "Fuel Generator Theory",
     "stringId": "42175-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4180,6 +4282,7 @@
     }
   },
   "52313-rebirth.mod": {
+    "name": "Paladin's Cross",
     "stringId": "52313-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4207,6 +4310,7 @@
     }
   },
   "43318-rebirth.mod": {
+    "name": "Riceweed Farming",
     "stringId": "43318-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4261,6 +4365,7 @@
     }
   },
   "50023-rebirth.mod": {
+    "name": "Hydroponics",
     "stringId": "50023-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4288,6 +4393,7 @@
     }
   },
   "46967-rebirth.mod": {
+    "name": "Light Wind Generator Theory",
     "stringId": "46967-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4336,6 +4442,7 @@
     }
   },
   "43965-rebirth.mod": {
+    "name": "Automated Hybrid Mine",
     "stringId": "43965-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4377,6 +4484,7 @@
     }
   },
   "43982-rebirth.mod": {
+    "name": "Advanced Battery Capacity",
     "stringId": "43982-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4418,6 +4526,7 @@
     }
   },
   "43972-rebirth.mod": {
+    "name": "Battery Power",
     "stringId": "43972-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4459,6 +4568,7 @@
     }
   },
   "52311-rebirth.mod": {
+    "name": "Holed Sabres",
     "stringId": "52311-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4486,6 +4596,7 @@
     }
   },
   "43921-rebirth.mod": {
+    "name": "Electrical Crafting",
     "stringId": "43921-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4532,6 +4643,7 @@
     }
   },
   "47239-rebirth.mod": {
+    "name": "Hemp-Based Fabric",
     "stringId": "47239-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4571,6 +4683,7 @@
     }
   },
   "43983-rebirth.mod": {
+    "name": "Advanced Battery Power",
     "stringId": "43983-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4612,6 +4725,7 @@
     }
   },
   "43964-rebirth.mod": {
+    "name": "Advanced Cooking",
     "stringId": "43964-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4656,6 +4770,7 @@
     }
   },
   "42191-rebirth.mod": {
+    "name": "Heavy Generator Theory",
     "stringId": "42191-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4702,6 +4817,7 @@
     }
   },
   "43924-rebirth.mod": {
+    "name": "Robotics",
     "stringId": "43924-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4780,6 +4896,7 @@
     }
   },
   "50028-rebirth.mod": {
+    "name": "Hydroponic Wheatstraw",
     "stringId": "50028-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4826,6 +4943,7 @@
     }
   },
   "43973-rebirth.mod": {
+    "name": "Battery Capacity",
     "stringId": "43973-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4867,6 +4985,7 @@
     }
   },
   "50025-rebirth.mod": {
+    "name": "Hydroponic Riceweed",
     "stringId": "50025-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4913,6 +5032,7 @@
     }
   },
   "43968-rebirth.mod": {
+    "name": "Hybrid Stone Mine",
     "stringId": "43968-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4964,6 +5084,7 @@
     }
   },
   "42174-rebirth.mod": {
+    "name": "Powered Stone Refinery",
     "stringId": "42174-rebirth.mod",
     "type": "Research",
     "values": {
@@ -4998,6 +5119,7 @@
     }
   },
   "50027-rebirth.mod": {
+    "name": "Hydroponic Vegetables",
     "stringId": "50027-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5039,6 +5161,7 @@
     }
   },
   "52317-rebirth.mod": {
+    "name": "Jittes",
     "stringId": "52317-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5071,6 +5194,7 @@
     }
   },
   "47762-rebirth.mod": {
+    "name": "Crossbow Turret Spotlight Fitting",
     "stringId": "47762-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5112,6 +5236,7 @@
     }
   },
   "43981-rebirth.mod": {
+    "name": "Amplified Generators",
     "stringId": "43981-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5153,6 +5278,7 @@
     }
   },
   "46043-rebirth.mod": {
+    "name": "_start- freedom seekers",
     "stringId": "46043-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5190,6 +5316,7 @@
     }
   },
   "47760-rebirth.mod": {
+    "name": "Harpoon Turret Spotlight Fitting",
     "stringId": "47760-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5231,6 +5358,7 @@
     }
   },
   "42176-rebirth.mod": {
+    "name": "Cotton Farming",
     "stringId": "42176-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5290,6 +5418,7 @@
     }
   },
   "52316-rebirth.mod": {
+    "name": "Foreign Sabres",
     "stringId": "52316-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5317,6 +5446,7 @@
     }
   },
   "43875-rebirth.mod": {
+    "name": "Assassin Training II",
     "stringId": "43875-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5358,6 +5488,7 @@
     }
   },
   "43874-rebirth.mod": {
+    "name": "Assassin Training",
     "stringId": "43874-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5392,6 +5523,7 @@
     }
   },
   "47920-rebirth.mod": {
+    "name": "Advanced Wind Generator Theory",
     "stringId": "47920-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5438,6 +5570,7 @@
     }
   },
   "43962-rebirth.mod": {
+    "name": "Cooking",
     "stringId": "43962-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5484,6 +5617,7 @@
     }
   },
   "42185-rebirth.mod": {
+    "name": "Iron Plates",
     "stringId": "42185-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5533,6 +5667,7 @@
     }
   },
   "52310-rebirth.mod": {
+    "name": "Advanced Weapon Grades",
     "stringId": "52310-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5601,6 +5736,7 @@
     }
   },
   "46044-rebirth.mod": {
+    "name": "_Low Start",
     "stringId": "46044-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5675,6 +5811,7 @@
     }
   },
   "43923-rebirth.mod": {
+    "name": "Batteries",
     "stringId": "43923-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5709,6 +5846,7 @@
     }
   },
   "42179-rebirth.mod": {
+    "name": "Beds",
     "stringId": "42179-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5743,6 +5881,7 @@
     }
   },
   "50923-rebirth.mod": {
+    "name": "Hemp Oil Biofuel",
     "stringId": "50923-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5784,6 +5923,7 @@
     }
   },
   "52315-rebirth.mod": {
+    "name": "Cleavers",
     "stringId": "52315-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5816,6 +5956,7 @@
     }
   },
   "52314-rebirth.mod": {
+    "name": "Desert Sabres",
     "stringId": "52314-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5843,6 +5984,7 @@
     }
   },
   "52161-rebirth.mod": {
+    "name": "Sake Distillation",
     "stringId": "52161-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5882,6 +6024,7 @@
     }
   },
   "52281-rebirth.mod": {
+    "name": "Grog Distillation",
     "stringId": "52281-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5921,6 +6064,7 @@
     }
   },
   "52323-rebirth.mod": {
+    "name": "Basic Weapon Smithing",
     "stringId": "52323-rebirth.mod",
     "type": "Research",
     "values": {
@@ -5974,6 +6118,7 @@
     }
   },
   "52321-rebirth.mod": {
+    "name": "Combat Cleaver",
     "stringId": "52321-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6001,6 +6146,7 @@
     }
   },
   "52322-rebirth.mod": {
+    "name": "Exotic Weapons",
     "stringId": "52322-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6028,6 +6174,7 @@
     }
   },
   "52332-rebirth.mod": {
+    "name": "Hats and Headgear",
     "stringId": "52332-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6099,6 +6246,7 @@
     }
   },
   "53083-rebirth.mod": {
+    "name": "Edgewalkers",
     "stringId": "53083-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6145,6 +6293,7 @@
     }
   },
   "55235-rebirth.mod": {
+    "name": "Hashish Production",
     "stringId": "55235-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6184,6 +6333,7 @@
     }
   },
   "56646-rebirth.mod": {
+    "name": "Sleeping Bags",
     "stringId": "56646-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6225,6 +6375,7 @@
     }
   },
   "62165-rebirth.mod": {
+    "name": "Basic Furniture",
     "stringId": "62165-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6297,6 +6448,7 @@
     }
   },
   "62167-rebirth.mod": {
+    "name": "Random Furniture",
     "stringId": "62167-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6359,6 +6511,7 @@
     }
   },
   "62380-rebirth.mod": {
+    "name": "Automatic Loom (Hemp)",
     "stringId": "62380-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6400,6 +6553,7 @@
     }
   },
   "62381-rebirth.mod": {
+    "name": "Automatic Loom (Cotton)",
     "stringId": "62381-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6446,6 +6600,7 @@
     }
   },
   "64562-rebirth.mod": {
+    "name": "Fully Automatic Ore Drill",
     "stringId": "64562-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6497,6 +6652,7 @@
     }
   },
   "64563-rebirth.mod": {
+    "name": "Semi-Automatic Ore Drill",
     "stringId": "64563-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6543,6 +6699,7 @@
     }
   },
   "64616-rebirth.mod": {
+    "name": "Skeleton Repair Beds",
     "stringId": "64616-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6577,6 +6734,7 @@
     }
   },
   "96564-rebirth.mod": {
+    "name": "Camp Shelter",
     "stringId": "96564-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6604,6 +6762,7 @@
     }
   },
   "96565-rebirth.mod": {
+    "name": "Scrap Tent",
     "stringId": "96565-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6631,6 +6790,7 @@
     }
   },
   "96566-rebirth.mod": {
+    "name": "Mercenary Tent",
     "stringId": "96566-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6658,6 +6818,7 @@
     }
   },
   "97084-rebirth.mod": {
+    "name": "Crossbow Bolts",
     "stringId": "97084-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6709,6 +6870,7 @@
     }
   },
   "97085-rebirth.mod": {
+    "name": "Bolts: Regulars",
     "stringId": "97085-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6743,6 +6905,7 @@
     }
   },
   "97086-rebirth.mod": {
+    "name": "Bolts: Heavies",
     "stringId": "97086-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6777,6 +6940,7 @@
     }
   },
   "97087-rebirth.mod": {
+    "name": "Bolts: Longs",
     "stringId": "97087-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6811,6 +6975,7 @@
     }
   },
   "97088-rebirth.mod": {
+    "name": "Crossbow Crafting",
     "stringId": "97088-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6871,6 +7036,7 @@
     }
   },
   "97245-rebirth.mod": {
+    "name": "Gear Storage",
     "stringId": "97245-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6918,6 +7084,7 @@
     }
   },
   "97502-rebirth.mod": {
+    "name": "Lockpick Training III",
     "stringId": "97502-rebirth.mod",
     "type": "Research",
     "values": {
@@ -6969,6 +7136,7 @@
     }
   },
   "97504-rebirth.mod": {
+    "name": "Thievery Training",
     "stringId": "97504-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7003,6 +7171,7 @@
     }
   },
   "97505-rebirth.mod": {
+    "name": "Thievery Training II",
     "stringId": "97505-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7044,6 +7213,7 @@
     }
   },
   "97506-rebirth.mod": {
+    "name": "Thievery Training III",
     "stringId": "97506-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7085,6 +7255,7 @@
     }
   },
   "97859-rebirth.mod": {
+    "name": "Rain Collector",
     "stringId": "97859-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7126,6 +7297,7 @@
     }
   },
   "98802-rebirth.mod": {
+    "name": "Short-Cleaver",
     "stringId": "98802-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7153,6 +7325,7 @@
     }
   },
   "1532660-rebirth.mod": {
+    "name": "Toppers",
     "stringId": "1532660-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7180,6 +7353,7 @@
     }
   },
   "1532832-rebirth.mod": {
+    "name": "Iron Plates IV",
     "stringId": "1532832-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7221,6 +7395,7 @@
     }
   },
   "1533315-rebirth.mod": {
+    "name": "Automatic Flour Grinding",
     "stringId": "1533315-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7262,6 +7437,7 @@
     }
   },
   "1533518-rebirth.mod": {
+    "name": "Hiver Skeleton Legs",
     "stringId": "1533518-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7315,6 +7491,7 @@
     }
   },
   "1533519-rebirth.mod": {
+    "name": "Hiver Skeleton Arms",
     "stringId": "1533519-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7361,6 +7538,7 @@
     }
   },
   "1533520-rebirth.mod": {
+    "name": "Skeleton Legs",
     "stringId": "1533520-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7407,6 +7585,7 @@
     }
   },
   "1533521-rebirth.mod": {
+    "name": "Skeleton Arms",
     "stringId": "1533521-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7453,6 +7632,7 @@
     }
   },
   "1533522-rebirth.mod": {
+    "name": "High-Speed Legs",
     "stringId": "1533522-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7499,6 +7679,7 @@
     }
   },
   "1533523-rebirth.mod": {
+    "name": "Stealth Legs",
     "stringId": "1533523-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7545,6 +7726,7 @@
     }
   },
   "1533524-rebirth.mod": {
+    "name": "Extra Durable Legs",
     "stringId": "1533524-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7591,6 +7773,7 @@
     }
   },
   "1533525-rebirth.mod": {
+    "name": "Durable Arms",
     "stringId": "1533525-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7637,6 +7820,7 @@
     }
   },
   "1533526-rebirth.mod": {
+    "name": "Extra Strong Arms",
     "stringId": "1533526-rebirth.mod",
     "type": "Research",
     "values": {
@@ -7683,6 +7867,7 @@
     }
   },
   "1534079-rebirth.mod": {
+    "name": "Skeleton-Human Transformation Bible",
     "stringId": "1534079-rebirth.mod",
     "type": "Research",
     "values": {

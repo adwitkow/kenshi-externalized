@@ -1,5 +1,6 @@
 {
   "3405-otto.mod": {
+    "name": "signs3_material",
     "stringId": "3405-otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -30,6 +31,7 @@
     "references": {}
   },
   "491-gamedata.base": {
+    "name": "wall 02",
     "stringId": "491-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -60,6 +62,7 @@
     "references": {}
   },
   "1856-gamedata.base": {
+    "name": "oildrill mat",
     "stringId": "1856-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -90,6 +93,7 @@
     "references": {}
   },
   "5261-lanterns_otto.mod": {
+    "name": "props_atlas_modular",
     "stringId": "5261-lanterns_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -120,6 +124,7 @@
     "references": {}
   },
   "512-gamedata.base": {
+    "name": "sandstone",
     "stringId": "512-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -150,6 +155,7 @@
     "references": {}
   },
   "606-gamedata.base": {
+    "name": "ATLAS tall 02",
     "stringId": "606-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -180,6 +186,7 @@
     "references": {}
   },
   "2930-Walls2.mod": {
+    "name": "Gate Level 04",
     "stringId": "2930-Walls2.mod",
     "type": "MaterialSpec",
     "values": {
@@ -210,6 +217,7 @@
     "references": {}
   },
   "3391-TwoStorey.mod": {
+    "name": "Storm_House_Walls02 (PlasterMATERIAL)",
     "stringId": "3391-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -240,6 +248,7 @@
     "references": {}
   },
   "2615-Cannibals.mod": {
+    "name": "Cannibal Camp small storage",
     "stringId": "2615-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -278,6 +287,7 @@
     }
   },
   "5198-TwoStorey.mod": {
+    "name": "Rebel Camp04",
     "stringId": "5198-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -308,6 +318,7 @@
     "references": {}
   },
   "2929-Walls2.mod": {
+    "name": "Gate Level 03",
     "stringId": "2929-Walls2.mod",
     "type": "MaterialSpec",
     "values": {
@@ -338,6 +349,7 @@
     "references": {}
   },
   "1852-gamedata.base": {
+    "name": "batterymat",
     "stringId": "1852-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -368,6 +380,7 @@
     "references": {}
   },
   "3388-TwoStorey.mod": {
+    "name": "Storm_House_Walls01 (ConcreteMATERIAL)",
     "stringId": "3388-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -398,6 +411,7 @@
     "references": {}
   },
   "344-gamedata.base": {
+    "name": "atlas 01",
     "stringId": "344-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -428,6 +442,7 @@
     "references": {}
   },
   "5324-TwoStorey.mod": {
+    "name": "Outpost_PRISON AWNINGS",
     "stringId": "5324-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -458,6 +473,7 @@
     "references": {}
   },
   "5178-TwoStorey.mod": {
+    "name": "Rebel Camp01",
     "stringId": "5178-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -488,6 +504,7 @@
     "references": {}
   },
   "502-gamedata.base": {
+    "name": "scratch c45",
     "stringId": "502-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -518,6 +535,7 @@
     "references": {}
   },
   "5414-lights_otto.mod": {
+    "name": "indoor_lamp1",
     "stringId": "5414-lights_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -548,6 +566,7 @@
     "references": {}
   },
   "355-gamedata.base": {
+    "name": "black scratch 13",
     "stringId": "355-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -578,6 +597,7 @@
     "references": {}
   },
   "2612-Cannibals.mod": {
+    "name": "Cannibal Camp small tent",
     "stringId": "2612-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -608,6 +628,7 @@
     "references": {}
   },
   "2032-gamedata.base": {
+    "name": "smithy",
     "stringId": "2032-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -638,6 +659,7 @@
     "references": {}
   },
   "5287-D-TwoStorey.mod": {
+    "name": "Outpost01_Concrete",
     "stringId": "5287-D-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -668,6 +690,7 @@
     "references": {}
   },
   "505-gamedata.base": {
+    "name": "sandstone3",
     "stringId": "505-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -698,6 +721,7 @@
     "references": {}
   },
   "2934-gamedata.base": {
+    "name": "storages",
     "stringId": "2934-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -728,6 +752,7 @@
     "references": {}
   },
   "362-gamedata.base": {
+    "name": "redpaint rust - v pink panels",
     "stringId": "362-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -758,6 +783,7 @@
     "references": {}
   },
   "361-gamedata.base": {
+    "name": "corrosion12",
     "stringId": "361-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -788,6 +814,7 @@
     "references": {}
   },
   "497-gamedata.base": {
+    "name": "stoneanbottom-notile",
     "stringId": "497-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -818,6 +845,7 @@
     "references": {}
   },
   "872-gamedata.base": {
+    "name": "chest1tex",
     "stringId": "872-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -848,6 +876,7 @@
     "references": {}
   },
   "1024-gamedata.base": {
+    "name": "greywall02-building version",
     "stringId": "1024-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -878,6 +907,7 @@
     "references": {}
   },
   "5246-TwoStorey.mod": {
+    "name": "MARKET STALLS",
     "stringId": "5246-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -908,6 +938,7 @@
     "references": {}
   },
   "712-gamedata.base": {
+    "name": "interior walls COLLECTION",
     "stringId": "712-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -956,6 +987,7 @@
     }
   },
   "2882-gamedata.base": {
+    "name": "turret crossbow",
     "stringId": "2882-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -986,6 +1018,7 @@
     "references": {}
   },
   "12848-nodes_otto.mod": {
+    "name": "tiling_cloth_transparent",
     "stringId": "12848-nodes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1016,6 +1049,7 @@
     "references": {}
   },
   "728-gamedata.base": {
+    "name": "moor mats COLLECTION",
     "stringId": "728-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1064,6 +1098,7 @@
     }
   },
   "358-gamedata.base": {
+    "name": "horange cropped",
     "stringId": "358-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1094,6 +1129,7 @@
     "references": {}
   },
   "357-gamedata.base": {
+    "name": "black yellow stripes",
     "stringId": "357-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1124,6 +1160,7 @@
     "references": {}
   },
   "3009-Walls.mod": {
+    "name": "Wall Level 01",
     "stringId": "3009-Walls.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1154,6 +1191,7 @@
     "references": {}
   },
   "709-gamedata.base": {
+    "name": "Windows and stuff",
     "stringId": "709-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1184,6 +1222,7 @@
     "references": {}
   },
   "745-gamedata.base": {
+    "name": "moor-ATLAS-details",
     "stringId": "745-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1214,6 +1253,7 @@
     "references": {}
   },
   "354-gamedata.base": {
+    "name": "yellow metal square",
     "stringId": "354-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1244,6 +1284,7 @@
     "references": {}
   },
   "639-gamedata.base": {
+    "name": "diamond plate black",
     "stringId": "639-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1274,6 +1315,7 @@
     "references": {}
   },
   "705-gamedata.base": {
+    "name": "ATLAS tall 03 (bravo)",
     "stringId": "705-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1304,6 +1346,7 @@
     "references": {}
   },
   "1909-gamedata.base": {
+    "name": "farm01",
     "stringId": "1909-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1334,6 +1377,7 @@
     "references": {}
   },
   "3119-Walls2.mod": {
+    "name": "Wall Level 03",
     "stringId": "3119-Walls2.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1364,6 +1408,7 @@
     "references": {}
   },
   "1850-gamedata.base": {
+    "name": "refinery ATLAS",
     "stringId": "1850-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1394,6 +1439,7 @@
     "references": {}
   },
   "360-gamedata.base": {
+    "name": "severe10 - blue",
     "stringId": "360-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1424,6 +1470,7 @@
     "references": {}
   },
   "3109-Newwworld.mod": {
+    "name": "Gate Level 04",
     "stringId": "3109-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1454,6 +1501,7 @@
     "references": {}
   },
   "1953-gamedata.base": {
+    "name": "watertower02",
     "stringId": "1953-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1484,6 +1532,7 @@
     "references": {}
   },
   "603-gamedata.base": {
+    "name": "watertower skin",
     "stringId": "603-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1514,6 +1563,7 @@
     "references": {}
   },
   "2019-gamedata.base": {
+    "name": "hempfarm",
     "stringId": "2019-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1544,6 +1594,7 @@
     "references": {}
   },
   "1942-gamedata.base": {
+    "name": "stove",
     "stringId": "1942-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1574,6 +1625,7 @@
     "references": {}
   },
   "2637-Cannibals.mod": {
+    "name": "CannibalCamp Butchery Table",
     "stringId": "2637-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1604,6 +1656,7 @@
     "references": {}
   },
   "3092-walls.mod": {
+    "name": "Tower Level 04",
     "stringId": "3092-walls.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1634,6 +1687,7 @@
     "references": {}
   },
   "2832-gamedata.base": {
+    "name": "turret",
     "stringId": "2832-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1664,6 +1718,7 @@
     "references": {}
   },
   "2624-Cannibals.mod": {
+    "name": "Cannibal Camp Cage",
     "stringId": "2624-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1694,6 +1749,7 @@
     "references": {}
   },
   "14525-rebirth.mod": {
+    "name": "resourcecopper",
     "stringId": "14525-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1724,6 +1780,7 @@
     "references": {}
   },
   "2621-Cannibals.mod": {
+    "name": "Cannibal Camp Trophy01",
     "stringId": "2621-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1754,6 +1811,7 @@
     "references": {}
   },
   "12844-emissive_fix_otto.mod": {
+    "name": "furniture_atlas_emissive",
     "stringId": "12844-emissive_fix_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1784,6 +1842,7 @@
     "references": {}
   },
   "345-gamedata.base": {
+    "name": "tilestone",
     "stringId": "345-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1814,6 +1873,7 @@
     "references": {}
   },
   "646-gamedata.base": {
+    "name": "dome_concrete13",
     "stringId": "646-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1844,6 +1904,7 @@
     "references": {}
   },
   "717-gamedata.base": {
+    "name": "interior-concrete floorboards-brown",
     "stringId": "717-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1874,6 +1935,7 @@
     "references": {}
   },
   "1873-gamedata.base": {
+    "name": "reseach bench",
     "stringId": "1873-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -1904,6 +1966,7 @@
     "references": {}
   },
   "3118-Walls2.mod": {
+    "name": "Wall Level 04",
     "stringId": "3118-Walls2.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1934,6 +1997,7 @@
     "references": {}
   },
   "5195-TwoStorey.mod": {
+    "name": "Rebel Camp05",
     "stringId": "5195-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1964,6 +2028,7 @@
     "references": {}
   },
   "12618-Newwworld.mod": {
+    "name": "Streetlamp[Quad]01",
     "stringId": "12618-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -1994,6 +2059,7 @@
     "references": {}
   },
   "2828-Walls.mod": {
+    "name": "Gate Level 02",
     "stringId": "2828-Walls.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2024,6 +2090,7 @@
     "references": {}
   },
   "874-gamedata.base": {
+    "name": "bedtex",
     "stringId": "874-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2054,6 +2121,7 @@
     "references": {}
   },
   "1934-gamedata.base": {
+    "name": "oiltanks",
     "stringId": "1934-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2084,6 +2152,7 @@
     "references": {}
   },
   "2048-gamedata.base": {
+    "name": "basic wall gate",
     "stringId": "2048-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2114,6 +2183,7 @@
     "references": {}
   },
   "638-gamedata.base": {
+    "name": "galv roof",
     "stringId": "638-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2144,6 +2214,7 @@
     "references": {}
   },
   "1919-gamedata.base": {
+    "name": "well",
     "stringId": "1919-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2174,6 +2245,7 @@
     "references": {}
   },
   "3112-Newwworld.mod": {
+    "name": "Wall Level 05",
     "stringId": "3112-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2204,6 +2276,7 @@
     "references": {}
   },
   "973-gamedata.base": {
+    "name": "signs",
     "stringId": "973-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2234,6 +2307,7 @@
     "references": {}
   },
   "2013-gamedata.base": {
+    "name": "texbench",
     "stringId": "2013-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2264,6 +2338,7 @@
     "references": {}
   },
   "3390-TwoStorey.mod": {
+    "name": "Storm_House_Interior (MATERIAL)",
     "stringId": "3390-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2294,6 +2369,7 @@
     "references": {}
   },
   "3117-Walls2.mod": {
+    "name": "Wall Level 05",
     "stringId": "3117-Walls2.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2324,6 +2400,7 @@
     "references": {}
   },
   "3106-Newwworld.mod": {
+    "name": "Wall Level 04",
     "stringId": "3106-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2354,6 +2431,7 @@
     "references": {}
   },
   "1851-gamedata.base": {
+    "name": "generatormat",
     "stringId": "1851-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2384,6 +2462,7 @@
     "references": {}
   },
   "5197-TwoStorey.mod": {
+    "name": "Rebel Camp03",
     "stringId": "5197-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2414,6 +2493,7 @@
     "references": {}
   },
   "1023-gamedata.base": {
+    "name": "wall concrete dots",
     "stringId": "1023-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2444,6 +2524,7 @@
     "references": {}
   },
   "2931-Walls2.mod": {
+    "name": "Gate Level 05",
     "stringId": "2931-Walls2.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2474,6 +2555,7 @@
     "references": {}
   },
   "2631-Cannibals.mod": {
+    "name": "CannibalCamp_Spikeycage",
     "stringId": "2631-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2504,6 +2586,7 @@
     "references": {}
   },
   "596-gamedata.base": {
+    "name": "temple",
     "stringId": "596-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2534,6 +2617,7 @@
     "references": {}
   },
   "353-gamedata.base": {
+    "name": "stoneanbottom",
     "stringId": "353-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2564,6 +2648,7 @@
     "references": {}
   },
   "3100-Newwworld.mod": {
+    "name": "Wall Level 03",
     "stringId": "3100-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2594,6 +2679,7 @@
     "references": {}
   },
   "359-gamedata.base": {
+    "name": "severe01-green",
     "stringId": "359-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2624,6 +2710,7 @@
     "references": {}
   },
   "2327-Cannibals.mod": {
+    "name": "Cannibal Camp medium tent",
     "stringId": "2327-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2654,6 +2741,7 @@
     "references": {}
   },
   "4028-gamedata.base": {
+    "name": "animal refuse",
     "stringId": "4028-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2684,6 +2772,7 @@
     "references": {}
   },
   "347-gamedata.base": {
+    "name": "severe25-yellowy",
     "stringId": "347-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2714,6 +2803,7 @@
     "references": {}
   },
   "5186-TwoStorey.mod": {
+    "name": "Rebel Camp Doors",
     "stringId": "5186-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2744,6 +2834,7 @@
     "references": {}
   },
   "5196-TwoStorey.mod": {
+    "name": "Rebel Camp02",
     "stringId": "5196-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2774,6 +2865,7 @@
     "references": {}
   },
   "5317-TwoStorey.mod": {
+    "name": "Outpost_PRISON Concrete",
     "stringId": "5317-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2804,6 +2896,7 @@
     "references": {}
   },
   "501-gamedata.base": {
+    "name": "scratch c82 -wall",
     "stringId": "501-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2834,6 +2927,7 @@
     "references": {}
   },
   "1997-gamedata.base": {
+    "name": "windmill03",
     "stringId": "1997-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2864,6 +2958,7 @@
     "references": {}
   },
   "3093-walls.mod": {
+    "name": "Tower Level 05",
     "stringId": "3093-walls.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2894,6 +2989,7 @@
     "references": {}
   },
   "503-gamedata.base": {
+    "name": "greywall02",
     "stringId": "503-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2924,6 +3020,7 @@
     "references": {}
   },
   "3386-TwoStorey.mod": {
+    "name": "Storm_House_Extras (MATERIAL)",
     "stringId": "3386-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -2954,6 +3051,7 @@
     "references": {}
   },
   "589-gamedata.base": {
+    "name": "ATLAS tall 01",
     "stringId": "589-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -2984,6 +3082,7 @@
     "references": {}
   },
   "3101-Newwworld.mod": {
+    "name": "Gate Level 03",
     "stringId": "3101-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3014,6 +3113,7 @@
     "references": {}
   },
   "1861-gamedata.base": {
+    "name": "stone silo mat",
     "stringId": "1861-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3044,6 +3144,7 @@
     "references": {}
   },
   "363-gamedata.base": {
+    "name": "atlas 03- smooth",
     "stringId": "363-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3074,6 +3175,7 @@
     "references": {}
   },
   "3091-walls.mod": {
+    "name": "Tower Level 03",
     "stringId": "3091-walls.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3104,6 +3206,7 @@
     "references": {}
   },
   "18971-small_changes_otto.mod": {
+    "name": "Crops_material",
     "stringId": "18971-small_changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3134,6 +3237,7 @@
     "references": {}
   },
   "1022-gamedata.base": {
+    "name": "stone slats",
     "stringId": "1022-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3172,6 +3276,7 @@
     }
   },
   "743-gamedata.base": {
+    "name": "moor1-squared",
     "stringId": "743-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3202,6 +3307,7 @@
     "references": {}
   },
   "873-gamedata.base": {
+    "name": "chest2tex",
     "stringId": "873-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3232,6 +3338,7 @@
     "references": {}
   },
   "652-gamedata.base": {
+    "name": "ATLAS_interior_1024",
     "stringId": "652-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3263,6 +3370,7 @@
     "references": {}
   },
   "651-gamedata.base": {
+    "name": "ATLAS_interior_512",
     "stringId": "651-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3293,6 +3401,7 @@
     "references": {}
   },
   "641-gamedata.base": {
+    "name": "metal holes",
     "stringId": "641-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3323,6 +3432,7 @@
     "references": {}
   },
   "500-gamedata.base": {
+    "name": "wall sandstone",
     "stringId": "500-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3353,6 +3463,7 @@
     "references": {}
   },
   "5289-TwoStorey.mod": {
+    "name": "Outpost01_Metals",
     "stringId": "5289-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3383,6 +3494,7 @@
     "references": {}
   },
   "2634-Cannibals.mod": {
+    "name": "CannibalCamp Cooking Pit",
     "stringId": "2634-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3413,6 +3525,7 @@
     "references": {}
   },
   "1495-gamedata.base": {
+    "name": "Door- heavy metal",
     "stringId": "1495-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3443,6 +3556,7 @@
     "references": {}
   },
   "3963-gamedata.base": {
+    "name": "furnace- corpse",
     "stringId": "3963-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3473,6 +3587,7 @@
     "references": {}
   },
   "3958-gamedata.base": {
+    "name": "furnace mat",
     "stringId": "3958-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3503,6 +3618,7 @@
     "references": {}
   },
   "504-gamedata.base": {
+    "name": "greybump",
     "stringId": "504-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3533,6 +3649,7 @@
     "references": {}
   },
   "5288-TwoStorey.mod": {
+    "name": "MATERIAL_SPEC5288",
     "stringId": "5288-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3563,6 +3680,7 @@
     "references": {}
   },
   "1947-gamedata.base": {
+    "name": "storagetank",
     "stringId": "1947-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3593,6 +3711,7 @@
     "references": {}
   },
   "1939-gamedata.base": {
+    "name": "sacks barrels",
     "stringId": "1939-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3623,6 +3742,7 @@
     "references": {}
   },
   "742-gamedata.base": {
+    "name": "moor1-main",
     "stringId": "742-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3653,6 +3773,7 @@
     "references": {}
   },
   "343-gamedata.base": {
+    "name": "concrete 01",
     "stringId": "343-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3683,6 +3804,7 @@
     "references": {}
   },
   "3008-Walls.mod": {
+    "name": "Wall Level 02",
     "stringId": "3008-Walls.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3713,6 +3835,7 @@
     "references": {}
   },
   "2264-gamedata.base": {
+    "name": "medicrate",
     "stringId": "2264-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3743,6 +3866,7 @@
     "references": {}
   },
   "857-gamedata.base": {
+    "name": "chest",
     "stringId": "857-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3773,6 +3897,7 @@
     "references": {}
   },
   "5199-TwoStorey.mod": {
+    "name": "Rebel Camp Interior",
     "stringId": "5199-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3803,6 +3928,7 @@
     "references": {}
   },
   "3403-otto.mod": {
+    "name": "furniture_atlas_modular",
     "stringId": "3403-otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3833,6 +3959,7 @@
     "references": {}
   },
   "5219-TwoStorey.mod": {
+    "name": "Rebel Camp06",
     "stringId": "5219-TwoStorey.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3863,6 +3990,7 @@
     "references": {}
   },
   "14524-rebirth.mod": {
+    "name": "resourcerockiron",
     "stringId": "14524-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3893,6 +4021,7 @@
     "references": {}
   },
   "2627-Cannibals.mod": {
+    "name": "Cannibal Camp big building",
     "stringId": "2627-Cannibals.mod",
     "type": "MaterialSpec",
     "values": {
@@ -3923,6 +4052,7 @@
     "references": {}
   },
   "2037-gamedata.base": {
+    "name": "wallbasic01",
     "stringId": "2037-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3953,6 +4083,7 @@
     "references": {}
   },
   "716-gamedata.base": {
+    "name": "bravo floor grey",
     "stringId": "716-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -3983,6 +4114,7 @@
     "references": {}
   },
   "2065-gamedata.base": {
+    "name": "automine",
     "stringId": "2065-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -4013,6 +4145,7 @@
     "references": {}
   },
   "5331-gamedata.base": {
+    "name": "MATERIAL_SPEC",
     "stringId": "5331-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -4043,6 +4176,7 @@
     "references": {}
   },
   "2924-gamedata.base": {
+    "name": "chain leather armour benches",
     "stringId": "2924-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -4073,6 +4207,7 @@
     "references": {}
   },
   "648-gamedata.base": {
+    "name": "dome_metal14",
     "stringId": "648-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -4103,6 +4238,7 @@
     "references": {}
   },
   "657-gamedata.base": {
+    "name": "interior floors COLLECTION",
     "stringId": "657-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -4146,6 +4282,7 @@
     }
   },
   "12820-nodes_otto.mod": {
+    "name": "furniture_atlas_transparent",
     "stringId": "12820-nodes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4176,6 +4313,7 @@
     "references": {}
   },
   "647-gamedata.base": {
+    "name": "dome_metal20",
     "stringId": "647-gamedata.base",
     "type": "MaterialSpec",
     "values": {
@@ -4206,6 +4344,7 @@
     "references": {}
   },
   "47947-Newwworld.mod": {
+    "name": "Quarry_Mine_Rock",
     "stringId": "47947-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4236,6 +4375,7 @@
     "references": {}
   },
   "18936-Newwworld.mod": {
+    "name": "Pontoon Bridge",
     "stringId": "18936-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4266,6 +4406,7 @@
     "references": {}
   },
   "48465-Newwworld.mod": {
+    "name": "Old-World_Flouresc-Light",
     "stringId": "48465-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4296,6 +4437,7 @@
     "references": {}
   },
   "47173-Newwworld.mod": {
+    "name": "BARSIGN3_Dancing_Skeleton-MAT",
     "stringId": "47173-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4326,6 +4468,7 @@
     "references": {}
   },
   "46977-Newwworld.mod": {
+    "name": "Indoor_GAS LAMP",
     "stringId": "46977-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4356,6 +4499,7 @@
     "references": {}
   },
   "50529-Newwworld.mod": {
+    "name": "Fishing Net",
     "stringId": "50529-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4386,6 +4530,7 @@
     "references": {}
   },
   "47925-Newwworld.mod": {
+    "name": "DirtPLates-RUSTY_DIF",
     "stringId": "47925-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4416,6 +4561,7 @@
     "references": {}
   },
   "50568-Newwworld.mod": {
+    "name": "Fishing Rod Set",
     "stringId": "50568-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4446,6 +4592,7 @@
     "references": {}
   },
   "49550-Newwworld.mod": {
+    "name": "RubbleFloor",
     "stringId": "49550-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4476,6 +4623,7 @@
     "references": {}
   },
   "43878-Newwworld.mod": {
+    "name": "Machine Bench",
     "stringId": "43878-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4506,6 +4654,7 @@
     "references": {}
   },
   "14396-Newwworld.mod": {
+    "name": "StorageCrate_[Lost-Race]",
     "stringId": "14396-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4536,6 +4685,7 @@
     "references": {}
   },
   "43877-Newwworld.mod": {
+    "name": "Biofuel_Distillery",
     "stringId": "43877-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4566,6 +4716,7 @@
     "references": {}
   },
   "46984-Newwworld.mod": {
+    "name": "BarSignMAT03",
     "stringId": "46984-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4596,6 +4747,7 @@
     "references": {}
   },
   "47177-Newwworld.mod": {
+    "name": "Turret Light MAT",
     "stringId": "47177-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4626,6 +4778,7 @@
     "references": {}
   },
   "49567-Newwworld.mod": {
+    "name": "Floor Panels",
     "stringId": "49567-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4656,6 +4809,7 @@
     "references": {}
   },
   "40606-Newwworld.mod": {
+    "name": "Hive Extras",
     "stringId": "40606-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4686,6 +4840,7 @@
     "references": {}
   },
   "50523-Newwworld.mod": {
+    "name": "Fish01",
     "stringId": "50523-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4716,6 +4871,7 @@
     "references": {}
   },
   "42178-Newwworld.mod": {
+    "name": "Metal_Wall-House",
     "stringId": "42178-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4746,6 +4902,7 @@
     "references": {}
   },
   "46975-Newwworld.mod": {
+    "name": "Cannibal_Cooking_Pit_Hearth",
     "stringId": "46975-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4776,6 +4933,7 @@
     "references": {}
   },
   "46999-Newwworld.mod": {
+    "name": "BarSignMAT02",
     "stringId": "46999-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4806,6 +4964,7 @@
     "references": {}
   },
   "42314-Newwworld.mod": {
+    "name": "Storm_House_MetalPlateWalls",
     "stringId": "42314-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4836,6 +4995,7 @@
     "references": {}
   },
   "45564-Newwworld.mod": {
+    "name": "Crate of the Ancient ones",
     "stringId": "45564-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4866,6 +5026,7 @@
     "references": {}
   },
   "46983-Newwworld.mod": {
+    "name": "BarSignMAT01",
     "stringId": "46983-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4896,6 +5057,7 @@
     "references": {}
   },
   "43883-Newwworld.mod": {
+    "name": "Robotics Bench",
     "stringId": "43883-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4926,6 +5088,7 @@
     "references": {}
   },
   "3113-Newwworld.mod": {
+    "name": "Wall GATE Level 05",
     "stringId": "3113-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4956,6 +5119,7 @@
     "references": {}
   },
   "40601-Newwworld.mod": {
+    "name": "Hive Walls",
     "stringId": "40601-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -4986,6 +5150,7 @@
     "references": {}
   },
   "14539-Newwworld.mod": {
+    "name": "Industrial_Parts",
     "stringId": "14539-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5016,6 +5181,7 @@
     "references": {}
   },
   "47176-Newwworld.mod": {
+    "name": "BarSignMAT04",
     "stringId": "47176-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5046,6 +5212,7 @@
     "references": {}
   },
   "2339-Newwworld.mod": {
+    "name": "Mesa_ZOne_CaveMat",
     "stringId": "2339-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5076,6 +5243,7 @@
     "references": {}
   },
   "45567-Newwworld.mod": {
+    "name": "FireAnt-AutoTurret",
     "stringId": "45567-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5106,6 +5274,7 @@
     "references": {}
   },
   "3107-Newwworld.mod": {
+    "name": "Wall GATE Level 04",
     "stringId": "3107-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5136,6 +5305,7 @@
     "references": {}
   },
   "47926-Newwworld.mod": {
+    "name": "Scaffold_Base",
     "stringId": "47926-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5166,6 +5336,7 @@
     "references": {}
   },
   "42313-Newwworld.mod": {
+    "name": "Storm_Adobe MAT",
     "stringId": "42313-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5196,6 +5367,7 @@
     "references": {}
   },
   "40589-Newwworld.mod": {
+    "name": "Metal_WareHouse",
     "stringId": "40589-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5226,6 +5398,7 @@
     "references": {}
   },
   "43864-Newwworld.mod": {
+    "name": "tiling_leathery_material_old",
     "stringId": "43864-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5256,6 +5429,7 @@
     "references": {}
   },
   "2800-Newwworld.mod": {
+    "name": "Bridgehead",
     "stringId": "2800-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5286,6 +5460,7 @@
     "references": {}
   },
   "50629-Newwworld.mod": {
+    "name": "Swamp_Walkboard_material",
     "stringId": "50629-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5316,6 +5491,7 @@
     "references": {}
   },
   "52169-Newwworld.mod": {
+    "name": "Tarsand_Fractal_Distillery",
     "stringId": "52169-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5346,6 +5522,7 @@
     "references": {}
   },
   "52182-Newwworld.mod": {
+    "name": "ATLAS tall 03 (bravo)_RESKIN_",
     "stringId": "52182-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5376,6 +5553,7 @@
     "references": {}
   },
   "52193-Newwworld.mod": {
+    "name": "Door- heavy metal_RESKIN",
     "stringId": "52193-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5406,6 +5584,7 @@
     "references": {}
   },
   "54022-Newwworld.mod": {
+    "name": "AshDomeComplex_Exterior_Walls",
     "stringId": "54022-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5436,6 +5615,7 @@
     "references": {}
   },
   "54023-Newwworld.mod": {
+    "name": "AshDomeComplex_Interior_Walls",
     "stringId": "54023-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5466,6 +5646,7 @@
     "references": {}
   },
   "54028-Newwworld.mod": {
+    "name": "AshDome_Inner-Supports",
     "stringId": "54028-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5496,6 +5677,7 @@
     "references": {}
   },
   "54551-Newwworld.mod": {
+    "name": "banner_trader_material",
     "stringId": "54551-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5526,6 +5708,7 @@
     "references": {}
   },
   "56162-Newwworld.mod": {
+    "name": "BigJunkPile",
     "stringId": "56162-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5556,6 +5739,7 @@
     "references": {}
   },
   "56184-Newwworld.mod": {
+    "name": "Skeleton_Crushed_RUSTY",
     "stringId": "56184-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5586,6 +5770,7 @@
     "references": {}
   },
   "56726-Newwworld.mod": {
+    "name": "Lagoon-Rig_Platform",
     "stringId": "56726-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5616,6 +5801,7 @@
     "references": {}
   },
   "56980-Newwworld.mod": {
+    "name": "Barge Boat Hull",
     "stringId": "56980-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5646,6 +5832,7 @@
     "references": {}
   },
   "56981-Newwworld.mod": {
+    "name": "Barge Craft Panel material",
     "stringId": "56981-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5676,6 +5863,7 @@
     "references": {}
   },
   "56988-Newwworld.mod": {
+    "name": "Rust Sheet [02]",
     "stringId": "56988-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5706,6 +5894,7 @@
     "references": {}
   },
   "57338-Newwworld.mod": {
+    "name": "_Test_HiveQueen BODY",
     "stringId": "57338-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5736,6 +5925,7 @@
     "references": {}
   },
   "57340-Newwworld.mod": {
+    "name": "_Test_HiveQueen HEAD",
     "stringId": "57340-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5766,6 +5956,7 @@
     "references": {}
   },
   "57763-Newwworld.mod": {
+    "name": "Science Building_Exterior Walls",
     "stringId": "57763-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5796,6 +5987,7 @@
     "references": {}
   },
   "57764-Newwworld.mod": {
+    "name": "Science Building Hive Ramp blend",
     "stringId": "57764-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5826,6 +6018,7 @@
     "references": {}
   },
   "57766-Newwworld.mod": {
+    "name": "Hive Web",
     "stringId": "57766-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5856,6 +6049,7 @@
     "references": {}
   },
   "63230-Newwworld.mod": {
+    "name": "Stobe Base",
     "stringId": "63230-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5886,6 +6080,7 @@
     "references": {}
   },
   "63232-Newwworld.mod": {
+    "name": "Stobes Head",
     "stringId": "63232-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5916,6 +6111,7 @@
     "references": {}
   },
   "95512-Newwworld.mod": {
+    "name": "RoboPieces_MATERIAL",
     "stringId": "95512-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5946,6 +6142,7 @@
     "references": {}
   },
   "96182-Newwworld.mod": {
+    "name": "Bench_Crossbow",
     "stringId": "96182-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -5976,6 +6173,7 @@
     "references": {}
   },
   "96367-Newwworld.mod": {
+    "name": "BENCH Robot Limb-pieces",
     "stringId": "96367-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6006,6 +6204,7 @@
     "references": {}
   },
   "96395-Newwworld.mod": {
+    "name": "Bin of Screamer Heads",
     "stringId": "96395-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6036,6 +6235,7 @@
     "references": {}
   },
   "96398-Newwworld.mod": {
+    "name": "Peeler Machine",
     "stringId": "96398-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6066,6 +6266,7 @@
     "references": {}
   },
   "98553-Newwworld.mod": {
+    "name": "Large Dock Wreck01",
     "stringId": "98553-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6096,6 +6297,7 @@
     "references": {}
   },
   "98555-Newwworld.mod": {
+    "name": "Rusty Sheet Loop",
     "stringId": "98555-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6126,6 +6328,7 @@
     "references": {}
   },
   "1533491-Newwworld.mod": {
+    "name": "Com Tower Centre",
     "stringId": "1533491-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6156,6 +6359,7 @@
     "references": {}
   },
   "1533493-Newwworld.mod": {
+    "name": "Com Tower Boards",
     "stringId": "1533493-Newwworld.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6186,6 +6390,7 @@
     "references": {}
   },
   "48458-rebirth.mod": {
+    "name": "crate01",
     "stringId": "48458-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6216,6 +6421,7 @@
     "references": {}
   },
   "43316-changes_otto.mod": {
+    "name": "banner_swamp_material",
     "stringId": "43316-changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6246,6 +6452,7 @@
     "references": {}
   },
   "48470-rebirth.mod": {
+    "name": "scicrate01",
     "stringId": "48470-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6276,6 +6483,7 @@
     "references": {}
   },
   "43314-changes_otto.mod": {
+    "name": "banner_holy_material",
     "stringId": "43314-changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6306,6 +6514,7 @@
     "references": {}
   },
   "48730-rebirth.mod": {
+    "name": "window tiled",
     "stringId": "48730-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6336,6 +6545,7 @@
     "references": {}
   },
   "42252-small_changes_otto.mod": {
+    "name": "banner_bone_material",
     "stringId": "42252-small_changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6366,6 +6576,7 @@
     "references": {}
   },
   "48448-rebirth.mod": {
+    "name": "concrete barrier",
     "stringId": "48448-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6396,6 +6607,7 @@
     "references": {}
   },
   "49359-rebirth.mod": {
+    "name": "old rust 512 stretch",
     "stringId": "49359-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6426,6 +6638,7 @@
     "references": {}
   },
   "48464-rebirth.mod": {
+    "name": "scisafe",
     "stringId": "48464-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6456,6 +6669,7 @@
     "references": {}
   },
   "48737-rebirth.mod": {
+    "name": "stone slats green",
     "stringId": "48737-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6486,6 +6700,7 @@
     "references": {}
   },
   "48728-rebirth.mod": {
+    "name": "ATLAS tall 04 (bravo) old",
     "stringId": "48728-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6516,6 +6731,7 @@
     "references": {}
   },
   "48461-rebirth.mod": {
+    "name": "scicrate03",
     "stringId": "48461-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6546,6 +6762,7 @@
     "references": {}
   },
   "42073-small_changes_otto.mod": {
+    "name": "signs4_material",
     "stringId": "42073-small_changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6576,6 +6793,7 @@
     "references": {}
   },
   "48454-rebirth.mod": {
+    "name": "engcrate08",
     "stringId": "48454-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6606,6 +6824,7 @@
     "references": {}
   },
   "43313-changes_otto.mod": {
+    "name": "banner_bone_material",
     "stringId": "43313-changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6636,6 +6855,7 @@
     "references": {}
   },
   "42254-small_changes_otto.mod": {
+    "name": "banner_empire_material",
     "stringId": "42254-small_changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6666,6 +6886,7 @@
     "references": {}
   },
   "42253-small_changes_otto.mod": {
+    "name": "banner_holy_material",
     "stringId": "42253-small_changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6696,6 +6917,7 @@
     "references": {}
   },
   "48467-rebirth.mod": {
+    "name": "scicrate05",
     "stringId": "48467-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6726,6 +6948,7 @@
     "references": {}
   },
   "42255-small_changes_otto.mod": {
+    "name": "banner_swamp_material",
     "stringId": "42255-small_changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6756,6 +6979,7 @@
     "references": {}
   },
   "43315-changes_otto.mod": {
+    "name": "banner_empire_material",
     "stringId": "43315-changes_otto.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6786,6 +7010,7 @@
     "references": {}
   },
   "48739-rebirth.mod": {
+    "name": "bravo floor green",
     "stringId": "48739-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6816,6 +7041,7 @@
     "references": {}
   },
   "48674-rebirth.mod": {
+    "name": "robo drone",
     "stringId": "48674-rebirth.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6846,6 +7072,7 @@
     "references": {}
   },
   "96157-Boneyard Wolf.mod": {
+    "name": "Neon Strip material",
     "stringId": "96157-Boneyard Wolf.mod",
     "type": "MaterialSpec",
     "values": {
@@ -6876,6 +7103,7 @@
     "references": {}
   },
   "96159-Boneyard Wolf.mod": {
+    "name": "Robotics Sign",
     "stringId": "96159-Boneyard Wolf.mod",
     "type": "MaterialSpec",
     "values": {

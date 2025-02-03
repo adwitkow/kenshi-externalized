@@ -1,5 +1,6 @@
 {
   "2235-gamedata.base": {
+    "name": "weapon vendor Outposts",
     "stringId": "2235-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -36,6 +37,7 @@
     }
   },
   "4037-gamedata.base": {
+    "name": "nest loot items",
     "stringId": "4037-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -65,6 +67,7 @@
     }
   },
   "1973-gamedata.base": {
+    "name": "Bar",
     "stringId": "1973-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -154,6 +157,7 @@
     }
   },
   "2247-gamedata.base": {
+    "name": "armor vendor ronin/shek",
     "stringId": "2247-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -342,6 +346,7 @@
     }
   },
   "1030-gamedata.base": {
+    "name": "trade goods low",
     "stringId": "1030-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -397,6 +402,7 @@
     }
   },
   "4036-gamedata.base": {
+    "name": "Nest loot weapons low",
     "stringId": "4036-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -508,6 +514,7 @@
     }
   },
   "1008-gamedata.base": {
+    "name": "hats vendor ronin",
     "stringId": "1008-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -689,6 +696,7 @@
     }
   },
   "1029-gamedata.base": {
+    "name": "item vendor std",
     "stringId": "1029-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -735,6 +743,7 @@
     }
   },
   "1006-gamedata.base": {
+    "name": "footwear vendor",
     "stringId": "1006-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -776,6 +785,7 @@
     }
   },
   "1496-gamedata.base": {
+    "name": "_armor vendor-copy",
     "stringId": "1496-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -815,6 +825,7 @@
     }
   },
   "2250-gamedata.base": {
+    "name": "hats vendor holy",
     "stringId": "2250-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -901,6 +912,7 @@
     }
   },
   "1387-gamedata.base": {
+    "name": "trade goods illegal",
     "stringId": "1387-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -971,6 +983,7 @@
     }
   },
   "1384-gamedata.base": {
+    "name": "outpost vendor",
     "stringId": "1384-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -1079,6 +1092,7 @@
     }
   },
   "1502-gamedata.base": {
+    "name": "construction goods",
     "stringId": "1502-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -1205,6 +1219,7 @@
     }
   },
   "2248-gamedata.base": {
+    "name": "armor vendor holy",
     "stringId": "2248-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -1301,6 +1316,7 @@
     }
   },
   "2251-gamedata.base": {
+    "name": "hats vendor UC",
     "stringId": "2251-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -1432,6 +1448,7 @@
     }
   },
   "1007-gamedata.base": {
+    "name": "clothing vendor",
     "stringId": "1007-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -1693,6 +1710,7 @@
     }
   },
   "vendWeapon": {
+    "name": "weapon vendor Holy",
     "stringId": "vendWeapon",
     "type": "VendorList",
     "values": {
@@ -1826,6 +1844,7 @@
     }
   },
   "1026-gamedata.base": {
+    "name": "weapon vendor Ronin",
     "stringId": "1026-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -1989,6 +2008,7 @@
     }
   },
   "5286-gamedata.base": {
+    "name": "Stone camp vendor",
     "stringId": "5286-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2018,6 +2038,7 @@
     }
   },
   "1028-gamedata.base": {
+    "name": "item vendor adv",
     "stringId": "1028-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2099,6 +2120,7 @@
     }
   },
   "1386-gamedata.base": {
+    "name": "trade goods",
     "stringId": "1386-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2263,6 +2285,7 @@
     }
   },
   "1013-gamedata.base": {
+    "name": "all trade goods",
     "stringId": "1013-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2652,6 +2675,7 @@
     }
   },
   "1027-gamedata.base": {
+    "name": "weapon vendor UC small-time",
     "stringId": "1027-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2755,6 +2779,7 @@
     }
   },
   "2052-gamedata.base": {
+    "name": "flophouse",
     "stringId": "2052-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2784,6 +2809,7 @@
     }
   },
   "1031-gamedata.base": {
+    "name": "under-armor vendor",
     "stringId": "1031-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -2912,6 +2938,7 @@
     }
   },
   "vendItem": {
+    "name": "item vendor low",
     "stringId": "vendItem",
     "type": "VendorList",
     "values": {
@@ -2943,6 +2970,7 @@
     }
   },
   "16853-gamedata.base": {
+    "name": "bandit camp loot",
     "stringId": "16853-gamedata.base",
     "type": "VendorList",
     "values": {
@@ -3017,6 +3045,7 @@
     }
   },
   "vendArmor": {
+    "name": "armor vendor UC",
     "stringId": "vendArmor",
     "type": "VendorList",
     "values": {
@@ -3218,6 +3247,7 @@
     }
   },
   "49785-Dialogue.mod": {
+    "name": "Lore: Hub Notes & Reports",
     "stringId": "49785-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3257,6 +3287,7 @@
     }
   },
   "49484-Dialogue.mod": {
+    "name": "Lore: Swamper Letters Grim's house",
     "stringId": "49484-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3281,6 +3312,7 @@
     }
   },
   "49497-Dialogue.mod": {
+    "name": "Lore: Shek Official Books For Shops & Homes",
     "stringId": "49497-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3315,6 +3347,7 @@
     }
   },
   "49489-Dialogue.mod": {
+    "name": "Lore: Holy Nation Offiical Books For Shops & Homes",
     "stringId": "49489-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3409,6 +3442,7 @@
     }
   },
   "49485-Dialogue.mod": {
+    "name": "Lore: Swamper Letter Casino",
     "stringId": "49485-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3428,6 +3462,7 @@
     }
   },
   "50962-Dialogue.mod": {
+    "name": "Lore: Ghost Town Letters",
     "stringId": "50962-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3452,6 +3487,7 @@
     }
   },
   "49496-Dialogue.mod": {
+    "name": "Lore: Mongrel Town Diary Excerpts",
     "stringId": "49496-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3486,6 +3522,7 @@
     }
   },
   "49483-Dialogue.mod": {
+    "name": "Lore: Swamper Letters Random",
     "stringId": "49483-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3535,6 +3572,7 @@
     }
   },
   "49490-Dialogue.mod": {
+    "name": "Lore: Holy Nation Forbidden Books & Notes",
     "stringId": "49490-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3569,6 +3607,7 @@
     }
   },
   "50011-Dialogue.mod": {
+    "name": "Lore: Flotsam Village Notes",
     "stringId": "50011-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3593,6 +3632,7 @@
     }
   },
   "49491-Dialogue.mod": {
+    "name": "Lore: Holy Nation Official Notes For Churches",
     "stringId": "49491-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3627,6 +3667,7 @@
     }
   },
   "47187-Dialogue.mod": {
+    "name": "Hiver Lantern --Unique--",
     "stringId": "47187-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3686,6 +3727,7 @@
     }
   },
   "51316-Dialogue.mod": {
+    "name": "Lore: Worlds End Library",
     "stringId": "51316-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3810,6 +3852,7 @@
     }
   },
   "53662-Dialogue.mod": {
+    "name": "Lore: Empire Official Books",
     "stringId": "53662-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3884,6 +3927,7 @@
     }
   },
   "53678-Dialogue.mod": {
+    "name": "Lore: Empire Unnofficial Letters & Books",
     "stringId": "53678-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -3923,6 +3967,7 @@
     }
   },
   "58057-Dialogue.mod": {
+    "name": "Wanted posters: UC Traders Guild",
     "stringId": "58057-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -4022,6 +4067,7 @@
     }
   },
   "58058-Dialogue.mod": {
+    "name": "Wanted posters: Holy Nation",
     "stringId": "58058-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -4081,6 +4127,7 @@
     }
   },
   "58059-Dialogue.mod": {
+    "name": "Wanted posters: Misc",
     "stringId": "58059-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -4140,6 +4187,7 @@
     }
   },
   "58060-Dialogue.mod": {
+    "name": "Notes From a cannibal camp",
     "stringId": "58060-Dialogue.mod",
     "type": "VendorList",
     "values": {
@@ -4174,6 +4222,7 @@
     }
   },
   "52318-rebirth.mod": {
+    "name": "weapon vendor UC big city",
     "stringId": "52318-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4362,6 +4411,7 @@
     }
   },
   "49770-rebirth.mod": {
+    "name": "greenland food",
     "stringId": "49770-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4396,6 +4446,7 @@
     }
   },
   "49934-rebirth.mod": {
+    "name": "library ruins loot",
     "stringId": "49934-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4420,6 +4471,7 @@
     }
   },
   "48699-rebirth.mod": {
+    "name": "abandoned house junk (hi-tech zone)",
     "stringId": "48699-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4544,6 +4596,7 @@
     }
   },
   "43971-rebirth.mod": {
+    "name": "caravan (survival items)",
     "stringId": "43971-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4603,6 +4656,7 @@
     }
   },
   "43323-rebirth.mod": {
+    "name": "hive",
     "stringId": "43323-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4833,6 +4887,7 @@
     }
   },
   "50575-rebirth.mod": {
+    "name": "fishy bar",
     "stringId": "50575-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4867,6 +4922,7 @@
     }
   },
   "44903-rebirth.mod": {
+    "name": "loot basic mats, holy mines",
     "stringId": "44903-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4921,6 +4977,7 @@
     }
   },
   "44857-rebirth.mod": {
+    "name": "crops NW",
     "stringId": "44857-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -4960,6 +5017,7 @@
     }
   },
   "48675-rebirth.mod": {
+    "name": "ancient lab",
     "stringId": "48675-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5079,6 +5137,7 @@
     }
   },
   "43391-rebirth.mod": {
+    "name": "wealthy house",
     "stringId": "43391-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5178,6 +5237,7 @@
     }
   },
   "50340-rebirth.mod": {
+    "name": "fish food",
     "stringId": "50340-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5202,6 +5262,7 @@
     }
   },
   "50386-rebirth.mod": {
+    "name": "adventure shop",
     "stringId": "50386-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5392,6 +5453,7 @@
     }
   },
   "44870-rebirth.mod": {
+    "name": "bandit good loot",
     "stringId": "44870-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5568,6 +5630,7 @@
     }
   },
   "50251-rebirth.mod": {
+    "name": "VENDOR_LIST",
     "stringId": "50251-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5579,6 +5642,7 @@
     "references": {}
   },
   "43969-rebirth.mod": {
+    "name": "_all food",
     "stringId": "43969-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5683,6 +5747,7 @@
     }
   },
   "44916-rebirth.mod": {
+    "name": "maps holy nation",
     "stringId": "44916-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5707,6 +5772,7 @@
     }
   },
   "43937-rebirth.mod": {
+    "name": "farm vendor",
     "stringId": "43937-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5781,6 +5847,7 @@
     }
   },
   "49936-rebirth.mod": {
+    "name": "library loot",
     "stringId": "49936-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5827,6 +5894,7 @@
     }
   },
   "44888-rebirth.mod": {
+    "name": "holy outpost loot",
     "stringId": "44888-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -5920,6 +5988,7 @@
     }
   },
   "50572-rebirth.mod": {
+    "name": "robot house",
     "stringId": "50572-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6009,6 +6078,7 @@
     }
   },
   "48707-rebirth.mod": {
+    "name": "nest loot weapons med",
     "stringId": "48707-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6075,6 +6145,7 @@
     }
   },
   "48781-rebirth.mod": {
+    "name": "cannibal treasure",
     "stringId": "48781-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6355,6 +6426,7 @@
     }
   },
   "50509-rebirth.mod": {
+    "name": "hydropponic place",
     "stringId": "50509-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6379,6 +6451,7 @@
     }
   },
   "44427-rebirth.mod": {
+    "name": "worthless camp loot",
     "stringId": "44427-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6438,6 +6511,7 @@
     }
   },
   "42079-rebirth.mod": {
+    "name": "shinobi gear",
     "stringId": "42079-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6576,6 +6650,7 @@
     }
   },
   "49379-rebirth.mod": {
+    "name": "safehouse supplies",
     "stringId": "49379-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6716,6 +6791,7 @@
     }
   },
   "44862-rebirth.mod": {
+    "name": "medical and travel supplies",
     "stringId": "44862-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6846,6 +6922,7 @@
     }
   },
   "49374-rebirth.mod": {
+    "name": "engineering research",
     "stringId": "49374-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6865,6 +6942,7 @@
     }
   },
   "49941-rebirth.mod": {
+    "name": "lost armoury debris",
     "stringId": "49941-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6969,6 +7047,7 @@
     }
   },
   "49938-rebirth.mod": {
+    "name": "lost armoury",
     "stringId": "49938-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -6998,6 +7077,7 @@
     }
   },
   "42076-rebirth.mod": {
+    "name": "house contents",
     "stringId": "42076-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7112,6 +7192,7 @@
     }
   },
   "43386-rebirth.mod": {
+    "name": "basic mats",
     "stringId": "43386-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7191,6 +7272,7 @@
     }
   },
   "49572-rebirth.mod": {
+    "name": "barracks holy",
     "stringId": "49572-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7283,6 +7365,7 @@
     }
   },
   "42078-rebirth.mod": {
+    "name": "armour vendor ninja",
     "stringId": "42078-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7367,6 +7450,7 @@
     }
   },
   "50319-rebirth.mod": {
+    "name": "armour king",
     "stringId": "50319-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7551,6 +7635,7 @@
     }
   },
   "14471-rebirth.mod": {
+    "name": "hospital",
     "stringId": "14471-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7612,6 +7697,7 @@
     }
   },
   "42080-rebirth.mod": {
+    "name": "generator room",
     "stringId": "42080-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7641,6 +7727,7 @@
     }
   },
   "49375-rebirth.mod": {
+    "name": "Hi tech junk",
     "stringId": "49375-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7755,6 +7842,7 @@
     }
   },
   "50929-rebirth.mod": {
+    "name": "swamp bar",
     "stringId": "50929-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7804,6 +7892,7 @@
     }
   },
   "50974-rebirth.mod": {
+    "name": "weapons swamp",
     "stringId": "50974-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -7907,6 +7996,7 @@
     }
   },
   "50975-rebirth.mod": {
+    "name": "armour swamp",
     "stringId": "50975-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8105,6 +8195,7 @@
     }
   },
   "50977-rebirth.mod": {
+    "name": "Swamp clothing",
     "stringId": "50977-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8326,6 +8417,7 @@
     }
   },
   "50979-rebirth.mod": {
+    "name": "mini travel",
     "stringId": "50979-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8380,6 +8472,7 @@
     }
   },
   "50980-rebirth.mod": {
+    "name": "travel food",
     "stringId": "50980-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8449,6 +8542,7 @@
     }
   },
   "50981-rebirth.mod": {
+    "name": "weapons deadcat crappy",
     "stringId": "50981-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8520,6 +8614,7 @@
     }
   },
   "50986-rebirth.mod": {
+    "name": "nest loot high",
     "stringId": "50986-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8683,6 +8778,7 @@
     }
   },
   "51312-rebirth.mod": {
+    "name": "heavy weapons",
     "stringId": "51312-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8756,6 +8852,7 @@
     }
   },
   "51329-rebirth.mod": {
+    "name": "shek military ruin loot",
     "stringId": "51329-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -8886,6 +8983,7 @@
     }
   },
   "51330-rebirth.mod": {
+    "name": "shek military ruin loot copy",
     "stringId": "51330-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9011,6 +9109,7 @@
     }
   },
   "51371-rebirth.mod": {
+    "name": "bugmaster",
     "stringId": "51371-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9030,6 +9129,7 @@
     }
   },
   "51378-rebirth.mod": {
+    "name": "ancient lab ruins",
     "stringId": "51378-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9134,6 +9234,7 @@
     }
   },
   "95772-rebirth.mod": {
+    "name": "robot limbs mid",
     "stringId": "95772-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9238,6 +9339,7 @@
     }
   },
   "51392-rebirth.mod": {
+    "name": "wanted posters shek",
     "stringId": "51392-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9322,6 +9424,7 @@
     }
   },
   "51633-rebirth.mod": {
+    "name": "holy church",
     "stringId": "51633-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9408,6 +9511,7 @@
     }
   },
   "51746-rebirth.mod": {
+    "name": "shinobi thief guild special items",
     "stringId": "51746-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9516,6 +9620,7 @@
     }
   },
   "51763-rebirth.mod": {
+    "name": "Narcotics",
     "stringId": "51763-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9535,6 +9640,7 @@
     }
   },
   "51810-rebirth.mod": {
+    "name": "fish food swamp",
     "stringId": "51810-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9559,6 +9665,7 @@
     }
   },
   "51816-rebirth.mod": {
+    "name": "crops",
     "stringId": "51816-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9598,6 +9705,7 @@
     }
   },
   "52155-rebirth.mod": {
+    "name": "mats +  fuel",
     "stringId": "52155-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9627,6 +9735,7 @@
     }
   },
   "52319-rebirth.mod": {
+    "name": "weapon vendor skeleton city",
     "stringId": "52319-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -9820,6 +9929,7 @@
     }
   },
   "52335-rebirth.mod": {
+    "name": "weapon vendor Catun",
     "stringId": "52335-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10023,6 +10133,7 @@
     }
   },
   "54540-rebirth.mod": {
+    "name": "slaver farm vendor",
     "stringId": "54540-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10057,6 +10168,7 @@
     }
   },
   "56133-rebirth.mod": {
+    "name": "bank",
     "stringId": "56133-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10096,6 +10208,7 @@
     }
   },
   "56139-rebirth.mod": {
+    "name": "bakery shop",
     "stringId": "56139-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10135,6 +10248,7 @@
     }
   },
   "56147-rebirth.mod": {
+    "name": "map shop",
     "stringId": "56147-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10209,6 +10323,7 @@
     }
   },
   "56148-rebirth.mod": {
+    "name": "comprehensive common armour blueprints",
     "stringId": "56148-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10728,6 +10843,7 @@
     }
   },
   "56149-rebirth.mod": {
+    "name": "rare blueprints",
     "stringId": "56149-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10821,6 +10937,7 @@
     }
   },
   "56150-rebirth.mod": {
+    "name": "comprehensive common weapon blueprints",
     "stringId": "56150-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10957,6 +11074,7 @@
     }
   },
   "56151-rebirth.mod": {
+    "name": "just books",
     "stringId": "56151-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -10976,6 +11094,7 @@
     }
   },
   "56160-rebirth.mod": {
+    "name": "skeleton bar",
     "stringId": "56160-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11025,6 +11144,7 @@
     }
   },
   "56178-rebirth.mod": {
+    "name": "stone camp shop",
     "stringId": "56178-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11064,6 +11184,7 @@
     }
   },
   "56183-rebirth.mod": {
+    "name": "best armour vendor UC",
     "stringId": "56183-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11285,6 +11406,7 @@
     }
   },
   "56185-rebirth.mod": {
+    "name": "ashlander stuff",
     "stringId": "56185-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11331,6 +11453,7 @@
     }
   },
   "56358-rebirth.mod": {
+    "name": "skeleton smiths",
     "stringId": "56358-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11517,6 +11640,7 @@
     }
   },
   "56360-rebirth.mod": {
+    "name": "_useful building mats",
     "stringId": "56360-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11571,6 +11695,7 @@
     }
   },
   "57326-rebirth.mod": {
+    "name": "weapon vendor mongrel",
     "stringId": "57326-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11744,6 +11869,7 @@
     }
   },
   "57328-rebirth.mod": {
+    "name": "armor vendor mongrel",
     "stringId": "57328-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -11962,6 +12088,7 @@
     }
   },
   "57397-rebirth.mod": {
+    "name": "weapon vendor Ronin crappy",
     "stringId": "57397-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12115,6 +12242,7 @@
     }
   },
   "62771-rebirth.mod": {
+    "name": "ancient outpost",
     "stringId": "62771-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12149,6 +12277,7 @@
     }
   },
   "95773-rebirth.mod": {
+    "name": "robot limbs cheapest",
     "stringId": "95773-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12183,6 +12312,7 @@
     }
   },
   "62816-rebirth.mod": {
+    "name": "caravan (mats)",
     "stringId": "62816-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12217,6 +12347,7 @@
     }
   },
   "62817-rebirth.mod": {
+    "name": "caravan (crops)",
     "stringId": "62817-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12251,6 +12382,7 @@
     }
   },
   "63751-rebirth.mod": {
+    "name": "Animal stuff",
     "stringId": "63751-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12275,6 +12407,7 @@
     }
   },
   "64560-rebirth.mod": {
+    "name": "nththnth",
     "stringId": "64560-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12286,6 +12419,7 @@
     "references": {}
   },
   "64678-rebirth.mod": {
+    "name": "repair kits",
     "stringId": "64678-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12310,6 +12444,7 @@
     }
   },
   "64869-rebirth.mod": {
+    "name": "bull stuff",
     "stringId": "64869-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12329,6 +12464,7 @@
     }
   },
   "64913-rebirth.mod": {
+    "name": "just meat",
     "stringId": "64913-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12353,6 +12489,7 @@
     }
   },
   "64916-rebirth.mod": {
+    "name": "goat tower",
     "stringId": "64916-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12372,6 +12509,7 @@
     }
   },
   "65824-rebirth.mod": {
+    "name": "crab gear",
     "stringId": "65824-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12475,6 +12613,7 @@
     }
   },
   "95774-rebirth.mod": {
+    "name": "crossbows swamp",
     "stringId": "95774-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12526,6 +12665,7 @@
     }
   },
   "95775-rebirth.mod": {
+    "name": "--crossbows mid",
     "stringId": "95775-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12609,6 +12749,7 @@
     }
   },
   "95777-rebirth.mod": {
+    "name": "-----",
     "stringId": "95777-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12643,6 +12784,7 @@
     }
   },
   "95829-__december17.mod": {
+    "name": "Robotics limb vendor (best)",
     "stringId": "95829-__december17.mod",
     "type": "VendorList",
     "values": {
@@ -12732,6 +12874,7 @@
     }
   },
   "95783-rebirth.mod": {
+    "name": "--crossbows all",
     "stringId": "95783-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12830,6 +12973,7 @@
     }
   },
   "95784-rebirth.mod": {
+    "name": "crossbow ammo - basics",
     "stringId": "95784-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12859,6 +13003,7 @@
     }
   },
   "95785-rebirth.mod": {
+    "name": "crossbow ammo - high",
     "stringId": "95785-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12910,6 +13055,7 @@
     }
   },
   "95786-rebirth.mod": {
+    "name": "crossbow ammo - mid",
     "stringId": "95786-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -12961,6 +13107,7 @@
     }
   },
   "95869-rebirth.mod": {
+    "name": "tech hunters notes series",
     "stringId": "95869-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13025,6 +13172,7 @@
     }
   },
   "96161-rebirth.mod": {
+    "name": "house junk trash",
     "stringId": "96161-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13114,6 +13262,7 @@
     }
   },
   "97661-rebirth.mod": {
+    "name": "fish",
     "stringId": "97661-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13138,6 +13287,7 @@
     }
   },
   "97904-rebirth.mod": {
+    "name": "economy repair kit",
     "stringId": "97904-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13157,6 +13307,7 @@
     }
   },
   "98508-rebirth.mod": {
+    "name": "weapon vendor catun",
     "stringId": "98508-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13345,6 +13496,7 @@
     }
   },
   "1532826-rebirth.mod": {
+    "name": "hemp and hash",
     "stringId": "1532826-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13369,6 +13521,7 @@
     }
   },
   "1533537-__world reactions Slavers.mod": {
+    "name": "adventure shop (low food)",
     "stringId": "1533537-__world reactions Slavers.mod",
     "type": "VendorList",
     "values": {
@@ -13554,6 +13707,7 @@
     }
   },
   "1533531-__world reactions Slavers.mod": {
+    "name": "Bar (low food)",
     "stringId": "1533531-__world reactions Slavers.mod",
     "type": "VendorList",
     "values": {
@@ -13613,6 +13767,7 @@
     }
   },
   "1533848-rebirth.mod": {
+    "name": "basic first aid",
     "stringId": "1533848-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13632,6 +13787,7 @@
     }
   },
   "1533851-rebirth.mod": {
+    "name": "armor vendor ronin/tech hunter",
     "stringId": "1533851-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13870,6 +14026,7 @@
     }
   },
   "1534204-__Fixes.mod": {
+    "name": "skin gear",
     "stringId": "1534204-__Fixes.mod",
     "type": "VendorList",
     "values": {
@@ -13918,6 +14075,7 @@
     }
   },
   "1534420-rebirth.mod": {
+    "name": "holy flame books",
     "stringId": "1534420-rebirth.mod",
     "type": "VendorList",
     "values": {
@@ -13947,6 +14105,7 @@
     }
   },
   "5007270-rebirth.mod": {
+    "name": "holy farm food",
     "stringId": "5007270-rebirth.mod",
     "type": "VendorList",
     "values": {

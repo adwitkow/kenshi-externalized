@@ -1,5 +1,6 @@
 {
   "1788-gamedata.base": {
+    "name": "bar",
     "stringId": "1788-gamedata.base",
     "type": "DaySchedule",
     "values": {
@@ -17,6 +18,7 @@
     }
   },
   "1787-gamedata.base": {
+    "name": "police",
     "stringId": "1787-gamedata.base",
     "type": "DaySchedule",
     "values": {
@@ -34,6 +36,7 @@
     }
   },
   "1786-gamedata.base": {
+    "name": "civilian default",
     "stringId": "1786-gamedata.base",
     "type": "DaySchedule",
     "values": {

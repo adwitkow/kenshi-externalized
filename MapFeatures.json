@@ -1,5 +1,6 @@
 {
   "2827-Newwworld.mod": {
+    "name": "UpthrustRocks01",
     "stringId": "2827-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -33,6 +34,7 @@
     "references": {}
   },
   "5627-Newwworld.mod": {
+    "name": "Vine Giant01",
     "stringId": "5627-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -66,6 +68,7 @@
     "references": {}
   },
   "3248-Newwworld.mod": {
+    "name": "VOLCANO_Piece_01",
     "stringId": "3248-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -99,6 +102,7 @@
     "references": {}
   },
   "3252-Newwworld.mod": {
+    "name": "VOLCANO_Piece_05",
     "stringId": "3252-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -132,6 +136,7 @@
     "references": {}
   },
   "16847-Newwworld.mod": {
+    "name": "Vast_Land Tube 02",
     "stringId": "16847-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -165,6 +170,7 @@
     "references": {}
   },
   "5698-Newwworld.mod": {
+    "name": "Testpot01",
     "stringId": "5698-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -198,6 +204,7 @@
     "references": {}
   },
   "3433-Newwworld.mod": {
+    "name": "SwampIslandHoodoo_01",
     "stringId": "3433-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -231,6 +238,7 @@
     "references": {}
   },
   "2805-Newwworld.mod": {
+    "name": "Tarsands_GlassSpike01",
     "stringId": "2805-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -264,6 +272,7 @@
     "references": {}
   },
   "3251-Newwworld.mod": {
+    "name": "VOLCANO_Piece_04",
     "stringId": "3251-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -297,6 +306,7 @@
     "references": {}
   },
   "3253-Newwworld.mod": {
+    "name": "VOLCANO_Piece_06",
     "stringId": "3253-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -330,6 +340,7 @@
     "references": {}
   },
   "16846-Newwworld.mod": {
+    "name": "Vast_Land Tube 01",
     "stringId": "16846-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -371,6 +382,7 @@
     }
   },
   "5596-Newwworld.mod": {
+    "name": "Tarsand_Refinery",
     "stringId": "5596-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -404,6 +416,7 @@
     "references": {}
   },
   "5521-Newwworld.mod": {
+    "name": "Tower_Wreckage01",
     "stringId": "5521-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -437,6 +450,7 @@
     "references": {}
   },
   "4500-Newwworld.mod": {
+    "name": "Tarsand_Pipeline01",
     "stringId": "4500-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -470,6 +484,7 @@
     "references": {}
   },
   "16848-Newwworld.mod": {
+    "name": "Vast_Centipede_Wreckage",
     "stringId": "16848-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -503,6 +518,7 @@
     "references": {}
   },
   "5809-Newwworld.mod": {
+    "name": "THing 2",
     "stringId": "5809-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -536,6 +552,7 @@
     "references": {}
   },
   "5810-Newwworld.mod": {
+    "name": "Vast_Factory_Shed",
     "stringId": "5810-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -569,6 +586,7 @@
     "references": {}
   },
   "5808-Newwworld.mod": {
+    "name": "THing",
     "stringId": "5808-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -602,6 +620,7 @@
     "references": {}
   },
   "3249-Newwworld.mod": {
+    "name": "VOLCANO_Piece_02",
     "stringId": "3249-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -635,6 +654,7 @@
     "references": {}
   },
   "3250-Newwworld.mod": {
+    "name": "VOLCANO_Piece_03",
     "stringId": "3250-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -668,6 +688,7 @@
     "references": {}
   },
   "3435-Newwworld.mod": {
+    "name": "SwampIslandHoodoo_03",
     "stringId": "3435-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -701,6 +722,7 @@
     "references": {}
   },
   "5752-Newwworld.mod": {
+    "name": "TTScaffBridge",
     "stringId": "5752-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -734,6 +756,7 @@
     "references": {}
   },
   "3434-Newwworld.mod": {
+    "name": "SwampIslandHoodoo_02",
     "stringId": "3434-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -767,6 +790,7 @@
     "references": {}
   },
   "3775-Newwworld.mod": {
+    "name": "Wreckage_CogPieces",
     "stringId": "3775-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -800,6 +824,7 @@
     "references": {}
   },
   "2334-Newwworld.mod": {
+    "name": "Mesa_Zone_ScreeStones01",
     "stringId": "2334-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -833,6 +858,7 @@
     "references": {}
   },
   "5660-Newwworld.mod": {
+    "name": "Ruin_Pillar-Piece02",
     "stringId": "5660-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -866,6 +892,7 @@
     "references": {}
   },
   "5528-Newwworld.mod": {
+    "name": "RobotArm04",
     "stringId": "5528-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -899,6 +926,7 @@
     "references": {}
   },
   "5779-Newwworld.mod": {
+    "name": "HugeRuinWall03",
     "stringId": "5779-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -932,6 +960,7 @@
     "references": {}
   },
   "2696-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_Pillar01",
     "stringId": "2696-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -965,6 +994,7 @@
     "references": {}
   },
   "2817-Newwworld.mod": {
+    "name": "Rock MenhirType 08",
     "stringId": "2817-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -998,6 +1028,7 @@
     "references": {}
   },
   "47933-Newwworld.mod": {
+    "name": "Gravel-Pile02",
     "stringId": "47933-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1031,6 +1062,7 @@
     "references": {}
   },
   "17960-Newwworld.mod": {
+    "name": "BrownCanyon_DoublePipe01",
     "stringId": "17960-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1064,6 +1096,7 @@
     "references": {}
   },
   "5723-Newwworld.mod": {
+    "name": "RockTower_Sentinel04",
     "stringId": "5723-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1097,6 +1130,7 @@
     "references": {}
   },
   "49555-Newwworld.mod": {
+    "name": "Outpost01_RUIN_METAL_Junk04",
     "stringId": "49555-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1130,6 +1164,7 @@
     "references": {}
   },
   "49553-Newwworld.mod": {
+    "name": "Outpost01_RUIN_METAL_CHIMNEY-Junk",
     "stringId": "49553-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1163,6 +1198,7 @@
     "references": {}
   },
   "3097-Newwworld.mod": {
+    "name": "Rock Yardang 06",
     "stringId": "3097-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1196,6 +1232,7 @@
     "references": {}
   },
   "5661-Newwworld.mod": {
+    "name": "Ruin_Pillar-Piece03",
     "stringId": "5661-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1229,6 +1266,7 @@
     "references": {}
   },
   "2628-Newwworld.mod": {
+    "name": "Generic Rock Cog01",
     "stringId": "2628-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1262,6 +1300,7 @@
     "references": {}
   },
   "2814-Newwworld.mod": {
+    "name": "Rock MenhirType 05",
     "stringId": "2814-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1295,6 +1334,7 @@
     "references": {}
   },
   "5582-Newwworld.mod": {
+    "name": "RockOut_Rock",
     "stringId": "5582-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1328,6 +1368,7 @@
     "references": {}
   },
   "5538-Newwworld.mod": {
+    "name": "Hanging_Grunge_04",
     "stringId": "5538-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1361,6 +1402,7 @@
     "references": {}
   },
   "49563-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk09",
     "stringId": "49563-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1394,6 +1436,7 @@
     "references": {}
   },
   "2818-Newwworld.mod": {
+    "name": "Rock MenhirStone 01",
     "stringId": "2818-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1427,6 +1470,7 @@
     "references": {}
   },
   "2621-Newwworld.mod": {
+    "name": "Canyonland_Rock_Unit01_5K",
     "stringId": "2621-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1460,6 +1504,7 @@
     "references": {}
   },
   "5751-Newwworld.mod": {
+    "name": "Scaff_+TEST",
     "stringId": "5751-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1493,6 +1538,7 @@
     "references": {}
   },
   "3412-Newwworld.mod": {
+    "name": "FloodedForest_Processor04",
     "stringId": "3412-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1526,6 +1572,7 @@
     "references": {}
   },
   "5613-Newwworld.mod": {
+    "name": "RUIN-RefineryHead01",
     "stringId": "5613-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1559,6 +1606,7 @@
     "references": {}
   },
   "2984-Newwworld.mod": {
+    "name": "Bones_Wall_Ribs",
     "stringId": "2984-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1592,6 +1640,7 @@
     "references": {}
   },
   "3604-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit05_5K",
     "stringId": "3604-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1625,6 +1674,7 @@
     "references": {}
   },
   "5834-Newwworld.mod": {
+    "name": "Ghostown_House01",
     "stringId": "5834-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1658,6 +1708,7 @@
     "references": {}
   },
   "2955-Newwworld.mod": {
+    "name": "Monster Plant",
     "stringId": "2955-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1691,6 +1742,7 @@
     "references": {}
   },
   "3451-Newwworld.mod": {
+    "name": "Outpost-Base_01_FeatureMesh-NonConcrete",
     "stringId": "3451-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1724,6 +1776,7 @@
     "references": {}
   },
   "5659-Newwworld.mod": {
+    "name": "Ruin_Pillar-Piece01",
     "stringId": "5659-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1757,6 +1810,7 @@
     "references": {}
   },
   "5537-Newwworld.mod": {
+    "name": "Hanging_Grunge_03",
     "stringId": "5537-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1790,6 +1844,7 @@
     "references": {}
   },
   "4468-Newwworld.mod": {
+    "name": "RockStack02",
     "stringId": "4468-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1823,6 +1878,7 @@
     "references": {}
   },
   "49562-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk08",
     "stringId": "49562-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1856,6 +1912,7 @@
     "references": {}
   },
   "49560-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk06",
     "stringId": "49560-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1889,6 +1946,7 @@
     "references": {}
   },
   "5641-Newwworld.mod": {
+    "name": "Ruin-WALLS-Arch",
     "stringId": "5641-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1922,6 +1980,7 @@
     "references": {}
   },
   "5837-Newwworld.mod": {
+    "name": "Ghostown_House03",
     "stringId": "5837-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1955,6 +2014,7 @@
     "references": {}
   },
   "2942-Newwworld.mod": {
+    "name": "DesertRocks_Piece01",
     "stringId": "2942-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -1988,6 +2048,7 @@
     "references": {}
   },
   "5609-Newwworld.mod": {
+    "name": "Giant_MultiLimbTree FeatureTEST",
     "stringId": "5609-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2021,6 +2082,7 @@
     "references": {}
   },
   "2731-Newwworld.mod": {
+    "name": "Ashlands_RibSkin",
     "stringId": "2731-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2054,6 +2116,7 @@
     "references": {}
   },
   "5781-Newwworld.mod": {
+    "name": "HugeRuinWall05",
     "stringId": "5781-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2087,6 +2150,7 @@
     "references": {}
   },
   "5634-Newwworld.mod": {
+    "name": "PalmTypeSizeTest",
     "stringId": "5634-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2120,6 +2184,7 @@
     "references": {}
   },
   "3378-Newwworld.mod": {
+    "name": "Rock PileDriver03",
     "stringId": "3378-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2153,6 +2218,7 @@
     "references": {}
   },
   "5536-Newwworld.mod": {
+    "name": "Hanging_Grunge_02",
     "stringId": "5536-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2186,6 +2252,7 @@
     "references": {}
   },
   "5652-Newwworld.mod": {
+    "name": "RUIN-[stone]WALLS03",
     "stringId": "5652-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2219,6 +2286,7 @@
     "references": {}
   },
   "3449-Newwworld.mod": {
+    "name": "HorsetailTest",
     "stringId": "3449-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2252,6 +2320,7 @@
     "references": {}
   },
   "5620-Newwworld.mod": {
+    "name": "RUIN-RefineryHead03",
     "stringId": "5620-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2285,6 +2354,7 @@
     "references": {}
   },
   "5725-Newwworld.mod": {
+    "name": "RockTower_Sentinel02",
     "stringId": "5725-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2318,6 +2388,7 @@
     "references": {}
   },
   "47930-Newwworld.mod": {
+    "name": "Trestle_Bridge001",
     "stringId": "47930-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2351,6 +2422,7 @@
     "references": {}
   },
   "3376-Newwworld.mod": {
+    "name": "Rock PileDriver01",
     "stringId": "3376-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2384,6 +2456,7 @@
     "references": {}
   },
   "17965-Newwworld.mod": {
+    "name": "BrownCanyon_DropBeams01",
     "stringId": "17965-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2417,6 +2490,7 @@
     "references": {}
   },
   "5777-Newwworld.mod": {
+    "name": "HugeRuinWall01",
     "stringId": "5777-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2450,6 +2524,7 @@
     "references": {}
   },
   "17962-Newwworld.mod": {
+    "name": "Brown_Canyon_PipeSQ",
     "stringId": "17962-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2483,6 +2558,7 @@
     "references": {}
   },
   "49552-Newwworld.mod": {
+    "name": "Outpost01_RUIN_METAL_Junk01",
     "stringId": "49552-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2516,6 +2592,7 @@
     "references": {}
   },
   "3387-Newwworld.mod": {
+    "name": "AshlandMonobuildings02",
     "stringId": "3387-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2549,6 +2626,7 @@
     "references": {}
   },
   "5562-Newwworld.mod": {
+    "name": "RobotHead",
     "stringId": "5562-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2582,6 +2660,7 @@
     "references": {}
   },
   "5683-Newwworld.mod": {
+    "name": "MineTownRoof01",
     "stringId": "5683-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2615,6 +2694,7 @@
     "references": {}
   },
   "2815-Newwworld.mod": {
+    "name": "Rock MenhirType 06",
     "stringId": "2815-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2648,6 +2728,7 @@
     "references": {}
   },
   "3424-Newwworld.mod": {
+    "name": "Plant Swamp Canopy Twig Loop Larger_Branchesnobeards",
     "stringId": "3424-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2681,6 +2762,7 @@
     "references": {}
   },
   "2828-Newwworld.mod": {
+    "name": "BoulderBlock01",
     "stringId": "2828-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2714,6 +2796,7 @@
     "references": {}
   },
   "3386-Newwworld.mod": {
+    "name": "AshlandMonobuildings01",
     "stringId": "3386-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2747,6 +2830,7 @@
     "references": {}
   },
   "5726-Newwworld.mod": {
+    "name": "RockTower_Sentinel01",
     "stringId": "5726-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2780,6 +2864,7 @@
     "references": {}
   },
   "2967-Newwworld.mod": {
+    "name": "Plant TreeBeard03 -NOT USED",
     "stringId": "2967-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2813,6 +2898,7 @@
     "references": {}
   },
   "16859-Newwworld.mod": {
+    "name": "Bridge_Section",
     "stringId": "16859-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2846,6 +2932,7 @@
     "references": {}
   },
   "49573-Newwworld.mod": {
+    "name": "__MeshTester RefineryHead",
     "stringId": "49573-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2879,6 +2966,7 @@
     "references": {}
   },
   "5855-Newwworld.mod": {
+    "name": "LandBlade_Damaged04",
     "stringId": "5855-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2912,6 +3000,7 @@
     "references": {}
   },
   "5530-Newwworld.mod": {
+    "name": "RobotArm02a",
     "stringId": "5530-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2945,6 +3034,7 @@
     "references": {}
   },
   "2685-Newwworld.mod": {
+    "name": "CactusCrystal01",
     "stringId": "2685-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -2978,6 +3068,7 @@
     "references": {}
   },
   "47183-Newwworld.mod": {
+    "name": "__MeshTester DancingRobot",
     "stringId": "47183-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3011,6 +3102,7 @@
     "references": {}
   },
   "5612-Newwworld.mod": {
+    "name": "RuinBlock02 [Tube]",
     "stringId": "5612-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3044,6 +3136,7 @@
     "references": {}
   },
   "17961-Newwworld.mod": {
+    "name": "BrownCanyon_SinglePipe01",
     "stringId": "17961-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3077,6 +3170,7 @@
     "references": {}
   },
   "2729-Newwworld.mod": {
+    "name": "AshlandsRibs",
     "stringId": "2729-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3110,6 +3204,7 @@
     "references": {}
   },
   "2810-Newwworld.mod": {
+    "name": "Rock MenhirType 01",
     "stringId": "2810-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3143,6 +3238,7 @@
     "references": {}
   },
   "3413-Newwworld.mod": {
+    "name": "Flooded_Land_Turbine_HallDamaged01",
     "stringId": "3413-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3176,6 +3272,7 @@
     "references": {}
   },
   "5657-Newwworld.mod": {
+    "name": "Ruin_Pillar-Higher",
     "stringId": "5657-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3209,6 +3306,7 @@
     "references": {}
   },
   "5684-Newwworld.mod": {
+    "name": "Minetown_Woodbeam01",
     "stringId": "5684-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3242,6 +3340,7 @@
     "references": {}
   },
   "3095-Newwworld.mod": {
+    "name": "Rock Yardang 04",
     "stringId": "3095-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3275,6 +3374,7 @@
     "references": {}
   },
   "3098-Newwworld.mod": {
+    "name": "Rock Yardang 07",
     "stringId": "3098-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3308,6 +3408,7 @@
     "references": {}
   },
   "40563-Newwworld.mod": {
+    "name": "Canyon-Dangler03",
     "stringId": "40563-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3341,6 +3442,7 @@
     "references": {}
   },
   "2959-Newwworld.mod": {
+    "name": "Plant Swamp Tree Branch03",
     "stringId": "2959-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3374,6 +3476,7 @@
     "references": {}
   },
   "3405-Newwworld.mod": {
+    "name": "FloodedForest_Rotten-Stem01",
     "stringId": "3405-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3407,6 +3510,7 @@
     "references": {}
   },
   "3375-Newwworld.mod": {
+    "name": "BlockyCubeCliff01",
     "stringId": "3375-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3440,6 +3544,7 @@
     "references": {}
   },
   "42317-Newwworld.mod": {
+    "name": "ROCK-Arch_Type_01",
     "stringId": "42317-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3473,6 +3578,7 @@
     "references": {}
   },
   "2816-Newwworld.mod": {
+    "name": "Rock MenhirType 07",
     "stringId": "2816-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3506,6 +3612,7 @@
     "references": {}
   },
   "3092-Newwworld.mod": {
+    "name": "Rock Yardang 01",
     "stringId": "3092-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3539,6 +3646,7 @@
     "references": {}
   },
   "5728-Newwworld.mod": {
+    "name": "Outcrop_Star",
     "stringId": "5728-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3572,6 +3680,7 @@
     "references": {}
   },
   "14393-Newwworld.mod": {
+    "name": "__CrateFind",
     "stringId": "14393-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3605,6 +3714,7 @@
     "references": {}
   },
   "5524-Newwworld.mod": {
+    "name": "RobotArm01",
     "stringId": "5524-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3638,6 +3748,7 @@
     "references": {}
   },
   "2998-Newwworld.mod": {
+    "name": "Stone Tower Block01",
     "stringId": "2998-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3671,6 +3782,7 @@
     "references": {}
   },
   "5642-Newwworld.mod": {
+    "name": "Ruin_Pillar01",
     "stringId": "5642-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3704,6 +3816,7 @@
     "references": {}
   },
   "3394-Newwworld.mod": {
+    "name": "Ashland Land RING",
     "stringId": "3394-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3737,6 +3850,7 @@
     "references": {}
   },
   "3411-Newwworld.mod": {
+    "name": "FloodedForest_Processor03",
     "stringId": "3411-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3770,6 +3884,7 @@
     "references": {}
   },
   "2335-Newwworld.mod": {
+    "name": "Bridgehead",
     "stringId": "2335-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3803,6 +3918,7 @@
     "references": {}
   },
   "2825-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit03_5K",
     "stringId": "2825-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3836,6 +3952,7 @@
     "references": {}
   },
   "3404-Newwworld.mod": {
+    "name": "Flooded_Land_Stem_Hub",
     "stringId": "3404-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3869,6 +3986,7 @@
     "references": {}
   },
   "5782-Newwworld.mod": {
+    "name": "HugeRuinWall06",
     "stringId": "5782-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3902,6 +4020,7 @@
     "references": {}
   },
   "3397-Newwworld.mod": {
+    "name": "Rock PileDriver_Group01",
     "stringId": "3397-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3935,6 +4054,7 @@
     "references": {}
   },
   "3407-Newwworld.mod": {
+    "name": "FloodedForest_Rotten-Stem02",
     "stringId": "3407-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -3968,6 +4088,7 @@
     "references": {}
   },
   "2943-Newwworld.mod": {
+    "name": "DesertRocks_Piece02",
     "stringId": "2943-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4001,6 +4122,7 @@
     "references": {}
   },
   "5671-Newwworld.mod": {
+    "name": "RUIN_MinetownWalls01",
     "stringId": "5671-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4034,6 +4156,7 @@
     "references": {}
   },
   "2697-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_Pillar02",
     "stringId": "2697-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4067,6 +4190,7 @@
     "references": {}
   },
   "2624-Newwworld.mod": {
+    "name": "Canyonland_Rock_Unit03_5K",
     "stringId": "2624-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4100,6 +4224,7 @@
     "references": {}
   },
   "5593-Newwworld.mod": {
+    "name": "Barkworm_PillarTEST",
     "stringId": "5593-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4133,6 +4258,7 @@
     "references": {}
   },
   "40562-Newwworld.mod": {
+    "name": "Canyon-Dangler02",
     "stringId": "40562-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4166,6 +4292,7 @@
     "references": {}
   },
   "2699-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_03",
     "stringId": "2699-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4199,6 +4326,7 @@
     "references": {}
   },
   "5722-Newwworld.mod": {
+    "name": "RockTower_Sentinel05",
     "stringId": "5722-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4232,6 +4360,7 @@
     "references": {}
   },
   "5681-Newwworld.mod": {
+    "name": "MinetownWall07",
     "stringId": "5681-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4265,6 +4394,7 @@
     "references": {}
   },
   "49561-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk07",
     "stringId": "49561-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4298,6 +4428,7 @@
     "references": {}
   },
   "3402-Newwworld.mod": {
+    "name": "FloodedForestSphere",
     "stringId": "3402-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4331,6 +4462,7 @@
     "references": {}
   },
   "42319-Newwworld.mod": {
+    "name": "ROCK-Arch_Type_03",
     "stringId": "42319-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4364,6 +4496,7 @@
     "references": {}
   },
   "49557-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk03",
     "stringId": "49557-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4397,6 +4530,7 @@
     "references": {}
   },
   "2693-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_01",
     "stringId": "2693-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4430,6 +4564,7 @@
     "references": {}
   },
   "5541-Newwworld.mod": {
+    "name": "Hanging_Grunge_06",
     "stringId": "5541-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4463,6 +4598,7 @@
     "references": {}
   },
   "3408-Newwworld.mod": {
+    "name": "FloodedForest_Rotten-Stem03",
     "stringId": "3408-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4496,6 +4632,7 @@
     "references": {}
   },
   "3410-Newwworld.mod": {
+    "name": "FloodedForest_Processor02",
     "stringId": "3410-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4529,6 +4666,7 @@
     "references": {}
   },
   "2694-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_02",
     "stringId": "2694-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4562,6 +4700,7 @@
     "references": {}
   },
   "5672-Newwworld.mod": {
+    "name": "RUIN_MinetownWalls02",
     "stringId": "5672-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4595,6 +4734,7 @@
     "references": {}
   },
   "2983-Newwworld.mod": {
+    "name": "Bones_Town_Ribs",
     "stringId": "2983-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4628,6 +4768,7 @@
     "references": {}
   },
   "5511-Newwworld.mod": {
+    "name": "Swamp_Board_Path-Piece",
     "stringId": "5511-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4661,6 +4802,7 @@
     "references": {}
   },
   "3603-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit04_5K",
     "stringId": "3603-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4694,6 +4836,7 @@
     "references": {}
   },
   "5677-Newwworld.mod": {
+    "name": "MinetownWall03",
     "stringId": "5677-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4727,6 +4870,7 @@
     "references": {}
   },
   "5835-Newwworld.mod": {
+    "name": "Ghostown-scrap-pile01",
     "stringId": "5835-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4760,6 +4904,7 @@
     "references": {}
   },
   "5526-Newwworld.mod": {
+    "name": "RobotArm02",
     "stringId": "5526-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4793,6 +4938,7 @@
     "references": {}
   },
   "2695-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_04",
     "stringId": "2695-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4826,6 +4972,7 @@
     "references": {}
   },
   "2698-Newwworld.mod": {
+    "name": "Canyonland_Zone_Cliffblock_Pillar03",
     "stringId": "2698-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4859,6 +5006,7 @@
     "references": {}
   },
   "3605-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit06_5K",
     "stringId": "3605-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4892,6 +5040,7 @@
     "references": {}
   },
   "5840-Newwworld.mod": {
+    "name": "Ghostown_House04",
     "stringId": "5840-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4925,6 +5074,7 @@
     "references": {}
   },
   "3766-Newwworld.mod": {
+    "name": "Monostructure02",
     "stringId": "3766-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4958,6 +5108,7 @@
     "references": {}
   },
   "5569-Newwworld.mod": {
+    "name": "Street-Lamp01",
     "stringId": "5569-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -4991,6 +5142,7 @@
     "references": {}
   },
   "42318-Newwworld.mod": {
+    "name": "ROCK-Arch_Type_02",
     "stringId": "42318-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5024,6 +5176,7 @@
     "references": {}
   },
   "2962-Newwworld.mod": {
+    "name": "Plant Swamp Canopy Twig Loop",
     "stringId": "2962-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5057,6 +5210,7 @@
     "references": {}
   },
   "17964-Newwworld.mod": {
+    "name": "BrownCanyon_Walkway01",
     "stringId": "17964-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5090,6 +5244,7 @@
     "references": {}
   },
   "3391-Newwworld.mod": {
+    "name": "AshlandSpikedBloom",
     "stringId": "3391-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5123,6 +5278,7 @@
     "references": {}
   },
   "5755-Newwworld.mod": {
+    "name": "PlankrouteHUB",
     "stringId": "5755-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5156,6 +5312,7 @@
     "references": {}
   },
   "49551-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk01",
     "stringId": "49551-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5189,6 +5346,7 @@
     "references": {}
   },
   "5778-Newwworld.mod": {
+    "name": "HugeRuinWall02",
     "stringId": "5778-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5222,6 +5380,7 @@
     "references": {}
   },
   "2824-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit02_5K",
     "stringId": "2824-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5255,6 +5414,7 @@
     "references": {}
   },
   "3383-Newwworld.mod": {
+    "name": "AshlandWreckage_Lump1",
     "stringId": "3383-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5288,6 +5448,7 @@
     "references": {}
   },
   "2957-Newwworld.mod": {
+    "name": "Plant Swamp Tree Branch01",
     "stringId": "2957-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5321,6 +5482,7 @@
     "references": {}
   },
   "49545-Newwworld.mod": {
+    "name": "Marker-Attractor",
     "stringId": "49545-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5362,6 +5524,7 @@
     }
   },
   "5680-Newwworld.mod": {
+    "name": "MinetownWall06",
     "stringId": "5680-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5395,6 +5558,7 @@
     "references": {}
   },
   "2989-Newwworld.mod": {
+    "name": "Fossil Spine 16K",
     "stringId": "2989-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5428,6 +5592,7 @@
     "references": {}
   },
   "49564-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk10",
     "stringId": "49564-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5461,6 +5626,7 @@
     "references": {}
   },
   "2683-Newwworld.mod": {
+    "name": "Cubular-Block01",
     "stringId": "2683-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5494,6 +5660,7 @@
     "references": {}
   },
   "3406-Newwworld.mod": {
+    "name": "FloodedForest_Stem_Alpha_Rotted01",
     "stringId": "3406-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5527,6 +5694,7 @@
     "references": {}
   },
   "17950-Newwworld.mod": {
+    "name": "Brown_CanyonWreck01",
     "stringId": "17950-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5560,6 +5728,7 @@
     "references": {}
   },
   "2992-Newwworld.mod": {
+    "name": "BoulderBlock03",
     "stringId": "2992-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5593,6 +5762,7 @@
     "references": {}
   },
   "5832-Newwworld.mod": {
+    "name": "Metal_Arch_Bridge",
     "stringId": "5832-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5626,6 +5796,7 @@
     "references": {}
   },
   "3379-Newwworld.mod": {
+    "name": "Rock PileDriver04",
     "stringId": "3379-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5659,6 +5830,7 @@
     "references": {}
   },
   "2987-Newwworld.mod": {
+    "name": "Fossil HeadLump Small",
     "stringId": "2987-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5692,6 +5864,7 @@
     "references": {}
   },
   "5654-Newwworld.mod": {
+    "name": "RUIN-[stone]WALLS05",
     "stringId": "5654-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5725,6 +5898,7 @@
     "references": {}
   },
   "2813-Newwworld.mod": {
+    "name": "Rock MenhirType 04",
     "stringId": "2813-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5758,6 +5932,7 @@
     "references": {}
   },
   "49558-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk04",
     "stringId": "49558-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5791,6 +5966,7 @@
     "references": {}
   },
   "5685-Newwworld.mod": {
+    "name": "Minetown_RoundBeam01",
     "stringId": "5685-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5824,6 +6000,7 @@
     "references": {}
   },
   "2986-Newwworld.mod": {
+    "name": "Fossil HeadLump",
     "stringId": "2986-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5857,6 +6034,7 @@
     "references": {}
   },
   "3427-Newwworld.mod": {
+    "name": "Rock _horizontal_Outcrop",
     "stringId": "3427-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5890,6 +6068,7 @@
     "references": {}
   },
   "3450-Newwworld.mod": {
+    "name": "Outpost-Base_01_FeatureMesh",
     "stringId": "3450-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5923,6 +6102,7 @@
     "references": {}
   },
   "5658-Newwworld.mod": {
+    "name": "Ruin_Pillar-Low",
     "stringId": "5658-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5956,6 +6136,7 @@
     "references": {}
   },
   "2623-Newwworld.mod": {
+    "name": "Canyonland_Rock_Unit02_5K",
     "stringId": "2623-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -5989,6 +6170,7 @@
     "references": {}
   },
   "5780-Newwworld.mod": {
+    "name": "HugeRuinWall04",
     "stringId": "5780-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6022,6 +6204,7 @@
     "references": {}
   },
   "49554-Newwworld.mod": {
+    "name": "Outpost01_RUIN_METAL_Junk03",
     "stringId": "49554-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6055,6 +6238,7 @@
     "references": {}
   },
   "5621-Newwworld.mod": {
+    "name": "RUIN-RefineryHead04",
     "stringId": "5621-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6088,6 +6272,7 @@
     "references": {}
   },
   "5656-Newwworld.mod": {
+    "name": "Ruin_Pillar-Base",
     "stringId": "5656-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6121,6 +6306,7 @@
     "references": {}
   },
   "18939-Newwworld.mod": {
+    "name": "Pitrock01",
     "stringId": "18939-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6154,6 +6340,7 @@
     "references": {}
   },
   "5682-Newwworld.mod": {
+    "name": "MinetownWall08",
     "stringId": "5682-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6187,6 +6374,7 @@
     "references": {}
   },
   "5724-Newwworld.mod": {
+    "name": "RockTower_Sentinel03",
     "stringId": "5724-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6220,6 +6408,7 @@
     "references": {}
   },
   "47931-Newwworld.mod": {
+    "name": "Huge_Stone_Emperor_Statue",
     "stringId": "47931-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6266,6 +6455,7 @@
     }
   },
   "40595-Newwworld.mod": {
+    "name": "Mafic_HugeRockSlabs",
     "stringId": "40595-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6307,6 +6497,7 @@
     }
   },
   "5529-Newwworld.mod": {
+    "name": "RobotArm01a",
     "stringId": "5529-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6340,6 +6531,7 @@
     "references": {}
   },
   "5710-Newwworld.mod": {
+    "name": "RustyJunk01",
     "stringId": "5710-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6373,6 +6565,7 @@
     "references": {}
   },
   "4466-Newwworld.mod": {
+    "name": "RockStack01",
     "stringId": "4466-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6406,6 +6599,7 @@
     "references": {}
   },
   "5651-Newwworld.mod": {
+    "name": "RUIN-[stone]WALLS02",
     "stringId": "5651-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6439,6 +6633,7 @@
     "references": {}
   },
   "2960-Newwworld.mod": {
+    "name": "Plant Swamp Tree Canopy",
     "stringId": "2960-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6472,6 +6667,7 @@
     "references": {}
   },
   "2988-Newwworld.mod": {
+    "name": "Fossil LegBone01",
     "stringId": "2988-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6505,6 +6701,7 @@
     "references": {}
   },
   "5851-Newwworld.mod": {
+    "name": "LandBlade_01",
     "stringId": "5851-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6538,6 +6735,7 @@
     "references": {}
   },
   "47921-Newwworld.mod": {
+    "name": "__MeshTester Quarry_Scaff_Test",
     "stringId": "47921-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6571,6 +6769,7 @@
     "references": {}
   },
   "5836-Newwworld.mod": {
+    "name": "Ghostown_House02",
     "stringId": "5836-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6604,6 +6803,7 @@
     "references": {}
   },
   "5849-Newwworld.mod": {
+    "name": "__MeshTester skull",
     "stringId": "5849-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6637,6 +6837,7 @@
     "references": {}
   },
   "5673-Newwworld.mod": {
+    "name": "RUIN_MinetownWalls03",
     "stringId": "5673-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6670,6 +6871,7 @@
     "references": {}
   },
   "3099-Newwworld.mod": {
+    "name": "Rock Yardang 08",
     "stringId": "3099-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6703,6 +6905,7 @@
     "references": {}
   },
   "3432-Newwworld.mod": {
+    "name": "BoulderCluster_DualTex01",
     "stringId": "3432-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6736,6 +6939,7 @@
     "references": {}
   },
   "40561-Newwworld.mod": {
+    "name": "Canyon-Dangler01",
     "stringId": "40561-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6769,6 +6973,7 @@
     "references": {}
   },
   "5679-Newwworld.mod": {
+    "name": "MinetownWall05",
     "stringId": "5679-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6802,6 +7007,7 @@
     "references": {}
   },
   "3778-Newwworld.mod": {
+    "name": "AshChimneyFunnel",
     "stringId": "3778-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6835,6 +7041,7 @@
     "references": {}
   },
   "5568-Newwworld.mod": {
+    "name": "RootTuft01",
     "stringId": "5568-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6868,6 +7075,7 @@
     "references": {}
   },
   "3094-Newwworld.mod": {
+    "name": "Rock Yardang 03",
     "stringId": "3094-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6901,6 +7109,7 @@
     "references": {}
   },
   "3093-Newwworld.mod": {
+    "name": "Rock Yardang 02",
     "stringId": "3093-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6934,6 +7143,7 @@
     "references": {}
   },
   "5531-Newwworld.mod": {
+    "name": "RobotArm03a",
     "stringId": "5531-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -6967,6 +7177,7 @@
     "references": {}
   },
   "5675-Newwworld.mod": {
+    "name": "MinetownWall01",
     "stringId": "5675-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7000,6 +7211,7 @@
     "references": {}
   },
   "2991-Newwworld.mod": {
+    "name": "BoulderBlock02",
     "stringId": "2991-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7033,6 +7245,7 @@
     "references": {}
   },
   "3403-Newwworld.mod": {
+    "name": "Flooded_Land_Stem",
     "stringId": "3403-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7066,6 +7279,7 @@
     "references": {}
   },
   "40565-Newwworld.mod": {
+    "name": "Canyon-Dangler05",
     "stringId": "40565-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7099,6 +7313,7 @@
     "references": {}
   },
   "3096-Newwworld.mod": {
+    "name": "Rock Yardang 05",
     "stringId": "3096-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7132,6 +7347,7 @@
     "references": {}
   },
   "3388-Newwworld.mod": {
+    "name": "AshlandWreckWall01",
     "stringId": "3388-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7165,6 +7381,7 @@
     "references": {}
   },
   "2811-Newwworld.mod": {
+    "name": "Rock MenhirType 02",
     "stringId": "2811-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7198,6 +7415,7 @@
     "references": {}
   },
   "3372-Newwworld.mod": {
+    "name": "Hybrid_RockColumn01",
     "stringId": "3372-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7231,6 +7449,7 @@
     "references": {}
   },
   "4469-Newwworld.mod": {
+    "name": "RockStack03",
     "stringId": "4469-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7264,6 +7483,7 @@
     "references": {}
   },
   "5678-Newwworld.mod": {
+    "name": "MinetownWall04",
     "stringId": "5678-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7297,6 +7517,7 @@
     "references": {}
   },
   "3377-Newwworld.mod": {
+    "name": "Rock PileDriver02",
     "stringId": "3377-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7330,6 +7551,7 @@
     "references": {}
   },
   "3201-Newwworld.mod": {
+    "name": "Generic Rock Cog Terrain Mapped",
     "stringId": "3201-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7363,6 +7585,7 @@
     "references": {}
   },
   "5606-Newwworld.mod": {
+    "name": "RuinBlock01",
     "stringId": "5606-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7396,6 +7619,7 @@
     "references": {}
   },
   "5853-Newwworld.mod": {
+    "name": "LandBlade_Damaged02",
     "stringId": "5853-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7429,6 +7653,7 @@
     "references": {}
   },
   "1533488-Newwworld.mod": {
+    "name": "Volc-small-steamers Placer",
     "stringId": "1533488-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7462,6 +7687,7 @@
     "references": {}
   },
   "2823-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit01_5K",
     "stringId": "2823-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7495,6 +7721,7 @@
     "references": {}
   },
   "5676-Newwworld.mod": {
+    "name": "MinetownWall02",
     "stringId": "5676-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7528,6 +7755,7 @@
     "references": {}
   },
   "5539-Newwworld.mod": {
+    "name": "Hanging_Grunge_05",
     "stringId": "5539-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7561,6 +7789,7 @@
     "references": {}
   },
   "2812-Newwworld.mod": {
+    "name": "Rock MenhirType 03",
     "stringId": "2812-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7594,6 +7823,7 @@
     "references": {}
   },
   "3380-Newwworld.mod": {
+    "name": "Rock PileDriver05",
     "stringId": "3380-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7627,6 +7857,7 @@
     "references": {}
   },
   "47241-Newwworld.mod": {
+    "name": "CliffNewBlock01",
     "stringId": "47241-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7660,6 +7891,7 @@
     "references": {}
   },
   "5662-Newwworld.mod": {
+    "name": "Ruin_Pillar-Piece04",
     "stringId": "5662-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7693,6 +7925,7 @@
     "references": {}
   },
   "3768-Newwworld.mod": {
+    "name": "Monostructure03",
     "stringId": "3768-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7726,6 +7959,7 @@
     "references": {}
   },
   "49556-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk02",
     "stringId": "49556-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7759,6 +7993,7 @@
     "references": {}
   },
   "47936-Newwworld.mod": {
+    "name": "GravelPile[small]",
     "stringId": "47936-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7792,6 +8027,7 @@
     "references": {}
   },
   "5650-Newwworld.mod": {
+    "name": "RUIN-[stone]WALLS01",
     "stringId": "5650-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7825,6 +8061,7 @@
     "references": {}
   },
   "5686-Newwworld.mod": {
+    "name": "Minetown_WoodFrame01",
     "stringId": "5686-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7858,6 +8095,7 @@
     "references": {}
   },
   "17963-Newwworld.mod": {
+    "name": "Brown_Canyon_PipeROUND",
     "stringId": "17963-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7891,6 +8129,7 @@
     "references": {}
   },
   "4169-Newwworld.mod": {
+    "name": "_Test_RobotVariantNML Test",
     "stringId": "4169-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7924,6 +8163,7 @@
     "references": {}
   },
   "2985-Newwworld.mod": {
+    "name": "Bones_Wall_Ribs_Small",
     "stringId": "2985-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7957,6 +8197,7 @@
     "references": {}
   },
   "40564-Newwworld.mod": {
+    "name": "Canyon-Dangler04",
     "stringId": "40564-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -7990,6 +8231,7 @@
     "references": {}
   },
   "42321-Newwworld.mod": {
+    "name": "Monu_Rock01",
     "stringId": "42321-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8023,6 +8265,7 @@
     "references": {}
   },
   "5619-Newwworld.mod": {
+    "name": "RUIN-RefineryHead02",
     "stringId": "5619-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8056,6 +8299,7 @@
     "references": {}
   },
   "16845-Newwworld.mod": {
+    "name": "CLiff_Curved",
     "stringId": "16845-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8089,6 +8333,7 @@
     "references": {}
   },
   "2958-Newwworld.mod": {
+    "name": "Plant Swamp Tree Branch02",
     "stringId": "2958-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8122,6 +8367,7 @@
     "references": {}
   },
   "3409-Newwworld.mod": {
+    "name": "FloodedForest_Processor01",
     "stringId": "3409-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8155,6 +8401,7 @@
     "references": {}
   },
   "49565-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk11",
     "stringId": "49565-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8188,6 +8435,7 @@
     "references": {}
   },
   "5535-Newwworld.mod": {
+    "name": "Hanging_Grunge_01",
     "stringId": "5535-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8221,6 +8469,7 @@
     "references": {}
   },
   "5818-Newwworld.mod": {
+    "name": "FloodBluff01",
     "stringId": "5818-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8254,6 +8503,7 @@
     "references": {}
   },
   "5674-Newwworld.mod": {
+    "name": "RUIN_MinetownWalls04",
     "stringId": "5674-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8287,6 +8537,7 @@
     "references": {}
   },
   "3370-Newwworld.mod": {
+    "name": "AngledOutcrop01",
     "stringId": "3370-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8320,6 +8571,7 @@
     "references": {}
   },
   "2956-Newwworld.mod": {
+    "name": "Plant Swamp Tree Giant",
     "stringId": "2956-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8353,6 +8605,7 @@
     "references": {}
   },
   "5540-Newwworld.mod": {
+    "name": "Hanging_Grunge_07",
     "stringId": "5540-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8386,6 +8639,7 @@
     "references": {}
   },
   "2966-Newwworld.mod": {
+    "name": "Plant TreeBeard02",
     "stringId": "2966-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8419,6 +8673,7 @@
     "references": {}
   },
   "5653-Newwworld.mod": {
+    "name": "RUIN-[stone]WALLS04",
     "stringId": "5653-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8452,6 +8707,7 @@
     "references": {}
   },
   "5852-Newwworld.mod": {
+    "name": "LandBlade_Damaged01",
     "stringId": "5852-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8485,6 +8741,7 @@
     "references": {}
   },
   "4470-Newwworld.mod": {
+    "name": "RockStack04",
     "stringId": "4470-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8518,6 +8775,7 @@
     "references": {}
   },
   "3767-Newwworld.mod": {
+    "name": "Monostructure01",
     "stringId": "3767-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8551,6 +8809,7 @@
     "references": {}
   },
   "49559-Newwworld.mod": {
+    "name": "Outpost01_RUIN_CONCRETE_Junk05",
     "stringId": "49559-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8584,6 +8843,7 @@
     "references": {}
   },
   "5813-Newwworld.mod": {
+    "name": "BigGrassClump",
     "stringId": "5813-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8617,6 +8877,7 @@
     "references": {}
   },
   "2982-Newwworld.mod": {
+    "name": "Patagonia_RockSlab01",
     "stringId": "2982-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8650,6 +8911,7 @@
     "references": {}
   },
   "5527-Newwworld.mod": {
+    "name": "RobotArm03",
     "stringId": "5527-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8683,6 +8945,7 @@
     "references": {}
   },
   "3371-Newwworld.mod": {
+    "name": "FoundryFeatureTest",
     "stringId": "3371-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8716,6 +8979,7 @@
     "references": {}
   },
   "2965-Newwworld.mod": {
+    "name": "Plant TreeBeard01",
     "stringId": "2965-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8749,6 +9013,7 @@
     "references": {}
   },
   "5854-Newwworld.mod": {
+    "name": "LandBlade_Damaged03",
     "stringId": "5854-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8782,6 +9047,7 @@
     "references": {}
   },
   "3613-Newwworld.mod": {
+    "name": "Akakus_Rock_Unit07_5K",
     "stringId": "3613-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8815,6 +9081,7 @@
     "references": {}
   },
   "5510-Newwworld.mod": {
+    "name": "BoneSETPIECETEST",
     "stringId": "5510-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8848,6 +9115,7 @@
     "references": {}
   },
   "50992-Newwworld.mod": {
+    "name": "Canyon_NewBlockside_TEST",
     "stringId": "50992-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8881,6 +9149,7 @@
     "references": {}
   },
   "51810-Newwworld.mod": {
+    "name": "_Mesh_Test-crumble01",
     "stringId": "51810-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8914,6 +9183,7 @@
     "references": {}
   },
   "51811-Newwworld.mod": {
+    "name": "_Mesh_Test-crumble02",
     "stringId": "51811-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8947,6 +9217,7 @@
     "references": {}
   },
   "51812-Newwworld.mod": {
+    "name": "_Mesh_Test-crumble03",
     "stringId": "51812-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -8980,6 +9251,7 @@
     "references": {}
   },
   "51813-Newwworld.mod": {
+    "name": "_Mesh_Test-crumble04",
     "stringId": "51813-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9013,6 +9285,7 @@
     "references": {}
   },
   "51826-Newwworld.mod": {
+    "name": "_WaterplantTEST",
     "stringId": "51826-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9046,6 +9319,7 @@
     "references": {}
   },
   "52155-Newwworld.mod": {
+    "name": "SpaceJunk01",
     "stringId": "52155-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9079,6 +9353,7 @@
     "references": {}
   },
   "52165-Newwworld.mod": {
+    "name": "Fractal_Distiller_Feature",
     "stringId": "52165-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9112,6 +9387,7 @@
     "references": {}
   },
   "53819-Newwworld.mod": {
+    "name": "AshDomeComplex",
     "stringId": "53819-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9145,6 +9421,7 @@
     "references": {}
   },
   "55376-Newwworld.mod": {
+    "name": "Cave-Spirng",
     "stringId": "55376-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9178,6 +9455,7 @@
     "references": {}
   },
   "56903-Newwworld.mod": {
+    "name": "Fog-Wall_SkinnersRoam 01",
     "stringId": "56903-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9211,6 +9489,7 @@
     "references": {}
   },
   "57327-Newwworld.mod": {
+    "name": "Gulch-Iindustry-Tube01",
     "stringId": "57327-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9244,6 +9523,7 @@
     "references": {}
   },
   "57328-Newwworld.mod": {
+    "name": "Gulch-Iindustry-Tube02",
     "stringId": "57328-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9277,6 +9557,7 @@
     "references": {}
   },
   "57724-Newwworld.mod": {
+    "name": "Strange Big Stack03",
     "stringId": "57724-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9310,6 +9591,7 @@
     "references": {}
   },
   "57729-Newwworld.mod": {
+    "name": "Strange Big Stack01",
     "stringId": "57729-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9343,6 +9625,7 @@
     "references": {}
   },
   "57730-Newwworld.mod": {
+    "name": "Strange BigStack02",
     "stringId": "57730-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9376,6 +9659,7 @@
     "references": {}
   },
   "57731-Newwworld.mod": {
+    "name": "Strange BigStack04",
     "stringId": "57731-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9409,6 +9693,7 @@
     "references": {}
   },
   "59291-Newwworld.mod": {
+    "name": "Volk-Cloud Placer",
     "stringId": "59291-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9442,6 +9727,7 @@
     "references": {}
   },
   "62860-Newwworld.mod": {
+    "name": "Stobe_Base",
     "stringId": "62860-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9475,6 +9761,7 @@
     "references": {}
   },
   "63233-Newwworld.mod": {
+    "name": "Stobe_Head",
     "stringId": "63233-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9508,6 +9795,7 @@
     "references": {}
   },
   "64595-Newwworld.mod": {
+    "name": "Ashland_StructureWreck01",
     "stringId": "64595-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9541,6 +9829,7 @@
     "references": {}
   },
   "64607-Newwworld.mod": {
+    "name": "Ashland_Massdev",
     "stringId": "64607-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9574,6 +9863,7 @@
     "references": {}
   },
   "64608-Newwworld.mod": {
+    "name": "Ashland_StructureWreck03",
     "stringId": "64608-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9607,6 +9897,7 @@
     "references": {}
   },
   "64609-Newwworld.mod": {
+    "name": "Ashland_StructureWreck02",
     "stringId": "64609-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9640,6 +9931,7 @@
     "references": {}
   },
   "64611-Newwworld.mod": {
+    "name": "Ashland Rotten Tower",
     "stringId": "64611-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9673,6 +9965,7 @@
     "references": {}
   },
   "64612-Newwworld.mod": {
+    "name": "Ashland Wave Ring",
     "stringId": "64612-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9706,6 +9999,7 @@
     "references": {}
   },
   "64613-Newwworld.mod": {
+    "name": "Ashland Skylink",
     "stringId": "64613-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9739,6 +10033,7 @@
     "references": {}
   },
   "64614-Newwworld.mod": {
+    "name": "Ashland_Baselink",
     "stringId": "64614-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9772,6 +10067,7 @@
     "references": {}
   },
   "64755-Newwworld.mod": {
+    "name": "Permanent-dust-storm Placer",
     "stringId": "64755-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9805,6 +10101,7 @@
     "references": {}
   },
   "97593-Newwworld.mod": {
+    "name": "Barge WreckPiece04",
     "stringId": "97593-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9838,6 +10135,7 @@
     "references": {}
   },
   "97592-Newwworld.mod": {
+    "name": "Barge WreckPiece03",
     "stringId": "97592-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9871,6 +10169,7 @@
     "references": {}
   },
   "97591-Newwworld.mod": {
+    "name": "Barge WreckPiece02",
     "stringId": "97591-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9904,6 +10203,7 @@
     "references": {}
   },
   "97590-Newwworld.mod": {
+    "name": "Barge WreckPiece01",
     "stringId": "97590-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9937,6 +10237,7 @@
     "references": {}
   },
   "98393-Newwworld.mod": {
+    "name": "Large Dock BASE",
     "stringId": "98393-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -9970,6 +10271,7 @@
     "references": {}
   },
   "99048-Newwworld.mod": {
+    "name": "SE Tower",
     "stringId": "99048-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10003,6 +10305,7 @@
     "references": {}
   },
   "99104-Newwworld.mod": {
+    "name": "First Civ_WreckBit07",
     "stringId": "99104-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10036,6 +10339,7 @@
     "references": {}
   },
   "99105-Newwworld.mod": {
+    "name": "First Civ_WreckBit01",
     "stringId": "99105-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10069,6 +10373,7 @@
     "references": {}
   },
   "99176-Newwworld.mod": {
+    "name": "First Civ_WreckBit02",
     "stringId": "99176-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10102,6 +10407,7 @@
     "references": {}
   },
   "99177-Newwworld.mod": {
+    "name": "First Civ_WreckBit03",
     "stringId": "99177-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10135,6 +10441,7 @@
     "references": {}
   },
   "99178-Newwworld.mod": {
+    "name": "First Civ_WreckBit04",
     "stringId": "99178-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10168,6 +10475,7 @@
     "references": {}
   },
   "99179-Newwworld.mod": {
+    "name": "First Civ_WreckBit05",
     "stringId": "99179-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10201,6 +10509,7 @@
     "references": {}
   },
   "99180-Newwworld.mod": {
+    "name": "First Civ_WreckBit06",
     "stringId": "99180-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10234,6 +10543,7 @@
     "references": {}
   },
   "99181-Newwworld.mod": {
+    "name": "First Civ_Full-Wreck",
     "stringId": "99181-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10267,6 +10577,7 @@
     "references": {}
   },
   "99653-Newwworld.mod": {
+    "name": "Ancient RIG platform01",
     "stringId": "99653-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10300,6 +10611,7 @@
     "references": {}
   },
   "1532661-Newwworld.mod": {
+    "name": "Ashland_Mechanok",
     "stringId": "1532661-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10333,6 +10645,7 @@
     "references": {}
   },
   "1532969-Newwworld.mod": {
+    "name": "Tower Core",
     "stringId": "1532969-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10366,6 +10679,7 @@
     "references": {}
   },
   "1533080-Newwworld.mod": {
+    "name": "Stobe Feature01",
     "stringId": "1533080-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10399,6 +10713,7 @@
     "references": {}
   },
   "1533313-Newwworld.mod": {
+    "name": "Ancient Remnant01",
     "stringId": "1533313-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10432,6 +10747,7 @@
     "references": {}
   },
   "1533486-Newwworld.mod": {
+    "name": "Ancient Remnant02",
     "stringId": "1533486-Newwworld.mod",
     "type": "MapFeatures",
     "values": {
@@ -10465,6 +10781,7 @@
     "references": {}
   },
   "1533494-Newwworld.mod": {
+    "name": "Ashland Fin Building",
     "stringId": "1533494-Newwworld.mod",
     "type": "MapFeatures",
     "values": {

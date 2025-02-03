@@ -1,5 +1,6 @@
 {
   "40545-small_changes_otto.mod": {
+    "name": "Wheat Farm 25",
     "stringId": "40545-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -42,6 +43,7 @@
     }
   },
   "40555-small_changes_otto.mod": {
+    "name": "Cotton Indoor Farm Type",
     "stringId": "40555-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -89,6 +91,7 @@
     }
   },
   "40554-small_changes_otto.mod": {
+    "name": "Seaweed Indoor Farm Type",
     "stringId": "40554-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -141,6 +144,7 @@
     }
   },
   "40567-small_changes_otto.mod": {
+    "name": "Hemp Farm Type 64",
     "stringId": "40567-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -183,6 +187,7 @@
     }
   },
   "40544-small_changes_otto.mod": {
+    "name": "Seaweed Farm Type 81",
     "stringId": "40544-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -235,6 +240,7 @@
     }
   },
   "40568-small_changes_otto.mod": {
+    "name": "Hemp Indoor Farm Type",
     "stringId": "40568-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -277,6 +283,7 @@
     }
   },
   "40549-small_changes_otto.mod": {
+    "name": "Zuchini Indoor Farm Type",
     "stringId": "40549-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -324,6 +331,7 @@
     }
   },
   "40543-small_changes_otto.mod": {
+    "name": "Cactus Farm Type 64",
     "stringId": "40543-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -371,6 +379,7 @@
     }
   },
   "40556-small_changes_otto.mod": {
+    "name": "Cactus Indoor Farm Type",
     "stringId": "40556-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -418,6 +427,7 @@
     }
   },
   "18987-small_changes_otto.mod": {
+    "name": "Cotton Farm Type 121",
     "stringId": "18987-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -465,6 +475,7 @@
     }
   },
   "18969-small_changes_otto.mod": {
+    "name": "Zuchini Farm Type 49",
     "stringId": "18969-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -512,6 +523,7 @@
     }
   },
   "40557-small_changes_otto.mod": {
+    "name": "Wheat Indoor Farm Type",
     "stringId": "40557-small_changes_otto.mod",
     "type": "FarmData",
     "values": {
@@ -554,6 +566,7 @@
     }
   },
   "56896-farm.mod": {
+    "name": "Wheat Farm 100",
     "stringId": "56896-farm.mod",
     "type": "FarmData",
     "values": {
@@ -596,6 +609,7 @@
     }
   },
   "56894-farm.mod": {
+    "name": "Wheat Farm 50",
     "stringId": "56894-farm.mod",
     "type": "FarmData",
     "values": {
@@ -638,6 +652,7 @@
     }
   },
   "56895-farm.mod": {
+    "name": "Wheat Farm 75",
     "stringId": "56895-farm.mod",
     "type": "FarmData",
     "values": {
@@ -680,6 +695,7 @@
     }
   },
   "56901-rebirth.mod": {
+    "name": "Zuchini Farm Type 35",
     "stringId": "56901-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -727,6 +743,7 @@
     }
   },
   "56902-rebirth.mod": {
+    "name": "Zuchini Farm Type 20",
     "stringId": "56902-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -774,6 +791,7 @@
     }
   },
   "56905-rebirth.mod": {
+    "name": "Seaweed Farm Type 55",
     "stringId": "56905-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -826,6 +844,7 @@
     }
   },
   "56906-rebirth.mod": {
+    "name": "Seaweed Farm Type 30",
     "stringId": "56906-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -878,6 +897,7 @@
     }
   },
   "56907-rebirth.mod": {
+    "name": "Cactus Farm Type 48",
     "stringId": "56907-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -925,6 +945,7 @@
     }
   },
   "56908-rebirth.mod": {
+    "name": "Cactus Farm Type 32",
     "stringId": "56908-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -972,6 +993,7 @@
     }
   },
   "56909-rebirth.mod": {
+    "name": "Cactus Farm Type 16",
     "stringId": "56909-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -1019,6 +1041,7 @@
     }
   },
   "56913-rebirth.mod": {
+    "name": "Hemp Farm Type 40",
     "stringId": "56913-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -1061,6 +1084,7 @@
     }
   },
   "56914-rebirth.mod": {
+    "name": "Hemp Farm Type 25",
     "stringId": "56914-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -1103,6 +1127,7 @@
     }
   },
   "56915-rebirth.mod": {
+    "name": "Cotton Farm Type 90",
     "stringId": "56915-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -1150,6 +1175,7 @@
     }
   },
   "56916-rebirth.mod": {
+    "name": "Cotton Farm Type 60",
     "stringId": "56916-rebirth.mod",
     "type": "FarmData",
     "values": {
@@ -1197,6 +1223,7 @@
     }
   },
   "56917-rebirth.mod": {
+    "name": "Cotton Farm Type 30",
     "stringId": "56917-rebirth.mod",
     "type": "FarmData",
     "values": {

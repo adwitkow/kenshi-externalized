@@ -1,5 +1,6 @@
 {
   "2665-gamedata.base": {
+    "name": "Diplomat Mission (running)",
     "stringId": "2665-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -35,6 +36,7 @@
     }
   },
   "2667-gamedata.base": {
+    "name": "Loot food then run away",
     "stringId": "2667-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -92,6 +94,7 @@
     }
   },
   "5402-gamedata.base": {
+    "name": "Escaping slave- run away solo",
     "stringId": "5402-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -129,6 +132,7 @@
     }
   },
   "3108-gamedata.base": {
+    "name": "Shop-24hr",
     "stringId": "3108-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -201,6 +205,7 @@
     }
   },
   "16846-gamedata.base": {
+    "name": "At home nest -human",
     "stringId": "16846-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -244,6 +249,7 @@
     }
   },
   "14461-rebirth.mod": {
+    "name": "addon- night shifts",
     "stringId": "14461-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -291,6 +297,7 @@
     }
   },
   "3389-gamedata.base": {
+    "name": "Slaver Wandering from town to town",
     "stringId": "3389-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -314,6 +321,7 @@
     }
   },
   "5493-gamedata.base": {
+    "name": "warrior guild",
     "stringId": "5493-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -344,6 +352,7 @@
     }
   },
   "3941-gamedata.base": {
+    "name": "animal patrol scary children",
     "stringId": "3941-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -396,6 +405,7 @@
     }
   },
   "3396-gamedata.base": {
+    "name": "Slaver deliver to work camp",
     "stringId": "3396-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -450,6 +460,7 @@
     }
   },
   "5090-gamedata.base": {
+    "name": "Bodyguard",
     "stringId": "5090-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -500,6 +511,7 @@
     }
   },
   "4008-gamedata.base": {
+    "name": "Goat Herder",
     "stringId": "4008-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -545,6 +557,7 @@
     }
   },
   "14541-gamedata.base": {
+    "name": "Military Assemble forces",
     "stringId": "14541-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -592,6 +605,7 @@
     }
   },
   "2823-gamedata.base": {
+    "name": "Guard building, residents",
     "stringId": "2823-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -679,6 +693,7 @@
     }
   },
   "2672-gamedata.base": {
+    "name": "Patrol map (short range)",
     "stringId": "2672-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -751,6 +766,7 @@
     }
   },
   "18916-gamedata.base": {
+    "name": "addon- wandering slaver base",
     "stringId": "18916-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -833,6 +849,7 @@
     }
   },
   "13054-Escapes.mod": {
+    "name": "Escaping slave- work together merc",
     "stringId": "13054-Escapes.mod",
     "type": "AiPackage",
     "values": {
@@ -844,6 +861,7 @@
     "references": {}
   },
   "3110-gamedata.base": {
+    "name": "Guard town",
     "stringId": "3110-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -867,6 +885,7 @@
     }
   },
   "2669-gamedata.base": {
+    "name": "Leader flees while guards fight",
     "stringId": "2669-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -904,6 +923,7 @@
     }
   },
   "17917-gamedata.base": {
+    "name": "Normal Raid Retreat [passive]",
     "stringId": "17917-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -976,6 +996,7 @@
     }
   },
   "2675-gamedata.base": {
+    "name": "Wandering from town to town",
     "stringId": "2675-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1048,6 +1069,7 @@
     }
   },
   "2824-gamedata.base": {
+    "name": "Shop",
     "stringId": "2824-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1152,6 +1174,7 @@
     }
   },
   "3107-gamedata.base": {
+    "name": "Civilian",
     "stringId": "3107-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1239,6 +1262,7 @@
     }
   },
   "4015-gamedata.base": {
+    "name": "Creature nest agressive",
     "stringId": "4015-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1274,6 +1298,7 @@
     }
   },
   "2664-gamedata.base": {
+    "name": "Diplomat Mission",
     "stringId": "2664-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1309,6 +1334,7 @@
     }
   },
   "2668-gamedata.base": {
+    "name": "Go home everybody",
     "stringId": "2668-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1373,6 +1399,7 @@
     }
   },
   "5260-gamedata.base": {
+    "name": "slave worker day guard",
     "stringId": "5260-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1488,6 +1515,7 @@
     }
   },
   "40514-gamedata.base": {
+    "name": "Escaping slave- base",
     "stringId": "40514-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1526,6 +1554,7 @@
     }
   },
   "2666-gamedata.base": {
+    "name": "Assault target squad (agg)",
     "stringId": "2666-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1583,6 +1612,7 @@
     }
   },
   "3011-gamedata.base": {
+    "name": "A",
     "stringId": "3011-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1593,6 +1623,7 @@
     "references": {}
   },
   "5461-gamedata.base": {
+    "name": "addon- slave catching",
     "stringId": "5461-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1631,6 +1662,7 @@
     }
   },
   "2674-gamedata.base": {
+    "name": "Cannibal patrol map (short range)",
     "stringId": "2674-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1696,6 +1728,7 @@
     }
   },
   "4039-gamedata.base": {
+    "name": "Creature nest agressive-no sleep",
     "stringId": "4039-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1746,6 +1779,7 @@
     }
   },
   "18944-gamedata.base": {
+    "name": "Cannibal raid assault town",
     "stringId": "18944-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1784,6 +1818,7 @@
     }
   },
   "14191-Dialogue (4).mod": {
+    "name": "Escaping slave- work together civilian",
     "stringId": "14191-Dialogue (4).mod",
     "type": "AiPackage",
     "values": {
@@ -1809,6 +1844,7 @@
     }
   },
   "14546-gamedata.base": {
+    "name": "base- travel to target",
     "stringId": "14546-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1864,6 +1900,7 @@
     }
   },
   "5344-gamedata.base": {
+    "name": "Slave only squad",
     "stringId": "5344-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1894,6 +1931,7 @@
     }
   },
   "5201-gamedata.base": {
+    "name": "Patrol map (short range) LOOTING",
     "stringId": "5201-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -1959,6 +1997,7 @@
     }
   },
   "2677-gamedata.base": {
+    "name": "Cannibals at home",
     "stringId": "2677-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2037,6 +2076,7 @@
     }
   },
   "5007-gamedata.base": {
+    "name": "Blood Hunter nocturnal",
     "stringId": "5007-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2099,6 +2139,7 @@
     }
   },
   "2670-gamedata.base": {
+    "name": "Assault and kidnap",
     "stringId": "2670-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2156,6 +2197,7 @@
     }
   },
   "3382-gamedata.base": {
+    "name": "wander town as a squad",
     "stringId": "3382-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2203,6 +2245,7 @@
     }
   },
   "3949-gamedata.base": {
+    "name": "Patrol map: Aggressive (short range)",
     "stringId": "3949-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2263,6 +2306,7 @@
     }
   },
   "2957-gamedata.base": {
+    "name": "Assault target squad",
     "stringId": "2957-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2305,6 +2349,7 @@
     }
   },
   "5300-gamedata.base": {
+    "name": "Gate guard- slave catching",
     "stringId": "5300-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2335,6 +2380,7 @@
     }
   },
   "5485-gamedata.base": {
+    "name": "contract Mercenary outpost guard",
     "stringId": "5485-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2400,6 +2446,7 @@
     }
   },
   "14548-gamedata.base": {
+    "name": "Military Assemble leader",
     "stringId": "14548-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2445,6 +2492,7 @@
     }
   },
   "14891-Dialogue.mod": {
+    "name": "Escaping slave- work together Shek",
     "stringId": "14891-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -2477,6 +2525,7 @@
     }
   },
   "14545-gamedata.base": {
+    "name": "base- travel to target town (slow)",
     "stringId": "14545-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2532,6 +2581,7 @@
     }
   },
   "5504-gamedata.base": {
+    "name": "Patrol map: Raiders",
     "stringId": "5504-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2550,6 +2600,7 @@
     }
   },
   "18922-gamedata.base": {
+    "name": "Military Slave Raid",
     "stringId": "18922-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2590,6 +2641,7 @@
     }
   },
   "2663-gamedata.base": {
+    "name": "Cannibal Raid Retreat",
     "stringId": "2663-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2640,6 +2692,7 @@
     }
   },
   "5436-gamedata.base": {
+    "name": "ex slave",
     "stringId": "5436-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2685,6 +2738,7 @@
     }
   },
   "5221-gamedata.base": {
+    "name": "Cage Warden",
     "stringId": "5221-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2837,6 +2891,7 @@
     }
   },
   "5427-gamedata.base": {
+    "name": "Escaping slave- work together",
     "stringId": "5427-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2869,6 +2924,7 @@
     }
   },
   "14499-gamedata.base": {
+    "name": "hang out in a bar",
     "stringId": "14499-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2914,6 +2970,7 @@
     }
   },
   "5216-gamedata.base": {
+    "name": "Gate guard  -no turrets -arrests",
     "stringId": "5216-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2944,6 +3001,7 @@
     }
   },
   "5460-gamedata.base": {
+    "name": "Guard town - slave catching",
     "stringId": "5460-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -2972,6 +3030,7 @@
     }
   },
   "3401-gamedata.base": {
+    "name": "Slaver OLD",
     "stringId": "3401-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3004,6 +3063,7 @@
     }
   },
   "14544-gamedata.base": {
+    "name": "Military Assault Town",
     "stringId": "14544-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3042,6 +3102,7 @@
     }
   },
   "RETREAT_AND_REFRESH": {
+    "name": "Retreat and refresh",
     "stringId": "RETREAT_AND_REFRESH",
     "type": "AiPackage",
     "values": {
@@ -3109,6 +3170,7 @@
     }
   },
   "3399-gamedata.base": {
+    "name": "Slaver grab all the local prisoners",
     "stringId": "3399-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3153,6 +3215,7 @@
     }
   },
   "40506-gamedata.base": {
+    "name": "Escaping slave- purchased freedom",
     "stringId": "40506-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3185,6 +3248,7 @@
     }
   },
   "14268-Dialogue (4).mod": {
+    "name": "Escaping slave- work together thug",
     "stringId": "14268-Dialogue (4).mod",
     "type": "AiPackage",
     "values": {
@@ -3210,6 +3274,7 @@
     }
   },
   "16849-gamedata.base": {
+    "name": "disband / refugee",
     "stringId": "16849-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3248,6 +3313,7 @@
     }
   },
   "5235-gamedata.base": {
+    "name": "Slaver Storage Guard",
     "stringId": "5235-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3343,6 +3409,7 @@
     }
   },
   "14549-gamedata.base": {
+    "name": "AI_PACKAGE",
     "stringId": "14549-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3353,6 +3420,7 @@
     "references": {}
   },
   "2724-gamedata.base": {
+    "name": "police station patrol",
     "stringId": "2724-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3410,6 +3478,7 @@
     }
   },
   "2855-gamedata.base": {
+    "name": "Farmer village",
     "stringId": "2855-gamedata.base",
     "type": "AiPackage",
     "values": {
@@ -3440,6 +3509,7 @@
     }
   },
   "56625-Dialogue.mod": {
+    "name": "Bodyguard Black Dog",
     "stringId": "56625-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3490,6 +3560,7 @@
     }
   },
   "17363-Dialogue.mod": {
+    "name": "Escaping slave- work together merc",
     "stringId": "17363-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3522,6 +3593,7 @@
     }
   },
   "40677-Dialogue.mod": {
+    "name": "Escaping slave- work together priest",
     "stringId": "40677-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3547,6 +3619,7 @@
     }
   },
   "46135-Dialogue.mod": {
+    "name": "Escaping slave- work together skeleton",
     "stringId": "46135-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3579,6 +3652,7 @@
     }
   },
   "46158-Dialogue.mod": {
+    "name": "Escape prison and attack target",
     "stringId": "46158-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3607,6 +3681,7 @@
     }
   },
   "18535-Dialogue.mod": {
+    "name": "Escaping slave- work together noble",
     "stringId": "18535-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3632,6 +3707,7 @@
     }
   },
   "18046-Dialogue.mod": {
+    "name": "Escaping slave- work together Ronin",
     "stringId": "18046-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3664,6 +3740,7 @@
     }
   },
   "43119-Dialogue.mod": {
+    "name": "Escaping slave- work together esata",
     "stringId": "43119-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3696,6 +3773,7 @@
     }
   },
   "51115-Dialogue.mod": {
+    "name": "Escaping slave- work together Moll",
     "stringId": "51115-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3728,6 +3806,7 @@
     }
   },
   "54793-Dialogue.mod": {
+    "name": "Escaping slave- purchase free thug",
     "stringId": "54793-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3760,6 +3839,7 @@
     }
   },
   "54826-Dialogue.mod": {
+    "name": "Escaping slave- purchase tough",
     "stringId": "54826-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3792,6 +3872,7 @@
     }
   },
   "54922-Dialogue.mod": {
+    "name": "Escaping slave- purchased free Shek",
     "stringId": "54922-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3824,6 +3905,7 @@
     }
   },
   "56717-Dialogue.mod": {
+    "name": "Escaping slave- work together ninja",
     "stringId": "56717-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3856,6 +3938,7 @@
     }
   },
   "61007-Dialogue.mod": {
+    "name": "Normal Raid Retreat [aggressive] copy",
     "stringId": "61007-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3940,6 +4023,7 @@
     }
   },
   "62424-Dialogue.mod": {
+    "name": "Escaping slave- work together Lu",
     "stringId": "62424-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -3972,6 +4056,7 @@
     }
   },
   "63419-Dialogue.mod": {
+    "name": "Escaping slave- work together Vault",
     "stringId": "63419-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4004,6 +4089,7 @@
     }
   },
   "63685-Dialogue.mod": {
+    "name": "Bodyguard crab raider",
     "stringId": "63685-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4054,6 +4140,7 @@
     }
   },
   "63686-Dialogue.mod": {
+    "name": "Bodyguard skin bandit",
     "stringId": "63686-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4104,6 +4191,7 @@
     }
   },
   "63687-Dialogue.mod": {
+    "name": "Bodyguard skeleton bandit",
     "stringId": "63687-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4154,6 +4242,7 @@
     }
   },
   "64141-Dialogue.mod": {
+    "name": "contract Merc outpost guard Blkdg",
     "stringId": "64141-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4219,6 +4308,7 @@
     }
   },
   "64664-Dialogue.mod": {
+    "name": "Bodyguard tech hunter",
     "stringId": "64664-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4269,6 +4359,7 @@
     }
   },
   "96295-Dialogue.mod": {
+    "name": "throne room queen western",
     "stringId": "96295-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4346,6 +4437,7 @@
     }
   },
   "96516-Dialogue.mod": {
+    "name": "homeless town vagrants- exile camp",
     "stringId": "96516-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4391,6 +4483,7 @@
     }
   },
   "97076-Dialogue.mod": {
+    "name": "Work, Protect, Capture",
     "stringId": "97076-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4469,6 +4562,7 @@
     }
   },
   "97078-Dialogue.mod": {
+    "name": "patrol town 24hr + capture",
     "stringId": "97078-Dialogue.mod",
     "type": "AiPackage",
     "values": {
@@ -4527,6 +4621,7 @@
     }
   },
   "49580-arg.mod": {
+    "name": "AI_PACKAGE",
     "stringId": "49580-arg.mod",
     "type": "AiPackage",
     "values": {
@@ -4545,6 +4640,7 @@
     }
   },
   "18888-rebirth.mod": {
+    "name": "Police Station",
     "stringId": "18888-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4592,6 +4688,7 @@
     }
   },
   "42041-rebirth.mod": {
+    "name": "fog prince",
     "stringId": "42041-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4654,6 +4751,7 @@
     }
   },
   "42157-rebirth.mod": {
+    "name": "animal patrol aggressive",
     "stringId": "42157-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4699,6 +4797,7 @@
     }
   },
   "48682-rebirth.mod": {
+    "name": "Patrol map (short range) animal",
     "stringId": "48682-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4776,6 +4875,7 @@
     }
   },
   "44929-rebirth.mod": {
+    "name": "addon- capture intruders",
     "stringId": "44929-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4809,6 +4909,7 @@
     }
   },
   "50606-rebirth.mod": {
+    "name": "Cannibals at home- lab",
     "stringId": "50606-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4882,6 +4983,7 @@
     }
   },
   "42036-rebirth.mod": {
+    "name": "wander nests eat prisoners",
     "stringId": "42036-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4907,6 +5009,7 @@
     }
   },
   "50354-rebirth.mod": {
+    "name": "worker fighter indie resident",
     "stringId": "50354-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -4977,6 +5080,7 @@
     }
   },
   "40545-rebirth.mod": {
+    "name": "Storage Guard",
     "stringId": "40545-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5054,6 +5158,7 @@
     }
   },
   "42899-rebirth.mod": {
+    "name": "addon- get rid of intruders",
     "stringId": "42899-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5082,6 +5187,7 @@
     }
   },
   "42039-rebirth.mod": {
+    "name": "fog squad wandering",
     "stringId": "42039-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5119,6 +5225,7 @@
     }
   },
   "49574-rebirth.mod": {
+    "name": "Holy Slaver grab all the local prisoners",
     "stringId": "49574-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5156,6 +5263,7 @@
     }
   },
   "46960-rebirth.mod": {
+    "name": "addon- lockup and sleep at night",
     "stringId": "46960-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5189,6 +5297,7 @@
     }
   },
   "46047-rebirth.mod": {
+    "name": "Patrol map aggressive (short range) LOOTING",
     "stringId": "46047-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5214,6 +5323,7 @@
     }
   },
   "42198-rebirth.mod": {
+    "name": "working mines and farms",
     "stringId": "42198-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5259,6 +5369,7 @@
     }
   },
   "48677-rebirth.mod": {
+    "name": "robot building guards",
     "stringId": "48677-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5282,6 +5393,7 @@
     }
   },
   "42197-rebirth.mod": {
+    "name": "_attack all",
     "stringId": "42197-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5300,6 +5412,7 @@
     }
   },
   "50852-rebirth.mod": {
+    "name": "patrol map (defensive only)",
     "stringId": "50852-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5345,6 +5458,7 @@
     }
   },
   "43978-rebirth.mod": {
+    "name": "addon- animal sleep at night",
     "stringId": "43978-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5363,6 +5477,7 @@
     }
   },
   "18887-rebirth.mod": {
+    "name": "addon- law enforcement",
     "stringId": "18887-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5441,6 +5556,7 @@
     }
   },
   "46959-rebirth.mod": {
+    "name": "farm shop",
     "stringId": "46959-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5493,6 +5609,7 @@
     }
   },
   "50607-rebirth.mod": {
+    "name": "Cannibals at home-wizard",
     "stringId": "50607-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5573,6 +5690,7 @@
     }
   },
   "14472-rebirth.mod": {
+    "name": "Hospital",
     "stringId": "14472-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5628,6 +5746,7 @@
     }
   },
   "43888-rebirth.mod": {
+    "name": "animal patrol neutral carnivorous",
     "stringId": "43888-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5661,6 +5780,7 @@
     }
   },
   "43980-rebirth.mod": {
+    "name": "Creature nest agressive nocturnal -eat corpses",
     "stringId": "43980-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5723,6 +5843,7 @@
     }
   },
   "44928-rebirth.mod": {
+    "name": "Guard building, capture and loot",
     "stringId": "44928-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5815,6 +5936,7 @@
     }
   },
   "50394-rebirth.mod": {
+    "name": "addon bedtime at night (unsecure)",
     "stringId": "50394-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5838,6 +5960,7 @@
     }
   },
   "49385-rebirth.mod": {
+    "name": "Patrol map (short range) running",
     "stringId": "49385-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5910,6 +6033,7 @@
     }
   },
   "44889-rebirth.mod": {
+    "name": "fog prince resident",
     "stringId": "44889-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -5962,6 +6086,7 @@
     }
   },
   "42038-rebirth.mod": {
+    "name": "fog wander kidnap  -base",
     "stringId": "42038-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6012,6 +6137,7 @@
     }
   },
   "50393-rebirth.mod": {
+    "name": "building resident, workers2 and guards1",
     "stringId": "50393-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6074,6 +6200,7 @@
     }
   },
   "14467-rebirth.mod": {
+    "name": "Wall Guards",
     "stringId": "14467-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6131,6 +6258,7 @@
     }
   },
   "43979-rebirth.mod": {
+    "name": "addon- animal sleep nocturnal",
     "stringId": "43979-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6149,6 +6277,7 @@
     }
   },
   "44897-rebirth.mod": {
+    "name": "fog resident",
     "stringId": "44897-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6206,6 +6335,7 @@
     }
   },
   "43936-rebirth.mod": {
+    "name": "farm animals",
     "stringId": "43936-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6234,6 +6364,7 @@
     }
   },
   "44430-rebirth.mod": {
+    "name": "Squatters",
     "stringId": "44430-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6272,6 +6403,7 @@
     }
   },
   "47957-rebirth.mod": {
+    "name": "robot static aggressive",
     "stringId": "47957-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6290,6 +6422,7 @@
     }
   },
   "42203-rebirth.mod": {
+    "name": "animal patrol neutral",
     "stringId": "42203-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6335,6 +6468,7 @@
     }
   },
   "50931-rebirth.mod": {
+    "name": "Guard town - gangs",
     "stringId": "50931-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6496,6 +6630,7 @@
     }
   },
   "50964-rebirth.mod": {
+    "name": "at home, bar",
     "stringId": "50964-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6519,6 +6654,7 @@
     }
   },
   "50989-rebirth.mod": {
+    "name": "megabeast nest",
     "stringId": "50989-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6554,6 +6690,7 @@
     }
   },
   "51373-rebirth.mod": {
+    "name": "bugmaster",
     "stringId": "51373-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6611,6 +6748,7 @@
     }
   },
   "51420-rebirth.mod": {
+    "name": "Guard military patrol base",
     "stringId": "51420-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6752,6 +6890,7 @@
     }
   },
   "51422-rebirth.mod": {
+    "name": "guard town - lawful arrests",
     "stringId": "51422-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6775,6 +6914,7 @@
     }
   },
   "51815-rebirth.mod": {
+    "name": "Guard building 24hr service",
     "stringId": "51815-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6852,6 +6992,7 @@
     }
   },
   "52279-rebirth.mod": {
+    "name": "Gate guard -no turrets",
     "stringId": "52279-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6929,6 +7070,7 @@
     }
   },
   "52325-rebirth.mod": {
+    "name": "police patrols",
     "stringId": "52325-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -6966,6 +7108,7 @@
     }
   },
   "52327-rebirth.mod": {
+    "name": "empire police station",
     "stringId": "52327-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7022,6 +7165,7 @@
     }
   },
   "53087-rebirth.mod": {
+    "name": "fog tower",
     "stringId": "53087-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7059,6 +7203,7 @@
     }
   },
   "54308-rebirth.mod": {
+    "name": "noble house",
     "stringId": "54308-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7153,6 +7298,7 @@
     }
   },
   "54543-rebirth.mod": {
+    "name": "AI_PACKAGE",
     "stringId": "54543-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7171,6 +7317,7 @@
     }
   },
   "54573-rebirth.mod": {
+    "name": "shop external",
     "stringId": "54573-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7235,6 +7382,7 @@
     }
   },
   "54585-rebirth.mod": {
+    "name": "addon- slave watching",
     "stringId": "54585-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7253,6 +7401,7 @@
     }
   },
   "55017-rebirth.mod": {
+    "name": "manhunters patrol",
     "stringId": "55017-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7285,6 +7434,7 @@
     }
   },
   "55117-__dont commit.mod": {
+    "name": "Guard town shifts -base",
     "stringId": "55117-__dont commit.mod",
     "type": "AiPackage",
     "values": {
@@ -7439,6 +7589,7 @@
     }
   },
   "55623-rebirth.mod": {
+    "name": "fog squad return home",
     "stringId": "55623-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7482,6 +7633,7 @@
     }
   },
   "56044-rebirth.mod": {
+    "name": "noble procession",
     "stringId": "56044-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7559,6 +7711,7 @@
     }
   },
   "CAPTURED_NPC": {
+    "name": "captured NPC",
     "stringId": "CAPTURED_NPC",
     "type": "AiPackage",
     "values": {
@@ -7597,6 +7750,7 @@
     }
   },
   "56209-rebirth.mod": {
+    "name": "homeless town vagrants- protect squad",
     "stringId": "56209-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7637,6 +7791,7 @@
     }
   },
   "57290-rebirth.mod": {
+    "name": "throne room / king",
     "stringId": "57290-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7714,6 +7869,7 @@
     }
   },
   "59291-rebirth.mod": {
+    "name": "guard town - lawful arrests copy",
     "stringId": "59291-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7737,6 +7893,7 @@
     }
   },
   "59293-rebirth.mod": {
+    "name": "passing town assault then occupy",
     "stringId": "59293-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7772,6 +7929,7 @@
     }
   },
   "62822-rebirth.mod": {
+    "name": "Look around?",
     "stringId": "62822-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7795,6 +7953,7 @@
     }
   },
   "62844-rebirth.mod": {
+    "name": "Goat Herder camp",
     "stringId": "62844-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7850,6 +8009,7 @@
     }
   },
   "62852-rebirth.mod": {
+    "name": "Guard town small-time no shifts",
     "stringId": "62852-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7873,6 +8033,7 @@
     }
   },
   "62853-rebirth.mod": {
+    "name": "Guard town no shifts 24hr",
     "stringId": "62853-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -7980,6 +8141,7 @@
     }
   },
   "62856-rebirth.mod": {
+    "name": "empire vault prison",
     "stringId": "62856-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8046,6 +8208,7 @@
     }
   },
   "62933-rebirth.mod": {
+    "name": "Casual Raid Retreat [passive]",
     "stringId": "62933-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8118,6 +8281,7 @@
     }
   },
   "63473-rebirth.mod": {
+    "name": "addon- law enforcement- no freeing prisoners",
     "stringId": "63473-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8191,6 +8355,7 @@
     }
   },
   "63476-rebirth.mod": {
+    "name": "Slaver deliver to nearest depot",
     "stringId": "63476-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8235,6 +8400,7 @@
     }
   },
   "63477-rebirth.mod": {
+    "name": "hang out in a bar with slave gathering",
     "stringId": "63477-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8307,6 +8473,7 @@
     }
   },
   "63482-rebirth.mod": {
+    "name": "throne room king and attendant",
     "stringId": "63482-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8379,6 +8546,7 @@
     }
   },
   "63484-rebirth.mod": {
+    "name": "throne room guard squad",
     "stringId": "63484-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8429,6 +8597,7 @@
     }
   },
   "64228-rebirth.mod": {
+    "name": "Loot food then run away (non violent)",
     "stringId": "64228-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8462,6 +8631,7 @@
     }
   },
   "64491-rebirth.mod": {
+    "name": "Cannibals at home- skinbandits",
     "stringId": "64491-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8487,6 +8657,7 @@
     }
   },
   "64754-__september20.mod": {
+    "name": "Shop catun",
     "stringId": "64754-__september20.mod",
     "type": "AiPackage",
     "values": {
@@ -8596,6 +8767,7 @@
     }
   },
   "64875-rebirth.mod": {
+    "name": "town thugs night patrol + day bar",
     "stringId": "64875-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8643,6 +8815,7 @@
     }
   },
   "64905-rebirth.mod": {
+    "name": "animals in building, hostile",
     "stringId": "64905-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8678,6 +8851,7 @@
     }
   },
   "64909-rebirth.mod": {
+    "name": "animal agressive patrol nocturnal",
     "stringId": "64909-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8701,6 +8875,7 @@
     }
   },
   "64929-rebirth.mod": {
+    "name": "errorcode bodyguard",
     "stringId": "64929-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8729,6 +8904,7 @@
     }
   },
   "65272-rebirth.mod": {
+    "name": "reaver slaves",
     "stringId": "65272-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8752,6 +8928,7 @@
     }
   },
   "65273-rebirth.mod": {
+    "name": "Patrol map reavers",
     "stringId": "65273-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8874,6 +9051,7 @@
     }
   },
   "65865-rebirth.mod": {
+    "name": "patrol town 24hr",
     "stringId": "65865-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8917,6 +9095,7 @@
     }
   },
   "96563-rebirth.mod": {
+    "name": "passing town assault only",
     "stringId": "96563-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -8950,6 +9129,7 @@
     }
   },
   "66542-rebirth.mod": {
+    "name": "Cannibals at home- skinbandits THRONE",
     "stringId": "66542-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9055,6 +9235,7 @@
     }
   },
   "95513-rebirth.mod": {
+    "name": "robot ambush",
     "stringId": "95513-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9088,6 +9269,7 @@
     }
   },
   "95532-rebirth.mod": {
+    "name": "robot ambush -guard posts",
     "stringId": "95532-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9126,6 +9308,7 @@
     }
   },
   "95533-rebirth.mod": {
+    "name": "robot ambush hidden indoors",
     "stringId": "95533-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9171,6 +9354,7 @@
     }
   },
   "96077-rebirth.mod": {
+    "name": "AI_PACKAGE",
     "stringId": "96077-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9189,6 +9373,7 @@
     }
   },
   "96152-rebirth.mod": {
+    "name": "AI_PACKAGE",
     "stringId": "96152-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9199,6 +9384,7 @@
     "references": {}
   },
   "96079-__Southern hive.mod": {
+    "name": "King feeding time",
     "stringId": "96079-__Southern hive.mod",
     "type": "AiPackage",
     "values": {
@@ -9227,6 +9413,7 @@
     }
   },
   "96080-__Southern hive.mod": {
+    "name": "South drone sacrifice",
     "stringId": "96080-__Southern hive.mod",
     "type": "AiPackage",
     "values": {
@@ -9339,6 +9526,7 @@
     }
   },
   "96138-__Southern hive.mod": {
+    "name": "South drone sacrifice farmer",
     "stringId": "96138-__Southern hive.mod",
     "type": "AiPackage",
     "values": {
@@ -9451,6 +9639,7 @@
     }
   },
   "96081-__Southern hive.mod": {
+    "name": "South drone throne room",
     "stringId": "96081-__Southern hive.mod",
     "type": "AiPackage",
     "values": {
@@ -9538,6 +9727,7 @@
     }
   },
   "96238-rebirth.mod": {
+    "name": "Blood Hunter day",
     "stringId": "96238-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9600,6 +9790,7 @@
     }
   },
   "96239-rebirth.mod": {
+    "name": "wolf patrol aggressive day (no smell)",
     "stringId": "96239-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9657,6 +9848,7 @@
     }
   },
   "96358-rebirth.mod": {
+    "name": "fishman patrol aggressive",
     "stringId": "96358-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9722,6 +9914,7 @@
     }
   },
   "96361-rebirth.mod": {
+    "name": "throne room / king 24hr nosleep",
     "stringId": "96361-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9794,6 +9987,7 @@
     }
   },
   "96408-rebirth.mod": {
+    "name": "stay in home relaxing",
     "stringId": "96408-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9891,6 +10085,7 @@
     }
   },
   "96410-rebirth.mod": {
+    "name": "Guard building 24hr service- squad2 robo guards",
     "stringId": "96410-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -9995,6 +10190,7 @@
     }
   },
   "96450-rebirth.mod": {
+    "name": "nthnthnth",
     "stringId": "96450-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10005,6 +10201,7 @@
     "references": {}
   },
   "96451-rebirth.mod": {
+    "name": "hostile occupy town",
     "stringId": "96451-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10120,6 +10317,7 @@
     }
   },
   "97241-rebirth.mod": {
+    "name": "campaign victory occupy town",
     "stringId": "97241-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10272,6 +10470,7 @@
     }
   },
   "97248-rebirth.mod": {
+    "name": "addon- get rid of intruders or imprison",
     "stringId": "97248-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10300,6 +10499,7 @@
     }
   },
   "97898-rebirth.mod": {
+    "name": "fish resident",
     "stringId": "97898-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10373,6 +10573,7 @@
     }
   },
   "98506-rebirth.mod": {
+    "name": "throne room / king copy",
     "stringId": "98506-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10450,6 +10651,7 @@
     }
   },
   "98507-rebirth.mod": {
+    "name": "throne room aggressive",
     "stringId": "98507-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10482,6 +10684,7 @@
     }
   },
   "98559-rebirth.mod": {
+    "name": "camping tough guys",
     "stringId": "98559-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10525,6 +10728,7 @@
     }
   },
   "99186-rebirth.mod": {
+    "name": "campaign protect player base",
     "stringId": "99186-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10573,6 +10777,7 @@
     }
   },
   "1531888-rebirth.mod": {
+    "name": "Guard building 24hr service law",
     "stringId": "1531888-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10665,6 +10870,7 @@
     }
   },
   "1531899-rebirth.mod": {
+    "name": "Escaping slave- work together BASE",
     "stringId": "1531899-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10698,6 +10904,7 @@
     }
   },
   "1531903-rebirth.mod": {
+    "name": "Cannibals at home- skinbandits hidden",
     "stringId": "1531903-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10766,6 +10973,7 @@
     }
   },
   "1532480-rebirth.mod": {
+    "name": "Assault Town and loot food",
     "stringId": "1532480-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10809,6 +11017,7 @@
     }
   },
   "1532522-rebirth.mod": {
+    "name": "fish resident lab",
     "stringId": "1532522-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10889,6 +11098,7 @@
     }
   },
   "1532817-rebirth.mod": {
+    "name": "robot building guards w/turrets",
     "stringId": "1532817-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10917,6 +11127,7 @@
     }
   },
   "1532830-rebirth.mod": {
+    "name": "Gate guard  -turrets -arrests",
     "stringId": "1532830-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10952,6 +11163,7 @@
     }
   },
   "1533839-rebirth.mod": {
+    "name": "undertakers",
     "stringId": "1533839-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -10992,6 +11204,7 @@
     }
   },
   "1533841-rebirth.mod": {
+    "name": "Cage Warden copy",
     "stringId": "1533841-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11154,6 +11367,7 @@
     }
   },
   "1533875-rebirth.mod": {
+    "name": "throne room / king 24hr nosleep ambush",
     "stringId": "1533875-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11221,6 +11435,7 @@
     }
   },
   "1533939-rebirth.mod": {
+    "name": "Guard building 24hr service w/patrol",
     "stringId": "1533939-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11303,6 +11518,7 @@
     }
   },
   "1533941-rebirth.mod": {
+    "name": "guard building 24hr aggressive",
     "stringId": "1533941-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11328,6 +11544,7 @@
     }
   },
   "1534423-rebirth.mod": {
+    "name": "Patrol map (short range) antislave",
     "stringId": "1534423-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11410,6 +11627,7 @@
     }
   },
   "1535035-rebirth.mod": {
+    "name": "throne room / king reavers",
     "stringId": "1535035-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11487,6 +11705,7 @@
     }
   },
   "1535069-rebirth.mod": {
+    "name": "AI_PACKAGE",
     "stringId": "1535069-rebirth.mod",
     "type": "AiPackage",
     "values": {
@@ -11497,6 +11716,7 @@
     "references": {}
   },
   "1535071-rebirth.mod": {
+    "name": "Gate guard stay in town -no turrets",
     "stringId": "1535071-rebirth.mod",
     "type": "AiPackage",
     "values": {

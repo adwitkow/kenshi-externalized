@@ -1,5 +1,6 @@
 {
   "2609-gamedata.base": {
+    "name": "Cannibal home guards",
     "stringId": "2609-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -99,6 +100,7 @@
     }
   },
   "1692-gamedata.base": {
+    "name": "Raiders Assault",
     "stringId": "1692-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -153,6 +155,7 @@
     }
   },
   "5239-gamedata.base": {
+    "name": "Slaver Workmaster",
     "stringId": "5239-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -214,6 +217,7 @@
     }
   },
   "2240-gamedata.base": {
+    "name": "shop tools UC",
     "stringId": "2240-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -294,6 +298,7 @@
     }
   },
   "1309-gamedata.base": {
+    "name": "Sand ninja cell",
     "stringId": "1309-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -369,6 +374,7 @@
     }
   },
   "5233-gamedata.base": {
+    "name": "Slaver Storage Guard",
     "stringId": "5233-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -437,6 +443,7 @@
     }
   },
   "14494-rebirth.mod": {
+    "name": "Thief Group",
     "stringId": "14494-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -529,6 +536,7 @@
     }
   },
   "5462-gamedata.base": {
+    "name": "Mercenary guild",
     "stringId": "5462-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -621,6 +629,7 @@
     }
   },
   "1300-gamedata.base": {
+    "name": "Mercenary gate guard",
     "stringId": "1300-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -694,6 +703,7 @@
     }
   },
   "2242-gamedata.base": {
+    "name": "shop tools ronin ",
     "stringId": "2242-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -762,6 +772,7 @@
     }
   },
   "2245-gamedata.base": {
+    "name": "Shop armor ronin/shek",
     "stringId": "2245-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -830,6 +841,7 @@
     }
   },
   "2239-gamedata.base": {
+    "name": "Shop weapons Ronin",
     "stringId": "2239-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -898,6 +910,7 @@
     }
   },
   "2605-gamedata.base": {
+    "name": "Cannibal raid 1",
     "stringId": "2605-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -995,6 +1008,7 @@
     }
   },
   "4021-gamedata.base": {
+    "name": "Wolf Pack Den",
     "stringId": "4021-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1063,6 +1077,7 @@
     }
   },
   "4012-gamedata.base": {
+    "name": "Beak Squad Small",
     "stringId": "4012-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1124,6 +1139,7 @@
     }
   },
   "16865-gamedata.base": {
+    "name": "Blood bandits nest",
     "stringId": "16865-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1197,6 +1213,7 @@
     }
   },
   "1192-gamedata.base": {
+    "name": "Shop clothes",
     "stringId": "1192-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1270,6 +1287,7 @@
     }
   },
   "1302-gamedata.base": {
+    "name": "Dust Bandit squad",
     "stringId": "1302-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1367,6 +1385,7 @@
     }
   },
   "1307-gamedata.base": {
+    "name": "Starving bandit mob",
     "stringId": "1307-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1442,6 +1461,7 @@
     }
   },
   "5285-gamedata.base": {
+    "name": "Work Camp slave Trader",
     "stringId": "5285-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1534,6 +1554,7 @@
     }
   },
   "1193-gamedata.base": {
+    "name": "Shop bar old",
     "stringId": "1193-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1614,6 +1635,7 @@
     }
   },
   "1176-gamedata.base": {
+    "name": "Mercenary Police Small",
     "stringId": "1176-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1682,6 +1704,7 @@
     }
   },
   "1406-gamedata.base": {
+    "name": "Holy Army Patrol",
     "stringId": "1406-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1757,6 +1780,7 @@
     }
   },
   "2578-gamedata.base": {
+    "name": "Starving bandit assault",
     "stringId": "2578-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1832,6 +1856,7 @@
     }
   },
   "1228-gamedata.base": {
+    "name": "Mercenary guard 5",
     "stringId": "1228-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1905,6 +1930,7 @@
     }
   },
   "4006-gamedata.base": {
+    "name": "Goat Herder",
     "stringId": "4006-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -1980,6 +2006,7 @@
     }
   },
   "1173-gamedata.base": {
+    "name": "Police small",
     "stringId": "1173-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2048,6 +2075,7 @@
     }
   },
   "1195-gamedata.base": {
+    "name": "Shop recruit",
     "stringId": "1195-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2103,6 +2131,7 @@
     }
   },
   "5337-gamedata.base": {
+    "name": "Bounty hunters wandering between towns",
     "stringId": "5337-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2190,6 +2219,7 @@
     }
   },
   "5217-gamedata.base": {
+    "name": "Work Camp Gate Guard",
     "stringId": "5217-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2297,6 +2327,7 @@
     }
   },
   "2726-gamedata.base": {
+    "name": "1TestSwawn",
     "stringId": "2726-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2354,6 +2385,7 @@
     }
   },
   "42265-gamedata.base": {
+    "name": "UC town racists",
     "stringId": "42265-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2436,6 +2468,7 @@
     }
   },
   "45550-gamedata.base": {
+    "name": "startoff- Wanderer squad",
     "stringId": "45550-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2483,6 +2516,7 @@
     }
   },
   "3950-gamedata.base": {
+    "name": "Drifter squad",
     "stringId": "3950-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2563,6 +2597,7 @@
     }
   },
   "1130-gamedata.base": {
+    "name": "Bandit raid small",
     "stringId": "1130-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2639,6 +2674,7 @@
     }
   },
   "16856-gamedata.base": {
+    "name": "Cannibal Hunter Squad nest",
     "stringId": "16856-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2714,6 +2750,7 @@
     }
   },
   "4014-gamedata.base": {
+    "name": "Turtle Squad",
     "stringId": "4014-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2761,6 +2798,7 @@
     }
   },
   "5338-gamedata.base": {
+    "name": "slaves 3-7",
     "stringId": "5338-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2854,6 +2892,7 @@
     }
   },
   "16864-gamedata.base": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "16864-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2893,6 +2932,7 @@
     "references": {}
   },
   "1194-gamedata.base": {
+    "name": "Shop 27 travelboothats UC",
     "stringId": "1194-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -2964,6 +3004,7 @@
     }
   },
   "1308-gamedata.base": {
+    "name": "Starving bandit big mob",
     "stringId": "1308-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3049,6 +3090,7 @@
     }
   },
   "1196-gamedata.base": {
+    "name": "Empire Gate guard",
     "stringId": "1196-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3158,6 +3200,7 @@
     }
   },
   "1691-gamedata.base": {
+    "name": "Black Dragon Assault",
     "stringId": "1691-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3212,6 +3255,7 @@
     }
   },
   "2852-gamedata.base": {
+    "name": "Starving bandit giant mob",
     "stringId": "2852-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3309,6 +3353,7 @@
     }
   },
   "4010-gamedata.base": {
+    "name": "Leviathan Loner",
     "stringId": "4010-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3377,6 +3422,7 @@
     }
   },
   "5006-squad.mod": {
+    "name": "Wandering Squad",
     "stringId": "5006-squad.mod",
     "type": "SquadTemplate",
     "values": {
@@ -3429,6 +3475,7 @@
     }
   },
   "5220-gamedata.base": {
+    "name": "Slaver Cage Warden",
     "stringId": "5220-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3518,6 +3565,7 @@
     }
   },
   "1407-gamedata.base": {
+    "name": "Holy Guards",
     "stringId": "1407-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3615,6 +3663,7 @@
     }
   },
   "1352-gamedata.base": {
+    "name": "trailer",
     "stringId": "1352-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3694,6 +3743,7 @@
     }
   },
   "1218-gamedata.base": {
+    "name": "Temple Inquisitor",
     "stringId": "1218-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3748,6 +3798,7 @@
     }
   },
   "2252-gamedata.base": {
+    "name": "shop hats UC",
     "stringId": "2252-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3816,6 +3867,7 @@
     }
   },
   "1217-gamedata.base": {
+    "name": "Temple Gate Guards",
     "stringId": "1217-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3882,6 +3934,7 @@
     }
   },
   "4009-gamedata.base": {
+    "name": "Wolf Pack nocturnal",
     "stringId": "4009-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -3943,6 +3996,7 @@
     }
   },
   "4033-gamedata.base": {
+    "name": "Beak Squad -Nest",
     "stringId": "4033-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4004,6 +4058,7 @@
     }
   },
   "GENERATION_TEMPLATE_SQUAD": {
+    "name": "generation template",
     "stringId": "GENERATION_TEMPLATE_SQUAD",
     "type": "SquadTemplate",
     "values": {
@@ -4051,6 +4106,7 @@
     }
   },
   "3393-gamedata.base": {
+    "name": "Work Camp Security Guard",
     "stringId": "3393-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4148,6 +4204,7 @@
     }
   },
   "4005-gamedata.base": {
+    "name": "Bulls",
     "stringId": "4005-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4216,6 +4273,7 @@
     }
   },
   "1161-gamedata.base": {
+    "name": "Caravan",
     "stringId": "1161-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4324,6 +4382,7 @@
     }
   },
   "3330-gamedata.base": {
+    "name": "Lost Wanderer",
     "stringId": "3330-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4390,6 +4449,7 @@
     }
   },
   "2409-gamedata.base": {
+    "name": "UC tax enforcement 1",
     "stringId": "2409-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4444,6 +4504,7 @@
     }
   },
   "1825-gamedata.base": {
+    "name": "Shop trade adv 27",
     "stringId": "1825-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4519,6 +4580,7 @@
     }
   },
   "1177-gamedata.base": {
+    "name": "Shop armor UC",
     "stringId": "1177-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4587,6 +4649,7 @@
     }
   },
   "1293-gamedata.base": {
+    "name": "Medic squad",
     "stringId": "1293-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4641,6 +4704,7 @@
     }
   },
   "2671-gamedata.base": {
+    "name": "Mercenary patrol",
     "stringId": "2671-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4714,6 +4778,7 @@
     }
   },
   "2241-gamedata.base": {
+    "name": "shop tools holy",
     "stringId": "2241-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4780,6 +4845,7 @@
     }
   },
   "2486-gamedata.base": {
+    "name": "Dust bandit raiders 01",
     "stringId": "2486-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4856,6 +4922,7 @@
     }
   },
   "14540-gamedata.base": {
+    "name": "UC military outpost",
     "stringId": "14540-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4924,6 +4991,7 @@
     }
   },
   "2854-gamedata.base": {
+    "name": "farmer chief",
     "stringId": "2854-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -4985,6 +5053,7 @@
     }
   },
   "1668-gamedata.base": {
+    "name": "Black Dragon Diplomat",
     "stringId": "1668-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5039,6 +5108,7 @@
     }
   },
   "1371-gamedata.base": {
+    "name": "Recruits list",
     "stringId": "1371-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5145,6 +5215,7 @@
     }
   },
   "2253-gamedata.base": {
+    "name": "shop hats holy",
     "stringId": "2253-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5225,6 +5296,7 @@
     }
   },
   "1412-gamedata.base": {
+    "name": "Inquisitor roam (valtena alive)",
     "stringId": "1412-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5314,6 +5386,7 @@
     }
   },
   "1824-gamedata.base": {
+    "name": "shop travel/boots",
     "stringId": "1824-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5387,6 +5460,7 @@
     }
   },
   "1212-gamedata.base": {
+    "name": "Militia",
     "stringId": "1212-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5441,6 +5515,7 @@
     }
   },
   "2850-gamedata.base": {
+    "name": "Bandit mob-copy",
     "stringId": "2850-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5503,6 +5578,7 @@
     }
   },
   "1216-gamedata.base": {
+    "name": "Temple Army",
     "stringId": "1216-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5562,6 +5638,7 @@
     }
   },
   "2254-gamedata.base": {
+    "name": "shop hats ronin",
     "stringId": "2254-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5630,6 +5707,7 @@
     }
   },
   "4013-gamedata.base": {
+    "name": "Whale squad",
     "stringId": "4013-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5684,6 +5762,7 @@
     }
   },
   "1126-gamedata.base": {
+    "name": "Empire Guard",
     "stringId": "1126-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5778,6 +5857,7 @@
     }
   },
   "3939-gamedata.base": {
+    "name": "beak squad",
     "stringId": "3939-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5872,6 +5952,7 @@
     }
   },
   "1208-gamedata.base": {
+    "name": "Miners",
     "stringId": "1208-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -5919,6 +6000,7 @@
     }
   },
   "1172-gamedata.base": {
+    "name": "Mercenary Police",
     "stringId": "1172-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6004,6 +6086,7 @@
     }
   },
   "14487-rebirth.mod": {
+    "name": "Bar",
     "stringId": "14487-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -6084,6 +6167,7 @@
     }
   },
   "2302-gamedata.base": {
+    "name": "test spawn",
     "stringId": "2302-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6123,6 +6207,7 @@
     "references": {}
   },
   "5502-gamedata.base": {
+    "name": "Slaver Shop",
     "stringId": "5502-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6212,6 +6297,7 @@
     }
   },
   "1974-gamedata.base": {
+    "name": "Generators",
     "stringId": "1974-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6271,6 +6357,7 @@
     }
   },
   "1790-gamedata.base": {
+    "name": "Flophouse",
     "stringId": "1790-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6346,6 +6433,7 @@
     }
   },
   "2827-gamedata.base": {
+    "name": "Mercenary patrol-U",
     "stringId": "2827-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6412,6 +6500,7 @@
     }
   },
   "1197-gamedata.base": {
+    "name": "Outpost crew",
     "stringId": "1197-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6494,6 +6583,7 @@
     }
   },
   "2206-gamedata.base": {
+    "name": "Drifter solo",
     "stringId": "2206-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6567,6 +6657,7 @@
     }
   },
   "2511-gamedata.base": {
+    "name": "Dust bandit 1st contact",
     "stringId": "2511-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6640,6 +6731,7 @@
     }
   },
   "1312-gamedata.base": {
+    "name": "Sand Ninja Jounin",
     "stringId": "1312-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6708,6 +6800,7 @@
     }
   },
   "1125-gamedata.base": {
+    "name": "Civilian family",
     "stringId": "1125-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6762,6 +6855,7 @@
     }
   },
   "1127-gamedata.base": {
+    "name": "Empire army",
     "stringId": "1127-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6861,6 +6955,7 @@
     }
   },
   "2238-gamedata.base": {
+    "name": "Shop weapons Holy",
     "stringId": "2238-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -6934,6 +7029,7 @@
     }
   },
   "1175-gamedata.base": {
+    "name": "Shop Weapons UC small",
     "stringId": "1175-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7009,6 +7105,7 @@
     }
   },
   "1215-gamedata.base": {
+    "name": "Temple Guard",
     "stringId": "1215-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7075,6 +7172,7 @@
     }
   },
   "2246-gamedata.base": {
+    "name": "Shop armor holy old",
     "stringId": "2246-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7155,6 +7253,7 @@
     }
   },
   "1190-gamedata.base": {
+    "name": "Shop armour/clothes UC",
     "stringId": "1190-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7240,6 +7339,7 @@
     }
   },
   "14867-Dialogue.mod": {
+    "name": "Shek Warrior",
     "stringId": "14867-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -7294,6 +7394,7 @@
     }
   },
   "1122-gamedata.base": {
+    "name": "Civilian solo",
     "stringId": "1122-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7348,6 +7449,7 @@
     }
   },
   "1174-gamedata.base": {
+    "name": "Shop trade adv",
     "stringId": "1174-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7416,6 +7518,7 @@
     }
   },
   "16844-gamedata.base": {
+    "name": "Bandit Raiders",
     "stringId": "16844-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7509,6 +7612,7 @@
     }
   },
   "1523-gamedata.base": {
+    "name": "Raiders diplomat",
     "stringId": "1523-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7563,6 +7667,7 @@
     }
   },
   "blank squad": {
+    "name": "blank squad",
     "stringId": "blank squad",
     "type": "SquadTemplate",
     "values": {
@@ -7602,6 +7707,7 @@
     "references": {}
   },
   "18919-gamedata.base": {
+    "name": "slave hunters------",
     "stringId": "18919-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7689,6 +7795,7 @@
     }
   },
   "1120-gamedata.base": {
+    "name": "Police Station Tower",
     "stringId": "1120-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7778,6 +7885,7 @@
     }
   },
   "1211-gamedata.base": {
+    "name": "Militia guard",
     "stringId": "1211-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7839,6 +7947,7 @@
     }
   },
   "3387-gamedata.base": {
+    "name": "Slaver caravan",
     "stringId": "3387-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -7936,6 +8045,7 @@
     }
   },
   "1207-gamedata.base": {
+    "name": "Farmer family",
     "stringId": "1207-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -8009,6 +8119,7 @@
     }
   },
   "2364-gamedata.base": {
+    "name": "UC taxman",
     "stringId": "2364-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -8063,6 +8174,7 @@
     }
   },
   "3372-gamedata.base": {
+    "name": "Asshole squad",
     "stringId": "3372-gamedata.base",
     "type": "SquadTemplate",
     "values": {
@@ -8138,6 +8250,7 @@
     }
   },
   "45552-Newwworld.mod": {
+    "name": "!Experienced Man!",
     "stringId": "45552-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8185,6 +8298,7 @@
     }
   },
   "51011-Newwworld.mod": {
+    "name": "Crow Face",
     "stringId": "51011-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8232,6 +8346,7 @@
     }
   },
   "55395-Newwworld.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "55395-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8271,6 +8386,7 @@
     "references": {}
   },
   "55637-Newwworld.mod": {
+    "name": "Fish Squad!",
     "stringId": "55637-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8335,6 +8451,7 @@
     }
   },
   "56091-Newwworld.mod": {
+    "name": "Crab",
     "stringId": "56091-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8398,6 +8515,7 @@
     }
   },
   "56113-Newwworld.mod": {
+    "name": "Big-Bones",
     "stringId": "56113-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8461,6 +8579,7 @@
     }
   },
   "57777-Newwworld.mod": {
+    "name": "Skeleton Variant01",
     "stringId": "57777-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8525,6 +8644,7 @@
     }
   },
   "57780-Newwworld.mod": {
+    "name": "Skeleton Variant02",
     "stringId": "57780-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8589,6 +8709,7 @@
     }
   },
   "57785-Newwworld.mod": {
+    "name": "Skeleton Variant03",
     "stringId": "57785-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8653,6 +8774,7 @@
     }
   },
   "65261-Newwworld.mod": {
+    "name": "Crimper",
     "stringId": "65261-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8714,6 +8836,7 @@
     }
   },
   "65267-Newwworld.mod": {
+    "name": "Skeleton_MarkII",
     "stringId": "65267-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8771,6 +8894,7 @@
     }
   },
   "66531-Newwworld.mod": {
+    "name": "Skeleton_MarkII Log Head",
     "stringId": "66531-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8828,6 +8952,7 @@
     }
   },
   "96802-Newwworld.mod": {
+    "name": "Flayed Man",
     "stringId": "96802-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8894,6 +9019,7 @@
     }
   },
   "96903-Newwworld.mod": {
+    "name": "Flayed Woman",
     "stringId": "96903-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -8941,6 +9067,7 @@
     }
   },
   "97571-Newwworld.mod": {
+    "name": "Land Bat squad",
     "stringId": "97571-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9002,6 +9129,7 @@
     }
   },
   "1533506-Newwworld.mod": {
+    "name": "Skeleton MkII Screamer",
     "stringId": "1533506-Newwworld.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9059,6 +9187,7 @@
     }
   },
   "9477-Dialogue.mod": {
+    "name": "Empire Guard Gate old",
     "stringId": "9477-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9149,6 +9278,7 @@
     }
   },
   "5340-Dialogue.mod": {
+    "name": "Ani",
     "stringId": "5340-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9213,6 +9343,7 @@
     }
   },
   "11676-Dialogue (10).mod": {
+    "name": "Shek Dueler",
     "stringId": "11676-Dialogue (10).mod",
     "type": "SquadTemplate",
     "values": {
@@ -9277,6 +9408,7 @@
     }
   },
   "48717-Dialogue.mod": {
+    "name": "Swamper Twinblade",
     "stringId": "48717-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9367,6 +9499,7 @@
     }
   },
   "20031-Dialogue.mod": {
+    "name": "Recruits list Dead Cat",
     "stringId": "20031-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9479,6 +9612,7 @@
     }
   },
   "46963-Dialogue.mod": {
+    "name": "Trang strong",
     "stringId": "46963-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9518,6 +9652,7 @@
     "references": {}
   },
   "43355-Dialogue.mod": {
+    "name": "Shop bar holy",
     "stringId": "43355-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9616,6 +9751,7 @@
     }
   },
   "16843-Recruits Dialogue.mod": {
+    "name": "test",
     "stringId": "16843-Recruits Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9693,6 +9829,7 @@
     }
   },
   "43352-Dialogue.mod": {
+    "name": "Holy Civilian family",
     "stringId": "43352-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9743,6 +9880,7 @@
     }
   },
   "13749-Escapes.mod": {
+    "name": "Town thug",
     "stringId": "13749-Escapes.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9800,6 +9938,7 @@
     }
   },
   "7996-Dialogue.mod": {
+    "name": "Bo",
     "stringId": "7996-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -9871,6 +10010,7 @@
     }
   },
   "13242-Escapes.mod": {
+    "name": "Recruits list Empire",
     "stringId": "13242-Escapes.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10037,6 +10177,7 @@
     }
   },
   "43619-Dialogue.mod": {
+    "name": "Empire Noble Kana",
     "stringId": "43619-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10093,6 +10234,7 @@
     }
   },
   "47367-Dialogue.mod": {
+    "name": "Mongrel pair",
     "stringId": "47367-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10154,6 +10296,7 @@
     }
   },
   "42222-Dialogue.mod": {
+    "name": "Recruits list Holy Nation 3",
     "stringId": "42222-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10258,6 +10401,7 @@
     }
   },
   "8908-Dialogue.mod": {
+    "name": "Holy Nation slave escapees",
     "stringId": "8908-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10329,6 +10473,7 @@
     }
   },
   "16913-Dialogue.mod": {
+    "name": "Test",
     "stringId": "16913-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10427,6 +10572,7 @@
     }
   },
   "43569-Dialogue.mod": {
+    "name": "Test player",
     "stringId": "43569-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10475,6 +10621,7 @@
     }
   },
   "43350-Dialogue.mod": {
+    "name": "Civilian solo holy",
     "stringId": "43350-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10554,6 +10701,7 @@
     }
   },
   "43400-Dialogue.mod": {
+    "name": "Shop clothes holy",
     "stringId": "43400-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10630,6 +10778,7 @@
     }
   },
   "45676-Dialogue.mod": {
+    "name": "Recruits list outlaw town generic",
     "stringId": "45676-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10754,6 +10903,7 @@
     }
   },
   "19641-Dialogue.mod": {
+    "name": "Recruits list Holy Nation",
     "stringId": "19641-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10848,6 +10998,7 @@
     }
   },
   "48712-Dialogue.mod": {
+    "name": "Swamper Grayflayer",
     "stringId": "48712-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10921,6 +11072,7 @@
     }
   },
   "50563-Dialogue.mod": {
+    "name": "Recruits list worlds end",
     "stringId": "50563-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -10997,6 +11149,7 @@
     }
   },
   "49779-Dialogue.mod": {
+    "name": "Swamper bar thug",
     "stringId": "49779-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11058,6 +11211,7 @@
     }
   },
   "47188-Dialogue.mod": {
+    "name": "Hiver Merchant caravan",
     "stringId": "47188-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11177,6 +11331,7 @@
     }
   },
   "42224-Dialogue.mod": {
+    "name": "Recruits list Holy Nation 5",
     "stringId": "42224-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11281,6 +11436,7 @@
     }
   },
   "1534016-Dialogue.mod": {
+    "name": "Shop bar black desert",
     "stringId": "1534016-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11342,6 +11498,7 @@
     }
   },
   "18403-Dialogue.mod": {
+    "name": "Bounty Hunter Solo Shek",
     "stringId": "18403-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11413,6 +11570,7 @@
     }
   },
   "15254-Dialogue.mod": {
+    "name": "Recruits list Swamper",
     "stringId": "15254-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11552,6 +11710,7 @@
     }
   },
   "8235-Dialogue.mod": {
+    "name": "Pickles",
     "stringId": "8235-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11616,6 +11775,7 @@
     }
   },
   "16299-Dialogue.mod": {
+    "name": "Outlaw resident solo",
     "stringId": "16299-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11673,6 +11833,7 @@
     }
   },
   "10529-Dialogue (10).mod": {
+    "name": "Bored civ",
     "stringId": "10529-Dialogue (10).mod",
     "type": "SquadTemplate",
     "values": {
@@ -11723,6 +11884,7 @@
     }
   },
   "55931-Dialogue.mod": {
+    "name": "Harmothoe",
     "stringId": "55931-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11813,6 +11975,7 @@
     }
   },
   "13241-Escapes.mod": {
+    "name": "Shop bar Empire",
     "stringId": "13241-Escapes.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11901,6 +12064,7 @@
     }
   },
   "48714-Dialogue.mod": {
+    "name": "Swamper Blackshifter",
     "stringId": "48714-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -11983,6 +12147,7 @@
     }
   },
   "17087-Dialogue.mod": {
+    "name": "Holy Priest church",
     "stringId": "17087-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12096,6 +12261,7 @@
     }
   },
   "50266-Dialogue.mod": {
+    "name": "Recruits list Flotsam",
     "stringId": "50266-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12171,6 +12337,7 @@
     }
   },
   "46966-Dialogue.mod": {
+    "name": "Trang super",
     "stringId": "46966-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12210,6 +12377,7 @@
     "references": {}
   },
   "46960-Dialogue.mod": {
+    "name": "Trang starving",
     "stringId": "46960-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12249,6 +12417,7 @@
     "references": {}
   },
   "49314-Dialogue.mod": {
+    "name": "Swamper resident solo skeleton",
     "stringId": "49314-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12313,6 +12482,7 @@
     }
   },
   "43353-Dialogue.mod": {
+    "name": "shop travel/boots holy",
     "stringId": "43353-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12399,6 +12569,7 @@
     }
   },
   "48670-Dialogue.mod": {
+    "name": "Swamper Hounds-----",
     "stringId": "48670-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12472,6 +12643,7 @@
     }
   },
   "47235-Dialogue.mod": {
+    "name": "Hiver Merchant caravan --Not in use--",
     "stringId": "47235-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12562,6 +12734,7 @@
     }
   },
   "18475-Dialogue.mod": {
+    "name": "Bounty hunters low",
     "stringId": "18475-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12633,6 +12806,7 @@
     }
   },
   "42223-Dialogue.mod": {
+    "name": "Recruits list Holy Nation 4",
     "stringId": "42223-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12742,6 +12916,7 @@
     }
   },
   "9190-Dialogue.mod": {
+    "name": "Escaped Drifter",
     "stringId": "9190-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12799,6 +12974,7 @@
     }
   },
   "50884-Dialogue.mod": {
+    "name": "Worlds end bar patrons",
     "stringId": "50884-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12870,6 +13046,7 @@
     }
   },
   "16369-Dialogue.mod": {
+    "name": "Shek Scout squad",
     "stringId": "16369-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -12941,6 +13118,7 @@
     }
   },
   "10522-Dialogue (10).mod": {
+    "name": "Territorial Thug",
     "stringId": "10522-Dialogue (10).mod",
     "type": "SquadTemplate",
     "values": {
@@ -13005,6 +13183,7 @@
     }
   },
   "16239-Dialogue.mod": {
+    "name": "Outlaw Resident Family",
     "stringId": "16239-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13062,6 +13241,7 @@
     }
   },
   "44338-Dialogue.mod": {
+    "name": "bounty test",
     "stringId": "44338-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13110,6 +13290,7 @@
     }
   },
   "42221-Dialogue.mod": {
+    "name": "Recruits list Holy Nation 2",
     "stringId": "42221-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13214,6 +13395,7 @@
     }
   },
   "45494-Dialogue.mod": {
+    "name": "Dust King Prisoner",
     "stringId": "45494-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13269,6 +13451,7 @@
     }
   },
   "8354-Dialogue.mod": {
+    "name": "Caravan Raided",
     "stringId": "8354-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13333,6 +13516,7 @@
     }
   },
   "49312-Dialogue.mod": {
+    "name": "Swamper resident solo",
     "stringId": "49312-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13404,6 +13588,7 @@
     }
   },
   "19502-Dialogue.mod": {
+    "name": "Recruits list Shek Kingdom",
     "stringId": "19502-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13493,6 +13678,7 @@
     }
   },
   "11627-Dialogue (10).mod": {
+    "name": "Shek Town Guard",
     "stringId": "11627-Dialogue (10).mod",
     "type": "SquadTemplate",
     "values": {
@@ -13578,6 +13764,7 @@
     }
   },
   "46964-Dialogue.mod": {
+    "name": "Trang normal",
     "stringId": "46964-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13617,6 +13804,7 @@
     "references": {}
   },
   "43483-Dialogue.mod": {
+    "name": "Holy nation robot",
     "stringId": "43483-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13686,6 +13874,7 @@
     }
   },
   "8305-Dialogue.mod": {
+    "name": "Town Thief",
     "stringId": "8305-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13743,6 +13932,7 @@
     }
   },
   "17223-Dialogue.mod": {
+    "name": "Holy Lord Phoenix",
     "stringId": "17223-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13867,6 +14057,7 @@
     }
   },
   "17233-Dialogue.mod": {
+    "name": "Picky",
     "stringId": "17233-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -13917,6 +14108,7 @@
     }
   },
   "10322-Dialogue (7).mod": {
+    "name": "Farmer Camp Suspicious",
     "stringId": "10322-Dialogue (7).mod",
     "type": "SquadTemplate",
     "values": {
@@ -14000,6 +14192,7 @@
     }
   },
   "10778-Dialogue (10).mod": {
+    "name": "Empire Bounty hunters",
     "stringId": "10778-Dialogue (10).mod",
     "type": "SquadTemplate",
     "values": {
@@ -14095,6 +14288,7 @@
     }
   },
   "48713-Dialogue.mod": {
+    "name": "Swamper Stone Rat",
     "stringId": "48713-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14161,6 +14355,7 @@
     }
   },
   "51744-Dialogue.mod": {
+    "name": "Empire Noble Sanda",
     "stringId": "51744-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14235,6 +14430,7 @@
     }
   },
   "51745-Dialogue.mod": {
+    "name": "Empire Noble Tsugi",
     "stringId": "51745-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14304,6 +14500,7 @@
     }
   },
   "51747-Dialogue.mod": {
+    "name": "Empire Noble Ohta",
     "stringId": "51747-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14373,6 +14570,7 @@
     }
   },
   "51748-Dialogue.mod": {
+    "name": "Empire Noble Nagata",
     "stringId": "51748-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14449,6 +14647,7 @@
     }
   },
   "51749-Dialogue.mod": {
+    "name": "Empire Noble Yoshinaga",
     "stringId": "51749-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14518,6 +14717,7 @@
     }
   },
   "51750-Dialogue.mod": {
+    "name": "Empire Noble Inaba",
     "stringId": "51750-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14587,6 +14787,7 @@
     }
   },
   "51799-Dialogue.mod": {
+    "name": "Ray",
     "stringId": "51799-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14644,6 +14845,7 @@
     }
   },
   "51801-Dialogue.mod": {
+    "name": "Ray empire pro-slave",
     "stringId": "51801-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14715,6 +14917,7 @@
     }
   },
   "54468-Dialogue.mod": {
+    "name": "Empire slave escapees",
     "stringId": "54468-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14786,6 +14989,7 @@
     }
   },
   "55043-Dialogue.mod": {
+    "name": "Recruits list Slaver town",
     "stringId": "55043-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14897,6 +15101,7 @@
     }
   },
   "55058-Dialogue.mod": {
+    "name": "Garret",
     "stringId": "55058-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -14972,6 +15177,7 @@
     }
   },
   "55059-Dialogue.mod": {
+    "name": "Garret slave",
     "stringId": "55059-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15029,6 +15235,7 @@
     }
   },
   "55819-Dialogue.mod": {
+    "name": "Skeletons junkyard",
     "stringId": "55819-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15083,6 +15290,7 @@
     }
   },
   "56003-Dialogue.mod": {
+    "name": "Tech Hunters Ruins",
     "stringId": "56003-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15147,6 +15355,7 @@
     }
   },
   "56022-Dialogue.mod": {
+    "name": "Hamut",
     "stringId": "56022-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15208,6 +15417,7 @@
     }
   },
   "56023-Dialogue.mod": {
+    "name": "Doctor Chung",
     "stringId": "56023-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15269,6 +15479,7 @@
     }
   },
   "56024-Dialogue.mod": {
+    "name": "Silvershade",
     "stringId": "56024-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15323,6 +15534,7 @@
     }
   },
   "56025-Dialogue.mod": {
+    "name": "Stubs Momuso",
     "stringId": "56025-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15384,6 +15596,7 @@
     }
   },
   "56026-Dialogue.mod": {
+    "name": "Green",
     "stringId": "56026-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15445,6 +15658,7 @@
     }
   },
   "56027-Dialogue.mod": {
+    "name": "Miu",
     "stringId": "56027-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15506,6 +15720,7 @@
     }
   },
   "56028-Dialogue.mod": {
+    "name": "Reva",
     "stringId": "56028-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15560,6 +15775,7 @@
     }
   },
   "56029-Dialogue.mod": {
+    "name": "Digna",
     "stringId": "56029-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15614,6 +15830,7 @@
     }
   },
   "56030-Dialogue.mod": {
+    "name": "Knife",
     "stringId": "56030-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15668,6 +15885,7 @@
     }
   },
   "56031-Dialogue.mod": {
+    "name": "Pia",
     "stringId": "56031-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15722,6 +15940,7 @@
     }
   },
   "56032-Dialogue.mod": {
+    "name": "Flotsam Recruit",
     "stringId": "56032-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15776,6 +15995,7 @@
     }
   },
   "56033-Dialogue.mod": {
+    "name": "Jewel",
     "stringId": "56033-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15837,6 +16057,7 @@
     }
   },
   "56034-Dialogue.mod": {
+    "name": "Izumi",
     "stringId": "56034-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15898,6 +16119,7 @@
     }
   },
   "56035-Dialogue.mod": {
+    "name": "Griffin",
     "stringId": "56035-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -15952,6 +16174,7 @@
     }
   },
   "56036-Dialogue.mod": {
+    "name": "Bard",
     "stringId": "56036-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16013,6 +16236,7 @@
     }
   },
   "56037-Dialogue.mod": {
+    "name": "Kang",
     "stringId": "56037-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16067,6 +16291,7 @@
     }
   },
   "56038-Dialogue.mod": {
+    "name": "Ruka",
     "stringId": "56038-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16121,6 +16346,7 @@
     }
   },
   "56039-Dialogue.mod": {
+    "name": "Headshot",
     "stringId": "56039-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16182,6 +16408,7 @@
     }
   },
   "56042-Dialogue.mod": {
+    "name": "Cornelius",
     "stringId": "56042-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16250,6 +16477,7 @@
     }
   },
   "56577-Dialogue.mod": {
+    "name": "Eyegore",
     "stringId": "56577-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16338,6 +16566,7 @@
     }
   },
   "56604-Dialogue.mod": {
+    "name": "Band of bones squad",
     "stringId": "56604-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16424,6 +16653,7 @@
     }
   },
   "56642-Dialogue.mod": {
+    "name": "Black Dog Extortionists",
     "stringId": "56642-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16502,6 +16732,7 @@
     }
   },
   "58283-Dialogue.mod": {
+    "name": "United Cities Pacifier",
     "stringId": "58283-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16563,6 +16794,7 @@
     }
   },
   "58284-Dialogue.mod": {
+    "name": "Shek Kingdom Pacifier",
     "stringId": "58284-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16624,6 +16856,7 @@
     }
   },
   "58285-Dialogue.mod": {
+    "name": "Holy Nation Pacifier",
     "stringId": "58285-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16685,6 +16918,7 @@
     }
   },
   "58286-Dialogue.mod": {
+    "name": "Traders Guild Pacifier",
     "stringId": "58286-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16746,6 +16980,7 @@
     }
   },
   "58288-Dialogue.mod": {
+    "name": "Anti Slaver Pacifier",
     "stringId": "58288-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16807,6 +17042,7 @@
     }
   },
   "58289-Dialogue.mod": {
+    "name": "Flotsam Pacifier",
     "stringId": "58289-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16868,6 +17104,7 @@
     }
   },
   "58290-Dialogue.mod": {
+    "name": "Hound Pacifier",
     "stringId": "58290-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16929,6 +17166,7 @@
     }
   },
   "60941-Dialogue.mod": {
+    "name": "test 2",
     "stringId": "60941-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -16976,6 +17214,7 @@
     }
   },
   "61006-Dialogue.mod": {
+    "name": "Elite Hunter",
     "stringId": "61006-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17044,6 +17283,7 @@
     }
   },
   "97601-Dialogue.mod": {
+    "name": "Traders Guild diplomat",
     "stringId": "97601-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17112,6 +17352,7 @@
     }
   },
   "62438-Dialogue.mod": {
+    "name": "Dust King Prisoner copy",
     "stringId": "62438-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17160,6 +17401,7 @@
     }
   },
   "62553-Dialogue.mod": {
+    "name": "Lost drone",
     "stringId": "62553-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17221,6 +17463,7 @@
     }
   },
   "62658-Dialogue.mod": {
+    "name": "Traveller",
     "stringId": "62658-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17282,6 +17525,7 @@
     }
   },
   "63978-Dialogue.mod": {
+    "name": "Shek base attack",
     "stringId": "63978-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17350,6 +17594,7 @@
     }
   },
   "63981-Dialogue.mod": {
+    "name": "Shek Warrior Squad",
     "stringId": "63981-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17411,6 +17656,7 @@
     }
   },
   "64140-Dialogue.mod": {
+    "name": "Stone Rat Assault",
     "stringId": "64140-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17479,6 +17725,7 @@
     }
   },
   "64238-Dialogue.mod": {
+    "name": "Shek base attack medium",
     "stringId": "64238-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17552,6 +17799,7 @@
     }
   },
   "64394-Dialogue.mod": {
+    "name": "Anti slaver base attack strong",
     "stringId": "64394-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17613,6 +17861,7 @@
     }
   },
   "64397-Dialogue.mod": {
+    "name": "Anti slaver base attack weak",
     "stringId": "64397-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17679,6 +17928,7 @@
     }
   },
   "65063-Dialogue.mod": {
+    "name": "Slave trade Pacifier",
     "stringId": "65063-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17740,6 +17990,7 @@
     }
   },
   "65953-Dialogue.mod": {
+    "name": "Crab Man Shop",
     "stringId": "65953-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17829,6 +18080,7 @@
     }
   },
   "66516-Dialogue.mod": {
+    "name": "Swamper Stone Rat HQ",
     "stringId": "66516-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -17929,6 +18181,7 @@
     }
   },
   "66518-Dialogue.mod": {
+    "name": "hounds town home",
     "stringId": "66518-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18040,6 +18293,7 @@
     }
   },
   "66530-Dialogue.mod": {
+    "name": "hounds assault",
     "stringId": "66530-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18122,6 +18376,7 @@
     }
   },
   "95487-Dialogue.mod": {
+    "name": "Holy Assault strong",
     "stringId": "95487-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18202,6 +18457,7 @@
     }
   },
   "95867-Dialogue.mod": {
+    "name": "Shop Robotics",
     "stringId": "95867-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18270,6 +18526,7 @@
     }
   },
   "96294-Dialogue.mod": {
+    "name": "Western hive queen",
     "stringId": "96294-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18362,6 +18619,7 @@
     }
   },
   "96133-Dialogue.mod": {
+    "name": "hive soldiers campaign",
     "stringId": "96133-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18437,6 +18695,7 @@
     }
   },
   "96149-Dialogue.mod": {
+    "name": "Reaver residents (camp)",
     "stringId": "96149-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18533,6 +18792,7 @@
     }
   },
   "96152-Dialogue.mod": {
+    "name": "Reaver residents (camp) HQ",
     "stringId": "96152-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18622,6 +18882,7 @@
     }
   },
   "96158-Dialogue.mod": {
+    "name": "Reaver gate guard",
     "stringId": "96158-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18739,6 +19000,7 @@
     }
   },
   "96160-Dialogue.mod": {
+    "name": "Sand ninja HQ",
     "stringId": "96160-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18836,6 +19098,7 @@
     }
   },
   "96343-Dialogue.mod": {
+    "name": "hive workers (queen)",
     "stringId": "96343-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18918,6 +19181,7 @@
     }
   },
   "96391-Dialogue.mod": {
+    "name": "Fish boss",
     "stringId": "96391-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -18965,6 +19229,7 @@
     }
   },
   "96392-Dialogue.mod": {
+    "name": "Gurgler town squad",
     "stringId": "96392-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19060,6 +19325,7 @@
     }
   },
   "96406-Dialogue.mod": {
+    "name": "Gurgler boss squad",
     "stringId": "96406-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19162,6 +19428,7 @@
     }
   },
   "96445-Dialogue.mod": {
+    "name": "Fog raid",
     "stringId": "96445-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19233,6 +19500,7 @@
     }
   },
   "96500-Dialogue.mod": {
+    "name": "krals chosen HQ",
     "stringId": "96500-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19322,6 +19590,7 @@
     }
   },
   "96501-Dialogue.mod": {
+    "name": "krals chosen base",
     "stringId": "96501-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19404,6 +19673,7 @@
     }
   },
   "96502-Dialogue.mod": {
+    "name": "krals chosen gate guard",
     "stringId": "96502-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19472,6 +19742,7 @@
     }
   },
   "96503-Dialogue.mod": {
+    "name": "Band of bones base",
     "stringId": "96503-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19548,6 +19819,7 @@
     }
   },
   "96504-Dialogue.mod": {
+    "name": "krals chosen base2",
     "stringId": "96504-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19609,6 +19881,7 @@
     }
   },
   "96520-Dialogue.mod": {
+    "name": "Black Dog HQ",
     "stringId": "96520-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19701,6 +19974,7 @@
     }
   },
   "96562-Dialogue.mod": {
+    "name": "Gurgler town squad copy",
     "stringId": "96562-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19779,6 +20053,7 @@
     }
   },
   "97073-Dialogue.mod": {
+    "name": "Preacher HQ",
     "stringId": "97073-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19864,6 +20139,7 @@
     }
   },
   "97074-Dialogue.mod": {
+    "name": "Preacher village 1",
     "stringId": "97074-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19925,6 +20201,7 @@
     }
   },
   "97075-Dialogue.mod": {
+    "name": "Preacher village 2",
     "stringId": "97075-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -19986,6 +20263,7 @@
     }
   },
   "97079-Dialogue.mod": {
+    "name": "Preacher village Guards",
     "stringId": "97079-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20040,6 +20318,7 @@
     }
   },
   "97082-Dialogue.mod": {
+    "name": "Preacher gate guards",
     "stringId": "97082-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20116,6 +20395,7 @@
     }
   },
   "98542-Dialogue.mod": {
+    "name": "deadcat mini travel shop swamp",
     "stringId": "98542-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20204,6 +20484,7 @@
     }
   },
   "99003-Dialogue.mod": {
+    "name": "Holy Priest campaign squad",
     "stringId": "99003-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20297,6 +20578,7 @@
     }
   },
   "99119-Dialogue.mod": {
+    "name": "south hive patrol w/ gorillos",
     "stringId": "99119-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20394,6 +20676,7 @@
     }
   },
   "99121-Dialogue.mod": {
+    "name": "south hive patrol w/ King gorilla",
     "stringId": "99121-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20498,6 +20781,7 @@
     }
   },
   "99180-Dialogue.mod": {
+    "name": "Anti slaver all strong small",
     "stringId": "99180-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20559,6 +20843,7 @@
     }
   },
   "1532002-Dialogue.mod": {
+    "name": "Holy Army force assault",
     "stringId": "1532002-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20639,6 +20924,7 @@
     }
   },
   "1533560-Dialogue.mod": {
+    "name": "Slaver raid",
     "stringId": "1533560-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20731,6 +21017,7 @@
     }
   },
   "1534015-Dialogue.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "1534015-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20770,6 +21057,7 @@
     "references": {}
   },
   "1534416-Dialogue.mod": {
+    "name": "Green Finger",
     "stringId": "1534416-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20831,6 +21119,7 @@
     }
   },
   "16842-Dialogue.mod": {
+    "name": "Fark Guard Gate",
     "stringId": "16842-Dialogue.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20870,6 +21159,7 @@
     "references": {}
   },
   "49390-rebirth.mod": {
+    "name": "Holy Slave Processing",
     "stringId": "49390-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -20969,6 +21259,7 @@
     }
   },
   "50569-rebirth.mod": {
+    "name": "teds tower",
     "stringId": "50569-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21037,6 +21328,7 @@
     }
   },
   "50320-rebirth.mod": {
+    "name": "library canyon spiders",
     "stringId": "50320-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21105,6 +21397,7 @@
     }
   },
   "42202-rebirth.mod": {
+    "name": "wild pack beast family",
     "stringId": "42202-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21180,6 +21473,7 @@
     }
   },
   "44866-rebirth.mod": {
+    "name": "dust bandit HQ",
     "stringId": "44866-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21274,6 +21568,7 @@
     }
   },
   "46976-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "46976-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21328,6 +21623,7 @@
     }
   },
   "44421-rebirth.mod": {
+    "name": "_ruined empty building (DEFAULT)",
     "stringId": "44421-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21367,6 +21663,7 @@
     "references": {}
   },
   "42087-rebirth.mod": {
+    "name": "Skeleton Searcher",
     "stringId": "42087-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21428,6 +21725,7 @@
     }
   },
   "42086-rebirth.mod": {
+    "name": "Robot spiders",
     "stringId": "42086-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21489,6 +21787,7 @@
     }
   },
   "49932-rebirth.mod": {
+    "name": "lost library intact",
     "stringId": "49932-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21570,6 +21869,7 @@
     }
   },
   "18009-rebirth.mod": {
+    "name": "Black Dragon Squad",
     "stringId": "18009-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21665,6 +21965,7 @@
     }
   },
   "49373-rebirth.mod": {
+    "name": "workshop empty",
     "stringId": "49373-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21717,6 +22018,7 @@
     }
   },
   "43878-rebirth.mod": {
+    "name": "spider squad",
     "stringId": "43878-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21778,6 +22080,7 @@
     }
   },
   "40546-rebirth.mod": {
+    "name": "holy Armoury",
     "stringId": "40546-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21851,6 +22154,7 @@
     }
   },
   "50245-rebirth.mod": {
+    "name": "ghost bar",
     "stringId": "50245-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -21910,6 +22214,7 @@
     }
   },
   "50348-rebirth.mod": {
+    "name": "flotsam military armoury",
     "stringId": "50348-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22003,6 +22308,7 @@
     }
   },
   "40549-rebirth.mod": {
+    "name": "holy hospital",
     "stringId": "40549-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22078,6 +22384,7 @@
     }
   },
   "48701-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "48701-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22117,6 +22424,7 @@
     "references": {}
   },
   "40554-rebirth.mod": {
+    "name": "Holy Farm Cage Guards",
     "stringId": "40554-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22206,6 +22514,7 @@
     }
   },
   "46039-rebirth.mod": {
+    "name": "start- rock bottom",
     "stringId": "46039-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22253,6 +22562,7 @@
     }
   },
   "43327-rebirth.mod": {
+    "name": "river ducks small mob",
     "stringId": "43327-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22314,6 +22624,7 @@
     }
   },
   "42029-rebirth.mod": {
+    "name": "Fog prince squad",
     "stringId": "42029-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22389,6 +22700,7 @@
     }
   },
   "42089-rebirth.mod": {
+    "name": "Skeleton Killer",
     "stringId": "42089-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22450,6 +22762,7 @@
     }
   },
   "44912-rebirth.mod": {
+    "name": "swamp ducks small mob",
     "stringId": "44912-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22511,6 +22824,7 @@
     }
   },
   "50356-rebirth.mod": {
+    "name": "battery station",
     "stringId": "50356-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22550,6 +22864,7 @@
     "references": {}
   },
   "49378-rebirth.mod": {
+    "name": "Flotsam safehouse",
     "stringId": "49378-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22626,6 +22941,7 @@
     }
   },
   "50527-rebirth.mod": {
+    "name": "broken gates",
     "stringId": "50527-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22693,6 +23009,7 @@
     }
   },
   "49391-rebirth.mod": {
+    "name": "Rebirth Cage Guards",
     "stringId": "49391-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22782,6 +23099,7 @@
     }
   },
   "42068-rebirth.mod": {
+    "name": "Mongrel HQ",
     "stringId": "42068-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22893,6 +23211,7 @@
     }
   },
   "42065-rebirth.mod": {
+    "name": "Ninja Gang",
     "stringId": "42065-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -22971,6 +23290,7 @@
     }
   },
   "43930-rebirth.mod": {
+    "name": "farm village residential",
     "stringId": "43930-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23032,6 +23352,7 @@
     }
   },
   "50339-rebirth.mod": {
+    "name": "deadcat fish shop",
     "stringId": "50339-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23107,6 +23428,7 @@
     }
   },
   "49357-rebirth.mod": {
+    "name": "lost library ruined",
     "stringId": "49357-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23178,6 +23500,7 @@
     }
   },
   "42055-rebirth.mod": {
+    "name": "Shinobi Gate Guards",
     "stringId": "42055-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23285,6 +23608,7 @@
     }
   },
   "18892-rebirth.mod": {
+    "name": "Lone Wolf",
     "stringId": "18892-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23346,6 +23670,7 @@
     }
   },
   "1531882-rebirth.mod": {
+    "name": "hive diaspora lost",
     "stringId": "1531882-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23421,6 +23746,7 @@
     }
   },
   "41588-rebirth.mod": {
+    "name": "Fog hive roaming squad",
     "stringId": "41588-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23494,6 +23820,7 @@
     }
   },
   "42040-rebirth.mod": {
+    "name": "Fog hive nest",
     "stringId": "42040-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23562,6 +23889,7 @@
     }
   },
   "42067-rebirth.mod": {
+    "name": "Civilian mongrel solo",
     "stringId": "42067-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23643,6 +23971,7 @@
     }
   },
   "48705-rebirth.mod": {
+    "name": "floodland destroyed tower",
     "stringId": "48705-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23690,6 +24019,7 @@
     }
   },
   "42258-rebirth.mod": {
+    "name": "Berserker squad",
     "stringId": "42258-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23772,6 +24102,7 @@
     }
   },
   "43928-rebirth.mod": {
+    "name": "farm village barracks",
     "stringId": "43928-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23833,6 +24164,7 @@
     }
   },
   "50521-rebirth.mod": {
+    "name": "Cannibal grand wizard",
     "stringId": "50521-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23937,6 +24269,7 @@
     }
   },
   "18883-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "18883-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -23976,6 +24309,7 @@
     "references": {}
   },
   "42199-rebirth.mod": {
+    "name": "hive trader",
     "stringId": "42199-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24070,6 +24404,7 @@
     }
   },
   "14488-rebirth.mod": {
+    "name": "Bakery",
     "stringId": "14488-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24138,6 +24473,7 @@
     }
   },
   "49395-rebirth.mod": {
+    "name": "rebirth garrison",
     "stringId": "49395-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24220,6 +24556,7 @@
     }
   },
   "42193-rebirth.mod": {
+    "name": "hive workers",
     "stringId": "42193-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24302,6 +24639,7 @@
     }
   },
   "43902-rebirth.mod": {
+    "name": "gorillos",
     "stringId": "43902-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24363,6 +24701,7 @@
     }
   },
   "49577-arg.mod": {
+    "name": "flotsam refuge",
     "stringId": "49577-arg.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24453,6 +24792,7 @@
     }
   },
   "44899-rebirth.mod": {
+    "name": "Fog hive ruins",
     "stringId": "44899-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24528,6 +24868,7 @@
     }
   },
   "44869-rebirth.mod": {
+    "name": "Dust Tower Guards",
     "stringId": "44869-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24608,6 +24949,7 @@
     }
   },
   "40550-rebirth.mod": {
+    "name": "holy General storage",
     "stringId": "40550-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24683,6 +25025,7 @@
     }
   },
   "43891-rebirth.mod": {
+    "name": "cage",
     "stringId": "43891-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24730,6 +25073,7 @@
     }
   },
   "49576-arg.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "49576-arg.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24769,6 +25113,7 @@
     "references": {}
   },
   "40555-rebirth.mod": {
+    "name": "Holy Mines Boss",
     "stringId": "40555-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24861,6 +25206,7 @@
     }
   },
   "43392-rebirth.mod": {
+    "name": "Holy Workmasters",
     "stringId": "43392-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -24943,6 +25289,7 @@
     }
   },
   "50624-rebirth.mod": {
+    "name": "spider squad mini swamp",
     "stringId": "50624-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25004,6 +25351,7 @@
     }
   },
   "48471-rebirth.mod": {
+    "name": "Ancient Lab n.2 AI cores",
     "stringId": "48471-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25084,6 +25432,7 @@
     }
   },
   "48782-rebirth.mod": {
+    "name": "Leviathan Family",
     "stringId": "48782-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25152,6 +25501,7 @@
     }
   },
   "49573-arg.mod": {
+    "name": "Flotsam Guards",
     "stringId": "49573-arg.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25227,6 +25577,7 @@
     }
   },
   "43931-rebirth.mod": {
+    "name": "farm village residential leader",
     "stringId": "43931-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25312,6 +25663,7 @@
     }
   },
   "44426-rebirth.mod": {
+    "name": "hub squatters",
     "stringId": "44426-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25413,6 +25765,7 @@
     }
   },
   "43393-rebirth.mod": {
+    "name": "holy slaves",
     "stringId": "43393-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25481,6 +25834,7 @@
     }
   },
   "44864-rebirth.mod": {
+    "name": "shady bar recruits list travellers",
     "stringId": "44864-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25632,6 +25986,7 @@
     }
   },
   "47928-rebirth.mod": {
+    "name": "start- wandering trader",
     "stringId": "47928-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25686,6 +26041,7 @@
     }
   },
   "50637-rebirth.mod": {
+    "name": "the dancing skeleton",
     "stringId": "50637-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25788,6 +26144,7 @@
     }
   },
   "44886-rebirth.mod": {
+    "name": "ruined holy outpost basic loot",
     "stringId": "44886-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25835,6 +26192,7 @@
     }
   },
   "44914-rebirth.mod": {
+    "name": "ninja tower squad",
     "stringId": "44914-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25918,6 +26276,7 @@
     }
   },
   "49393-rebirth.mod": {
+    "name": "rebirth slaves",
     "stringId": "49393-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -25986,6 +26345,7 @@
     }
   },
   "40559-rebirth.mod": {
+    "name": "Civilian solo holy -small",
     "stringId": "40559-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26069,6 +26429,7 @@
     }
   },
   "46994-rebirth.mod": {
+    "name": "Mercenary guild human",
     "stringId": "46994-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26161,6 +26522,7 @@
     }
   },
   "42058-rebirth.mod": {
+    "name": "Civilian mongrel",
     "stringId": "42058-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26242,6 +26604,7 @@
     }
   },
   "42156-rebirth.mod": {
+    "name": "Robot spider group",
     "stringId": "42156-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26303,6 +26666,7 @@
     }
   },
   "50639-rebirth.mod": {
+    "name": "blsh casino guy",
     "stringId": "50639-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26395,6 +26759,7 @@
     }
   },
   "42057-rebirth.mod": {
+    "name": "Shinobi Guards",
     "stringId": "42057-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26470,6 +26835,7 @@
     }
   },
   "50640-rebirth.mod": {
+    "name": "hound hq",
     "stringId": "50640-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26589,6 +26955,7 @@
     }
   },
   "44856-rebirth.mod": {
+    "name": "Adventurer Waystation Bar",
     "stringId": "44856-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26681,6 +27048,7 @@
     }
   },
   "50353-rebirth.mod": {
+    "name": "flotsam patrol",
     "stringId": "50353-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26742,6 +27110,7 @@
     }
   },
   "50396-rebirth.mod": {
+    "name": "Flotsam Gate Guard",
     "stringId": "50396-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26837,6 +27206,7 @@
     }
   },
   "46978-rebirth.mod": {
+    "name": "_aces",
     "stringId": "46978-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26904,6 +27274,7 @@
     }
   },
   "49767-rebirth.mod": {
+    "name": "Flotsam borderguard",
     "stringId": "49767-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -26998,6 +27369,7 @@
     }
   },
   "50349-rebirth.mod": {
+    "name": "flotsam hq",
     "stringId": "50349-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27115,6 +27487,7 @@
     }
   },
   "49398-rebirth.mod": {
+    "name": "Rebirth Gate Guards",
     "stringId": "49398-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27222,6 +27595,7 @@
     }
   },
   "50385-rebirth.mod": {
+    "name": "University big",
     "stringId": "50385-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27448,6 +27822,7 @@
     }
   },
   "49364-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "49364-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27487,6 +27862,7 @@
     "references": {}
   },
   "48698-rebirth.mod": {
+    "name": "floodland ruin tower",
     "stringId": "48698-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27539,6 +27915,7 @@
     }
   },
   "49579-arg.mod": {
+    "name": "Holy Prisoner Caravan",
     "stringId": "49579-arg.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27629,6 +28006,7 @@
     }
   },
   "14460-rebirth.mod": {
+    "name": "Empire Police old--t",
     "stringId": "14460-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27697,6 +28075,7 @@
     }
   },
   "44859-rebirth.mod": {
+    "name": "Drifter squad bar",
     "stringId": "44859-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27772,6 +28151,7 @@
     }
   },
   "43950-rebirth.mod": {
+    "name": "holy farm dogs",
     "stringId": "43950-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27826,6 +28206,7 @@
     }
   },
   "18013-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "18013-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27865,6 +28246,7 @@
     "references": {}
   },
   "18005-rebirth.mod": {
+    "name": "swamp turtle squad",
     "stringId": "18005-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -27926,6 +28308,7 @@
     }
   },
   "43975-rebirth.mod": {
+    "name": "mongrel recruits",
     "stringId": "43975-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28002,6 +28385,7 @@
     }
   },
   "50249-rebirth.mod": {
+    "name": "armour king",
     "stringId": "50249-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28084,6 +28468,7 @@
     }
   },
   "43986-rebirth.mod": {
+    "name": "bar plastic surgeon",
     "stringId": "43986-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28159,6 +28544,7 @@
     }
   },
   "50395-rebirth.mod": {
+    "name": "adventurer gate guards",
     "stringId": "50395-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28240,6 +28626,7 @@
     }
   },
   "43388-rebirth.mod": {
+    "name": "Mercenary wanderers",
     "stringId": "43388-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28325,6 +28712,7 @@
     }
   },
   "47925-rebirth.mod": {
+    "name": "start- guy with dog",
     "stringId": "47925-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28379,6 +28767,7 @@
     }
   },
   "49376-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "49376-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28426,6 +28815,7 @@
     }
   },
   "18875-rebirth.mod": {
+    "name": "Bulls Herd",
     "stringId": "18875-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28494,6 +28884,7 @@
     }
   },
   "50347-rebirth.mod": {
+    "name": "deadcat civilian",
     "stringId": "50347-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28555,6 +28946,7 @@
     }
   },
   "18881-rebirth.mod": {
+    "name": "Holy Gate Guards",
     "stringId": "18881-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28664,6 +29056,7 @@
     }
   },
   "50244-rebirth.mod": {
+    "name": "ghost town resident",
     "stringId": "50244-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28711,6 +29104,7 @@
     }
   },
   "42064-rebirth.mod": {
+    "name": "Drifter solo skeleton",
     "stringId": "42064-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28784,6 +29178,7 @@
     }
   },
   "18884-rebirth.mod": {
+    "name": "holy slave conscripts",
     "stringId": "18884-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28852,6 +29247,7 @@
     }
   },
   "49370-rebirth.mod": {
+    "name": "Cannibal lab",
     "stringId": "49370-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -28939,6 +29335,7 @@
     }
   },
   "44422-rebirth.mod": {
+    "name": "Bar blackmarket",
     "stringId": "44422-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29058,6 +29455,7 @@
     }
   },
   "42236-rebirth.mod": {
+    "name": "shrieking squad",
     "stringId": "42236-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29138,6 +29536,7 @@
     }
   },
   "18894-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "18894-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29177,6 +29576,7 @@
     "references": {}
   },
   "42336-rebirth.mod": {
+    "name": "Nomads",
     "stringId": "42336-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29259,6 +29659,7 @@
     }
   },
   "50508-rebirth.mod": {
+    "name": "hydroponic",
     "stringId": "50508-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29306,6 +29707,7 @@
     }
   },
   "50355-rebirth.mod": {
+    "name": "small generator shack",
     "stringId": "50355-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29353,6 +29755,7 @@
     }
   },
   "50520-rebirth.mod": {
+    "name": "Cannibal scrawny",
     "stringId": "50520-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29443,6 +29846,7 @@
     }
   },
   "40543-rebirth.mod": {
+    "name": "holy materials storage (small shack)",
     "stringId": "40543-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29511,6 +29915,7 @@
     }
   },
   "14489-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "14489-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29550,6 +29955,7 @@
     "references": {}
   },
   "43935-rebirth.mod": {
+    "name": "holy farm bulls",
     "stringId": "43935-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29604,6 +30010,7 @@
     }
   },
   "50345-rebirth.mod": {
+    "name": "Deadcat big bar",
     "stringId": "50345-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29684,6 +30091,7 @@
     }
   },
   "49937-rebirth.mod": {
+    "name": "lost armoury",
     "stringId": "49937-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29743,6 +30151,7 @@
     }
   },
   "50526-rebirth.mod": {
+    "name": "cannibal stormhouse ruin",
     "stringId": "50526-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29818,6 +30227,7 @@
     }
   },
   "50247-rebirth.mod": {
+    "name": "wild pack beast herd",
     "stringId": "50247-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29893,6 +30303,7 @@
     }
   },
   "44901-rebirth.mod": {
+    "name": "ruin warehouse mines",
     "stringId": "44901-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -29940,6 +30351,7 @@
     }
   },
   "18014-rebirth.mod": {
+    "name": "White eyebrow squad",
     "stringId": "18014-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30018,6 +30430,7 @@
     }
   },
   "50357-rebirth.mod": {
+    "name": "Adventure shop adv w/repair",
     "stringId": "50357-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30112,6 +30525,7 @@
     }
   },
   "42155-rebirth.mod": {
+    "name": "Robot spiders light",
     "stringId": "42155-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30173,6 +30587,7 @@
     }
   },
   "46038-rebirth.mod": {
+    "name": "start- freedom seekers",
     "stringId": "46038-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30230,6 +30645,7 @@
     }
   },
   "46046-rebirth.mod": {
+    "name": "Starving bandit mob aggressive",
     "stringId": "46046-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30315,6 +30731,7 @@
     }
   },
   "50325-rebirth.mod": {
+    "name": "ruin- tech loot ",
     "stringId": "50325-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30379,6 +30796,7 @@
     }
   },
   "40560-rebirth.mod": {
+    "name": "Bar indie",
     "stringId": "40560-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30471,6 +30889,7 @@
     }
   },
   "47749-rebirth.mod": {
+    "name": "mongrel fog warning",
     "stringId": "47749-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30525,6 +30944,7 @@
     }
   },
   "42053-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "42053-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30564,6 +30984,7 @@
     "references": {}
   },
   "14490-rebirth.mod": {
+    "name": "Traders Guild HQ",
     "stringId": "14490-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30656,6 +31077,7 @@
     }
   },
   "44863-rebirth.mod": {
+    "name": "ninja guards",
     "stringId": "44863-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30724,6 +31146,7 @@
     }
   },
   "42056-rebirth.mod": {
+    "name": "Shinobi Gate Guards c",
     "stringId": "42056-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30824,6 +31247,7 @@
     }
   },
   "42095-rebirth.mod": {
+    "name": "Fog hive lost man",
     "stringId": "42095-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30892,6 +31316,7 @@
     }
   },
   "44855-rebirth.mod": {
+    "name": "Adventurer Mechanical Shop",
     "stringId": "44855-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -30972,6 +31397,7 @@
     }
   },
   "40547-rebirth.mod": {
+    "name": "holy armour shop",
     "stringId": "40547-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31040,6 +31466,7 @@
     }
   },
   "43970-rebirth.mod": {
+    "name": "Caravan NW",
     "stringId": "43970-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31141,6 +31568,7 @@
     }
   },
   "14464-rebirth.mod": {
+    "name": "Samurai Gate Guard",
     "stringId": "14464-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31241,6 +31669,7 @@
     }
   },
   "40548-rebirth.mod": {
+    "name": "holy weapons shop",
     "stringId": "40548-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31309,6 +31738,7 @@
     }
   },
   "14469-rebirth.mod": {
+    "name": "hospital",
     "stringId": "14469-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31384,6 +31814,7 @@
     }
   },
   "18877-rebirth.mod": {
+    "name": "Inquisitor homestation patrol",
     "stringId": "18877-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31476,6 +31907,7 @@
     }
   },
   "18886-rebirth.mod": {
+    "name": "Inquisitor homestation stay",
     "stringId": "18886-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31594,6 +32026,7 @@
     }
   },
   "44900-rebirth.mod": {
+    "name": "Fog prince ruins",
     "stringId": "44900-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31669,6 +32102,7 @@
     }
   },
   "42195-rebirth.mod": {
+    "name": "hive soldiers",
     "stringId": "42195-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31737,6 +32171,7 @@
     }
   },
   "42075-rebirth.mod": {
+    "name": "Crumblejon",
     "stringId": "42075-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31798,6 +32233,7 @@
     }
   },
   "40552-rebirth.mod": {
+    "name": "Holy Servant Keeper",
     "stringId": "40552-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31887,6 +32323,7 @@
     }
   },
   "42263-rebirth.mod": {
+    "name": "wild goats",
     "stringId": "42263-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -31955,6 +32392,7 @@
     }
   },
   "42019-rebirth.mod": {
+    "name": "Escaped holy servants",
     "stringId": "42019-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32030,6 +32468,7 @@
     }
   },
   "40553-rebirth.mod": {
+    "name": "holy Bakery",
     "stringId": "40553-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32098,6 +32537,7 @@
     }
   },
   "47956-rebirth.mod": {
+    "name": "Robot spiders static",
     "stringId": "47956-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32159,6 +32599,7 @@
     }
   },
   "49939-rebirth.mod": {
+    "name": "lost armoury ruin",
     "stringId": "49939-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32206,6 +32647,7 @@
     }
   },
   "48709-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "48709-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32245,6 +32687,7 @@
     "references": {}
   },
   "49396-rebirth.mod": {
+    "name": "rebirth workmaster",
     "stringId": "49396-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32306,6 +32749,7 @@
     }
   },
   "14465-rebirth.mod": {
+    "name": "barracks",
     "stringId": "14465-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32353,6 +32797,7 @@
     }
   },
   "43974-rebirth.mod": {
+    "name": "1test animals",
     "stringId": "43974-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32460,6 +32905,7 @@
     }
   },
   "50510-rebirth.mod": {
+    "name": "Cannibal Hunter Bar Squad",
     "stringId": "50510-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32533,6 +32979,7 @@
     }
   },
   "50930-rebirth.mod": {
+    "name": "hounds town patrol",
     "stringId": "50930-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32622,6 +33069,7 @@
     }
   },
   "50963-rebirth.mod": {
+    "name": "dancing skeleton patrons",
     "stringId": "50963-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32704,6 +33152,7 @@
     }
   },
   "50968-rebirth.mod": {
+    "name": "swamp trade goods",
     "stringId": "50968-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32798,6 +33247,7 @@
     }
   },
   "50972-rebirth.mod": {
+    "name": "swamp travel shop",
     "stringId": "50972-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32892,6 +33342,7 @@
     }
   },
   "50973-rebirth.mod": {
+    "name": "swamp smithy",
     "stringId": "50973-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -32991,6 +33442,7 @@
     }
   },
   "50976-rebirth.mod": {
+    "name": "swamp shop mechanical",
     "stringId": "50976-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33052,6 +33504,7 @@
     }
   },
   "50978-rebirth.mod": {
+    "name": "deadcat mini travel shop",
     "stringId": "50978-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33140,6 +33593,7 @@
     }
   },
   "50985-rebirth.mod": {
+    "name": "megaraptor nest",
     "stringId": "50985-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33215,6 +33669,7 @@
     }
   },
   "50990-rebirth.mod": {
+    "name": "Farm Storage",
     "stringId": "50990-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33274,6 +33729,7 @@
     }
   },
   "51289-rebirth.mod": {
+    "name": "Shek Gate Guards",
     "stringId": "51289-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33372,6 +33828,7 @@
     }
   },
   "51310-rebirth.mod": {
+    "name": "storage shek",
     "stringId": "51310-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33445,6 +33902,7 @@
     }
   },
   "51311-rebirth.mod": {
+    "name": "shop heavy weapons",
     "stringId": "51311-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33520,6 +33978,7 @@
     }
   },
   "51314-rebirth.mod": {
+    "name": "shek HQ",
     "stringId": "51314-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33622,6 +34081,7 @@
     }
   },
   "51317-rebirth.mod": {
+    "name": "shek resident",
     "stringId": "51317-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33693,6 +34153,7 @@
     }
   },
   "51320-rebirth.mod": {
+    "name": "Shek fortress",
     "stringId": "51320-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33766,6 +34227,7 @@
     }
   },
   "51321-rebirth.mod": {
+    "name": "Shek Patrol",
     "stringId": "51321-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33860,6 +34322,7 @@
     }
   },
   "51325-rebirth.mod": {
+    "name": "spider squad small 1-3",
     "stringId": "51325-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33921,6 +34384,7 @@
     }
   },
   "51327-rebirth.mod": {
+    "name": "ruin- shek military",
     "stringId": "51327-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -33968,6 +34432,7 @@
     }
   },
   "51332-rebirth.mod": {
+    "name": "Bugmaster",
     "stringId": "51332-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34043,6 +34508,7 @@
     }
   },
   "51336-rebirth.mod": {
+    "name": "shek wandering duelist",
     "stringId": "51336-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34104,6 +34570,7 @@
     }
   },
   "51360-rebirth.mod": {
+    "name": "krals chosen",
     "stringId": "51360-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34172,6 +34639,7 @@
     }
   },
   "51361-rebirth.mod": {
+    "name": "spider swarm",
     "stringId": "51361-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34238,6 +34706,7 @@
     }
   },
   "51376-rebirth.mod": {
+    "name": "nest- lab ruin",
     "stringId": "51376-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34285,6 +34754,7 @@
     }
   },
   "51483-rebirth.mod": {
+    "name": "Bar shek",
     "stringId": "51483-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34370,6 +34840,7 @@
     }
   },
   "51389-rebirth.mod": {
+    "name": "Bounty hunter camp for bugmaster",
     "stringId": "51389-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34438,6 +34909,7 @@
     }
   },
   "51390-rebirth.mod": {
+    "name": "Mercenary camp",
     "stringId": "51390-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34504,6 +34976,7 @@
     }
   },
   "51397-rebirth.mod": {
+    "name": "Ancient Lab n.3",
     "stringId": "51397-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34579,6 +35052,7 @@
     }
   },
   "51399-rebirth.mod": {
+    "name": "Ancient Lab n.4 spiders",
     "stringId": "51399-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34661,6 +35135,7 @@
     }
   },
   "51401-rebirth.mod": {
+    "name": "Ancient Lab n.5 empty spiders",
     "stringId": "51401-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34729,6 +35204,7 @@
     }
   },
   "51409-rebirth.mod": {
+    "name": "Ancient Lab n.6 AI cores emptyish",
     "stringId": "51409-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34804,6 +35280,7 @@
     }
   },
   "51411-rebirth.mod": {
+    "name": "Holy Guards narko",
     "stringId": "51411-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34889,6 +35366,7 @@
     }
   },
   "51419-rebirth.mod": {
+    "name": "Holy Gate Guards narko",
     "stringId": "51419-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -34984,6 +35462,7 @@
     }
   },
   "51421-rebirth.mod": {
+    "name": "Shop trade Shek",
     "stringId": "51421-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35059,6 +35538,7 @@
     }
   },
   "51481-rebirth.mod": {
+    "name": "shek warrior bar",
     "stringId": "51481-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35125,6 +35605,7 @@
     }
   },
   "51484-rebirth.mod": {
+    "name": "Bar last stand",
     "stringId": "51484-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35210,6 +35691,7 @@
     }
   },
   "51632-rebirth.mod": {
+    "name": "shek bar last stand customers",
     "stringId": "51632-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35281,6 +35763,7 @@
     }
   },
   "51639-rebirth.mod": {
+    "name": "_swamp ninja genins",
     "stringId": "51639-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35363,6 +35846,7 @@
     }
   },
   "51641-rebirth.mod": {
+    "name": "swamp turtle herd",
     "stringId": "51641-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35431,6 +35915,7 @@
     }
   },
   "51647-rebirth.mod": {
+    "name": "swamp ninja base",
     "stringId": "51647-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35504,6 +35989,7 @@
     }
   },
   "51653-rebirth.mod": {
+    "name": "Water Clan squad",
     "stringId": "51653-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35589,6 +36075,7 @@
     }
   },
   "51709-rebirth.mod": {
+    "name": "Thieves Guild",
     "stringId": "51709-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35703,6 +36190,7 @@
     }
   },
   "51759-rebirth.mod": {
+    "name": "Wandering Assassin",
     "stringId": "51759-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35769,6 +36257,7 @@
     }
   },
   "51762-rebirth.mod": {
+    "name": "swamper fish and drugs",
     "stringId": "51762-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35854,6 +36343,7 @@
     }
   },
   "51794-rebirth.mod": {
+    "name": "Thieves Guild smuggler",
     "stringId": "51794-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -35922,6 +36412,7 @@
     }
   },
   "51814-rebirth.mod": {
+    "name": "Thieves Guild human",
     "stringId": "51814-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36048,6 +36539,7 @@
     }
   },
   "51836-rebirth.mod": {
+    "name": "swamp gate guards",
     "stringId": "51836-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36124,6 +36616,7 @@
     }
   },
   "52326-rebirth.mod": {
+    "name": "police patrol unit",
     "stringId": "52326-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36185,6 +36678,7 @@
     }
   },
   "52330-rebirth.mod": {
+    "name": "Shop trader UC bigger",
     "stringId": "52330-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36272,6 +36766,7 @@
     }
   },
   "52334-rebirth.mod": {
+    "name": "Catun Scrapmasters",
     "stringId": "52334-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36347,6 +36842,7 @@
     }
   },
   "53085-rebirth.mod": {
+    "name": "fogmen tower",
     "stringId": "53085-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36415,6 +36911,7 @@
     }
   },
   "53641-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "53641-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36454,6 +36951,7 @@
     "references": {}
   },
   "53642-rebirth.mod": {
+    "name": "farm shop UC",
     "stringId": "53642-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36546,6 +37044,7 @@
     }
   },
   "54019-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "54019-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36585,6 +37084,7 @@
     "references": {}
   },
   "54020-rebirth.mod": {
+    "name": "Civilian solo UC small",
     "stringId": "54020-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36656,6 +37156,7 @@
     }
   },
   "54022-rebirth.mod": {
+    "name": "Civilian family UC",
     "stringId": "54022-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36729,6 +37230,7 @@
     }
   },
   "54289-rebirth.mod": {
+    "name": "Barracks UC",
     "stringId": "54289-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36838,6 +37340,7 @@
     }
   },
   "54294-rebirth.mod": {
+    "name": "UC escaped slave",
     "stringId": "54294-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -36906,6 +37409,7 @@
     }
   },
   "54298-rebirth.mod": {
+    "name": "empire rebel farmers",
     "stringId": "54298-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37008,6 +37512,7 @@
     }
   },
   "54301-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "54301-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37047,6 +37552,7 @@
     "references": {}
   },
   "54302-rebirth.mod": {
+    "name": "Farm hut UC",
     "stringId": "54302-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37122,6 +37628,7 @@
     }
   },
   "54303-rebirth.mod": {
+    "name": "slave camp wardens w/slaves",
     "stringId": "54303-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37197,6 +37704,7 @@
     }
   },
   "54304-rebirth.mod": {
+    "name": "slaves 1-5 copy",
     "stringId": "54304-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37285,6 +37793,7 @@
     }
   },
   "54305-rebirth.mod": {
+    "name": "slave cage shack",
     "stringId": "54305-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37332,6 +37841,7 @@
     }
   },
   "54306-rebirth.mod": {
+    "name": "noble slave boss/kana",
     "stringId": "54306-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37421,6 +37931,7 @@
     }
   },
   "54539-rebirth.mod": {
+    "name": "slave farm trader",
     "stringId": "54539-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37510,6 +38021,7 @@
     }
   },
   "54541-rebirth.mod": {
+    "name": "Slaver Barracks",
     "stringId": "54541-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37597,6 +38109,7 @@
     }
   },
   "54542-rebirth.mod": {
+    "name": "slaver town guard patrol",
     "stringId": "54542-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37665,6 +38178,7 @@
     }
   },
   "54546-rebirth.mod": {
+    "name": "slaver bar",
     "stringId": "54546-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37764,6 +38278,7 @@
     }
   },
   "54547-rebirth.mod": {
+    "name": "stolen slave clothing shop",
     "stringId": "54547-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37839,6 +38354,7 @@
     }
   },
   "54571-rebirth.mod": {
+    "name": "Slave platform sales",
     "stringId": "54571-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37935,6 +38451,7 @@
     }
   },
   "54584-rebirth.mod": {
+    "name": "slaver heavy guards",
     "stringId": "54584-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -37996,6 +38513,7 @@
     }
   },
   "54589-rebirth.mod": {
+    "name": "manhunter barracks",
     "stringId": "54589-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38064,6 +38582,7 @@
     }
   },
   "54590-rebirth.mod": {
+    "name": "manhunter boss",
     "stringId": "54590-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38144,6 +38663,7 @@
     }
   },
   "55016-rebirth.mod": {
+    "name": "manhunter patrol (N)",
     "stringId": "55016-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38217,6 +38737,7 @@
     }
   },
   "55102-rebirth.mod": {
+    "name": "slave hunters (N)",
     "stringId": "55102-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38297,6 +38818,7 @@
     }
   },
   "55124-rebirth.mod": {
+    "name": "plastic surgeon",
     "stringId": "55124-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38351,6 +38873,7 @@
     }
   },
   "55376-rebirth.mod": {
+    "name": "slaves 1-5",
     "stringId": "55376-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38439,6 +38962,7 @@
     }
   },
   "55622-rebirth.mod": {
+    "name": "Fog hive nest hunter patrol huge",
     "stringId": "55622-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38512,6 +39036,7 @@
     }
   },
   "96024-rebirth.mod": {
+    "name": "Blood bandits ",
     "stringId": "96024-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38590,6 +39115,7 @@
     }
   },
   "55638-rebirth.mod": {
+    "name": "spider squad mini baby swarm",
     "stringId": "55638-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38651,6 +39177,7 @@
     }
   },
   "55640-rebirth.mod": {
+    "name": "__fish",
     "stringId": "55640-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38698,6 +39225,7 @@
     }
   },
   "55645-rebirth.mod": {
+    "name": "skeleton workshop",
     "stringId": "55645-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38771,6 +39299,7 @@
     }
   },
   "55647-rebirth.mod": {
+    "name": "lost armoury security",
     "stringId": "55647-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38825,6 +39354,7 @@
     }
   },
   "55658-rebirth.mod": {
+    "name": "Holy Watchtower",
     "stringId": "55658-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -38915,6 +39445,7 @@
     }
   },
   "55665-rebirth.mod": {
+    "name": "Empire army force weak",
     "stringId": "55665-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39007,6 +39538,7 @@
     }
   },
   "55666-rebirth.mod": {
+    "name": "Holy Army force",
     "stringId": "55666-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39087,6 +39619,7 @@
     }
   },
   "55672-rebirth.mod": {
+    "name": "gorillos blue",
     "stringId": "55672-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39148,6 +39681,7 @@
     }
   },
   "55673-rebirth.mod": {
+    "name": "blue gorillo nest",
     "stringId": "55673-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39209,6 +39743,7 @@
     }
   },
   "55679-rebirth.mod": {
+    "name": "small blood spiders",
     "stringId": "55679-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39270,6 +39805,7 @@
     }
   },
   "56040-rebirth.mod": {
+    "name": "armory UC",
     "stringId": "56040-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39343,6 +39879,7 @@
     }
   },
   "56041-rebirth.mod": {
+    "name": "Storehouse UC",
     "stringId": "56041-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39397,6 +39934,7 @@
     }
   },
   "56043-rebirth.mod": {
+    "name": "noble procession",
     "stringId": "56043-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39475,6 +40013,7 @@
     }
   },
   "56094-rebirth.mod": {
+    "name": "skimmer nest",
     "stringId": "56094-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39529,6 +40068,7 @@
     }
   },
   "56095-rebirth.mod": {
+    "name": "skimmer hunter solo 24hr",
     "stringId": "56095-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39590,6 +40130,7 @@
     }
   },
   "56096-rebirth.mod": {
+    "name": "UC farmer raider nest",
     "stringId": "56096-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39670,6 +40211,7 @@
     }
   },
   "56097-rebirth.mod": {
+    "name": "holy hub hideout",
     "stringId": "56097-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39744,6 +40286,7 @@
     }
   },
   "56106-rebirth.mod": {
+    "name": "UC watchtower",
     "stringId": "56106-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39837,6 +40380,7 @@
     }
   },
   "56109-rebirth.mod": {
+    "name": "crab nest",
     "stringId": "56109-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39891,6 +40435,7 @@
     }
   },
   "56112-rebirth.mod": {
+    "name": "crab wander solo",
     "stringId": "56112-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -39952,6 +40497,7 @@
     }
   },
   "56115-rebirth.mod": {
+    "name": "crab infestation",
     "stringId": "56115-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40013,6 +40559,7 @@
     }
   },
   "56117-rebirth.mod": {
+    "name": "_totally empty",
     "stringId": "56117-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40052,6 +40599,7 @@
     "references": {}
   },
   "56120-rebirth.mod": {
+    "name": "megacrab",
     "stringId": "56120-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40113,6 +40661,7 @@
     }
   },
   "56130-rebirth.mod": {
+    "name": "UC big bar",
     "stringId": "56130-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40215,6 +40764,7 @@
     }
   },
   "56131-rebirth.mod": {
+    "name": "weapon vendor UC big",
     "stringId": "56131-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40290,6 +40840,7 @@
     }
   },
   "56132-rebirth.mod": {
+    "name": "bank",
     "stringId": "56132-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40372,6 +40923,7 @@
     }
   },
   "56135-rebirth.mod": {
+    "name": "traders guild HQ",
     "stringId": "56135-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40488,6 +41040,7 @@
     }
   },
   "56137-rebirth.mod": {
+    "name": "bakery UC",
     "stringId": "56137-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40556,6 +41109,7 @@
     }
   },
   "56140-rebirth.mod": {
+    "name": "Big General Storage",
     "stringId": "56140-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40617,6 +41171,7 @@
     }
   },
   "56143-rebirth.mod": {
+    "name": "vagrant squad",
     "stringId": "56143-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40685,6 +41240,7 @@
     }
   },
   "56146-rebirth.mod": {
+    "name": "Bookshop",
     "stringId": "56146-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40838,6 +41394,7 @@
     }
   },
   "56154-rebirth.mod": {
+    "name": "Scraphouse",
     "stringId": "56154-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40937,6 +41494,7 @@
     }
   },
   "56156-rebirth.mod": {
+    "name": "default skeleton town",
     "stringId": "56156-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -40998,6 +41556,7 @@
     }
   },
   "56158-rebirth.mod": {
+    "name": "skeleton city bar",
     "stringId": "56158-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41066,6 +41625,7 @@
     }
   },
   "56159-rebirth.mod": {
+    "name": "large storage outpost",
     "stringId": "56159-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41137,6 +41697,7 @@
     }
   },
   "56164-rebirth.mod": {
+    "name": "Smugglers Bar",
     "stringId": "56164-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41205,6 +41766,7 @@
     }
   },
   "56173-rebirth.mod": {
+    "name": "Smuggler caravan- bar",
     "stringId": "56173-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41288,6 +41850,7 @@
     }
   },
   "56177-rebirth.mod": {
+    "name": "stone camp shop",
     "stringId": "56177-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41363,6 +41926,7 @@
     }
   },
   "56180-rebirth.mod": {
+    "name": "slaves 1-3",
     "stringId": "56180-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41451,6 +42015,7 @@
     }
   },
   "56181-rebirth.mod": {
+    "name": "tengus vault",
     "stringId": "56181-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41562,6 +42127,7 @@
     }
   },
   "56182-rebirth.mod": {
+    "name": "best armour shop UC",
     "stringId": "56182-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41644,6 +42210,7 @@
     }
   },
   "56184-rebirth.mod": {
+    "name": "super adventure shop",
     "stringId": "56184-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41753,6 +42320,7 @@
     }
   },
   "56206-rebirth.mod": {
+    "name": "destroyed old stormhouse",
     "stringId": "56206-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41800,6 +42368,7 @@
     }
   },
   "56207-rebirth.mod": {
+    "name": "UC farmer stormhouse",
     "stringId": "56207-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41861,6 +42430,7 @@
     }
   },
   "56208-rebirth.mod": {
+    "name": "peasant vagrants",
     "stringId": "56208-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -41929,6 +42499,7 @@
     }
   },
   "56357-rebirth.mod": {
+    "name": "Skeleton Armory",
     "stringId": "56357-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42019,6 +42590,7 @@
     }
   },
   "56726-rebirth.mod": {
+    "name": "mongrel permanent recruits",
     "stringId": "56726-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42080,6 +42652,7 @@
     }
   },
   "57325-rebirth.mod": {
+    "name": "shryke",
     "stringId": "57325-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42141,6 +42714,7 @@
     }
   },
   "57327-rebirth.mod": {
+    "name": "Shop weapons Mongrel",
     "stringId": "57327-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42209,6 +42783,7 @@
     }
   },
   "57329-rebirth.mod": {
+    "name": "Shop armor mongrel",
     "stringId": "57329-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42282,6 +42857,7 @@
     }
   },
   "57389-rebirth.mod": {
+    "name": "beep",
     "stringId": "57389-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42343,6 +42919,7 @@
     }
   },
   "57407-__dont commit.mod": {
+    "name": "__race1",
     "stringId": "57407-__dont commit.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42397,6 +42974,7 @@
     }
   },
   "57408-__dont commit.mod": {
+    "name": "__race1 copy2",
     "stringId": "57408-__dont commit.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42456,6 +43034,7 @@
     }
   },
   "64702-__Pacifier faction.mod": {
+    "name": "Jaegar",
     "stringId": "64702-__Pacifier faction.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42520,6 +43099,7 @@
     }
   },
   "58699-rebirth.mod": {
+    "name": "worlds end Bar",
     "stringId": "58699-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42617,6 +43197,7 @@
     }
   },
   "59292-rebirth.mod": {
+    "name": "shek guard bounty desk",
     "stringId": "59292-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42690,6 +43271,7 @@
     }
   },
   "59295-rebirth.mod": {
+    "name": "__phoenix test",
     "stringId": "59295-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42751,6 +43333,7 @@
     }
   },
   "59428-rebirth.mod": {
+    "name": "tengus palace",
     "stringId": "59428-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42879,6 +43462,7 @@
     }
   },
   "61858-rebirth.mod": {
+    "name": "Empire taxman",
     "stringId": "61858-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -42961,6 +43545,7 @@
     }
   },
   "61910-rebirth.mod": {
+    "name": "Empire army force strong",
     "stringId": "61910-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43053,6 +43638,7 @@
     }
   },
   "62175-rebirth.mod": {
+    "name": "tinfist hq",
     "stringId": "62175-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43138,6 +43724,7 @@
     }
   },
   "62179-rebirth.mod": {
+    "name": "anti slaver recruits",
     "stringId": "62179-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43199,6 +43786,7 @@
     }
   },
   "62186-rebirth.mod": {
+    "name": "Cannibal magi",
     "stringId": "62186-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43279,6 +43867,7 @@
     }
   },
   "62187-rebirth.mod": {
+    "name": "south hive workers (w/ guards)",
     "stringId": "62187-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43357,6 +43946,7 @@
     }
   },
   "62189-rebirth.mod": {
+    "name": "south hive guards",
     "stringId": "62189-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43425,6 +44015,7 @@
     }
   },
   "62192-rebirth.mod": {
+    "name": "Hive Queen south",
     "stringId": "62192-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43529,6 +44120,7 @@
     }
   },
   "62375-rebirth.mod": {
+    "name": "south hive patrol",
     "stringId": "62375-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43626,6 +44218,7 @@
     }
   },
   "62376-rebirth.mod": {
+    "name": "south hive scouts",
     "stringId": "62376-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43706,6 +44299,7 @@
     }
   },
   "62552-rebirth.mod": {
+    "name": "Mountain Wolf Pack",
     "stringId": "62552-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43767,6 +44361,7 @@
     }
   },
   "62554-rebirth.mod": {
+    "name": "Wolf Swarm",
     "stringId": "62554-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43833,6 +44428,7 @@
     }
   },
   "96134-__Southern hive.mod": {
+    "name": "south hive guards village",
     "stringId": "96134-__Southern hive.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43901,6 +44497,7 @@
     }
   },
   "62766-rebirth.mod": {
+    "name": "mega gorillo",
     "stringId": "62766-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -43976,6 +44573,7 @@
     }
   },
   "62772-rebirth.mod": {
+    "name": "lost outpost ",
     "stringId": "62772-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44042,6 +44640,7 @@
     }
   },
   "62774-rebirth.mod": {
+    "name": "skeleton legion force- pre",
     "stringId": "62774-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44125,6 +44724,7 @@
     }
   },
   "62776-rebirth.mod": {
+    "name": "skeleton legion scouts",
     "stringId": "62776-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44186,6 +44786,7 @@
     }
   },
   "62777-rebirth.mod": {
+    "name": "robo levi",
     "stringId": "62777-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44247,6 +44848,7 @@
     }
   },
   "62778-rebirth.mod": {
+    "name": "robot spiders static group",
     "stringId": "62778-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44308,6 +44910,7 @@
     }
   },
   "62783-rebirth.mod": {
+    "name": "lost armoury -south hive",
     "stringId": "62783-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44381,6 +44984,7 @@
     }
   },
   "62785-rebirth.mod": {
+    "name": "south hive workers solo",
     "stringId": "62785-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44449,6 +45053,7 @@
     }
   },
   "62793-rebirth.mod": {
+    "name": "crab wander group",
     "stringId": "62793-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44510,6 +45115,7 @@
     }
   },
   "62794-rebirth.mod": {
+    "name": "swamp ducks small mob aggressive",
     "stringId": "62794-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44571,6 +45177,7 @@
     }
   },
   "62439-__additions.mod": {
+    "name": "Tengu's vault prisoners",
     "stringId": "62439-__additions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44672,6 +45279,7 @@
     }
   },
   "62802-rebirth.mod": {
+    "name": "skeleton workshop ashland",
     "stringId": "62802-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44738,6 +45346,7 @@
     }
   },
   "62804-rebirth.mod": {
+    "name": "skelebandit HQ",
     "stringId": "62804-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44823,6 +45432,7 @@
     }
   },
   "62809-rebirth.mod": {
+    "name": "Skeleton bandits patrol",
     "stringId": "62809-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44908,6 +45518,7 @@
     }
   },
   "62812-rebirth.mod": {
+    "name": "Skeleton bandits patrol (broken)",
     "stringId": "62812-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -44976,6 +45587,7 @@
     }
   },
   "62819-rebirth.mod": {
+    "name": "Hiver Merchant caravan (mats)",
     "stringId": "62819-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45095,6 +45707,7 @@
     }
   },
   "62820-rebirth.mod": {
+    "name": "Hiver Merchant caravan (crops)",
     "stringId": "62820-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45209,6 +45822,7 @@
     }
   },
   "62825-rebirth.mod": {
+    "name": "crab raider hq",
     "stringId": "62825-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45303,6 +45917,7 @@
     }
   },
   "62828-rebirth.mod": {
+    "name": "Crab raiders patrol",
     "stringId": "62828-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45388,6 +46003,7 @@
     }
   },
   "62830-rebirth.mod": {
+    "name": "crab raiders (broken)",
     "stringId": "62830-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45463,6 +46079,7 @@
     }
   },
   "62831-rebirth.mod": {
+    "name": "crab raider town",
     "stringId": "62831-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45557,6 +46174,7 @@
     }
   },
   "62833-rebirth.mod": {
+    "name": "crab raider smithy shop",
     "stringId": "62833-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45651,6 +46269,7 @@
     }
   },
   "62843-rebirth.mod": {
+    "name": "goat herder camp",
     "stringId": "62843-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45719,6 +46338,7 @@
     }
   },
   "62845-rebirth.mod": {
+    "name": "empire rebel farmers small",
     "stringId": "62845-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45808,6 +46428,7 @@
     }
   },
   "62847-rebirth.mod": {
+    "name": "rebel farmer HQ",
     "stringId": "62847-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45895,6 +46516,7 @@
     }
   },
   "62850-rebirth.mod": {
+    "name": "rebel farmer barracks",
     "stringId": "62850-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -45968,6 +46590,7 @@
     }
   },
   "62851-rebirth.mod": {
+    "name": "rebel farmer hideout",
     "stringId": "62851-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46041,6 +46664,7 @@
     }
   },
   "62857-rebirth.mod": {
+    "name": "Empire Gate guard -vault",
     "stringId": "62857-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46150,6 +46774,7 @@
     }
   },
   "62858-rebirth.mod": {
+    "name": "sadniel",
     "stringId": "62858-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46211,6 +46836,7 @@
     }
   },
   "62859-rebirth.mod": {
+    "name": "razor",
     "stringId": "62859-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46272,6 +46898,7 @@
     }
   },
   "62860-rebirth.mod": {
+    "name": "red sabre HQ",
     "stringId": "62860-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46347,6 +46974,7 @@
     }
   },
   "62861-rebirth.mod": {
+    "name": "water clan weakened",
     "stringId": "62861-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46422,6 +47050,7 @@
     }
   },
   "62863-rebirth.mod": {
+    "name": "swamp ninja strengthened",
     "stringId": "62863-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46529,6 +47158,7 @@
     }
   },
   "63142-rebirth.mod": {
+    "name": "skeleton legion force north",
     "stringId": "63142-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46619,6 +47249,7 @@
     }
   },
   "63143-rebirth.mod": {
+    "name": "Robot spider group north",
     "stringId": "63143-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46692,6 +47323,7 @@
     }
   },
   "63480-rebirth.mod": {
+    "name": "Slaver Shop w/ workers",
     "stringId": "63480-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46795,6 +47427,7 @@
     }
   },
   "63481-rebirth.mod": {
+    "name": "slave camp warden solo",
     "stringId": "63481-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46863,6 +47496,7 @@
     }
   },
   "63483-rebirth.mod": {
+    "name": "traders HQ guards",
     "stringId": "63483-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -46938,6 +47572,7 @@
     }
   },
   "63537-rebirth.mod": {
+    "name": "Merchant Nomads",
     "stringId": "63537-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47041,6 +47676,7 @@
     }
   },
   "63749-rebirth.mod": {
+    "name": "Nomad town resident",
     "stringId": "63749-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47130,6 +47766,7 @@
     }
   },
   "63750-rebirth.mod": {
+    "name": "Town Merchant Nomad shop",
     "stringId": "63750-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47237,6 +47874,7 @@
     }
   },
   "63886-rebirth.mod": {
+    "name": "Barracks cannibal hunters",
     "stringId": "63886-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47322,6 +47960,7 @@
     }
   },
   "63888-rebirth.mod": {
+    "name": "cannibal hunter patrol",
     "stringId": "63888-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47397,6 +48036,7 @@
     }
   },
   "64223-rebirth.mod": {
+    "name": "hub squatters copy berserker",
     "stringId": "64223-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47465,6 +48105,7 @@
     }
   },
   "64227-rebirth.mod": {
+    "name": "Shek base attack weak",
     "stringId": "64227-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47538,6 +48179,7 @@
     }
   },
   "64347-__Pacifier.mod": {
+    "name": "Ears",
     "stringId": "64347-__Pacifier.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47599,6 +48241,7 @@
     }
   },
   "64280-__Pacifier.mod": {
+    "name": "Pacifier Choosefrom",
     "stringId": "64280-__Pacifier.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47661,6 +48304,7 @@
     }
   },
   "64356-rebirth.mod": {
+    "name": "skin bandit patrol",
     "stringId": "64356-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47753,6 +48397,7 @@
     }
   },
   "64357-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "64357-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47792,6 +48437,7 @@
     "references": {}
   },
   "64488-rebirth.mod": {
+    "name": "skin bandit HQ",
     "stringId": "64488-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47888,6 +48534,7 @@
     }
   },
   "64652-rebirth.mod": {
+    "name": "shop tools ronin adv",
     "stringId": "64652-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -47956,6 +48603,7 @@
     }
   },
   "64655-rebirth.mod": {
+    "name": "Adventure shop",
     "stringId": "64655-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48055,6 +48703,7 @@
     }
   },
   "64665-rebirth.mod": {
+    "name": "mini robot workshop expensive",
     "stringId": "64665-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48138,6 +48787,7 @@
     }
   },
   "64753-rebirth.mod": {
+    "name": "empire rebel farmers heavy",
     "stringId": "64753-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48252,6 +48902,7 @@
     }
   },
   "64853-rebirth.mod": {
+    "name": "Shop bar Empire small",
     "stringId": "64853-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48328,6 +48979,7 @@
     }
   },
   "64854-rebirth.mod": {
+    "name": "mini UC barracks",
     "stringId": "64854-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48413,6 +49065,7 @@
     }
   },
   "64855-rebirth.mod": {
+    "name": "spider factory",
     "stringId": "64855-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48505,6 +49158,7 @@
     }
   },
   "64858-rebirth.mod": {
+    "name": "Robot spiders static forbidden",
     "stringId": "64858-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48573,6 +49227,7 @@
     }
   },
   "64860-rebirth.mod": {
+    "name": "Robot spiders forbidden",
     "stringId": "64860-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48634,6 +49289,7 @@
     }
   },
   "64861-rebirth.mod": {
+    "name": "Robot spider army forbidden",
     "stringId": "64861-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48702,6 +49358,7 @@
     }
   },
   "64862-rebirth.mod": {
+    "name": "wild goats forbidden",
     "stringId": "64862-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48777,6 +49434,7 @@
     }
   },
   "64863-rebirth.mod": {
+    "name": "wild pack beast family forbidden",
     "stringId": "64863-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48859,6 +49517,7 @@
     }
   },
   "64864-rebirth.mod": {
+    "name": "Empire army small patrol",
     "stringId": "64864-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -48948,6 +49607,7 @@
     }
   },
   "64867-rebirth.mod": {
+    "name": "cannibal hunter gate guard",
     "stringId": "64867-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49052,6 +49712,7 @@
     }
   },
   "64868-rebirth.mod": {
+    "name": "Empire Gate guard mini",
     "stringId": "64868-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49161,6 +49822,7 @@
     }
   },
   "64904-rebirth.mod": {
+    "name": "goat tower",
     "stringId": "64904-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49229,6 +49891,7 @@
     }
   },
   "64906-rebirth.mod": {
+    "name": "!Reasonable Men!",
     "stringId": "64906-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49281,6 +49944,7 @@
     }
   },
   "64907-rebirth.mod": {
+    "name": "Cannibal hunter hq",
     "stringId": "64907-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49387,6 +50051,7 @@
     }
   },
   "64908-rebirth.mod": {
+    "name": "skimmer patrol group nocturnal",
     "stringId": "64908-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49448,6 +50113,7 @@
     }
   },
   "64910-rebirth.mod": {
+    "name": "Cannibal meat lord",
     "stringId": "64910-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49530,6 +50196,7 @@
     }
   },
   "64920-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "64920-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49569,6 +50236,7 @@
     "references": {}
   },
   "64921-rebirth.mod": {
+    "name": "error code",
     "stringId": "64921-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49637,6 +50305,7 @@
     }
   },
   "65261-rebirth.mod": {
+    "name": "reaver patrol",
     "stringId": "65261-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49726,6 +50395,7 @@
     }
   },
   "65264-rebirth.mod": {
+    "name": "reaver whelps",
     "stringId": "65264-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49794,6 +50464,7 @@
     }
   },
   "65825-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "65825-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49833,6 +50504,7 @@
     "references": {}
   },
   "65826-rebirth.mod": {
+    "name": "Crab Bar",
     "stringId": "65826-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49911,6 +50583,7 @@
     }
   },
   "65864-rebirth.mod": {
+    "name": "patrolling town crab",
     "stringId": "65864-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -49965,6 +50638,7 @@
     }
   },
   "65866-rebirth.mod": {
+    "name": "crab resident default",
     "stringId": "65866-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50033,6 +50707,7 @@
     }
   },
   "65867-rebirth.mod": {
+    "name": "crab worker",
     "stringId": "65867-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50099,6 +50774,7 @@
     }
   },
   "65868-rebirth.mod": {
+    "name": "crab gate guard",
     "stringId": "65868-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50201,6 +50877,7 @@
     }
   },
   "65869-rebirth.mod": {
+    "name": "massive crab wander",
     "stringId": "65869-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50262,6 +50939,7 @@
     }
   },
   "66291-rebirth.mod": {
+    "name": "Black Desert Ninjas",
     "stringId": "66291-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50330,6 +51008,7 @@
     }
   },
   "66294-rebirth.mod": {
+    "name": "beak swarm",
     "stringId": "66294-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50391,6 +51070,7 @@
     }
   },
   "66295-rebirth.mod": {
+    "name": "beak elder",
     "stringId": "66295-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50452,6 +51132,7 @@
     }
   },
   "66296-rebirth.mod": {
+    "name": "inquisitor valetina hq",
     "stringId": "66296-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50554,6 +51235,7 @@
     }
   },
   "66297-Boneyard Wolf.mod": {
+    "name": "Boneyard Wolf Pack Den",
     "stringId": "66297-Boneyard Wolf.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50622,6 +51304,7 @@
     }
   },
   "66159-__November.mod": {
+    "name": "Bar thugs",
     "stringId": "66159-__November.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50708,6 +51391,7 @@
     }
   },
   "65946-November.mod": {
+    "name": "Crab bar patrons",
     "stringId": "65946-November.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50774,6 +51458,7 @@
     }
   },
   "66155-__November.mod": {
+    "name": "Fisher bar patrons",
     "stringId": "66155-__November.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50843,6 +51528,7 @@
     }
   },
   "65972-November.mod": {
+    "name": "Recruits list Crab Town",
     "stringId": "65972-November.mod",
     "type": "SquadTemplate",
     "values": {
@@ -50962,6 +51648,7 @@
     }
   },
   "65944-November.mod": {
+    "name": "Zeal",
     "stringId": "65944-November.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51023,6 +51710,7 @@
     }
   },
   "66541-rebirth.mod": {
+    "name": "skin house",
     "stringId": "66541-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51108,6 +51796,7 @@
     }
   },
   "66544-rebirth.mod": {
+    "name": "inquisitor seta hq",
     "stringId": "66544-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51210,6 +51899,7 @@
     }
   },
   "95511-rebirth.mod": {
+    "name": "cheat police",
     "stringId": "95511-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51288,6 +51978,7 @@
     }
   },
   "95529-rebirth.mod": {
+    "name": "error police- library hidden",
     "stringId": "95529-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51356,6 +52047,7 @@
     }
   },
   "95530-rebirth.mod": {
+    "name": "skin house raid ruin",
     "stringId": "95530-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51441,6 +52133,7 @@
     }
   },
   "95535-rebirth.mod": {
+    "name": "beak squad med",
     "stringId": "95535-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51502,6 +52195,7 @@
     }
   },
   "95540-rebirth.mod": {
+    "name": "ranger test",
     "stringId": "95540-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51559,6 +52253,7 @@
     }
   },
   "95542-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "95542-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51598,6 +52293,7 @@
     "references": {}
   },
   "95749-rebirth.mod": {
+    "name": "Bounty hunters ",
     "stringId": "95749-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51680,6 +52376,7 @@
     }
   },
   "95750-rebirth.mod": {
+    "name": "Treasure hunters",
     "stringId": "95750-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51748,6 +52445,7 @@
     }
   },
   "95751-rebirth.mod": {
+    "name": "Treasure hunters aggressive",
     "stringId": "95751-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51816,6 +52514,7 @@
     }
   },
   "96079-rebirth.mod": {
+    "name": "spider tower",
     "stringId": "96079-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51884,6 +52583,7 @@
     }
   },
   "95754-rebirth.mod": {
+    "name": "Scavengers",
     "stringId": "95754-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -51952,6 +52652,7 @@
     }
   },
   "95755-rebirth.mod": {
+    "name": "mad sniper",
     "stringId": "95755-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52013,6 +52714,7 @@
     }
   },
   "95768-rebirth.mod": {
+    "name": "start- fog refugees",
     "stringId": "95768-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52070,6 +52772,7 @@
     }
   },
   "95778-rebirth.mod": {
+    "name": "skeleton town empty to buy",
     "stringId": "95778-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52117,6 +52820,7 @@
     }
   },
   "95757-__december17.mod": {
+    "name": "reaver HQ",
     "stringId": "95757-__december17.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52260,6 +52964,7 @@
     }
   },
   "95759-__december17.mod": {
+    "name": "Reaver residents (Brink)",
     "stringId": "95759-__december17.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52356,6 +53061,7 @@
     }
   },
   "95760-__december17.mod": {
+    "name": "reaver whelps residents",
     "stringId": "95760-__december17.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52424,6 +53130,7 @@
     }
   },
   "95828-__december17.mod": {
+    "name": "Robotics shop (black desert)",
     "stringId": "95828-__december17.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52513,6 +53220,7 @@
     }
   },
   "95739-__Mourn.mod": {
+    "name": "Shop weapons Crossbow",
     "stringId": "95739-__Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52610,6 +53318,7 @@
     }
   },
   "95749-__december17.mod": {
+    "name": "skelebandit residents",
     "stringId": "95749-__december17.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52678,6 +53387,7 @@
     }
   },
   "95758-__december17.mod": {
+    "name": "Whelp Cage Warden",
     "stringId": "95758-__december17.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52746,6 +53456,7 @@
     }
   },
   "95787-rebirth.mod": {
+    "name": "Shop Crossbow Adv",
     "stringId": "95787-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52833,6 +53544,7 @@
     }
   },
   "95790-rebirth.mod": {
+    "name": "mini robot workshop adv",
     "stringId": "95790-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -52921,6 +53633,7 @@
     }
   },
   "95581-__Mourn.mod": {
+    "name": "Adventurer Lagoon Bar",
     "stringId": "95581-__Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53008,6 +53721,7 @@
     }
   },
   "95554-Mourn.mod": {
+    "name": "Bar Mourn",
     "stringId": "95554-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53105,6 +53819,7 @@
     }
   },
   "95577-Mourn.mod": {
+    "name": "Bar thugs Mourn",
     "stringId": "95577-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53176,6 +53891,7 @@
     }
   },
   "95546-Mourn.mod": {
+    "name": "Blue Eyes",
     "stringId": "95546-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53237,6 +53953,7 @@
     }
   },
   "95607-__Mourn.mod": {
+    "name": "Lagoon bar patrons",
     "stringId": "95607-__Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53303,6 +54020,7 @@
     }
   },
   "95549-Mourn.mod": {
+    "name": "mourn hq",
     "stringId": "95549-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53376,6 +54094,7 @@
     }
   },
   "95578-Mourn.mod": {
+    "name": "mourn ramp",
     "stringId": "95578-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53423,6 +54142,7 @@
     }
   },
   "95547-Mourn.mod": {
+    "name": "Mourn squatters",
     "stringId": "95547-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53509,6 +54229,7 @@
     }
   },
   "95544-Mourn.mod": {
+    "name": "Slave platform sales empty",
     "stringId": "95544-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53556,6 +54277,7 @@
     }
   },
   "95545-Mourn.mod": {
+    "name": "Slaver Shop w/ workers empty",
     "stringId": "95545-Mourn.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53603,6 +54325,7 @@
     }
   },
   "96154-rebirth.mod": {
+    "name": "vagrant bandits",
     "stringId": "96154-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53688,6 +54411,7 @@
     }
   },
   "96159-rebirth.mod": {
+    "name": "Trashed building",
     "stringId": "96159-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53752,6 +54476,7 @@
     }
   },
   "96162-rebirth.mod": {
+    "name": "UC squatters",
     "stringId": "96162-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53852,6 +54577,7 @@
     }
   },
   "96163-rebirth.mod": {
+    "name": "Trashed building w/squatters",
     "stringId": "96163-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -53947,6 +54673,7 @@
     }
   },
   "96078-__Southern hive.mod": {
+    "name": "King squad",
     "stringId": "96078-__Southern hive.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54008,6 +54735,7 @@
     }
   },
   "96173-rebirth.mod": {
+    "name": "noble hunter",
     "stringId": "96173-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54095,6 +54823,7 @@
     }
   },
   "96174-rebirth.mod": {
+    "name": "straw pirate patrol",
     "stringId": "96174-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54173,6 +54902,7 @@
     }
   },
   "96179-rebirth.mod": {
+    "name": "Karate Seeker",
     "stringId": "96179-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54239,6 +54969,7 @@
     }
   },
   "96218-rebirth.mod": {
+    "name": "bugmaster pets",
     "stringId": "96218-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54298,6 +55029,7 @@
     }
   },
   "96237-rebirth.mod": {
+    "name": "Wolf pack patrol day",
     "stringId": "96237-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54359,6 +55091,7 @@
     }
   },
   "96262-rebirth.mod": {
+    "name": "Gorillo boss squad",
     "stringId": "96262-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54449,6 +55182,7 @@
     }
   },
   "96357-rebirth.mod": {
+    "name": "fishman patrol",
     "stringId": "96357-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54522,6 +55256,7 @@
     }
   },
   "96360-rebirth.mod": {
+    "name": "immortal king",
     "stringId": "96360-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54593,6 +55328,7 @@
     }
   },
   "96264-__Southern hive.mod": {
+    "name": "hive trader robotics",
     "stringId": "96264-__Southern hive.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54673,6 +55409,7 @@
     }
   },
   "96400-rebirth.mod": {
+    "name": "venge thralls",
     "stringId": "96400-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54746,6 +55483,7 @@
     }
   },
   "96404-rebirth.mod": {
+    "name": "tower of abuse",
     "stringId": "96404-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54855,6 +55593,7 @@
     }
   },
   "96406-rebirth.mod": {
+    "name": "old control tower",
     "stringId": "96406-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54945,6 +55684,7 @@
     }
   },
   "96412-rebirth.mod": {
+    "name": "agnu",
     "stringId": "96412-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -54999,6 +55739,7 @@
     }
   },
   "96455-rebirth.mod": {
+    "name": "_ruined empty building (NO SELL)",
     "stringId": "96455-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55038,6 +55779,7 @@
     "references": {}
   },
   "97071-__February 18.mod": {
+    "name": "White eyebrow squad camp",
     "stringId": "97071-__February 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55116,6 +55858,7 @@
     }
   },
   "97665-rebirth.mod": {
+    "name": "landbat swarm",
     "stringId": "97665-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55177,6 +55920,7 @@
     }
   },
   "97850-__March 18.mod": {
+    "name": "UC town racists fort",
     "stringId": "97850-__March 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55281,6 +56025,7 @@
     }
   },
   "97858-rebirth.mod": {
+    "name": "Holy Gate Guards small",
     "stringId": "97858-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55395,6 +56140,7 @@
     }
   },
   "97902-rebirth.mod": {
+    "name": "Gurgler nest residents",
     "stringId": "97902-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55473,6 +56219,7 @@
     }
   },
   "97905-rebirth.mod": {
+    "name": "Dust Bandit Squad mild",
     "stringId": "97905-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55560,6 +56307,7 @@
     }
   },
   "98228-__March 18.mod": {
+    "name": "Recruits list Empire copy Catun",
     "stringId": "98228-__March 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55726,6 +56474,7 @@
     }
   },
   "97927-__March 18.mod": {
+    "name": "UC racists patrol",
     "stringId": "97927-__March 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55808,6 +56557,7 @@
     }
   },
   "97943-__March 18.mod": {
+    "name": "UC town racists strong",
     "stringId": "97943-__March 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55869,6 +56619,7 @@
     }
   },
   "98503-rebirth.mod": {
+    "name": "SQUAD_TEMPLATE",
     "stringId": "98503-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55908,6 +56659,7 @@
     "references": {}
   },
   "98505-rebirth.mod": {
+    "name": "gorillo bandit squad",
     "stringId": "98505-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -55986,6 +56738,7 @@
     }
   },
   "98542-___March 2.mod": {
+    "name": "rebel farmer gate guard",
     "stringId": "98542-___March 2.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56079,6 +56832,7 @@
     }
   },
   "98553-rebirth.mod": {
+    "name": "No-Face",
     "stringId": "98553-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56133,6 +56887,7 @@
     }
   },
   "98561-rebirth.mod": {
+    "name": "Tech Hunter Guards small",
     "stringId": "98561-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56187,6 +56942,7 @@
     }
   },
   "99185-rebirth.mod": {
+    "name": "start- nobodies",
     "stringId": "99185-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56234,6 +56990,7 @@
     }
   },
   "99700-__April 18.mod": {
+    "name": "Crab bar patrons 2",
     "stringId": "99700-__April 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56295,6 +57052,7 @@
     }
   },
   "1531880-rebirth.mod": {
+    "name": "south hive invasion",
     "stringId": "1531880-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56385,6 +57143,7 @@
     }
   },
   "1531885-rebirth.mod": {
+    "name": "hive diaspora bandits",
     "stringId": "1531885-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56484,6 +57243,7 @@
     }
   },
   "1531893-rebirth.mod": {
+    "name": "Cannibal home occupation",
     "stringId": "1531893-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56576,6 +57336,7 @@
     }
   },
   "1531895-rebirth.mod": {
+    "name": "hive trader robotics overrun",
     "stringId": "1531895-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56654,6 +57415,7 @@
     }
   },
   "1532241-rebirth.mod": {
+    "name": "hive guards",
     "stringId": "1532241-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56736,6 +57498,7 @@
     }
   },
   "1532243-rebirth.mod": {
+    "name": "skin house raid ruin- no peeler",
     "stringId": "1532243-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56821,6 +57584,7 @@
     }
   },
   "1532481-rebirth.mod": {
+    "name": "Shek Warrior (bar squad)",
     "stringId": "1532481-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56875,6 +57639,7 @@
     }
   },
   "1532528-Newwworld Plus.mod": {
+    "name": "Alpha Fishman",
     "stringId": "1532528-Newwworld Plus.mod",
     "type": "SquadTemplate",
     "values": {
@@ -56922,6 +57687,7 @@
     }
   },
   "1532249-__May 18.mod": {
+    "name": "_swamp ninja genins (broken)",
     "stringId": "1532249-__May 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57004,6 +57770,7 @@
     }
   },
   "1532246-__May 18.mod": {
+    "name": "Band of bones squad (broken)",
     "stringId": "1532246-__May 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57090,6 +57857,7 @@
     }
   },
   "1532244-__May 18.mod": {
+    "name": "Berserker squad (broken)",
     "stringId": "1532244-__May 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57172,6 +57940,7 @@
     }
   },
   "1531973-__May 18.mod": {
+    "name": "hive diaspora lost prince",
     "stringId": "1531973-__May 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57247,6 +58016,7 @@
     }
   },
   "1532241-__May 18.mod": {
+    "name": "krals chosen (broken)",
     "stringId": "1532241-__May 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57315,6 +58085,7 @@
     }
   },
   "1532250-__May 18.mod": {
+    "name": "Scavengers (broken)",
     "stringId": "1532250-__May 18.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57383,6 +58154,7 @@
     }
   },
   "1532486-__May 18 2.mod": {
+    "name": "yabuta barracks",
     "stringId": "1532486-__May 18 2.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57463,6 +58235,7 @@
     }
   },
   "1532483-__May 18 2.mod": {
+    "name": "yabuta hideout",
     "stringId": "1532483-__May 18 2.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57543,6 +58316,7 @@
     }
   },
   "1532487-__May 18 2.mod": {
+    "name": "Yabuta HQ",
     "stringId": "1532487-__May 18 2.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57632,6 +58406,7 @@
     }
   },
   "1532491-__May 18 2.mod": {
+    "name": "yabuta outlaw roaming",
     "stringId": "1532491-__May 18 2.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57717,6 +58492,7 @@
     }
   },
   "1532707-rebirth.mod": {
+    "name": "Crab tournament 1",
     "stringId": "1532707-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57792,6 +58568,7 @@
     }
   },
   "1532790-rebirth.mod": {
+    "name": "Crab tournament 2",
     "stringId": "1532790-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57867,6 +58644,7 @@
     }
   },
   "1532792-rebirth.mod": {
+    "name": "Crab tournament 3",
     "stringId": "1532792-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -57942,6 +58720,7 @@
     }
   },
   "1532794-rebirth.mod": {
+    "name": "Crab tournament 4 ",
     "stringId": "1532794-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58017,6 +58796,7 @@
     }
   },
   "1532796-rebirth.mod": {
+    "name": "Crab tournament 0",
     "stringId": "1532796-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58085,6 +58865,7 @@
     }
   },
   "1532812-rebirth.mod": {
+    "name": "Crab raiders scout",
     "stringId": "1532812-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58160,6 +58941,7 @@
     }
   },
   "1532816-rebirth.mod": {
+    "name": "Sniper Tower II",
     "stringId": "1532816-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58243,6 +59025,7 @@
     }
   },
   "1532825-rebirth.mod": {
+    "name": "Drug farm",
     "stringId": "1532825-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58309,6 +59092,7 @@
     }
   },
   "1532829-rebirth.mod": {
+    "name": "anti-slaver Gate Guard",
     "stringId": "1532829-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58409,6 +59193,7 @@
     }
   },
   "1532935-rebirth.mod": {
+    "name": "startoff- rebirth",
     "stringId": "1532935-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58456,6 +59241,7 @@
     }
   },
   "1532883-__world reactions NE.mod": {
+    "name": "Anti slaver (override)",
     "stringId": "1532883-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58557,6 +59343,7 @@
     }
   },
   "1532937-__world reactions NE.mod": {
+    "name": "Anti slaver HQ (override)",
     "stringId": "1532937-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58658,6 +59445,7 @@
     }
   },
   "1532946-__world reactions NE.mod": {
+    "name": "Anti slaver patrol (override) longen dead",
     "stringId": "1532946-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58731,6 +59519,7 @@
     }
   },
   "1532895-__world reactions NE.mod": {
+    "name": "Bark fish shop (override)",
     "stringId": "1532895-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58806,6 +59595,7 @@
     }
   },
   "1532845-__world reactions NE.mod": {
+    "name": "Cannibal raid 1 (tengu dead)",
     "stringId": "1532845-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -58920,6 +59710,7 @@
     }
   },
   "1532922-__world reactions NE.mod": {
+    "name": "Cannibal raid sho battai",
     "stringId": "1532922-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59029,6 +59820,7 @@
     }
   },
   "1532920-__world reactions NE.mod": {
+    "name": "cannibal sho battai ruin",
     "stringId": "1532920-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59114,6 +59906,7 @@
     }
   },
   "1532921-__world reactions NE.mod": {
+    "name": "Cannibal sho battai scrawny ",
     "stringId": "1532921-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59231,6 +60024,7 @@
     }
   },
   "1532912-__world reactions NE.mod": {
+    "name": "Civilian family (override) shack",
     "stringId": "1532912-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59316,6 +60110,7 @@
     }
   },
   "1532942-__world reactions NE.mod": {
+    "name": "Civilian Heng (override)",
     "stringId": "1532942-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59397,6 +60192,7 @@
     }
   },
   "1532849-__world reactions NE.mod": {
+    "name": "Crab raiders patrol (Tsugi dead, Valamon dead)",
     "stringId": "1532849-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59492,6 +60288,7 @@
     }
   },
   "1532853-__world reactions NE.mod": {
+    "name": "Crab raiders patrol (Yoshinaga dead, Valamon dead)",
     "stringId": "1532853-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59592,6 +60389,7 @@
     }
   },
   "1532850-__world reactions NE.mod": {
+    "name": "Empire army (Nagata alive)",
     "stringId": "1532850-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59691,6 +60489,7 @@
     }
   },
   "1532846-__world reactions NE.mod": {
+    "name": "Empire army (sanda alive)",
     "stringId": "1532846-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59790,6 +60589,7 @@
     }
   },
   "1532851-__world reactions NE.mod": {
+    "name": "Empire army (Yoshinaga alive)",
     "stringId": "1532851-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59889,6 +60689,7 @@
     }
   },
   "1532843-__world reactions NE.mod": {
+    "name": "Empire army force weak (Inaba alive)",
     "stringId": "1532843-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -59988,6 +60789,7 @@
     }
   },
   "1532847-__world reactions NE.mod": {
+    "name": "Empire army small patrol (Tsugi alive)",
     "stringId": "1532847-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60077,6 +60879,7 @@
     }
   },
   "1533149-__world reactions NE.mod": {
+    "name": "Empire guard bandits (diaspora)",
     "stringId": "1533149-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60186,6 +60989,7 @@
     }
   },
   "1532881-__world reactions NE.mod": {
+    "name": "empire rebel farmers heavy (inaba dead)",
     "stringId": "1532881-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60295,6 +61099,7 @@
     }
   },
   "1532844-__world reactions NE.mod": {
+    "name": "empire rebel farmers heavy (tengu dead)",
     "stringId": "1532844-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60411,6 +61216,7 @@
     }
   },
   "1532884-__world reactions NE.mod": {
+    "name": "Empire squatters (override)",
     "stringId": "1532884-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60507,6 +61313,7 @@
     }
   },
   "1532890-__world reactions NE.mod": {
+    "name": "heft hq (override)",
     "stringId": "1532890-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60559,6 +61366,7 @@
     }
   },
   "1532897-__world reactions NE.mod": {
+    "name": "Outlaw barracks (override)",
     "stringId": "1532897-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60685,6 +61493,7 @@
     }
   },
   "1532891-__world reactions NE.mod": {
+    "name": "Outlaw Gate guard",
     "stringId": "1532891-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60806,6 +61615,7 @@
     }
   },
   "1532889-__world reactions NE.mod": {
+    "name": "Outlaw guards (override)",
     "stringId": "1532889-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -60908,6 +61718,7 @@
     }
   },
   "1532848-__world reactions NE.mod": {
+    "name": "reaver patrol (Tsugi dead)",
     "stringId": "1532848-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61002,6 +61813,7 @@
     }
   },
   "1532852-__world reactions NE.mod": {
+    "name": "reaver patrol (Yoshinaga dead)",
     "stringId": "1532852-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61101,6 +61913,7 @@
     }
   },
   "1532858-__world reactions NE.mod": {
+    "name": "reaver patrol brink town patrol",
     "stringId": "1532858-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61176,6 +61989,7 @@
     }
   },
   "1532856-__world reactions NE.mod": {
+    "name": "Reaver residents (Brink)",
     "stringId": "1532856-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61272,6 +62086,7 @@
     }
   },
   "1532857-__world reactions NE.mod": {
+    "name": "Reaver residents (Brink)",
     "stringId": "1532857-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61368,6 +62183,7 @@
     }
   },
   "1532855-__world reactions NE.mod": {
+    "name": "Reaver residents (Brink) HQ",
     "stringId": "1532855-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61462,6 +62278,7 @@
     }
   },
   "1532916-__world reactions NE.mod": {
+    "name": "Slaver Shop (override)",
     "stringId": "1532916-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61551,6 +62368,7 @@
     }
   },
   "1532933-__world reactions NE.mod": {
+    "name": "Trashed building w/squatters (override)",
     "stringId": "1532933-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61612,6 +62430,7 @@
     }
   },
   "1532911-__world reactions NE.mod": {
+    "name": "Trashed house empty",
     "stringId": "1532911-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61676,6 +62495,7 @@
     }
   },
   "1532892-__world reactions NE.mod": {
+    "name": "UC residents (override)",
     "stringId": "1532892-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61751,6 +62571,7 @@
     }
   },
   "1532913-__world reactions NE.mod": {
+    "name": "UC residents (override) ruin",
     "stringId": "1532913-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61831,6 +62652,7 @@
     }
   },
   "1532859-__world reactions NE.mod": {
+    "name": "Whelp Cage Warden (Brink)",
     "stringId": "1532859-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61906,6 +62728,7 @@
     }
   },
   "1532934-__world reactions NE.mod": {
+    "name": "yabuta town patrol",
     "stringId": "1532934-__world reactions NE.mod",
     "type": "SquadTemplate",
     "values": {
@@ -61981,6 +62804,7 @@
     }
   },
   "1532624-__world reactions.mod": {
+    "name": "Berserker squad (phoenix dead)",
     "stringId": "1532624-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62068,6 +62892,7 @@
     }
   },
   "1532653-__world reactions.mod": {
+    "name": "Berserker squad (seta dead)",
     "stringId": "1532653-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62155,6 +62980,7 @@
     }
   },
   "1532977-__world reactions.mod": {
+    "name": "blister hill squatter",
     "stringId": "1532977-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62256,6 +63082,7 @@
     }
   },
   "1532656-__world reactions.mod": {
+    "name": "flotsam patrol (seta dead)",
     "stringId": "1532656-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62334,6 +63161,7 @@
     }
   },
   "1532972-__world reactions.mod": {
+    "name": "Holy Army bandits (override) diaspora",
     "stringId": "1532972-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62412,6 +63240,7 @@
     }
   },
   "1532658-__world reactions.mod": {
+    "name": "Holy Army force (esata dead)",
     "stringId": "1532658-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62504,6 +63333,7 @@
     }
   },
   "1532646-__world reactions.mod": {
+    "name": "Holy Army force (valtena alive)",
     "stringId": "1532646-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62591,6 +63421,7 @@
     }
   },
   "1532659-__world reactions.mod": {
+    "name": "Holy Army Patrol (esata dead)",
     "stringId": "1532659-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62678,6 +63509,7 @@
     }
   },
   "1532650-__world reactions.mod": {
+    "name": "Holy Army Patrol (phoenix alive)",
     "stringId": "1532650-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62760,6 +63592,7 @@
     }
   },
   "1532649-__world reactions.mod": {
+    "name": "Holy Army Patrol (Seta is alive)",
     "stringId": "1532649-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62842,6 +63675,7 @@
     }
   },
   "1532647-__world reactions.mod": {
+    "name": "Holy Army Patrol (valtena alive)",
     "stringId": "1532647-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -62924,6 +63758,7 @@
     }
   },
   "1532651-__world reactions.mod": {
+    "name": "Inquisitor roam (phoenix alive)",
     "stringId": "1532651-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63013,6 +63848,7 @@
     }
   },
   "1532655-__world reactions.mod": {
+    "name": "krals chosen (phoenix dead)",
     "stringId": "1532655-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63091,6 +63927,7 @@
     }
   },
   "1532652-__world reactions.mod": {
+    "name": "krals chosen (seta dead)",
     "stringId": "1532652-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63164,6 +64001,7 @@
     }
   },
   "1533075-__world reactions W.mod": {
+    "name": "Shek Barracks",
     "stringId": "1533075-__world reactions W.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63242,6 +64080,7 @@
     }
   },
   "1532622-__world reactions.mod": {
+    "name": "Shek Kamikaze (esata dead)",
     "stringId": "1532622-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63331,6 +64170,7 @@
     }
   },
   "1532657-__world reactions.mod": {
+    "name": "Shek Patrol (esata alive)",
     "stringId": "1532657-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63432,6 +64272,7 @@
     }
   },
   "1532654-__world reactions.mod": {
+    "name": "Shek Patrol (phoenix dead)",
     "stringId": "1532654-__world reactions.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63531,6 +64372,7 @@
     }
   },
   "1532982-__world reactions W.mod": {
+    "name": "Shek Patrol (seta dead)",
     "stringId": "1532982-__world reactions W.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63630,6 +64472,7 @@
     }
   },
   "1533322-__world reactions Shek.mod": {
+    "name": "Holy Army Patrol (seto dead)",
     "stringId": "1533322-__world reactions Shek.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63717,6 +64560,7 @@
     }
   },
   "1533315-__world reactions Shek.mod": {
+    "name": "shek HQ (override)",
     "stringId": "1533315-__world reactions Shek.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63812,6 +64656,7 @@
     }
   },
   "1533325-__world reactions Shek.mod": {
+    "name": "shek HQ (override) Mukai",
     "stringId": "1533325-__world reactions Shek.mod",
     "type": "SquadTemplate",
     "values": {
@@ -63909,6 +64754,7 @@
     }
   },
   "1533366-__world reactions Shek.mod": {
+    "name": "Shek Patrol (Mukai alive)",
     "stringId": "1533366-__world reactions Shek.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64010,6 +64856,7 @@
     }
   },
   "1533318-__world reactions Shek.mod": {
+    "name": "Shek Patrol (seto revenge)",
     "stringId": "1533318-__world reactions Shek.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64109,6 +64956,7 @@
     }
   },
   "1533316-__world reactions Shek.mod": {
+    "name": "Shek Town Guard (override)",
     "stringId": "1533316-__world reactions Shek.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64187,6 +65035,7 @@
     }
   },
   "1533508-rebirth.mod": {
+    "name": "ash dome 1",
     "stringId": "1533508-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64255,6 +65104,7 @@
     }
   },
   "1533510-rebirth.mod": {
+    "name": "ash dome 2",
     "stringId": "1533510-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64323,6 +65173,7 @@
     }
   },
   "1533512-rebirth.mod": {
+    "name": "screamer unit",
     "stringId": "1533512-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64384,6 +65235,7 @@
     }
   },
   "1533514-rebirth.mod": {
+    "name": "legion thrall unit",
     "stringId": "1533514-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64452,6 +65304,7 @@
     }
   },
   "1533536-__world reactions Slavers.mod": {
+    "name": "Adventure shop (malnourished)",
     "stringId": "1533536-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64551,6 +65404,7 @@
     }
   },
   "1533663-__world reactions Slavers.mod": {
+    "name": "Anti slaver patrol (override) grande dead",
     "stringId": "1533663-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64624,6 +65478,7 @@
     }
   },
   "1533664-__world reactions Slavers.mod": {
+    "name": "Anti slaver patrol (override) kana dead",
     "stringId": "1533664-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64697,6 +65552,7 @@
     }
   },
   "1533662-__world reactions Slavers.mod": {
+    "name": "Anti slaver patrol (override) ren/sly dead",
     "stringId": "1533662-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64775,6 +65631,7 @@
     }
   },
   "1533530-__world reactions Slavers.mod": {
+    "name": "Barracks UC (malnourished)",
     "stringId": "1533530-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64884,6 +65741,7 @@
     }
   },
   "1533589-__world reactions Slavers.mod": {
+    "name": "best armour shop UC (malnourished)",
     "stringId": "1533589-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -64966,6 +65824,7 @@
     }
   },
   "1533543-__world reactions Slavers.mod": {
+    "name": "Civilian family (malnourished)",
     "stringId": "1533543-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65027,6 +65886,7 @@
     }
   },
   "1533542-__world reactions Slavers.mod": {
+    "name": "Empire Gate guard (malnourished)",
     "stringId": "1533542-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65136,6 +65996,7 @@
     }
   },
   "1533666-__world reactions Slavers.mod": {
+    "name": "Empire guard bandits (diaspora) (malnourished N)",
     "stringId": "1533666-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65235,6 +66096,7 @@
     }
   },
   "1533665-__world reactions Slavers.mod": {
+    "name": "Empire guard bandits (diaspora) (malnourished S)",
     "stringId": "1533665-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65334,6 +66196,7 @@
     }
   },
   "1533594-__world reactions Slavers.mod": {
+    "name": "Empire Noble Inaba (malnourished)",
     "stringId": "1533594-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65403,6 +66266,7 @@
     }
   },
   "1533540-__world reactions Slavers.mod": {
+    "name": "Empire Noble Nagata (malnourished)",
     "stringId": "1533540-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65479,6 +66343,7 @@
     }
   },
   "1533602-__world reactions Slavers.mod": {
+    "name": "Empire Noble Tsugi (malnourished)",
     "stringId": "1533602-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65548,6 +66413,7 @@
     }
   },
   "1533586-__world reactions Slavers.mod": {
+    "name": "farm village barracks peasant",
     "stringId": "1533586-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65609,6 +66475,7 @@
     }
   },
   "1533585-__world reactions Slavers.mod": {
+    "name": "Fish shop",
     "stringId": "1533585-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65691,6 +66558,7 @@
     }
   },
   "1533517-__world reactions Slavers.mod": {
+    "name": "manhunter patrol (S)",
     "stringId": "1533517-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65764,6 +66632,7 @@
     }
   },
   "1533510-__world reactions Slavers.mod": {
+    "name": "manhunter patrol (kana and haga alive)",
     "stringId": "1533510-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65842,6 +66711,7 @@
     }
   },
   "1533514-__world reactions Slavers.mod": {
+    "name": "manhunter patrol (ren and sly alive)",
     "stringId": "1533514-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -65920,6 +66790,7 @@
     }
   },
   "1533551-__world reactions Slavers.mod": {
+    "name": "Mercenary guild (malnourished)",
     "stringId": "1533551-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66012,6 +66883,7 @@
     }
   },
   "1533498-__world reactions Slavers.mod": {
+    "name": "noble slave boss/ grand",
     "stringId": "1533498-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66101,6 +66973,7 @@
     }
   },
   "1533486-__world reactions Slavers.mod": {
+    "name": "noble slave boss/ market",
     "stringId": "1533486-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66190,6 +67063,7 @@
     }
   },
   "1533521-__world reactions Slavers.mod": {
+    "name": "noble slave boss/ wada",
     "stringId": "1533521-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66279,6 +67153,7 @@
     }
   },
   "1533496-__world reactions Slavers.mod": {
+    "name": "noble slave farm boss/ grace",
     "stringId": "1533496-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66368,6 +67243,7 @@
     }
   },
   "1533487-__world reactions Slavers.mod": {
+    "name": "noble slave farm boss/ ren",
     "stringId": "1533487-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66457,6 +67333,7 @@
     }
   },
   "1533490-__world reactions Slavers.mod": {
+    "name": "noble stone boss/ Haga",
     "stringId": "1533490-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66546,6 +67423,7 @@
     }
   },
   "1533493-__world reactions Slavers.mod": {
+    "name": "noble stone boss/ Sly",
     "stringId": "1533493-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66635,6 +67513,7 @@
     }
   },
   "1533695-__world reactions Slavers.mod": {
+    "name": "Police Station Tower (free)",
     "stringId": "1533695-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66717,6 +67596,7 @@
     }
   },
   "1533541-__world reactions Slavers.mod": {
+    "name": "Police Station Tower (malnourished)",
     "stringId": "1533541-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66806,6 +67686,7 @@
     }
   },
   "1533549-__world reactions Slavers.mod": {
+    "name": "Recruits list Empire (malnourished)",
     "stringId": "1533549-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -66972,6 +67853,7 @@
     }
   },
   "1533545-__world reactions Slavers.mod": {
+    "name": "Shop bar Empire (malnourished)",
     "stringId": "1533545-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67060,6 +67942,7 @@
     }
   },
   "1533546-__world reactions Slavers.mod": {
+    "name": "shop tools UC (malnourished)",
     "stringId": "1533546-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67140,6 +68023,7 @@
     }
   },
   "1533582-__world reactions Slavers.mod": {
+    "name": "Shop trader UC bigger (free)",
     "stringId": "1533582-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67227,6 +68111,7 @@
     }
   },
   "1533535-__world reactions Slavers.mod": {
+    "name": "Shop trader UC bigger (malnourished)",
     "stringId": "1533535-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67314,6 +68199,7 @@
     }
   },
   "1533539-__world reactions Slavers.mod": {
+    "name": "Shop weapons Crossbow (malnourished)",
     "stringId": "1533539-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67401,6 +68287,7 @@
     }
   },
   "1533581-__world reactions Slavers.mod": {
+    "name": "Shop Weapons UC small (free)",
     "stringId": "1533581-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67476,6 +68363,7 @@
     }
   },
   "1533538-__world reactions Slavers.mod": {
+    "name": "Shop Weapons UC small (malnourished)",
     "stringId": "1533538-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67551,6 +68439,7 @@
     }
   },
   "1533515-__world reactions Slavers.mod": {
+    "name": "Slaver caravan (grace alive)",
     "stringId": "1533515-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67648,6 +68537,7 @@
     }
   },
   "1533508-__world reactions Slavers.mod": {
+    "name": "Slaver caravan (grande alive)",
     "stringId": "1533508-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67745,6 +68635,7 @@
     }
   },
   "1533511-__world reactions Slavers.mod": {
+    "name": "Slaver caravan (kana and haga alive)",
     "stringId": "1533511-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67847,6 +68738,7 @@
     }
   },
   "1533516-__world reactions Slavers.mod": {
+    "name": "Slaver caravan (market master alive)",
     "stringId": "1533516-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -67944,6 +68836,7 @@
     }
   },
   "1533509-__world reactions Slavers.mod": {
+    "name": "Slaver caravan (ren and sly alive)",
     "stringId": "1533509-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68046,6 +68939,7 @@
     }
   },
   "1533533-__world reactions Slavers.mod": {
+    "name": "Storehouse UC (malnourished)",
     "stringId": "1533533-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68100,6 +68994,7 @@
     }
   },
   "1533588-__world reactions Slavers.mod": {
+    "name": "tengus palace (malnourished)",
     "stringId": "1533588-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68228,6 +69123,7 @@
     }
   },
   "1533550-__world reactions Slavers.mod": {
+    "name": "Thief Group (malnourished)",
     "stringId": "1533550-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68320,6 +69216,7 @@
     }
   },
   "1533544-__world reactions Slavers.mod": {
+    "name": "Thieves Guild (malnourished)",
     "stringId": "1533544-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68434,6 +69331,7 @@
     }
   },
   "1533607-__world reactions Slavers.mod": {
+    "name": "traders guild HQ (malnourished)",
     "stringId": "1533607-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68550,6 +69448,7 @@
     }
   },
   "1533608-__world reactions Slavers.mod": {
+    "name": "traders HQ guards malnourished",
     "stringId": "1533608-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68625,6 +69524,7 @@
     }
   },
   "1533534-__world reactions Slavers.mod": {
+    "name": "UC big bar (malnourished)",
     "stringId": "1533534-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68727,6 +69627,7 @@
     }
   },
   "1533603-__world reactions Slavers.mod": {
+    "name": "UC farmer stormhouse (malnourished)",
     "stringId": "1533603-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68788,6 +69689,7 @@
     }
   },
   "1533552-__world reactions Slavers.mod": {
+    "name": "UC town racists (malnourished)",
     "stringId": "1533552-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68870,6 +69772,7 @@
     }
   },
   "1533658-rebirth.mod": {
+    "name": "startoff- exile",
     "stringId": "1533658-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68917,6 +69820,7 @@
     }
   },
   "1533660-rebirth.mod": {
+    "name": "startoff- Wanderer UC",
     "stringId": "1533660-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -68964,6 +69868,7 @@
     }
   },
   "1533663-rebirth.mod": {
+    "name": "ash dome 3",
     "stringId": "1533663-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69037,6 +69942,7 @@
     }
   },
   "1533667-rebirth.mod": {
+    "name": "ash dome 4",
     "stringId": "1533667-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69117,6 +70023,7 @@
     }
   },
   "1533701-__world reactions Slavers.mod": {
+    "name": "Empire army (Slave masters alive)",
     "stringId": "1533701-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69216,6 +70123,7 @@
     }
   },
   "1533703-__world reactions Slavers.mod": {
+    "name": "Empire Noble Merin",
     "stringId": "1533703-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69285,6 +70193,7 @@
     }
   },
   "1533708-__world reactions Slavers.mod": {
+    "name": "Empire Noble Shiro",
     "stringId": "1533708-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69354,6 +70263,7 @@
     }
   },
   "1533700-__world reactions Slavers.mod": {
+    "name": "slave hunters (S)",
     "stringId": "1533700-__world reactions Slavers.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69434,6 +70344,7 @@
     }
   },
   "1533776-__world reactios swamp.mod": {
+    "name": "Adventure shop (swamp store)",
     "stringId": "1533776-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69538,6 +70449,7 @@
     }
   },
   "1533735-__world reactios swamp.mod": {
+    "name": "band of bones gate guards",
     "stringId": "1533735-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69614,6 +70526,7 @@
     }
   },
   "1533733-__world reactios swamp.mod": {
+    "name": "Band of bones hideout",
     "stringId": "1533733-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69690,6 +70603,7 @@
     }
   },
   "1533734-__world reactios swamp.mod": {
+    "name": "Band of bones residential",
     "stringId": "1533734-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69759,6 +70673,7 @@
     }
   },
   "1533714-__world reactios swamp.mod": {
+    "name": "blackshifter hq",
     "stringId": "1533714-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69873,6 +70788,7 @@
     }
   },
   "1533715-__world reactios swamp.mod": {
+    "name": "Blackshifter town patrol",
     "stringId": "1533715-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -69958,6 +70874,7 @@
     }
   },
   "1533736-__world reactios swamp.mod": {
+    "name": "empire rebel farmers (civil war)",
     "stringId": "1533736-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70048,6 +70965,7 @@
     }
   },
   "1533740-__world reactios swamp.mod": {
+    "name": "empire rebel farmers (south)",
     "stringId": "1533740-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70145,6 +71063,7 @@
     }
   },
   "1533741-__world reactios swamp.mod": {
+    "name": "empire rebel farmers heavy (merin dead)",
     "stringId": "1533741-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70261,6 +71180,7 @@
     }
   },
   "1533712-__world reactios swamp.mod": {
+    "name": "grayflayer hq",
     "stringId": "1533712-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70375,6 +71295,7 @@
     }
   },
   "1533777-__world reactios swamp.mod": {
+    "name": "Merc smithy (swamp house)",
     "stringId": "1533777-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70489,6 +71410,7 @@
     }
   },
   "1533775-__world reactios swamp.mod": {
+    "name": "Mercenary guard 5 copy",
     "stringId": "1533775-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70555,6 +71477,7 @@
     }
   },
   "1533738-__world reactios swamp.mod": {
+    "name": "peasant vagrants (civil war)",
     "stringId": "1533738-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70623,6 +71546,7 @@
     }
   },
   "1533764-__world reactios swamp.mod": {
+    "name": "Police Barrack (free) copy",
     "stringId": "1533764-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70705,6 +71629,7 @@
     }
   },
   "1533725-__world reactios swamp.mod": {
+    "name": "spider house",
     "stringId": "1533725-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70766,6 +71691,7 @@
     }
   },
   "1533724-__world reactios swamp.mod": {
+    "name": "spider ruins",
     "stringId": "1533724-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70827,6 +71753,7 @@
     }
   },
   "1533731-__world reactios swamp.mod": {
+    "name": "swamp ninja gate guards",
     "stringId": "1533731-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70913,6 +71840,7 @@
     }
   },
   "1533730-__world reactios swamp.mod": {
+    "name": "swamp ninja village",
     "stringId": "1533730-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -70986,6 +71914,7 @@
     }
   },
   "1533727-__world reactios swamp.mod": {
+    "name": "swamp smithy (override)",
     "stringId": "1533727-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71085,6 +72014,7 @@
     }
   },
   "1533728-__world reactios swamp.mod": {
+    "name": "swamp trade goods (override)",
     "stringId": "1533728-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71179,6 +72109,7 @@
     }
   },
   "1533729-__world reactios swamp.mod": {
+    "name": "swamp travel shop (override)",
     "stringId": "1533729-__world reactios swamp.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71273,6 +72204,7 @@
     }
   },
   "1533838-rebirth.mod": {
+    "name": "Mongrel undertakers",
     "stringId": "1533838-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71334,6 +72266,7 @@
     }
   },
   "1533842-rebirth.mod": {
+    "name": "cat lon",
     "stringId": "1533842-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71405,6 +72338,7 @@
     }
   },
   "1533850-rebirth.mod": {
+    "name": "Shop armor tech hunter",
     "stringId": "1533850-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71473,6 +72407,7 @@
     }
   },
   "1533940-rebirth.mod": {
+    "name": "ash dome mob",
     "stringId": "1533940-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71539,6 +72474,7 @@
     }
   },
   "1534014-__SE world states.mod": {
+    "name": "Ark squatters",
     "stringId": "1534014-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71640,6 +72576,7 @@
     }
   },
   "1534008-__SE world states.mod": {
+    "name": "Gurgler town squad Crab Town",
     "stringId": "1534008-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71735,6 +72672,7 @@
     }
   },
   "1533861-__SE world states.mod": {
+    "name": "iron hq -south hive",
     "stringId": "1533861-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71815,6 +72753,7 @@
     }
   },
   "1534009-__SE world states.mod": {
+    "name": "reaver HQ (override) crab takeover",
     "stringId": "1534009-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -71917,6 +72856,7 @@
     }
   },
   "1534012-__SE world states.mod": {
+    "name": "Reaver residents (Ark)",
     "stringId": "1534012-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72013,6 +72953,7 @@
     }
   },
   "1533942-__SE world states.mod": {
+    "name": "Reaver residents (camp) hideout",
     "stringId": "1533942-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72102,6 +73043,7 @@
     }
   },
   "1533941-__SE world states.mod": {
+    "name": "Reaver residents (camp) Prison",
     "stringId": "1533941-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72191,6 +73133,7 @@
     }
   },
   "1533940-__SE world states.mod": {
+    "name": "Reaver residents (camp) residential",
     "stringId": "1533940-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72280,6 +73223,7 @@
     }
   },
   "1533858-__SE world states.mod": {
+    "name": "skin bandit patrol (elder dead)",
     "stringId": "1533858-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72377,6 +73321,7 @@
     }
   },
   "1533864-__SE world states.mod": {
+    "name": "skinhouse -south hive",
     "stringId": "1533864-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72474,6 +73419,7 @@
     }
   },
   "1533965-__SE world states.mod": {
+    "name": "Slaver caravan (tinfist dead)",
     "stringId": "1533965-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72576,6 +73522,7 @@
     }
   },
   "1533870-__SE world states.mod": {
+    "name": "south hive gate guards",
     "stringId": "1533870-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72671,6 +73618,7 @@
     }
   },
   "1533862-__SE world states.mod": {
+    "name": "south hive guards (residential)",
     "stringId": "1533862-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72739,6 +73687,7 @@
     }
   },
   "1533857-__SE world states.mod": {
+    "name": "south hive patrol (elder dead)",
     "stringId": "1533857-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72841,6 +73790,7 @@
     }
   },
   "1533867-__SE world states.mod": {
+    "name": "south hive patrol (savant dead)",
     "stringId": "1533867-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -72943,6 +73893,7 @@
     }
   },
   "1533871-__SE world states.mod": {
+    "name": "swamp dome -south hive copy",
     "stringId": "1533871-__SE world states.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73023,6 +73974,7 @@
     }
   },
   "1534046-rebirth.mod": {
+    "name": "Robot spiders static ashland",
     "stringId": "1534046-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73091,6 +74043,7 @@
     }
   },
   "1534048-rebirth.mod": {
+    "name": "skeleton legion force (post)",
     "stringId": "1534048-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73174,6 +74127,7 @@
     }
   },
   "1534050-rebirth.mod": {
+    "name": "start- nobodies copy",
     "stringId": "1534050-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73236,6 +74190,7 @@
     }
   },
   "1534417-__Fixes.mod": {
+    "name": "Empire Noble Ohta (malnourished)",
     "stringId": "1534417-__Fixes.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73305,6 +74260,7 @@
     }
   },
   "1534432-__Fixes.mod": {
+    "name": "krals chosen (HN destroyed)",
     "stringId": "1534432-__Fixes.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73388,6 +74344,7 @@
     }
   },
   "1534417-rebirth.mod": {
+    "name": "startoff- Wanderer squad holy",
     "stringId": "1534417-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73435,6 +74392,7 @@
     }
   },
   "1534419-rebirth.mod": {
+    "name": "holy Shop trade adv",
     "stringId": "1534419-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73508,6 +74466,7 @@
     }
   },
   "1534422-rebirth.mod": {
+    "name": "Tech Hunter HQ",
     "stringId": "1534422-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73595,6 +74554,7 @@
     }
   },
   "1535033-rebirth.mod": {
+    "name": "undertakers",
     "stringId": "1535033-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73649,6 +74609,7 @@
     }
   },
   "1535037-rebirth.mod": {
+    "name": "startoff- slave uc",
     "stringId": "1535037-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73696,6 +74657,7 @@
     }
   },
   "1535060-rebirth.mod": {
+    "name": "hive factory",
     "stringId": "1535060-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73800,6 +74762,7 @@
     }
   },
   "1535072-__November6.mod": {
+    "name": "anti-slaver town patrol",
     "stringId": "1535072-__November6.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73873,6 +74836,7 @@
     }
   },
   "1535073-rebirth.mod": {
+    "name": "Flotsam Bakery",
     "stringId": "1535073-rebirth.mod",
     "type": "SquadTemplate",
     "values": {
@@ -73970,6 +74934,7 @@
     }
   },
   "1535096-rebirth.mod": {
+    "name": "holy materials storage",
     "stringId": "1535096-rebirth.mod",
     "type": "SquadTemplate",
     "values": {

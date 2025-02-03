@@ -1,5 +1,6 @@
 {
   "997-gamedata.base": {
+    "name": "sign2- -clothes",
     "stringId": "997-gamedata.base",
     "type": "Building",
     "values": {
@@ -94,6 +95,7 @@
     }
   },
   "3471-otto.mod": {
+    "name": "Small Table",
     "stringId": "3471-otto.mod",
     "type": "Building",
     "values": {
@@ -183,6 +185,7 @@
     }
   },
   "2944-gamedata.base": {
+    "name": "Storage: Armour Plate",
     "stringId": "2944-gamedata.base",
     "type": "Building",
     "values": {
@@ -286,6 +289,7 @@
     }
   },
   "12838-nodes_otto.mod": {
+    "name": "Exaust Pipe",
     "stringId": "12838-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -373,6 +377,7 @@
     }
   },
   "654-gamedata.base": {
+    "name": "Barrel A",
     "stringId": "654-gamedata.base",
     "type": "Building",
     "values": {
@@ -455,6 +460,7 @@
     }
   },
   "972-gamedata.base": {
+    "name": "Weapon Sign",
     "stringId": "972-gamedata.base",
     "type": "Building",
     "values": {
@@ -542,6 +548,7 @@
     }
   },
   "14443-gamedata.base": {
+    "name": "Light Post I",
     "stringId": "14443-gamedata.base",
     "type": "Building",
     "values": {
@@ -643,6 +650,7 @@
     }
   },
   "704-gamedata.base": {
+    "name": "Outpost Stairs",
     "stringId": "704-gamedata.base",
     "type": "Building",
     "values": {
@@ -783,6 +791,7 @@
     }
   },
   "2630-Cannibals.mod": {
+    "name": "Cannibal Shack",
     "stringId": "2630-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -891,6 +900,7 @@
     }
   },
   "12854-nodes_otto.mod": {
+    "name": "Market Tent",
     "stringId": "12854-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -978,6 +988,7 @@
     }
   },
   "5356-furniture_otto.mod": {
+    "name": "Weapon Display Board",
     "stringId": "5356-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -1067,6 +1078,7 @@
     }
   },
   "1183-gamedata.base": {
+    "name": "Node Use",
     "stringId": "1183-gamedata.base",
     "type": "Building",
     "values": {
@@ -1149,6 +1161,7 @@
     }
   },
   "2870-gamedata.base": {
+    "name": "Harpoon Turret",
     "stringId": "2870-gamedata.base",
     "type": "Building",
     "values": {
@@ -1281,6 +1294,7 @@
     }
   },
   "3436-otto.mod": {
+    "name": "sign3_bar",
     "stringId": "3436-otto.mod",
     "type": "Building",
     "values": {
@@ -1368,6 +1382,7 @@
     }
   },
   "5431-lights_otto.mod": {
+    "name": "Wall Spotlight",
     "stringId": "5431-lights_otto.mod",
     "type": "Building",
     "values": {
@@ -1464,6 +1479,7 @@
     }
   },
   "1875-gamedata.base": {
+    "name": "Small Research Bench",
     "stringId": "1875-gamedata.base",
     "type": "Building",
     "values": {
@@ -1553,6 +1569,7 @@
     }
   },
   "2935-Walls2.mod": {
+    "name": "Defensive Gate V",
     "stringId": "2935-Walls2.mod",
     "type": "Building",
     "values": {
@@ -1675,6 +1692,7 @@
     }
   },
   "1476-gamedata.base": {
+    "name": "Door House",
     "stringId": "1476-gamedata.base",
     "type": "Building",
     "values": {
@@ -1757,6 +1775,7 @@
     }
   },
   "3475-otto.mod": {
+    "name": "Weapon Display",
     "stringId": "3475-otto.mod",
     "type": "Building",
     "values": {
@@ -1846,6 +1865,7 @@
     }
   },
   "1463-gamedata.base": {
+    "name": "Saloon Door",
     "stringId": "1463-gamedata.base",
     "type": "Building",
     "values": {
@@ -1935,6 +1955,7 @@
     }
   },
   "2941-gamedata.base": {
+    "name": "Storage: Steel Bars",
     "stringId": "2941-gamedata.base",
     "type": "Building",
     "values": {
@@ -2038,6 +2059,7 @@
     }
   },
   "4031-TwoStorey.mod": {
+    "name": "Storm House Door F",
     "stringId": "4031-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -2120,6 +2142,7 @@
     }
   },
   "1976-gamedata.base": {
+    "name": "Small Generator",
     "stringId": "1976-gamedata.base",
     "type": "Building",
     "values": {
@@ -2228,6 +2251,7 @@
     }
   },
   "993-gamedata.base": {
+    "name": "Sign Medic",
     "stringId": "993-gamedata.base",
     "type": "Building",
     "values": {
@@ -2315,6 +2339,7 @@
     }
   },
   "999-gamedata.base": {
+    "name": "sign2- -medic",
     "stringId": "999-gamedata.base",
     "type": "Building",
     "values": {
@@ -2402,6 +2427,7 @@
     }
   },
   "5368-furniture_otto.mod": {
+    "name": "Bread Oven",
     "stringId": "5368-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -2503,6 +2529,7 @@
     }
   },
   "3097-walls.mod": {
+    "name": "Defensive Wall IV Tower",
     "stringId": "3097-walls.mod",
     "type": "Building",
     "values": {
@@ -2611,6 +2638,7 @@
     }
   },
   "5362-furniture_otto.mod": {
+    "name": "Support Beam 2",
     "stringId": "5362-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -2693,6 +2721,7 @@
     }
   },
   "2267-gamedata.base": {
+    "name": "Medical Workbench",
     "stringId": "2267-gamedata.base",
     "type": "Building",
     "values": {
@@ -2803,6 +2832,7 @@
     }
   },
   "2645-Cannibals.mod": {
+    "name": "Butchery Table C",
     "stringId": "2645-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -2892,6 +2922,7 @@
     }
   },
   "2021-gamedata.base": {
+    "name": "Hemp Farm L",
     "stringId": "2021-gamedata.base",
     "type": "Building",
     "values": {
@@ -3010,6 +3041,7 @@
     }
   },
   "3472-otto.mod": {
+    "name": "Table",
     "stringId": "3472-otto.mod",
     "type": "Building",
     "values": {
@@ -3109,6 +3141,7 @@
     }
   },
   "868-gamedata.base": {
+    "name": "Bread Basket",
     "stringId": "868-gamedata.base",
     "type": "Building",
     "values": {
@@ -3205,6 +3238,7 @@
     }
   },
   "5316-D-TwoStorey.mod": {
+    "name": "Storm House Door I",
     "stringId": "5316-D-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -3287,6 +3321,7 @@
     }
   },
   "1921-gamedata.base": {
+    "name": "Well",
     "stringId": "1921-gamedata.base",
     "type": "Building",
     "values": {
@@ -3390,6 +3425,7 @@
     }
   },
   "3465-otto.mod": {
+    "name": "Display Stand",
     "stringId": "3465-otto.mod",
     "type": "Building",
     "values": {
@@ -3479,6 +3515,7 @@
     }
   },
   "4092-TwoStorey.mod": {
+    "name": "Small Shack",
     "stringId": "4092-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -3607,6 +3644,7 @@
     }
   },
   "2942-gamedata.base": {
+    "name": "Storage: Chainmail",
     "stringId": "2942-gamedata.base",
     "type": "Building",
     "values": {
@@ -3710,6 +3748,7 @@
     }
   },
   "2945-gamedata.base": {
+    "name": "Storage: Wheatstraw",
     "stringId": "2945-gamedata.base",
     "type": "Building",
     "values": {
@@ -3806,6 +3845,7 @@
     }
   },
   "4014-TwoStorey.mod": {
+    "name": "L-House",
     "stringId": "4014-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -3956,6 +3996,7 @@
     }
   },
   "40569-small_changes_otto.mod": {
+    "name": "Hydroponic Hemp",
     "stringId": "40569-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -4069,6 +4110,7 @@
     }
   },
   "2633-Cannibals.mod": {
+    "name": "Spiked Cage",
     "stringId": "2633-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -4165,6 +4207,7 @@
     }
   },
   "2006-gamedata.base": {
+    "name": "Research Bench II",
     "stringId": "2006-gamedata.base",
     "type": "Building",
     "values": {
@@ -4268,6 +4311,7 @@
     }
   },
   "2016-gamedata.base": {
+    "name": "Fabric Loom (hemp)",
     "stringId": "2016-gamedata.base",
     "type": "Building",
     "values": {
@@ -4390,6 +4434,7 @@
     }
   },
   "3809-TwoStorey.mod": {
+    "name": "Y-House",
     "stringId": "3809-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -4538,6 +4583,7 @@
     }
   },
   "1181-gamedata.base": {
+    "name": "Door Tower",
     "stringId": "1181-gamedata.base",
     "type": "Building",
     "values": {
@@ -4620,6 +4666,7 @@
     }
   },
   "1936-gamedata.base": {
+    "name": "Rum Still",
     "stringId": "1936-gamedata.base",
     "type": "Building",
     "values": {
@@ -4723,6 +4770,7 @@
     }
   },
   "3793-TwoStorey.mod": {
+    "name": "Old Storm House",
     "stringId": "3793-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -4873,6 +4921,7 @@
     }
   },
   "5251-TwoStorey.mod": {
+    "name": "Market Stall B",
     "stringId": "5251-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -4970,6 +5019,7 @@
     }
   },
   "40547-small_changes_otto.mod": {
+    "name": "Riceweed Farm L",
     "stringId": "40547-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -5088,6 +5138,7 @@
     }
   },
   "5229-TwoStorey.mod": {
+    "name": "Swamp Platform Round",
     "stringId": "5229-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -5177,6 +5228,7 @@
     }
   },
   "3464-otto.mod": {
+    "name": "Safe",
     "stringId": "3464-otto.mod",
     "type": "Building",
     "values": {
@@ -5266,6 +5318,7 @@
     }
   },
   "2623-Cannibals.mod": {
+    "name": "Trophy",
     "stringId": "2623-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -5348,6 +5401,7 @@
     }
   },
   "1860-gamedata.base": {
+    "name": "Manual Oil Drill",
     "stringId": "1860-gamedata.base",
     "type": "Building",
     "values": {
@@ -5430,6 +5484,7 @@
     }
   },
   "12840-nodes_otto.mod": {
+    "name": "Water Tank",
     "stringId": "12840-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -5540,6 +5595,7 @@
     }
   },
   "2043-gamedata.base": {
+    "name": "Wall Ramp (old)",
     "stringId": "2043-gamedata.base",
     "type": "Building",
     "values": {
@@ -5629,6 +5685,7 @@
     }
   },
   "3087-walls.mod": {
+    "name": "Defensive Wall III Short",
     "stringId": "3087-walls.mod",
     "type": "Building",
     "values": {
@@ -5725,6 +5782,7 @@
     }
   },
   "2893-gamedata.base": {
+    "name": "Wall Ramp",
     "stringId": "2893-gamedata.base",
     "type": "Building",
     "values": {
@@ -5814,6 +5872,7 @@
     }
   },
   "12623-Newwworld.mod": {
+    "name": "Quad Streetlamp",
     "stringId": "12623-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -5903,6 +5962,7 @@
     }
   },
   "3434-otto.mod": {
+    "name": "sign3_animal",
     "stringId": "3434-otto.mod",
     "type": "Building",
     "values": {
@@ -5990,6 +6050,7 @@
     }
   },
   "5465-new_furniture_otto.mod": {
+    "name": "Large Basket",
     "stringId": "5465-new_furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -6079,6 +6140,7 @@
     }
   },
   "2992-gamedata.base": {
+    "name": "Defensive Wall Ramp IV",
     "stringId": "2992-gamedata.base",
     "type": "Building",
     "values": {
@@ -6175,6 +6237,7 @@
     }
   },
   "3027-walls.mod": {
+    "name": "Defensive Wall IV Wedge",
     "stringId": "3027-walls.mod",
     "type": "Building",
     "values": {
@@ -6264,6 +6327,7 @@
     }
   },
   "2299-gamedata.base": {
+    "name": "Chain Armour Crafting Bench",
     "stringId": "2299-gamedata.base",
     "type": "Building",
     "values": {
@@ -6360,6 +6424,7 @@
     }
   },
   "5312-TwoStorey.mod": {
+    "name": "Ancient Lab",
     "stringId": "5312-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -6600,6 +6665,7 @@
     }
   },
   "3461-otto.mod": {
+    "name": "Bench",
     "stringId": "3461-otto.mod",
     "type": "Building",
     "values": {
@@ -6689,6 +6755,7 @@
     }
   },
   "2105-gamedata.base": {
+    "name": "Weapon Smith III",
     "stringId": "2105-gamedata.base",
     "type": "Building",
     "values": {
@@ -6785,6 +6852,7 @@
     }
   },
   "1494-gamedata.base": {
+    "name": "Outpost Door III",
     "stringId": "1494-gamedata.base",
     "type": "Building",
     "values": {
@@ -6867,6 +6935,7 @@
     }
   },
   "2262-gamedata.base": {
+    "name": "Leather Armour Crafting Bench",
     "stringId": "2262-gamedata.base",
     "type": "Building",
     "values": {
@@ -6963,6 +7032,7 @@
     }
   },
   "4015-TwoStorey.mod": {
+    "name": "Storm House Door D",
     "stringId": "4015-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -7045,6 +7115,7 @@
     }
   },
   "2938-Walls2.mod": {
+    "name": "Defensive Gate level 5 Door",
     "stringId": "2938-Walls2.mod",
     "type": "Building",
     "values": {
@@ -7134,6 +7205,7 @@
     }
   },
   "2098-gamedata.base": {
+    "name": "Ore Drill III (Automated)",
     "stringId": "2098-gamedata.base",
     "type": "Building",
     "values": {
@@ -7259,6 +7331,7 @@
     }
   },
   "12837-nodes_otto.mod": {
+    "name": "Exhaust Fan",
     "stringId": "12837-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -7351,6 +7424,7 @@
     }
   },
   "3007-Walls.mod": {
+    "name": "Makeshift Gate",
     "stringId": "3007-Walls.mod",
     "type": "Building",
     "values": {
@@ -7468,6 +7542,7 @@
     }
   },
   "3466-otto.mod": {
+    "name": "Metal Chest",
     "stringId": "3466-otto.mod",
     "type": "Building",
     "values": {
@@ -7564,6 +7639,7 @@
     }
   },
   "620-gamedata.base": {
+    "name": "Raised House",
     "stringId": "620-gamedata.base",
     "type": "Building",
     "values": {
@@ -7702,6 +7778,7 @@
     }
   },
   "40550-small_changes_otto.mod": {
+    "name": "Hydroponic Vegetables",
     "stringId": "40550-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -7815,6 +7892,7 @@
     }
   },
   "2049-gamedata.base": {
+    "name": "Concrete Gate Door",
     "stringId": "2049-gamedata.base",
     "type": "Building",
     "values": {
@@ -7904,6 +7982,7 @@
     }
   },
   "5433-lights_otto.mod": {
+    "name": "Large Wall Light",
     "stringId": "5433-lights_otto.mod",
     "type": "Building",
     "values": {
@@ -8012,6 +8091,7 @@
     }
   },
   "2932-Walls2.mod": {
+    "name": "Defensive Gate III",
     "stringId": "2932-Walls2.mod",
     "type": "Building",
     "values": {
@@ -8141,6 +8221,7 @@
     }
   },
   "1906-gamedata.base": {
+    "name": "Stone Processor V",
     "stringId": "1906-gamedata.base",
     "type": "Building",
     "values": {
@@ -8254,6 +8335,7 @@
     }
   },
   "996-gamedata.base": {
+    "name": "sign2- -boots",
     "stringId": "996-gamedata.base",
     "type": "Building",
     "values": {
@@ -8348,6 +8430,7 @@
     }
   },
   "3435-otto.mod": {
+    "name": "sign3_armor",
     "stringId": "3435-otto.mod",
     "type": "Building",
     "values": {
@@ -8435,6 +8518,7 @@
     }
   },
   "5369-furniture_otto.mod": {
+    "name": "Boiler Tank",
     "stringId": "5369-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -8517,6 +8601,7 @@
     }
   },
   "3089-walls.mod": {
+    "name": "Defensive Wall III Wedge",
     "stringId": "3089-walls.mod",
     "type": "Building",
     "values": {
@@ -8606,6 +8691,7 @@
     }
   },
   "2119-gamedata.base": {
+    "name": "Steel Refinery III",
     "stringId": "2119-gamedata.base",
     "type": "Building",
     "values": {
@@ -8707,6 +8793,7 @@
     }
   },
   "1865-gamedata.base": {
+    "name": "Storage: Fuel",
     "stringId": "1865-gamedata.base",
     "type": "Building",
     "values": {
@@ -8810,6 +8897,7 @@
     }
   },
   "494-gamedata.base": {
+    "name": "Wall B",
     "stringId": "494-gamedata.base",
     "type": "Building",
     "values": {
@@ -8904,6 +8992,7 @@
     }
   },
   "5363-gamedata.base": {
+    "name": "Searchlight",
     "stringId": "5363-gamedata.base",
     "type": "Building",
     "values": {
@@ -9012,6 +9101,7 @@
     }
   },
   "3796-TwoStorey.mod": {
+    "name": "Storm House Door B",
     "stringId": "3796-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -9094,6 +9184,7 @@
     }
   },
   "3015-walls.mod": {
+    "name": "Defensive Wall Connector",
     "stringId": "3015-walls.mod",
     "type": "Building",
     "values": {
@@ -9176,6 +9267,7 @@
     }
   },
   "42250-gamedata.base": {
+    "name": "Stone Resource",
     "stringId": "42250-gamedata.base",
     "type": "Building",
     "values": {
@@ -9258,6 +9350,7 @@
     }
   },
   "1924-gamedata.base": {
+    "name": "Well III",
     "stringId": "1924-gamedata.base",
     "type": "Building",
     "values": {
@@ -9366,6 +9459,7 @@
     }
   },
   "5361-gamedata.base": {
+    "name": "Spotlight",
     "stringId": "5361-gamedata.base",
     "type": "Building",
     "values": {
@@ -9474,6 +9568,7 @@
     }
   },
   "2077-gamedata.base": {
+    "name": "Stone Mine VIII",
     "stringId": "2077-gamedata.base",
     "type": "Building",
     "values": {
@@ -9586,6 +9681,7 @@
     }
   },
   "3020-walls.mod": {
+    "name": "Defensive Wall V Connector",
     "stringId": "3020-walls.mod",
     "type": "Building",
     "values": {
@@ -9668,6 +9764,7 @@
     }
   },
   "2078-gamedata.base": {
+    "name": "Hybrid Stone Mine",
     "stringId": "2078-gamedata.base",
     "type": "Building",
     "values": {
@@ -9781,6 +9878,7 @@
     }
   },
   "2619-Cannibals.mod": {
+    "name": "Cannibal Trophy",
     "stringId": "2619-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -9868,6 +9966,7 @@
     }
   },
   "3962-gamedata.base": {
+    "name": "Corpse Furnace",
     "stringId": "3962-gamedata.base",
     "type": "Building",
     "values": {
@@ -9969,6 +10068,7 @@
     }
   },
   "5183-TwoStorey.mod": {
+    "name": "Swamp Shack",
     "stringId": "5183-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -10099,6 +10199,7 @@
     }
   },
   "666-gamedata.base": {
+    "name": "Weapon Display Board B",
     "stringId": "666-gamedata.base",
     "type": "Building",
     "values": {
@@ -10181,6 +10282,7 @@
     }
   },
   "2095-gamedata.base": {
+    "name": "Ore Mine III",
     "stringId": "2095-gamedata.base",
     "type": "Building",
     "values": {
@@ -10271,6 +10373,7 @@
     }
   },
   "727-gamedata.base": {
+    "name": "Outpost s-III",
     "stringId": "727-gamedata.base",
     "type": "Building",
     "values": {
@@ -10470,6 +10573,7 @@
     }
   },
   "1483-gamedata.base": {
+    "name": "Shop Door B",
     "stringId": "1483-gamedata.base",
     "type": "Building",
     "values": {
@@ -10552,6 +10656,7 @@
     }
   },
   "3014-walls.mod": {
+    "name": "Defensive Wall II Short",
     "stringId": "3014-walls.mod",
     "type": "Building",
     "values": {
@@ -10634,6 +10739,7 @@
     }
   },
   "896-gamedata.base": {
+    "name": "Large Barrels",
     "stringId": "896-gamedata.base",
     "type": "Building",
     "values": {
@@ -10755,6 +10861,7 @@
     }
   },
   "14442-gamedata.base": {
+    "name": "Light Post III",
     "stringId": "14442-gamedata.base",
     "type": "Building",
     "values": {
@@ -10861,6 +10968,7 @@
     }
   },
   "3392-TwoStorey.mod": {
+    "name": "Storm House Door A",
     "stringId": "3392-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -10943,6 +11051,7 @@
     }
   },
   "1903-gamedata.base": {
+    "name": "Stone Processor II",
     "stringId": "1903-gamedata.base",
     "type": "Building",
     "values": {
@@ -11065,6 +11174,7 @@
     }
   },
   "5206-D-TwoStorey.mod": {
+    "name": "Swamp Platform Large",
     "stringId": "5206-D-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -11147,6 +11257,7 @@
     }
   },
   "2045-gamedata.base": {
+    "name": "Concrete Gate",
     "stringId": "2045-gamedata.base",
     "type": "Building",
     "values": {
@@ -11248,6 +11359,7 @@
     }
   },
   "2039-gamedata.base": {
+    "name": "Basic Wall",
     "stringId": "2039-gamedata.base",
     "type": "Building",
     "values": {
@@ -11337,6 +11449,7 @@
     }
   },
   "5432-lights_otto.mod": {
+    "name": "Small Wall Light",
     "stringId": "5432-lights_otto.mod",
     "type": "Building",
     "values": {
@@ -11440,6 +11553,7 @@
     }
   },
   "3026-walls.mod": {
+    "name": "Defensive Wall IV Connector",
     "stringId": "3026-walls.mod",
     "type": "Building",
     "values": {
@@ -11529,6 +11643,7 @@
     }
   },
   "1944-gamedata.base": {
+    "name": "Cooking Stove",
     "stringId": "1944-gamedata.base",
     "type": "Building",
     "values": {
@@ -11632,6 +11747,7 @@
     }
   },
   "819-gamedata.base": {
+    "name": "Double House",
     "stringId": "819-gamedata.base",
     "type": "Building",
     "values": {
@@ -11805,6 +11921,7 @@
     }
   },
   "1491-gamedata.base": {
+    "name": "Outpost Door IV",
     "stringId": "1491-gamedata.base",
     "type": "Building",
     "values": {
@@ -11887,6 +12004,7 @@
     }
   },
   "490-gamedata.base": {
+    "name": "Wall A",
     "stringId": "490-gamedata.base",
     "type": "Building",
     "values": {
@@ -11976,6 +12094,7 @@
     }
   },
   "619-gamedata.base": {
+    "name": "Moor A",
     "stringId": "619-gamedata.base",
     "type": "Building",
     "values": {
@@ -12097,6 +12216,7 @@
     }
   },
   "1129-gamedata.base": {
+    "name": "Big Ramp",
     "stringId": "1129-gamedata.base",
     "type": "Building",
     "values": {
@@ -12179,6 +12299,7 @@
     }
   },
   "5204-TwoStorey.mod": {
+    "name": "Tank unused",
     "stringId": "5204-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -12282,6 +12403,7 @@
     }
   },
   "1854-gamedata.base": {
+    "name": "Generator IV",
     "stringId": "1854-gamedata.base",
     "type": "Building",
     "values": {
@@ -12372,6 +12494,7 @@
     }
   },
   "631-gamedata.base": {
+    "name": "Moor B",
     "stringId": "631-gamedata.base",
     "type": "Building",
     "values": {
@@ -12466,6 +12589,7 @@
     }
   },
   "5351-furniture_otto.mod": {
+    "name": "Wooden Barrel",
     "stringId": "5351-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -12562,6 +12686,7 @@
     }
   },
   "2033-gamedata.base": {
+    "name": "Weapon Smith",
     "stringId": "2033-gamedata.base",
     "type": "Building",
     "values": {
@@ -12665,6 +12790,7 @@
     }
   },
   "3440-otto.mod": {
+    "name": "sign3_police",
     "stringId": "3440-otto.mod",
     "type": "Building",
     "values": {
@@ -12752,6 +12878,7 @@
     }
   },
   "3006-Walls.mod": {
+    "name": "Defensive Gate II",
     "stringId": "3006-Walls.mod",
     "type": "Building",
     "values": {
@@ -12862,6 +12989,7 @@
     }
   },
   "40559-small_changes_otto.mod": {
+    "name": "Cotton Indoor Farm",
     "stringId": "40559-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -12958,6 +13086,7 @@
     }
   },
   "2927-gamedata.base": {
+    "name": "Leather Tanning Bench",
     "stringId": "2927-gamedata.base",
     "type": "Building",
     "values": {
@@ -13054,6 +13183,7 @@
     }
   },
   "2908-gamedata.base": {
+    "name": "Makeshift Gate Panel",
     "stringId": "2908-gamedata.base",
     "type": "Building",
     "values": {
@@ -13143,6 +13273,7 @@
     }
   },
   "1941-gamedata.base": {
+    "name": "Flour Storage",
     "stringId": "1941-gamedata.base",
     "type": "Building",
     "values": {
@@ -13239,6 +13370,7 @@
     }
   },
   "3096-walls.mod": {
+    "name": "Defensive Wall III Tower",
     "stringId": "3096-walls.mod",
     "type": "Building",
     "values": {
@@ -13347,6 +13479,7 @@
     }
   },
   "4093-TwoStorey.mod": {
+    "name": "Storm Shack Door",
     "stringId": "4093-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -13429,6 +13562,7 @@
     }
   },
   "2929-gamedata.base": {
+    "name": "Clothing Bench",
     "stringId": "2929-gamedata.base",
     "type": "Building",
     "values": {
@@ -13525,6 +13659,7 @@
     }
   },
   "3458-otto.mod": {
+    "name": "Armour Stand",
     "stringId": "3458-otto.mod",
     "type": "Building",
     "values": {
@@ -13614,6 +13749,7 @@
     }
   },
   "869-gamedata.base": {
+    "name": "Barrel B",
     "stringId": "869-gamedata.base",
     "type": "Building",
     "values": {
@@ -13696,6 +13832,7 @@
     }
   },
   "2946-gamedata.base": {
+    "name": "Storage: Hemp",
     "stringId": "2946-gamedata.base",
     "type": "Building",
     "values": {
@@ -13792,6 +13929,7 @@
     }
   },
   "1477-gamedata.base": {
+    "name": "Moor Door A",
     "stringId": "1477-gamedata.base",
     "type": "Building",
     "values": {
@@ -13874,6 +14012,7 @@
     }
   },
   "3469-otto.mod": {
+    "name": "Shop Counter",
     "stringId": "3469-otto.mod",
     "type": "Building",
     "values": {
@@ -13963,6 +14102,7 @@
     }
   },
   "2829-Walls.mod": {
+    "name": "Defensive Wall Ramp II",
     "stringId": "2829-Walls.mod",
     "type": "Building",
     "values": {
@@ -14052,6 +14192,7 @@
     }
   },
   "1000-gamedata.base": {
+    "name": "sign2- -recruit",
     "stringId": "1000-gamedata.base",
     "type": "Building",
     "values": {
@@ -14139,6 +14280,7 @@
     }
   },
   "5361-furniture_otto.mod": {
+    "name": "Support Beam 1",
     "stringId": "5361-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -14221,6 +14363,7 @@
     }
   },
   "5248-TwoStorey.mod": {
+    "name": "Market Stall A",
     "stringId": "5248-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -14318,6 +14461,7 @@
     }
   },
   "5438-new_furniture_otto.mod": {
+    "name": "Electrical Torch Post",
     "stringId": "5438-new_furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -14419,6 +14563,7 @@
     }
   },
   "1978-gamedata.base": {
+    "name": "Generator II",
     "stringId": "1978-gamedata.base",
     "type": "Building",
     "values": {
@@ -14527,6 +14672,7 @@
     }
   },
   "2727-gamedata.base": {
+    "name": "Locksmith Training Box",
     "stringId": "2727-gamedata.base",
     "type": "Building",
     "values": {
@@ -14630,6 +14776,7 @@
     }
   },
   "18988-small_changes_otto.mod": {
+    "name": "Cotton Farm XL",
     "stringId": "18988-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -14748,6 +14895,7 @@
     }
   },
   "3439-otto.mod": {
+    "name": "sign3_slave",
     "stringId": "3439-otto.mod",
     "type": "Building",
     "values": {
@@ -14835,6 +14983,7 @@
     }
   },
   "1471-gamedata.base": {
+    "name": "Moor Door B",
     "stringId": "1471-gamedata.base",
     "type": "Building",
     "values": {
@@ -14917,6 +15066,7 @@
     }
   },
   "5228-TwoStorey.mod": {
+    "name": "Rebel F Door Right",
     "stringId": "5228-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -14999,6 +15149,7 @@
     }
   },
   "2085-gamedata.base": {
+    "name": "Research Bench V",
     "stringId": "2085-gamedata.base",
     "type": "Building",
     "values": {
@@ -15102,6 +15253,7 @@
     }
   },
   "4078-D-TwoStorey.mod": {
+    "name": "Stationhouse",
     "stringId": "4078-D-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -15245,6 +15397,7 @@
     }
   },
   "2618-Cannibals.mod": {
+    "name": "Cannibal Storage",
     "stringId": "2618-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -15339,6 +15492,7 @@
     }
   },
   "870-gamedata.base": {
+    "name": "Armour Storage",
     "stringId": "870-gamedata.base",
     "type": "Building",
     "values": {
@@ -15428,6 +15582,7 @@
     }
   },
   "12618-nodes_otto.mod": {
+    "name": "Wall Shelf 2",
     "stringId": "12618-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -15515,6 +15670,7 @@
     }
   },
   "5348-lights_otto.mod": {
+    "name": "City Lamp Post",
     "stringId": "5348-lights_otto.mod",
     "type": "Building",
     "values": {
@@ -15624,6 +15780,7 @@
     }
   },
   "2084-gamedata.base": {
+    "name": "Research Bench IV",
     "stringId": "2084-gamedata.base",
     "type": "Building",
     "values": {
@@ -15727,6 +15884,7 @@
     }
   },
   "5418-lights_otto.mod": {
+    "name": "Ceiling Lamp",
     "stringId": "5418-lights_otto.mod",
     "type": "Building",
     "values": {
@@ -15823,6 +15981,7 @@
     }
   },
   "2937-Walls2.mod": {
+    "name": "Defensive Gate level 4 Door",
     "stringId": "2937-Walls2.mod",
     "type": "Building",
     "values": {
@@ -15912,6 +16071,7 @@
     }
   },
   "1911-gamedata.base": {
+    "name": "Small Farm",
     "stringId": "1911-gamedata.base",
     "type": "Building",
     "values": {
@@ -16022,6 +16182,7 @@
     }
   },
   "900-gamedata.base": {
+    "name": "Round table",
     "stringId": "900-gamedata.base",
     "type": "Building",
     "values": {
@@ -16118,6 +16279,7 @@
     }
   },
   "2072-gamedata.base": {
+    "name": "Stone Mine III",
     "stringId": "2072-gamedata.base",
     "type": "Building",
     "values": {
@@ -16214,6 +16376,7 @@
     }
   },
   "3445-otto.mod": {
+    "name": "sign3_hat",
     "stringId": "3445-otto.mod",
     "type": "Building",
     "values": {
@@ -16296,6 +16459,7 @@
     }
   },
   "1905-gamedata.base": {
+    "name": "Stone Processor IV",
     "stringId": "1905-gamedata.base",
     "type": "Building",
     "values": {
@@ -16416,6 +16580,7 @@
     }
   },
   "1488-gamedata.base": {
+    "name": "Moor Door C I",
     "stringId": "1488-gamedata.base",
     "type": "Building",
     "values": {
@@ -16498,6 +16663,7 @@
     }
   },
   "12853-nodes_otto.mod": {
+    "name": "Market Tent Small",
     "stringId": "12853-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -16585,6 +16751,7 @@
     }
   },
   "3447-otto.mod": {
+    "name": "sign3_weapon",
     "stringId": "3447-otto.mod",
     "type": "Building",
     "values": {
@@ -16672,6 +16839,7 @@
     }
   },
   "4028-TwoStorey.mod": {
+    "name": "Longhouse",
     "stringId": "4028-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -16820,6 +16988,7 @@
     }
   },
   "12839-nodes_otto.mod": {
+    "name": "Small Water Tank",
     "stringId": "12839-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -16902,6 +17071,7 @@
     }
   },
   "3004-Walls.mod": {
+    "name": "Defensive Wall II",
     "stringId": "3004-Walls.mod",
     "type": "Building",
     "values": {
@@ -17003,6 +17173,7 @@
     }
   },
   "2998-gamedata.base": {
+    "name": "Node Turret",
     "stringId": "2998-gamedata.base",
     "type": "Building",
     "values": {
@@ -17085,6 +17256,7 @@
     }
   },
   "2260-gamedata.base": {
+    "name": "Chainmail Sheet Fabrication Bench",
     "stringId": "2260-gamedata.base",
     "type": "Building",
     "values": {
@@ -17181,6 +17353,7 @@
     }
   },
   "18028-small_changes_otto.mod": {
+    "name": "Mercenary Tent",
     "stringId": "18028-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -17275,6 +17448,7 @@
     }
   },
   "1999-gamedata.base": {
+    "name": "Wind Generator",
     "stringId": "1999-gamedata.base",
     "type": "Building",
     "values": {
@@ -17402,6 +17576,7 @@
     }
   },
   "3082-walls.mod": {
+    "name": "Makeshift Wall Short",
     "stringId": "3082-walls.mod",
     "type": "Building",
     "values": {
@@ -17491,6 +17666,7 @@
     }
   },
   "2644-Cannibals.mod": {
+    "name": "Butchery Table B",
     "stringId": "2644-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -17580,6 +17756,7 @@
     }
   },
   "1111-gamedata.base": {
+    "name": "Outpost s-IV",
     "stringId": "1111-gamedata.base",
     "type": "Building",
     "values": {
@@ -17799,6 +17976,7 @@
     }
   },
   "3811-TwoStorey.mod": {
+    "name": "Storm House Door C II",
     "stringId": "3811-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -17881,6 +18059,7 @@
     }
   },
   "5332-gamedata.base": {
+    "name": "Street Lantern",
     "stringId": "5332-gamedata.base",
     "type": "Building",
     "values": {
@@ -17955,6 +18134,7 @@
     "references": {}
   },
   "3399-otto.mod": {
+    "name": "Sign Bar B",
     "stringId": "3399-otto.mod",
     "type": "Building",
     "values": {
@@ -18029,6 +18209,7 @@
     "references": {}
   },
   "1950-gamedata.base": {
+    "name": "Water Tower",
     "stringId": "1950-gamedata.base",
     "type": "Building",
     "values": {
@@ -18132,6 +18313,7 @@
     }
   },
   "2069-gamedata.base": {
+    "name": "Harpoon Turret MkII",
     "stringId": "2069-gamedata.base",
     "type": "Building",
     "values": {
@@ -18264,6 +18446,7 @@
     }
   },
   "16858-nodes_otto1.mod": {
+    "name": "Sitting Box",
     "stringId": "16858-nodes_otto1.mod",
     "type": "Building",
     "values": {
@@ -18353,6 +18536,7 @@
     }
   },
   "18913-small_changes_otto.mod": {
+    "name": "Prisoner Pole",
     "stringId": "18913-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -18442,6 +18626,7 @@
     }
   },
   "882-gamedata.base": {
+    "name": "Food Store",
     "stringId": "882-gamedata.base",
     "type": "Building",
     "values": {
@@ -18603,6 +18788,7 @@
     }
   },
   "2097-gamedata.base": {
+    "name": "Ore Drill II",
     "stringId": "2097-gamedata.base",
     "type": "Building",
     "values": {
@@ -18730,6 +18916,7 @@
     }
   },
   "881-gamedata.base": {
+    "name": "doublebed",
     "stringId": "881-gamedata.base",
     "type": "Building",
     "values": {
@@ -18812,6 +18999,7 @@
     }
   },
   "2261-gamedata.base": {
+    "name": "Plate Beating Station",
     "stringId": "2261-gamedata.base",
     "type": "Building",
     "values": {
@@ -18908,6 +19096,7 @@
     }
   },
   "42249-gamedata.base": {
+    "name": "Copper Resource",
     "stringId": "42249-gamedata.base",
     "type": "Building",
     "values": {
@@ -18990,6 +19179,7 @@
     }
   },
   "2916-Walls2.mod": {
+    "name": "Defensive Wall III",
     "stringId": "2916-Walls2.mod",
     "type": "Building",
     "values": {
@@ -19103,6 +19293,7 @@
     }
   },
   "5352-furniture_otto.mod": {
+    "name": "Five Booze Barrels",
     "stringId": "5352-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -19199,6 +19390,7 @@
     }
   },
   "4063-TwoStorey.mod": {
+    "name": "Stephouse",
     "stringId": "4063-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -19347,6 +19539,7 @@
     }
   },
   "1468-gamedata.base": {
+    "name": "Door Large House",
     "stringId": "1468-gamedata.base",
     "type": "Building",
     "values": {
@@ -19429,6 +19622,7 @@
     }
   },
   "866-gamedata.base": {
+    "name": "wall shelves",
     "stringId": "866-gamedata.base",
     "type": "Building",
     "values": {
@@ -19512,6 +19706,7 @@
     }
   },
   "992-gamedata.base": {
+    "name": "Sign Headwear",
     "stringId": "992-gamedata.base",
     "type": "Building",
     "values": {
@@ -19599,6 +19794,7 @@
     }
   },
   "14521-rebirth.mod": {
+    "name": "Iron Rock",
     "stringId": "14521-rebirth.mod",
     "type": "Building",
     "values": {
@@ -19725,6 +19921,7 @@
     }
   },
   "2056-gamedata.base": {
+    "name": "Ore Mine",
     "stringId": "2056-gamedata.base",
     "type": "Building",
     "values": {
@@ -19814,6 +20011,7 @@
     }
   },
   "991-gamedata.base": {
+    "name": "Sign Travelling",
     "stringId": "991-gamedata.base",
     "type": "Building",
     "values": {
@@ -19908,6 +20106,7 @@
     }
   },
   "2940-gamedata.base": {
+    "name": "Storage: Building Materials",
     "stringId": "2940-gamedata.base",
     "type": "Building",
     "values": {
@@ -20011,6 +20210,7 @@
     }
   },
   "2732-gamedata.base": {
+    "name": "Storage: Steel Bars (old)",
     "stringId": "2732-gamedata.base",
     "type": "Building",
     "values": {
@@ -20107,6 +20307,7 @@
     }
   },
   "5357-furniture_otto.mod": {
+    "name": "Carpet",
     "stringId": "5357-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -20196,6 +20397,7 @@
     }
   },
   "5359-furniture_otto.mod": {
+    "name": "Sitting Pillow",
     "stringId": "5359-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -20292,6 +20494,7 @@
     }
   },
   "1186-gamedata.base": {
+    "name": "Node Guardpost",
     "stringId": "1186-gamedata.base",
     "type": "Building",
     "values": {
@@ -20374,6 +20577,7 @@
     }
   },
   "3959-gamedata.base": {
+    "name": "Item Furnace",
     "stringId": "3959-gamedata.base",
     "type": "Building",
     "values": {
@@ -20477,6 +20681,7 @@
     }
   },
   "5230-TwoStorey.mod": {
+    "name": "Swamp Platform",
     "stringId": "5230-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -20559,6 +20764,7 @@
     }
   },
   "2075-gamedata.base": {
+    "name": "Stone Mine VI",
     "stringId": "2075-gamedata.base",
     "type": "Building",
     "values": {
@@ -20672,6 +20878,7 @@
     }
   },
   "2939-Walls2.mod": {
+    "name": "Defensive Wall IV",
     "stringId": "2939-Walls2.mod",
     "type": "Building",
     "values": {
@@ -20785,6 +20992,7 @@
     }
   },
   "2094-gamedata.base": {
+    "name": "Ore Mine II",
     "stringId": "2094-gamedata.base",
     "type": "Building",
     "values": {
@@ -20874,6 +21082,7 @@
     }
   },
   "1896-gamedata.base": {
+    "name": "Training Dummy MkIII",
     "stringId": "1896-gamedata.base",
     "type": "Building",
     "values": {
@@ -20980,6 +21189,7 @@
     }
   },
   "2881-gamedata.base": {
+    "name": "Mounted Crossbow",
     "stringId": "2881-gamedata.base",
     "type": "Building",
     "values": {
@@ -21095,6 +21305,7 @@
     }
   },
   "12843-nodes_otto.mod": {
+    "name": "Chimney",
     "stringId": "12843-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -21192,6 +21403,7 @@
     }
   },
   "2096-gamedata.base": {
+    "name": "Ore Drill",
     "stringId": "2096-gamedata.base",
     "type": "Building",
     "values": {
@@ -21307,6 +21519,7 @@
     }
   },
   "892-gamedata.base": {
+    "name": "barrelTable2",
     "stringId": "892-gamedata.base",
     "type": "Building",
     "values": {
@@ -21396,6 +21609,7 @@
     }
   },
   "2257-gamedata.base": {
+    "name": "Heavy Armour Smithy",
     "stringId": "2257-gamedata.base",
     "type": "Building",
     "values": {
@@ -21497,6 +21711,7 @@
     }
   },
   "5224-TwoStorey.mod": {
+    "name": "Swamp Dome",
     "stringId": "5224-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -21632,6 +21847,7 @@
     }
   },
   "891-gamedata.base": {
+    "name": "barrelTable",
     "stringId": "891-gamedata.base",
     "type": "Building",
     "values": {
@@ -21721,6 +21937,7 @@
     }
   },
   "2939-gamedata.base": {
+    "name": "Storage: Ore",
     "stringId": "2939-gamedata.base",
     "type": "Building",
     "values": {
@@ -21824,6 +22041,7 @@
     }
   },
   "40561-small_changes_otto.mod": {
+    "name": "Hydroponic Wheatstraw",
     "stringId": "40561-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -21937,6 +22155,7 @@
     }
   },
   "995-gamedata.base": {
+    "name": "sign2- weapons",
     "stringId": "995-gamedata.base",
     "type": "Building",
     "values": {
@@ -22031,6 +22250,7 @@
     }
   },
   "3795-TwoStorey.mod": {
+    "name": "Bughouse",
     "stringId": "3795-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -22179,6 +22399,7 @@
     }
   },
   "4030-TwoStorey.mod": {
+    "name": "Snailhouse",
     "stringId": "4030-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -22374,6 +22595,7 @@
     }
   },
   "18026-small_changes_otto.mod": {
+    "name": "Flat Shelter",
     "stringId": "18026-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -22468,6 +22690,7 @@
     }
   },
   "5353-furniture_otto.mod": {
+    "name": "Rum Barrels",
     "stringId": "5353-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -22564,6 +22787,7 @@
     }
   },
   "621-gamedata.base": {
+    "name": "Moor Tower",
     "stringId": "621-gamedata.base",
     "type": "Building",
     "values": {
@@ -22734,6 +22958,7 @@
     }
   },
   "5226-TwoStorey.mod": {
+    "name": "Swamp Platform Small",
     "stringId": "5226-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -22816,6 +23041,7 @@
     }
   },
   "3025-walls.mod": {
+    "name": "Defensive Wall IV Short",
     "stringId": "3025-walls.mod",
     "type": "Building",
     "values": {
@@ -22912,6 +23138,7 @@
     }
   },
   "3470-otto.mod": {
+    "name": "Shelf",
     "stringId": "3470-otto.mod",
     "type": "Building",
     "values": {
@@ -22994,6 +23221,7 @@
     }
   },
   "1489-gamedata.base": {
+    "name": "Moor Door C II",
     "stringId": "1489-gamedata.base",
     "type": "Building",
     "values": {
@@ -23076,6 +23304,7 @@
     }
   },
   "16851-gamedata.base": {
+    "name": "Sitting spot (invisible)",
     "stringId": "16851-gamedata.base",
     "type": "Building",
     "values": {
@@ -23158,6 +23387,7 @@
     }
   },
   "5212-TwoStorey.mod": {
+    "name": "Swamp House",
     "stringId": "5212-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -23288,6 +23518,7 @@
     }
   },
   "3021-walls.mod": {
+    "name": "Defensive Wall V Wedge",
     "stringId": "3021-walls.mod",
     "type": "Building",
     "values": {
@@ -23370,6 +23601,7 @@
     }
   },
   "2988-gamedata.base": {
+    "name": "Defensive Wall Ramp III",
     "stringId": "2988-gamedata.base",
     "type": "Building",
     "values": {
@@ -23466,6 +23698,7 @@
     }
   },
   "1925-gamedata.base": {
+    "name": "Well II",
     "stringId": "1925-gamedata.base",
     "type": "Building",
     "values": {
@@ -23581,6 +23814,7 @@
     }
   },
   "3005-Walls.mod": {
+    "name": "Makeshift Wall",
     "stringId": "3005-Walls.mod",
     "type": "Building",
     "values": {
@@ -23677,6 +23911,7 @@
     }
   },
   "5360-furniture_otto.mod": {
+    "name": "Wall Shelf 1",
     "stringId": "5360-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -23759,6 +23994,7 @@
     }
   },
   "1930-gamedata.base": {
+    "name": "Grain Silo",
     "stringId": "1930-gamedata.base",
     "type": "Building",
     "values": {
@@ -23869,6 +24105,7 @@
     }
   },
   "2887-gamedata.base": {
+    "name": "Mounted Crossbow mkII",
     "stringId": "2887-gamedata.base",
     "type": "Building",
     "values": {
@@ -23991,6 +24228,7 @@
     }
   },
   "665-gamedata.base": {
+    "name": "Old Stool",
     "stringId": "665-gamedata.base",
     "type": "Building",
     "values": {
@@ -24085,6 +24323,7 @@
     }
   },
   "2074-gamedata.base": {
+    "name": "Stone Mine V",
     "stringId": "2074-gamedata.base",
     "type": "Building",
     "values": {
@@ -24198,6 +24437,7 @@
     }
   },
   "5333-gamedata.base": {
+    "name": "Node Light Mount",
     "stringId": "5333-gamedata.base",
     "type": "Building",
     "values": {
@@ -24280,6 +24520,7 @@
     }
   },
   "16848-nodes_otto1.mod": {
+    "name": "Campfire",
     "stringId": "16848-nodes_otto1.mod",
     "type": "Building",
     "values": {
@@ -24376,6 +24617,7 @@
     }
   },
   "2118-gamedata.base": {
+    "name": "Steel Refinery II",
     "stringId": "2118-gamedata.base",
     "type": "Building",
     "values": {
@@ -24484,6 +24726,7 @@
     }
   },
   "895-gamedata.base": {
+    "name": "Booze Barrels",
     "stringId": "895-gamedata.base",
     "type": "Building",
     "values": {
@@ -24595,6 +24838,7 @@
     }
   },
   "1119-gamedata.base": {
+    "name": "Wall B Flip",
     "stringId": "1119-gamedata.base",
     "type": "Building",
     "values": {
@@ -24689,6 +24933,7 @@
     }
   },
   "3444-otto.mod": {
+    "name": "sign3_shoe",
     "stringId": "3444-otto.mod",
     "type": "Building",
     "values": {
@@ -24776,6 +25021,7 @@
     }
   },
   "5184-TwoStorey.mod": {
+    "name": "Rebel Door",
     "stringId": "5184-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -24858,6 +25104,7 @@
     }
   },
   "5316-TwoStorey.mod": {
+    "name": "Ancient Citadel",
     "stringId": "5316-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -25123,6 +25370,7 @@
     }
   },
   "758-gamedata.base": {
+    "name": "Tallhouse",
     "stringId": "758-gamedata.base",
     "type": "Building",
     "values": {
@@ -25281,6 +25529,7 @@
     }
   },
   "2642-Cannibals.mod": {
+    "name": "Cannibal Butcher Table",
     "stringId": "2642-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -25385,6 +25634,7 @@
     }
   },
   "2936-Walls2.mod": {
+    "name": "Defensive Gate level 3 Door",
     "stringId": "2936-Walls2.mod",
     "type": "Building",
     "values": {
@@ -25474,6 +25724,7 @@
     }
   },
   "1509-gamedata.base": {
+    "name": "Stone Mine",
     "stringId": "1509-gamedata.base",
     "type": "Building",
     "values": {
@@ -25570,6 +25821,7 @@
     }
   },
   "2330-Cannibals.mod": {
+    "name": "Medium Tent ",
     "stringId": "2330-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -25664,6 +25916,7 @@
     }
   },
   "1184-gamedata.base": {
+    "name": "Node Generaal ",
     "stringId": "1184-gamedata.base",
     "type": "Building",
     "values": {
@@ -25746,6 +25999,7 @@
     }
   },
   "2102-gamedata.base": {
+    "name": "Weapon Smith II",
     "stringId": "2102-gamedata.base",
     "type": "Building",
     "values": {
@@ -25849,6 +26103,7 @@
     }
   },
   "2934-Walls2.mod": {
+    "name": "Defensive Gate IV",
     "stringId": "2934-Walls2.mod",
     "type": "Building",
     "values": {
@@ -25978,6 +26233,7 @@
     }
   },
   "DOORTEMPLATE": {
+    "name": "Door Shack",
     "stringId": "DOORTEMPLATE",
     "type": "Building",
     "values": {
@@ -26060,6 +26316,7 @@
     }
   },
   "40558-small_changes_otto.mod": {
+    "name": "Cactus Indoor Farm",
     "stringId": "40558-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -26156,6 +26413,7 @@
     }
   },
   "880-gamedata.base": {
+    "name": "Old Bed",
     "stringId": "880-gamedata.base",
     "type": "Building",
     "values": {
@@ -26245,6 +26503,7 @@
     }
   },
   "2614-Cannibals.mod": {
+    "name": "Small Tent",
     "stringId": "2614-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -26334,6 +26593,7 @@
     }
   },
   "888-gamedata.base": {
+    "name": "Partition",
     "stringId": "888-gamedata.base",
     "type": "Building",
     "values": {
@@ -26416,6 +26676,7 @@
     }
   },
   "3441-otto.mod": {
+    "name": "sign3_sleep",
     "stringId": "3441-otto.mod",
     "type": "Building",
     "values": {
@@ -26503,6 +26764,7 @@
     }
   },
   "1500-gamedata.base": {
+    "name": "Storage: Stones (old)",
     "stringId": "1500-gamedata.base",
     "type": "Building",
     "values": {
@@ -26599,6 +26861,7 @@
     }
   },
   "2993-gamedata.base": {
+    "name": "Defensive Wall Ramp V",
     "stringId": "2993-gamedata.base",
     "type": "Building",
     "values": {
@@ -26688,6 +26951,7 @@
     }
   },
   "990-gamedata.base": {
+    "name": "Sign Bar",
     "stringId": "990-gamedata.base",
     "type": "Building",
     "values": {
@@ -26782,6 +27046,7 @@
     }
   },
   "12855-nodes_otto.mod": {
+    "name": "Market Tent Long",
     "stringId": "12855-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -26869,6 +27134,7 @@
     }
   },
   "18968-small_changes_otto.mod": {
+    "name": "Vegetable Farm L",
     "stringId": "18968-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -26987,6 +27253,7 @@
     }
   },
   "3384-TwoStorey.mod": {
+    "name": "Storm House",
     "stringId": "3384-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -27142,6 +27409,7 @@
     }
   },
   "2999-gamedata.base": {
+    "name": "Training Turret",
     "stringId": "2999-gamedata.base",
     "type": "Building",
     "values": {
@@ -27257,6 +27525,7 @@
     }
   },
   "887-gamedata.base": {
+    "name": "Shop Counter Old",
     "stringId": "887-gamedata.base",
     "type": "Building",
     "values": {
@@ -27358,6 +27627,7 @@
     }
   },
   "998-gamedata.base": {
+    "name": "sign2- -escape",
     "stringId": "998-gamedata.base",
     "type": "Building",
     "values": {
@@ -27445,6 +27715,7 @@
     }
   },
   "1904-gamedata.base": {
+    "name": "Stone Processor III",
     "stringId": "1904-gamedata.base",
     "type": "Building",
     "values": {
@@ -27560,6 +27831,7 @@
     }
   },
   "3446-otto.mod": {
+    "name": "sign3_hospital",
     "stringId": "3446-otto.mod",
     "type": "Building",
     "values": {
@@ -27647,6 +27919,7 @@
     }
   },
   "40546-small_changes_otto.mod": {
+    "name": "Cactus Farm XL",
     "stringId": "40546-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -27765,6 +28038,7 @@
     }
   },
   "2869-gamedata.base": {
+    "name": "Double-Barrel Harpoon Turret",
     "stringId": "2869-gamedata.base",
     "type": "Building",
     "values": {
@@ -27897,6 +28171,7 @@
     }
   },
   "3438-otto.mod": {
+    "name": "sign3_mechanical",
     "stringId": "3438-otto.mod",
     "type": "Building",
     "values": {
@@ -27984,6 +28259,7 @@
     }
   },
   "2041-gamedata.base": {
+    "name": "Concrete Wall",
     "stringId": "2041-gamedata.base",
     "type": "Building",
     "values": {
@@ -28066,6 +28342,7 @@
     }
   },
   "772-gamedata.base": {
+    "name": "Old House",
     "stringId": "772-gamedata.base",
     "type": "Building",
     "values": {
@@ -28201,6 +28478,7 @@
     }
   },
   "3437-otto.mod": {
+    "name": "sign3_cloth",
     "stringId": "3437-otto.mod",
     "type": "Building",
     "values": {
@@ -28288,6 +28566,7 @@
     }
   },
   "1855-gamedata.base": {
+    "name": "Battery Bank",
     "stringId": "1855-gamedata.base",
     "type": "Building",
     "values": {
@@ -28396,6 +28675,7 @@
     }
   },
   "1966-gamedata.base": {
+    "name": "Basic Medical Workbench",
     "stringId": "1966-gamedata.base",
     "type": "Building",
     "values": {
@@ -28513,6 +28793,7 @@
     }
   },
   "14441-gamedata.base": {
+    "name": "Light Post II",
     "stringId": "14441-gamedata.base",
     "type": "Building",
     "values": {
@@ -28619,6 +28900,7 @@
     }
   },
   "2673-gamedata.base": {
+    "name": "Cooking Pit",
     "stringId": "2673-gamedata.base",
     "type": "Building",
     "values": {
@@ -28720,6 +29002,7 @@
     }
   },
   "879-gamedata.base": {
+    "name": "Secure Wooden Chest",
     "stringId": "879-gamedata.base",
     "type": "Building",
     "values": {
@@ -28809,6 +29092,7 @@
     }
   },
   "1459-gamedata.base": {
+    "name": "General Storage Chest",
     "stringId": "1459-gamedata.base",
     "type": "Building",
     "values": {
@@ -28898,6 +29182,7 @@
     }
   },
   "660-gamedata.base": {
+    "name": "Weapon Stand",
     "stringId": "660-gamedata.base",
     "type": "Building",
     "values": {
@@ -28987,6 +29272,7 @@
     }
   },
   "1871-gamedata.base": {
+    "name": "Storage: Building Materials (old)",
     "stringId": "1871-gamedata.base",
     "type": "Building",
     "values": {
@@ -29083,6 +29369,7 @@
     }
   },
   "3443-otto.mod": {
+    "name": "sign3_travel",
     "stringId": "3443-otto.mod",
     "type": "Building",
     "values": {
@@ -29170,6 +29457,7 @@
     }
   },
   "4029-TwoStorey.mod": {
+    "name": "Storm House Door E",
     "stringId": "4029-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -29252,6 +29540,7 @@
     }
   },
   "5238-TwoStorey.mod": {
+    "name": "Rebel H Store Door ",
     "stringId": "5238-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -29334,6 +29623,7 @@
     }
   },
   "668-gamedata.base": {
+    "name": "Metal Table",
     "stringId": "668-gamedata.base",
     "type": "Building",
     "values": {
@@ -29430,6 +29720,7 @@
     }
   },
   "1870-gamedata.base": {
+    "name": "Storage: Ore (old)",
     "stringId": "1870-gamedata.base",
     "type": "Building",
     "values": {
@@ -29526,6 +29817,7 @@
     }
   },
   "1182-gamedata.base": {
+    "name": "Node Defensive Position",
     "stringId": "1182-gamedata.base",
     "type": "Building",
     "values": {
@@ -29608,6 +29900,7 @@
     }
   },
   "994-gamedata.base": {
+    "name": "sign2- hotel",
     "stringId": "994-gamedata.base",
     "type": "Building",
     "values": {
@@ -29695,6 +29988,7 @@
     }
   },
   "1003-gamedata.base": {
+    "name": "sign2- -trade",
     "stringId": "1003-gamedata.base",
     "type": "Building",
     "values": {
@@ -29789,6 +30083,7 @@
     }
   },
   "1117-gamedata.base": {
+    "name": "Wall B Solo Gate",
     "stringId": "1117-gamedata.base",
     "type": "Building",
     "values": {
@@ -29883,6 +30178,7 @@
     }
   },
   "2071-gamedata.base": {
+    "name": "Stone Mine II",
     "stringId": "2071-gamedata.base",
     "type": "Building",
     "values": {
@@ -29979,6 +30275,7 @@
     }
   },
   "3003-gamedata.base": {
+    "name": "Training Turret MkII",
     "stringId": "3003-gamedata.base",
     "type": "Building",
     "values": {
@@ -30094,6 +30391,7 @@
     }
   },
   "898-gamedata.base": {
+    "name": "Training Dummy MkI",
     "stringId": "898-gamedata.base",
     "type": "Building",
     "values": {
@@ -30197,6 +30495,7 @@
     }
   },
   "2086-gamedata.base": {
+    "name": "Research Bench VI",
     "stringId": "2086-gamedata.base",
     "type": "Building",
     "values": {
@@ -30293,6 +30592,7 @@
     }
   },
   "1113-gamedata.base": {
+    "name": "Wall B Solo",
     "stringId": "1113-gamedata.base",
     "type": "Building",
     "values": {
@@ -30387,6 +30687,7 @@
     }
   },
   "2912-gamedata.base": {
+    "name": "Defensive Gate level 2 Door",
     "stringId": "2912-gamedata.base",
     "type": "Building",
     "values": {
@@ -30476,6 +30777,7 @@
     }
   },
   "611-gamedata.base": {
+    "name": "Saloon",
     "stringId": "611-gamedata.base",
     "type": "Building",
     "values": {
@@ -30619,6 +30921,7 @@
     }
   },
   "3460-otto.mod": {
+    "name": "Bed",
     "stringId": "3460-otto.mod",
     "type": "Building",
     "values": {
@@ -30720,6 +31023,7 @@
     }
   },
   "5463-new_furniture_otto.mod": {
+    "name": "Small Crate",
     "stringId": "5463-new_furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -30809,6 +31113,7 @@
     }
   },
   "3017-walls.mod": {
+    "name": "Defensive Wall V Short",
     "stringId": "3017-walls.mod",
     "type": "Building",
     "values": {
@@ -30898,6 +31203,7 @@
     }
   },
   "1949-gamedata.base": {
+    "name": "Oil Refinery",
     "stringId": "1949-gamedata.base",
     "type": "Building",
     "values": {
@@ -30980,6 +31286,7 @@
     }
   },
   "2938-gamedata.base": {
+    "name": "Storage: Stones",
     "stringId": "2938-gamedata.base",
     "type": "Building",
     "values": {
@@ -31083,6 +31390,7 @@
     }
   },
   "5431-new_furniture_otto.mod": {
+    "name": "Interior Wall",
     "stringId": "5431-new_furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -31165,6 +31473,7 @@
     }
   },
   "40548-small_changes_otto.mod": {
+    "name": "Wheat Farm S",
     "stringId": "40548-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -31290,6 +31599,7 @@
     }
   },
   "664-gamedata.base": {
+    "name": "Shelves",
     "stringId": "664-gamedata.base",
     "type": "Building",
     "values": {
@@ -31372,6 +31682,7 @@
     }
   },
   "655-gamedata.base": {
+    "name": "Shop Counter Large old",
     "stringId": "655-gamedata.base",
     "type": "Building",
     "values": {
@@ -31473,6 +31784,7 @@
     }
   },
   "5205-TwoStorey.mod": {
+    "name": "Shade Cover",
     "stringId": "5205-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -31555,6 +31867,7 @@
     }
   },
   "1180-gamedata.base": {
+    "name": "Node Shopkeeper",
     "stringId": "1180-gamedata.base",
     "type": "Building",
     "values": {
@@ -31637,6 +31950,7 @@
     }
   },
   "645-gamedata.base": {
+    "name": "Black Market",
     "stringId": "645-gamedata.base",
     "type": "Building",
     "values": {
@@ -31739,6 +32053,7 @@
     }
   },
   "16845-nodes_otto1.mod": {
+    "name": "Camp Bed",
     "stringId": "16845-nodes_otto1.mod",
     "type": "Building",
     "values": {
@@ -31835,6 +32150,7 @@
     }
   },
   "1004-gamedata.base": {
+    "name": "sign2- armour",
     "stringId": "1004-gamedata.base",
     "type": "Building",
     "values": {
@@ -31929,6 +32245,7 @@
     }
   },
   "3004-gamedata.base": {
+    "name": "Training Turret MkIII",
     "stringId": "3004-gamedata.base",
     "type": "Building",
     "values": {
@@ -32042,6 +32359,7 @@
     }
   },
   "12836-nodes_otto.mod": {
+    "name": "Awning",
     "stringId": "12836-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -32124,6 +32442,7 @@
     }
   },
   "867-gamedata.base": {
+    "name": "Ceiling Fan",
     "stringId": "867-gamedata.base",
     "type": "Building",
     "values": {
@@ -32211,6 +32530,7 @@
     }
   },
   "2643-Cannibals.mod": {
+    "name": "Butchery Table A",
     "stringId": "2643-Cannibals.mod",
     "type": "Building",
     "values": {
@@ -32300,6 +32620,7 @@
     }
   },
   "2079-gamedata.base": {
+    "name": "Research Bench III",
     "stringId": "2079-gamedata.base",
     "type": "Building",
     "values": {
@@ -32403,6 +32724,7 @@
     }
   },
   "3088-walls.mod": {
+    "name": "Defensive Wall III Connector",
     "stringId": "3088-walls.mod",
     "type": "Building",
     "values": {
@@ -32492,6 +32814,7 @@
     }
   },
   "1977-gamedata.base": {
+    "name": "Generator II",
     "stringId": "1977-gamedata.base",
     "type": "Building",
     "values": {
@@ -32589,6 +32912,7 @@
     }
   },
   "16847-gamedata.base": {
+    "name": "Bandit Loot Store",
     "stringId": "16847-gamedata.base",
     "type": "Building",
     "values": {
@@ -32678,6 +33002,7 @@
     }
   },
   "5358-furniture_otto.mod": {
+    "name": "Bench copy",
     "stringId": "5358-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -32752,6 +33077,7 @@
     "references": {}
   },
   "1001-gamedata.base": {
+    "name": "sign2- -police",
     "stringId": "1001-gamedata.base",
     "type": "Building",
     "values": {
@@ -32839,6 +33165,7 @@
     }
   },
   "5354-furniture_otto.mod": {
+    "name": "Brewing Booze Barrels",
     "stringId": "5354-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -32935,6 +33262,7 @@
     }
   },
   "2874-gamedata.base": {
+    "name": "Multi-Barrel Harpoon Turret",
     "stringId": "2874-gamedata.base",
     "type": "Building",
     "values": {
@@ -33060,6 +33388,7 @@
     }
   },
   "5437-new_furniture_otto.mod": {
+    "name": "Torch Post",
     "stringId": "5437-new_furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -33149,6 +33478,7 @@
     }
   },
   "609-gamedata.base": {
+    "name": "Large house -old",
     "stringId": "609-gamedata.base",
     "type": "Building",
     "values": {
@@ -33312,6 +33642,7 @@
     }
   },
   "1893-gamedata.base": {
+    "name": "Training Dummy MkII",
     "stringId": "1893-gamedata.base",
     "type": "Building",
     "values": {
@@ -33420,6 +33751,7 @@
     }
   },
   "5237-D-TwoStorey.mod": {
+    "name": "Swamp Store",
     "stringId": "5237-D-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -33545,6 +33877,7 @@
     }
   },
   "5213-TwoStorey.mod": {
+    "name": "Rebel E Door",
     "stringId": "5213-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -33627,6 +33960,7 @@
     }
   },
   "42248-gamedata.base": {
+    "name": "Iron Resource",
     "stringId": "42248-gamedata.base",
     "type": "Building",
     "values": {
@@ -33709,6 +34043,7 @@
     }
   },
   "2730-gamedata.base": {
+    "name": "Locksmith Training Box II",
     "stringId": "2730-gamedata.base",
     "type": "Building",
     "values": {
@@ -33812,6 +34147,7 @@
     }
   },
   "858-gamedata.base": {
+    "name": "Fabric Chest",
     "stringId": "858-gamedata.base",
     "type": "Building",
     "values": {
@@ -33908,6 +34244,7 @@
     }
   },
   "4062-TwoStorey.mod": {
+    "name": "Storm House Door G",
     "stringId": "4062-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -33990,6 +34327,7 @@
     }
   },
   "1783-gamedata.base": {
+    "name": "Prisoner Cage",
     "stringId": "1783-gamedata.base",
     "type": "Building",
     "values": {
@@ -34093,6 +34431,7 @@
     }
   },
   "5355-furniture_otto.mod": {
+    "name": "Small Barrel",
     "stringId": "5355-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -34182,6 +34521,7 @@
     }
   },
   "1863-gamedata.base": {
+    "name": "Manual Stone Processor",
     "stringId": "1863-gamedata.base",
     "type": "Building",
     "values": {
@@ -34297,6 +34637,7 @@
     }
   },
   "1512-gamedata.base": {
+    "name": "Ore Processor",
     "stringId": "1512-gamedata.base",
     "type": "Building",
     "values": {
@@ -34391,6 +34732,7 @@
     }
   },
   "4104-D-TwoStorey.mod": {
+    "name": "Watchtower",
     "stringId": "4104-D-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -34616,6 +34958,7 @@
     }
   },
   "1002-gamedata.base": {
+    "name": "sign2- -tools",
     "stringId": "1002-gamedata.base",
     "type": "Building",
     "values": {
@@ -34703,6 +35046,7 @@
     }
   },
   "2076-gamedata.base": {
+    "name": "Stone Mine VII",
     "stringId": "2076-gamedata.base",
     "type": "Building",
     "values": {
@@ -34807,6 +35151,7 @@
     }
   },
   "778-gamedata.base": {
+    "name": "Old Small Shack",
     "stringId": "778-gamedata.base",
     "type": "Building",
     "values": {
@@ -34940,6 +35285,7 @@
     }
   },
   "1858-gamedata.base": {
+    "name": "Oil Drill",
     "stringId": "1858-gamedata.base",
     "type": "Building",
     "values": {
@@ -35022,6 +35368,7 @@
     }
   },
   "605-gamedata.base": {
+    "name": "Water tower old",
     "stringId": "605-gamedata.base",
     "type": "Building",
     "values": {
@@ -35112,6 +35459,7 @@
     }
   },
   "5253-TwoStorey.mod": {
+    "name": "Market Stall C",
     "stringId": "5253-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -35209,6 +35557,7 @@
     }
   },
   "2943-gamedata.base": {
+    "name": "Storage: Leather",
     "stringId": "2943-gamedata.base",
     "type": "Building",
     "values": {
@@ -35312,6 +35661,7 @@
     }
   },
   "2116-gamedata.base": {
+    "name": "Steel Refinery",
     "stringId": "2116-gamedata.base",
     "type": "Building",
     "values": {
@@ -35420,6 +35770,7 @@
     }
   },
   "854-gamedata.base": {
+    "name": "Moor C",
     "stringId": "854-gamedata.base",
     "type": "Building",
     "values": {
@@ -35563,6 +35914,7 @@
     }
   },
   "3810-TwoStorey.mod": {
+    "name": "Storm House Door C I",
     "stringId": "3810-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -35645,6 +35997,7 @@
     }
   },
   "12856-nodes_otto.mod": {
+    "name": "Market Tent Big",
     "stringId": "12856-nodes_otto.mod",
     "type": "Building",
     "values": {
@@ -35732,6 +36085,7 @@
     }
   },
   "2266-gamedata.base": {
+    "name": "Medicrate",
     "stringId": "2266-gamedata.base",
     "type": "Building",
     "values": {
@@ -35860,6 +36214,7 @@
     }
   },
   "1114-gamedata.base": {
+    "name": "Wall B Gate",
     "stringId": "1114-gamedata.base",
     "type": "Building",
     "values": {
@@ -35954,6 +36309,7 @@
     }
   },
   "1092-gamedata.base": {
+    "name": "Stairs",
     "stringId": "1092-gamedata.base",
     "type": "Building",
     "values": {
@@ -36036,6 +36392,7 @@
     }
   },
   "18027-small_changes_otto.mod": {
+    "name": "Scrap Tent",
     "stringId": "18027-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -36130,6 +36487,7 @@
     }
   },
   "2940-Walls2.mod": {
+    "name": "Defensive Wall V",
     "stringId": "2940-Walls2.mod",
     "type": "Building",
     "values": {
@@ -36236,6 +36594,7 @@
     }
   },
   "1482-gamedata.base": {
+    "name": "Shop Door A",
     "stringId": "1482-gamedata.base",
     "type": "Building",
     "values": {
@@ -36318,6 +36677,7 @@
     }
   },
   "40560-small_changes_otto.mod": {
+    "name": "Hydroponic Riceweed",
     "stringId": "40560-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -36431,6 +36791,7 @@
     }
   },
   "3462-otto.mod": {
+    "name": "Weapon Cabinet",
     "stringId": "3462-otto.mod",
     "type": "Building",
     "values": {
@@ -36520,6 +36881,7 @@
     }
   },
   "3098-walls.mod": {
+    "name": "Defensive Wall V Tower",
     "stringId": "3098-walls.mod",
     "type": "Building",
     "values": {
@@ -36621,6 +36983,7 @@
     }
   },
   "2073-gamedata.base": {
+    "name": "Stone Mine IV",
     "stringId": "2073-gamedata.base",
     "type": "Building",
     "values": {
@@ -36710,6 +37073,7 @@
     }
   },
   "3468-otto.mod": {
+    "name": "Stool",
     "stringId": "3468-otto.mod",
     "type": "Building",
     "values": {
@@ -36804,6 +37168,7 @@
     }
   },
   "4078-TwoStorey.mod": {
+    "name": "Storm House Door H",
     "stringId": "4078-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -36886,6 +37251,7 @@
     }
   },
   "5193-TwoStorey.mod": {
+    "name": "General Storage Boxes",
     "stringId": "5193-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -36975,6 +37341,7 @@
     }
   },
   "3442-otto.mod": {
+    "name": "sign3_trader",
     "stringId": "3442-otto.mod",
     "type": "Building",
     "values": {
@@ -37062,6 +37429,7 @@
     }
   },
   "45561-Newwworld.mod": {
+    "name": "Wind Generator Broken",
     "stringId": "45561-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37155,6 +37523,7 @@
     }
   },
   "14394-Newwworld.mod": {
+    "name": "Storage Crate [Lost Race]",
     "stringId": "14394-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37248,6 +37617,7 @@
     }
   },
   "42309-Newwworld.mod": {
+    "name": "Holy Street Torch",
     "stringId": "42309-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37348,6 +37718,7 @@
     }
   },
   "46997-Newwworld.mod": {
+    "name": "Bar Sign B",
     "stringId": "46997-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37439,6 +37810,7 @@
     }
   },
   "40619-Newwworld.mod": {
+    "name": "HIVE Door C",
     "stringId": "40619-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37539,6 +37911,7 @@
     }
   },
   "44940-Newwworld.mod": {
+    "name": "Emperor Statue Broken",
     "stringId": "44940-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37625,6 +37998,7 @@
     }
   },
   "40615-Newwworld.mod": {
+    "name": "HIVE Door A",
     "stringId": "40615-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37725,6 +38099,7 @@
     }
   },
   "50527-Newwworld.mod": {
+    "name": "Fishing Net",
     "stringId": "50527-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37811,6 +38186,7 @@
     }
   },
   "43866-Newwworld.mod": {
+    "name": "Outpost Prison Ramp",
     "stringId": "43866-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -37930,6 +38306,7 @@
     }
   },
   "45562-Newwworld.mod": {
+    "name": "Weird Crate",
     "stringId": "45562-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38030,6 +38407,7 @@
     }
   },
   "50566-Newwworld.mod": {
+    "name": "Fishing Rod Set",
     "stringId": "50566-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38116,6 +38494,7 @@
     }
   },
   "42176-Newwworld.mod": {
+    "name": "Metal Wallhouse Door",
     "stringId": "42176-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38202,6 +38581,7 @@
     }
   },
   "46059-Newwworld.mod": {
+    "name": "Multi-Barrel Harpoon AUTOTurret",
     "stringId": "46059-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38314,6 +38694,7 @@
     }
   },
   "18916-Newwworld.mod": {
+    "name": "Split-Rail Fence B",
     "stringId": "18916-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38400,6 +38781,7 @@
     }
   },
   "4118-TwoStorey.mod": {
+    "name": "Outpost Gate",
     "stringId": "4118-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -38478,6 +38860,7 @@
     "references": {}
   },
   "46056-Newwworld.mod": {
+    "name": "Double-Barrel Harpoon AUTOTurret",
     "stringId": "46056-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38590,6 +38973,7 @@
     }
   },
   "43865-Newwworld.mod": {
+    "name": "Outpost Prison",
     "stringId": "43865-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38815,6 +39199,7 @@
     }
   },
   "40591-Newwworld.mod": {
+    "name": "Metal Warehouse",
     "stringId": "40591-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -38925,6 +39310,7 @@
     }
   },
   "47948-Newwworld.mod": {
+    "name": "Quarry Mine B",
     "stringId": "47948-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39025,6 +39411,7 @@
     }
   },
   "42175-Newwworld.mod": {
+    "name": "Metal Wallhouse",
     "stringId": "42175-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39199,6 +39586,7 @@
     }
   },
   "18935-Newwworld.mod": {
+    "name": "Pontoon Bridge",
     "stringId": "18935-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39277,6 +39665,7 @@
     "references": {}
   },
   "47944-Newwworld.mod": {
+    "name": "Quarry Crane",
     "stringId": "47944-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39363,6 +39752,7 @@
     }
   },
   "40580-Newwworld.mod": {
+    "name": "Outpost Heavy Gate",
     "stringId": "40580-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39470,6 +39860,7 @@
     }
   },
   "5367-furniture_otto.mod": {
+    "name": "Stove",
     "stringId": "5367-furniture_otto.mod",
     "type": "Building",
     "values": {
@@ -39548,6 +39939,7 @@
     "references": {}
   },
   "45556-Newwworld.mod": {
+    "name": "Holy Street Torch Snapped",
     "stringId": "45556-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39634,6 +40026,7 @@
     }
   },
   "45555-Newwworld.mod": {
+    "name": "Holy Sinner Torch Broken",
     "stringId": "45555-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39720,6 +40113,7 @@
     }
   },
   "40560-Newwworld.mod": {
+    "name": "Outhouse",
     "stringId": "40560-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39818,6 +40212,7 @@
     }
   },
   "40581-Newwworld.mod": {
+    "name": "Outpost Gate Component",
     "stringId": "40581-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -39904,6 +40299,7 @@
     }
   },
   "46979-Newwworld.mod": {
+    "name": "Lamp Indoor Gas",
     "stringId": "46979-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40004,6 +40400,7 @@
     }
   },
   "47945-Newwworld.mod": {
+    "name": "Quarry Mine A",
     "stringId": "47945-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40104,6 +40501,7 @@
     }
   },
   "40636-Newwworld.mod": {
+    "name": "Small Wind Generator",
     "stringId": "40636-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40228,6 +40626,7 @@
     }
   },
   "43880-Newwworld.mod": {
+    "name": "xxxx",
     "stringId": "43880-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40315,6 +40714,7 @@
     }
   },
   "2801-Newwworld.mod": {
+    "name": "Bridgehead",
     "stringId": "2801-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40413,6 +40813,7 @@
     }
   },
   "14535-Newwworld.mod": {
+    "name": "Ancient Factory",
     "stringId": "14535-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40538,6 +40939,7 @@
     }
   },
   "18917-Newwworld.mod": {
+    "name": "Split-Rail Fence C",
     "stringId": "18917-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40624,6 +41026,7 @@
     }
   },
   "46996-Newwworld.mod": {
+    "name": "Bar Sign A",
     "stringId": "46996-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40715,6 +41118,7 @@
     }
   },
   "2336-Newwworld.mod": {
+    "name": "Meas Cave ",
     "stringId": "2336-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40806,6 +41210,7 @@
     }
   },
   "50571-Newwworld.mod": {
+    "name": "Fish Drying Rack with Net",
     "stringId": "50571-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40892,6 +41297,7 @@
     }
   },
   "18912-Newwworld.mod": {
+    "name": "Split-Rail Fence A",
     "stringId": "18912-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -40978,6 +41384,7 @@
     }
   },
   "40599-Newwworld.mod": {
+    "name": "Hive Commune Hut",
     "stringId": "40599-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41125,6 +41532,7 @@
     }
   },
   "48464-Newwworld.mod": {
+    "name": "Flourescent Light",
     "stringId": "48464-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41225,6 +41633,7 @@
     }
   },
   "1112-gamedata.base": {
+    "name": "Ramp",
     "stringId": "1112-gamedata.base",
     "type": "Building",
     "values": {
@@ -41303,6 +41712,7 @@
     "references": {}
   },
   "2933-Walls2.mod": {
+    "name": "Defensive Gate level 2",
     "stringId": "2933-Walls2.mod",
     "type": "Building",
     "values": {
@@ -41422,6 +41832,7 @@
     }
   },
   "272-gamedata.base": {
+    "name": "Watertank",
     "stringId": "272-gamedata.base",
     "type": "Building",
     "values": {
@@ -41500,6 +41911,7 @@
     "references": {}
   },
   "50520-Newwworld.mod": {
+    "name": "Fish Drying Rack",
     "stringId": "50520-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41586,6 +41998,7 @@
     }
   },
   "43875-Newwworld.mod": {
+    "name": "Biofuel Distillery",
     "stringId": "43875-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41672,6 +42085,7 @@
     }
   },
   "46058-Newwworld.mod": {
+    "name": "Harpoon Autoturret MkII",
     "stringId": "46058-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41784,6 +42198,7 @@
     }
   },
   "40579-Newwworld.mod": {
+    "name": "Ancient Lab Ramp Gate",
     "stringId": "40579-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41903,6 +42318,7 @@
     }
   },
   "2643-Newwworld.mod": {
+    "name": "Cannibal Camp Cage",
     "stringId": "2643-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -41997,6 +42413,7 @@
     }
   },
   "47940-Newwworld.mod": {
+    "name": "Quarry Post",
     "stringId": "47940-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42083,6 +42500,7 @@
     }
   },
   "43881-Newwworld.mod": {
+    "name": "Robotics Bench",
     "stringId": "43881-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42195,6 +42613,7 @@
     }
   },
   "1099-gamedata.base": {
+    "name": "Bravo Base Only",
     "stringId": "1099-gamedata.base",
     "type": "Building",
     "values": {
@@ -42273,6 +42692,7 @@
     "references": {}
   },
   "47751-Newwworld.mod": {
+    "name": "Bar Sign C",
     "stringId": "47751-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42364,6 +42784,7 @@
     }
   },
   "49546-Newwworld.mod": {
+    "name": "Ancient Citadel Ruin",
     "stringId": "49546-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42481,6 +42902,7 @@
     }
   },
   "18938-Newwworld.mod": {
+    "name": "Pontoon Bridge",
     "stringId": "18938-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42567,6 +42989,7 @@
     }
   },
   "47922-Newwworld.mod": {
+    "name": "Quarry Scaffold",
     "stringId": "47922-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42673,6 +43096,7 @@
     }
   },
   "42310-Newwworld.mod": {
+    "name": "Holy Sinner Torch",
     "stringId": "42310-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42773,6 +43197,7 @@
     }
   },
   "45557-Newwworld.mod": {
+    "name": "Holy Street Torch Broken",
     "stringId": "45557-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -42859,6 +43284,7 @@
     }
   },
   "340-gamedata.base": {
+    "name": "Wall",
     "stringId": "340-gamedata.base",
     "type": "Building",
     "values": {
@@ -42937,6 +43363,7 @@
     "references": {}
   },
   "595-gamedata.base": {
+    "name": "Big Temple",
     "stringId": "595-gamedata.base",
     "type": "Building",
     "values": {
@@ -43015,6 +43442,7 @@
     "references": {}
   },
   "46057-Newwworld.mod": {
+    "name": "Harpoon Autoturret",
     "stringId": "46057-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43127,6 +43555,7 @@
     }
   },
   "47169-Newwworld.mod": {
+    "name": "Bar Sign Skeleton",
     "stringId": "47169-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43223,6 +43652,7 @@
     }
   },
   "40618-Newwworld.mod": {
+    "name": "HIVE Door B",
     "stringId": "40618-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43323,6 +43753,7 @@
     }
   },
   "47749-Newwworld.mod": {
+    "name": "GunPlank",
     "stringId": "47749-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43416,6 +43847,7 @@
     }
   },
   "50606-Newwworld.mod": {
+    "name": "Carpet: Rusty Rug",
     "stringId": "50606-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43509,6 +43941,7 @@
     }
   },
   "50625-Newwworld.mod": {
+    "name": "Swamp Lookout Tower",
     "stringId": "50625-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43595,6 +44028,7 @@
     }
   },
   "50627-Newwworld.mod": {
+    "name": "Swamp Walkboard",
     "stringId": "50627-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43681,6 +44115,7 @@
     }
   },
   "50631-Newwworld.mod": {
+    "name": "Swamp High Walkway",
     "stringId": "50631-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43767,6 +44202,7 @@
     }
   },
   "50634-Newwworld.mod": {
+    "name": "High Walkway",
     "stringId": "50634-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43853,6 +44289,7 @@
     }
   },
   "50639-Newwworld.mod": {
+    "name": "High Walkway Support",
     "stringId": "50639-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -43939,6 +44376,7 @@
     }
   },
   "50645-Newwworld.mod": {
+    "name": "Rusty Sink",
     "stringId": "50645-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44032,6 +44470,7 @@
     }
   },
   "51838-Newwworld.mod": {
+    "name": "Swamp Fence",
     "stringId": "51838-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44132,6 +44571,7 @@
     }
   },
   "51841-Newwworld.mod": {
+    "name": "Swamp Fence Short",
     "stringId": "51841-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44225,6 +44665,7 @@
     }
   },
   "52166-Newwworld.mod": {
+    "name": "Tarsand Distiller",
     "stringId": "52166-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44316,6 +44757,7 @@
     }
   },
   "52170-Newwworld.mod": {
+    "name": "Tarsand Capsule",
     "stringId": "52170-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44402,6 +44844,7 @@
     }
   },
   "52173-Newwworld.mod": {
+    "name": "Tarsand Towerframe B",
     "stringId": "52173-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44488,6 +44931,7 @@
     }
   },
   "52174-Newwworld.mod": {
+    "name": "Tarsand Towerframe A",
     "stringId": "52174-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44574,6 +45018,7 @@
     }
   },
   "52175-Newwworld.mod": {
+    "name": "Tarsand Vent B",
     "stringId": "52175-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44660,6 +45105,7 @@
     }
   },
   "52179-Newwworld.mod": {
+    "name": "Tarsand Vent A",
     "stringId": "52179-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44746,6 +45192,7 @@
     }
   },
   "52180-Newwworld.mod": {
+    "name": "Outpost s-V",
     "stringId": "52180-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -44949,6 +45396,7 @@
     }
   },
   "52194-Newwworld.mod": {
+    "name": "Outpost Door III Reskin",
     "stringId": "52194-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45035,6 +45483,7 @@
     }
   },
   "52196-Newwworld.mod": {
+    "name": "Tarsand Pipe Set",
     "stringId": "52196-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45121,6 +45570,7 @@
     }
   },
   "52204-Newwworld.mod": {
+    "name": "Tarsand Pipe A",
     "stringId": "52204-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45207,6 +45657,7 @@
     }
   },
   "52205-Newwworld.mod": {
+    "name": "Tarsand Pipe B",
     "stringId": "52205-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45293,6 +45744,7 @@
     }
   },
   "52206-Newwworld.mod": {
+    "name": "Tarsand Pipe C",
     "stringId": "52206-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45379,6 +45831,7 @@
     }
   },
   "52207-Newwworld.mod": {
+    "name": "Tarsand Pipe D",
     "stringId": "52207-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45465,6 +45918,7 @@
     }
   },
   "52208-Newwworld.mod": {
+    "name": "Tarsand Pipe E",
     "stringId": "52208-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45551,6 +46005,7 @@
     }
   },
   "52209-Newwworld.mod": {
+    "name": "Tarsand Pipe Long",
     "stringId": "52209-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45637,6 +46092,7 @@
     }
   },
   "52211-Newwworld.mod": {
+    "name": "Interior Wall: Metal",
     "stringId": "52211-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45730,6 +46186,7 @@
     }
   },
   "52213-Newwworld.mod": {
+    "name": "Round Bar Table",
     "stringId": "52213-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45823,6 +46280,7 @@
     }
   },
   "52215-Newwworld.mod": {
+    "name": "Support Beam 3",
     "stringId": "52215-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -45909,6 +46367,7 @@
     }
   },
   "54019-Newwworld.mod": {
+    "name": "Ash Dome",
     "stringId": "54019-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46119,6 +46578,7 @@
     }
   },
   "54552-Newwworld.mod": {
+    "name": "banner_traders",
     "stringId": "54552-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46210,6 +46670,7 @@
     }
   },
   "55108-Newwworld.mod": {
+    "name": "Ash Dome Ruin",
     "stringId": "55108-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46405,6 +46866,7 @@
     }
   },
   "55940-Newwworld.mod": {
+    "name": "Shield Bridge",
     "stringId": "55940-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46496,6 +46958,7 @@
     }
   },
   "56040-Newwworld.mod": {
+    "name": "Small Broken Crate",
     "stringId": "56040-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46611,6 +47074,7 @@
     }
   },
   "56043-Newwworld.mod": {
+    "name": "Secure Wooden Chest SMASHED",
     "stringId": "56043-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46727,6 +47191,7 @@
     }
   },
   "56044-Newwworld.mod": {
+    "name": "Smashed Chest",
     "stringId": "56044-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46842,6 +47307,7 @@
     }
   },
   "56047-Newwworld.mod": {
+    "name": "Bread Basket SMASHED",
     "stringId": "56047-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -46958,6 +47424,7 @@
     }
   },
   "56048-Newwworld.mod": {
+    "name": "Broken Basket",
     "stringId": "56048-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47073,6 +47540,7 @@
     }
   },
   "56050-Newwworld.mod": {
+    "name": "Booze Barrel SMASHED",
     "stringId": "56050-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47189,6 +47657,7 @@
     }
   },
   "56051-Newwworld.mod": {
+    "name": "Storage: Cactus SMASHED",
     "stringId": "56051-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47276,6 +47745,7 @@
     }
   },
   "56052-Newwworld.mod": {
+    "name": "Storage: Greenfruit SMASHED",
     "stringId": "56052-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47363,6 +47833,7 @@
     }
   },
   "56053-Newwworld.mod": {
+    "name": "Storage: Hemp SMASHED",
     "stringId": "56053-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47478,6 +47949,7 @@
     }
   },
   "56054-Newwworld.mod": {
+    "name": "Storage: Riceweed SMASHED",
     "stringId": "56054-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47565,6 +48037,7 @@
     }
   },
   "56055-Newwworld.mod": {
+    "name": "Storage: Wheatstraw SMASHED",
     "stringId": "56055-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47681,6 +48154,7 @@
     }
   },
   "56056-Newwworld.mod": {
+    "name": "Broken Barrel",
     "stringId": "56056-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47796,6 +48270,7 @@
     }
   },
   "56058-Newwworld.mod": {
+    "name": "Small Broken Barrel",
     "stringId": "56058-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -47911,6 +48386,7 @@
     }
   },
   "56059-Newwworld.mod": {
+    "name": "Storage: Leather SMASHED",
     "stringId": "56059-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48020,6 +48496,7 @@
     }
   },
   "56060-Newwworld.mod": {
+    "name": "Storage: Meat SMASHED",
     "stringId": "56060-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48106,6 +48583,7 @@
     }
   },
   "56061-Newwworld.mod": {
+    "name": "Storage: Skins SMASHED",
     "stringId": "56061-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48192,6 +48670,7 @@
     }
   },
   "56064-Newwworld.mod": {
+    "name": "Broken Storage Chest",
     "stringId": "56064-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48296,6 +48775,7 @@
     }
   },
   "56107-Newwworld.mod": {
+    "name": "Throne",
     "stringId": "56107-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48418,6 +48898,7 @@
     }
   },
   "56109-Newwworld.mod": {
+    "name": "Throne Platform",
     "stringId": "56109-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48507,6 +48988,7 @@
     }
   },
   "56114-Newwworld.mod": {
+    "name": "Blast Tube Streetlight",
     "stringId": "56114-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48636,6 +49118,7 @@
     }
   },
   "56165-Newwworld.mod": {
+    "name": "Junk Pile A",
     "stringId": "56165-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48725,6 +49208,7 @@
     }
   },
   "56166-Newwworld.mod": {
+    "name": "Junk Pile B",
     "stringId": "56166-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48814,6 +49298,7 @@
     }
   },
   "56167-Newwworld.mod": {
+    "name": "Junk Pile C",
     "stringId": "56167-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48903,6 +49388,7 @@
     }
   },
   "56170-Newwworld.mod": {
+    "name": "Junk Pile D",
     "stringId": "56170-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -48992,6 +49478,7 @@
     }
   },
   "56171-Newwworld.mod": {
+    "name": "Storm House Lagoon Version",
     "stringId": "56171-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49190,6 +49677,7 @@
     }
   },
   "56173-Newwworld.mod": {
+    "name": "L-House  Lagoon",
     "stringId": "56173-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49383,6 +49871,7 @@
     }
   },
   "56183-Newwworld.mod": {
+    "name": "Skeleton Shredder",
     "stringId": "56183-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49476,6 +49965,7 @@
     }
   },
   "56728-Newwworld.mod": {
+    "name": "Lagoon Platform",
     "stringId": "56728-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49571,6 +50061,7 @@
     }
   },
   "56729-Newwworld.mod": {
+    "name": "Snailhouse Lagoon",
     "stringId": "56729-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49809,6 +50300,7 @@
     }
   },
   "56978-Newwworld.mod": {
+    "name": "Barge Wreck A",
     "stringId": "56978-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49897,6 +50389,7 @@
     }
   },
   "56983-Newwworld.mod": {
+    "name": "Barge Wreck B",
     "stringId": "56983-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -49985,6 +50478,7 @@
     }
   },
   "56986-Newwworld.mod": {
+    "name": "Barge Wreck C",
     "stringId": "56986-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50068,6 +50562,7 @@
     }
   },
   "57740-Newwworld.mod": {
+    "name": "Dome Ruin",
     "stringId": "57740-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50287,6 +50782,7 @@
     }
   },
   "62859-Newwworld.mod": {
+    "name": "Hive Queen Throne",
     "stringId": "62859-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50409,6 +50905,7 @@
     }
   },
   "63228-Newwworld.mod": {
+    "name": "Stobe",
     "stringId": "63228-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50500,6 +50997,7 @@
     }
   },
   "63885-Newwworld.mod": {
+    "name": "Broken Watchtower",
     "stringId": "63885-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50670,6 +51168,7 @@
     }
   },
   "64650-Newwworld.mod": {
+    "name": "Robot Repair Bed",
     "stringId": "64650-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50772,6 +51271,7 @@
     }
   },
   "95749-Newwworld.mod": {
+    "name": "Sign Crossbows",
     "stringId": "95749-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50859,6 +51359,7 @@
     }
   },
   "95751-Newwworld.mod": {
+    "name": "Broken Bench",
     "stringId": "95751-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -50941,6 +51442,7 @@
     }
   },
   "95754-Newwworld.mod": {
+    "name": "Metal Table Broken",
     "stringId": "95754-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51023,6 +51525,7 @@
     }
   },
   "96017-Newwworld.mod": {
+    "name": "Sign Robotics",
     "stringId": "96017-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51110,6 +51613,7 @@
     }
   },
   "96183-Newwworld.mod": {
+    "name": "Crossbow Crafting Bench",
     "stringId": "96183-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51206,6 +51710,7 @@
     }
   },
   "96184-Newwworld.mod": {
+    "name": "Arrow Making Bench ",
     "stringId": "96184-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51309,6 +51814,7 @@
     }
   },
   "96362-Newwworld.mod": {
+    "name": "Sign ARROW",
     "stringId": "96362-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51391,6 +51897,7 @@
     }
   },
   "96365-Newwworld.mod": {
+    "name": "Skeleton Limb Bench",
     "stringId": "96365-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51503,6 +52010,7 @@
     }
   },
   "96393-Newwworld.mod": {
+    "name": "Bin of Screamer Heads",
     "stringId": "96393-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51589,6 +52097,7 @@
     }
   },
   "96396-Newwworld.mod": {
+    "name": "Peeler Machine",
     "stringId": "96396-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51694,6 +52203,7 @@
     }
   },
   "97583-Newwworld.mod": {
+    "name": "Rain Collector",
     "stringId": "97583-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51797,6 +52307,7 @@
     }
   },
   "97588-Newwworld.mod": {
+    "name": "Fish Bed",
     "stringId": "97588-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -51897,6 +52408,7 @@
     }
   },
   "97586-Newwworld.mod": {
+    "name": "Camp Fish Pile",
     "stringId": "97586-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52012,6 +52524,7 @@
     }
   },
   "98551-Newwworld.mod": {
+    "name": "Large Dock Wreck01",
     "stringId": "98551-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52115,6 +52628,7 @@
     }
   },
   "98802-Newwworld.mod": {
+    "name": "Large Dock WreckPiece01",
     "stringId": "98802-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52203,6 +52717,7 @@
     }
   },
   "98810-Newwworld.mod": {
+    "name": "Large Dock Wreck02 (whole)",
     "stringId": "98810-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52301,6 +52816,7 @@
     }
   },
   "98813-Newwworld.mod": {
+    "name": "Large Dock WreckPiece03",
     "stringId": "98813-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52389,6 +52905,7 @@
     }
   },
   "98814-Newwworld.mod": {
+    "name": "Large Dock WreckPiece04  - Big",
     "stringId": "98814-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52487,6 +53004,7 @@
     }
   },
   "1533489-Newwworld.mod": {
+    "name": "Com Tower Ruin01",
     "stringId": "1533489-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52575,6 +53093,7 @@
     }
   },
   "1533495-Newwworld.mod": {
+    "name": "Com Tower Ruin02",
     "stringId": "1533495-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52663,6 +53182,7 @@
     }
   },
   "1533502-Newwworld.mod": {
+    "name": "Com Tower Ruin03",
     "stringId": "1533502-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52751,6 +53271,7 @@
     }
   },
   "1533503-Newwworld.mod": {
+    "name": "Com Tower Ruin04",
     "stringId": "1533503-Newwworld.mod",
     "type": "Building",
     "values": {
@@ -52839,6 +53360,7 @@
     }
   },
   "3387-TwoStorey.mod": {
+    "name": "",
     "stringId": "3387-TwoStorey.mod",
     "type": "Building",
     "values": {
@@ -52918,6 +53440,7 @@
     "references": {}
   },
   "96344-Dialogue.mod": {
+    "name": "Hive Queen Hut",
     "stringId": "96344-Dialogue.mod",
     "type": "Building",
     "values": {
@@ -53065,6 +53588,7 @@
     }
   },
   "42169-gamedata.base": {
+    "name": "Iron Refinery III",
     "stringId": "42169-gamedata.base",
     "type": "Building",
     "values": {
@@ -53173,6 +53697,7 @@
     }
   },
   "43325-changes_otto.mod": {
+    "name": "banner_swamp",
     "stringId": "43325-changes_otto.mod",
     "type": "Building",
     "values": {
@@ -53260,6 +53785,7 @@
     }
   },
   "44926-rebirth.mod": {
+    "name": "Secure Weapon Cabinet",
     "stringId": "44926-rebirth.mod",
     "type": "Building",
     "values": {
@@ -53349,6 +53875,7 @@
     }
   },
   "47753-rebirth.mod": {
+    "name": "Mounted Crossbow mkII  [light]",
     "stringId": "47753-rebirth.mod",
     "type": "Building",
     "values": {
@@ -53469,6 +53996,7 @@
     }
   },
   "48462-rebirth.mod": {
+    "name": "Ancient Safe",
     "stringId": "48462-rebirth.mod",
     "type": "Building",
     "values": {
@@ -53565,6 +54093,7 @@
     }
   },
   "48459-rebirth.mod": {
+    "name": "Metal Box",
     "stringId": "48459-rebirth.mod",
     "type": "Building",
     "values": {
@@ -53661,6 +54190,7 @@
     }
   },
   "42080-small_changes_otto.mod": {
+    "name": "sign3_hat2",
     "stringId": "42080-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -53748,6 +54278,7 @@
     }
   },
   "43918-rebirth.mod": {
+    "name": "Biofuel Distillery (Greenfruit)",
     "stringId": "43918-rebirth.mod",
     "type": "Building",
     "values": {
@@ -53851,6 +54382,7 @@
     }
   },
   "42183-rebirth.mod": {
+    "name": "Fabric Loom (cotton)",
     "stringId": "42183-rebirth.mod",
     "type": "Building",
     "values": {
@@ -53973,6 +54505,7 @@
     }
   },
   "42167-gamedata.base": {
+    "name": "Iron Refinery",
     "stringId": "42167-gamedata.base",
     "type": "Building",
     "values": {
@@ -54081,6 +54614,7 @@
     }
   },
   "49382-rebirth.mod": {
+    "name": "Booze Barrel",
     "stringId": "49382-rebirth.mod",
     "type": "Building",
     "values": {
@@ -54192,6 +54726,7 @@
     }
   },
   "43323-changes_otto.mod": {
+    "name": "banner_bone",
     "stringId": "43323-changes_otto.mod",
     "type": "Building",
     "values": {
@@ -54279,6 +54814,7 @@
     }
   },
   "42188-rebirth.mod": {
+    "name": "Wind Generator II",
     "stringId": "42188-rebirth.mod",
     "type": "Building",
     "values": {
@@ -54399,6 +54935,7 @@
     }
   },
   "42325-changes_otto.mod": {
+    "name": "Emperor Statue",
     "stringId": "42325-changes_otto.mod",
     "type": "Building",
     "values": {
@@ -54481,6 +55018,7 @@
     }
   },
   "50018-rebirth.mod": {
+    "name": "Copper Alloy Bench",
     "stringId": "50018-rebirth.mod",
     "type": "Building",
     "values": {
@@ -54577,6 +55115,7 @@
     }
   },
   "42187-rebirth.mod": {
+    "name": "Storage: Iron Plates",
     "stringId": "42187-rebirth.mod",
     "type": "Building",
     "values": {
@@ -54680,6 +55219,7 @@
     }
   },
   "48727-rebirth.mod": {
+    "name": "Outpost s-II",
     "stringId": "48727-rebirth.mod",
     "type": "Building",
     "values": {
@@ -54884,6 +55424,7 @@
     }
   },
   "48456-rebirth.mod": {
+    "name": "Smallbox",
     "stringId": "48456-rebirth.mod",
     "type": "Building",
     "values": {
@@ -54980,6 +55521,7 @@
     }
   },
   "43909-rebirth.mod": {
+    "name": "Storage: Cactus",
     "stringId": "43909-rebirth.mod",
     "type": "Building",
     "values": {
@@ -55076,6 +55618,7 @@
     }
   },
   "42176-small_changes_otto.mod": {
+    "name": "Barracks Door Fortification",
     "stringId": "42176-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -55158,6 +55701,7 @@
     }
   },
   "47751-rebirth.mod": {
+    "name": "Harpoon Turret MkII  [light]",
     "stringId": "47751-rebirth.mod",
     "type": "Building",
     "values": {
@@ -55288,6 +55832,7 @@
     }
   },
   "47752-rebirth.mod": {
+    "name": "Double-Barrel Harpoon Turret [light]",
     "stringId": "47752-rebirth.mod",
     "type": "Building",
     "values": {
@@ -55413,6 +55958,7 @@
     }
   },
   "43912-rebirth.mod": {
+    "name": "Storage: Riceweed",
     "stringId": "43912-rebirth.mod",
     "type": "Building",
     "values": {
@@ -55509,6 +56055,7 @@
     }
   },
   "48465-rebirth.mod": {
+    "name": "Storage: Electricals",
     "stringId": "48465-rebirth.mod",
     "type": "Building",
     "values": {
@@ -55612,6 +56159,7 @@
     }
   },
   "42083-small_changes_otto.mod": {
+    "name": "sign3_noentry",
     "stringId": "42083-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -55699,6 +56247,7 @@
     }
   },
   "48468-rebirth.mod": {
+    "name": "Strongbox",
     "stringId": "48468-rebirth.mod",
     "type": "Building",
     "values": {
@@ -55795,6 +56344,7 @@
     }
   },
   "42082-small_changes_otto.mod": {
+    "name": "sign3_weapon2",
     "stringId": "42082-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -55882,6 +56432,7 @@
     }
   },
   "43322-changes_otto.mod": {
+    "name": "banner_holy",
     "stringId": "43322-changes_otto.mod",
     "type": "Building",
     "values": {
@@ -55969,6 +56520,7 @@
     }
   },
   "43389-rebirth.mod": {
+    "name": "Storage: Skins",
     "stringId": "43389-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56065,6 +56617,7 @@
     }
   },
   "43907-rebirth.mod": {
+    "name": "Weapon Stand copy",
     "stringId": "43907-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56154,6 +56707,7 @@
     }
   },
   "43324-changes_otto.mod": {
+    "name": "banner_empire",
     "stringId": "43324-changes_otto.mod",
     "type": "Building",
     "values": {
@@ -56241,6 +56795,7 @@
     }
   },
   "45551-changes_otto.mod": {
+    "name": "Ceiling Fan Lamp",
     "stringId": "45551-changes_otto.mod",
     "type": "Building",
     "values": {
@@ -56342,6 +56897,7 @@
     }
   },
   "43911-rebirth.mod": {
+    "name": "Storage: Greenfruit",
     "stringId": "43911-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56438,6 +56994,7 @@
     }
   },
   "43872-rebirth.mod": {
+    "name": "Assassination Dummy II",
     "stringId": "43872-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56546,6 +57103,7 @@
     }
   },
   "43910-rebirth.mod": {
+    "name": "Booze Barrel Table",
     "stringId": "43910-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56642,6 +57200,7 @@
     }
   },
   "42186-rebirth.mod": {
+    "name": "Storage: Cotton",
     "stringId": "42186-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56738,6 +57297,7 @@
     }
   },
   "43967-rebirth.mod": {
+    "name": "Hybrid Stone Mine II",
     "stringId": "43967-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56844,6 +57404,7 @@
     }
   },
   "48455-rebirth.mod": {
+    "name": "Machine Block",
     "stringId": "48455-rebirth.mod",
     "type": "Building",
     "values": {
@@ -56926,6 +57487,7 @@
     }
   },
   "43914-rebirth.mod": {
+    "name": "Biofuel Distillery (Wheatstraw)",
     "stringId": "43914-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57029,6 +57591,7 @@
     }
   },
   "43868-rebirth.mod": {
+    "name": "Assassination Dummy",
     "stringId": "43868-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57132,6 +57695,7 @@
     }
   },
   "47237-rebirth.mod": {
+    "name": "Manual Iron Refinery",
     "stringId": "47237-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57233,6 +57797,7 @@
     }
   },
   "48450-rebirth.mod": {
+    "name": "Barrier",
     "stringId": "48450-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57332,6 +57897,7 @@
     }
   },
   "42168-gamedata.base": {
+    "name": "Iron Refinery II",
     "stringId": "42168-gamedata.base",
     "type": "Building",
     "values": {
@@ -57440,6 +58006,7 @@
     }
   },
   "44905-rebirth.mod": {
+    "name": "Large Torch Post",
     "stringId": "44905-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57536,6 +58103,7 @@
     }
   },
   "48729-rebirth.mod": {
+    "name": "Outpost s-I",
     "stringId": "48729-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57735,6 +58303,7 @@
     }
   },
   "43873-rebirth.mod": {
+    "name": "Assassination Dummy III",
     "stringId": "43873-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57836,6 +58405,7 @@
     }
   },
   "47240-rebirth.mod": {
+    "name": "Storage: Meat",
     "stringId": "47240-rebirth.mod",
     "type": "Building",
     "values": {
@@ -57932,6 +58502,7 @@
     }
   },
   "42166-gamedata.base": {
+    "name": "Electrical Workbench",
     "stringId": "42166-gamedata.base",
     "type": "Building",
     "values": {
@@ -58035,6 +58606,7 @@
     }
   },
   "43390-rebirth.mod": {
+    "name": "Storage: Copper",
     "stringId": "43390-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58138,6 +58710,7 @@
     }
   },
   "42081-small_changes_otto.mod": {
+    "name": "sign3_food",
     "stringId": "42081-small_changes_otto.mod",
     "type": "Building",
     "values": {
@@ -58225,6 +58798,7 @@
     }
   },
   "48672-rebirth.mod": {
+    "name": "Broken Drone",
     "stringId": "48672-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58307,6 +58881,7 @@
     }
   },
   "50022-rebirth.mod": {
+    "name": "Storage: Copper Alloys",
     "stringId": "50022-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58410,6 +58985,7 @@
     }
   },
   "50922-rebirth.mod": {
+    "name": "Biofuel Distillery (Hemp)",
     "stringId": "50922-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58513,6 +59089,7 @@
     }
   },
   "50932-rebirth.mod": {
+    "name": "Ancient Lab Ramp",
     "stringId": "50932-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58621,6 +59198,7 @@
     }
   },
   "51374-rebirth.mod": {
+    "name": "Warehouse Roof",
     "stringId": "51374-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58703,6 +59281,7 @@
     }
   },
   "52159-rebirth.mod": {
+    "name": "Grog Barrels",
     "stringId": "52159-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58799,6 +59378,7 @@
     }
   },
   "52160-rebirth.mod": {
+    "name": "Sake Barrels",
     "stringId": "52160-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58895,6 +59475,7 @@
     }
   },
   "52162-rebirth.mod": {
+    "name": "Sake Still",
     "stringId": "52162-rebirth.mod",
     "type": "Building",
     "values": {
@@ -58998,6 +59579,7 @@
     }
   },
   "52163-rebirth.mod": {
+    "name": "Hemp Processor",
     "stringId": "52163-rebirth.mod",
     "type": "Building",
     "values": {
@@ -59099,6 +59681,7 @@
     }
   },
   "52280-rebirth.mod": {
+    "name": "Grog Machine",
     "stringId": "52280-rebirth.mod",
     "type": "Building",
     "values": {
@@ -59195,6 +59778,7 @@
     }
   },
   "53651-rebirth.mod": {
+    "name": "Holy Street Torch (out)",
     "stringId": "53651-rebirth.mod",
     "type": "Building",
     "values": {
@@ -59277,6 +59861,7 @@
     }
   },
   "55236-rebirth.mod": {
+    "name": "Storage: Hashish",
     "stringId": "55236-rebirth.mod",
     "type": "Building",
     "values": {
@@ -59373,6 +59958,7 @@
     }
   },
   "56129-rebirth.mod": {
+    "name": "Storage: Robotics",
     "stringId": "56129-rebirth.mod",
     "type": "Building",
     "values": {
@@ -59526,6 +60112,7 @@
     }
   },
   "56900-farm.mod": {
+    "name": "Vegetable Farm M",
     "stringId": "56900-farm.mod",
     "type": "Building",
     "values": {
@@ -59651,6 +60238,7 @@
     }
   },
   "56899-farm.mod": {
+    "name": "Vegetable Farm S",
     "stringId": "56899-farm.mod",
     "type": "Building",
     "values": {
@@ -59776,6 +60364,7 @@
     }
   },
   "56897-farm.mod": {
+    "name": "Wheat Farm L",
     "stringId": "56897-farm.mod",
     "type": "Building",
     "values": {
@@ -59901,6 +60490,7 @@
     }
   },
   "56893-farm.mod": {
+    "name": "Wheat Farm M",
     "stringId": "56893-farm.mod",
     "type": "Building",
     "values": {
@@ -60026,6 +60616,7 @@
     }
   },
   "56898-farm.mod": {
+    "name": "Wheat Farm XL",
     "stringId": "56898-farm.mod",
     "type": "Building",
     "values": {
@@ -60144,6 +60735,7 @@
     }
   },
   "56903-rebirth.mod": {
+    "name": "Riceweed Farm S",
     "stringId": "56903-rebirth.mod",
     "type": "Building",
     "values": {
@@ -60269,6 +60861,7 @@
     }
   },
   "56904-rebirth.mod": {
+    "name": "Riceweed Farm M",
     "stringId": "56904-rebirth.mod",
     "type": "Building",
     "values": {
@@ -60394,6 +60987,7 @@
     }
   },
   "56910-rebirth.mod": {
+    "name": "Cactus Farm M",
     "stringId": "56910-rebirth.mod",
     "type": "Building",
     "values": {
@@ -60519,6 +61113,7 @@
     }
   },
   "56911-rebirth.mod": {
+    "name": "Cactus Farm L",
     "stringId": "56911-rebirth.mod",
     "type": "Building",
     "values": {
@@ -60644,6 +61239,7 @@
     }
   },
   "56912-rebirth.mod": {
+    "name": "Cactus Farm S",
     "stringId": "56912-rebirth.mod",
     "type": "Building",
     "values": {
@@ -60769,6 +61365,7 @@
     }
   },
   "56918-rebirth.mod": {
+    "name": "Hemp Farm S",
     "stringId": "56918-rebirth.mod",
     "type": "Building",
     "values": {
@@ -60894,6 +61491,7 @@
     }
   },
   "56919-rebirth.mod": {
+    "name": "Hemp Farm M",
     "stringId": "56919-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61019,6 +61617,7 @@
     }
   },
   "56920-rebirth.mod": {
+    "name": "Cotton Farm L",
     "stringId": "56920-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61144,6 +61743,7 @@
     }
   },
   "56921-rebirth.mod": {
+    "name": "Cotton Farm M",
     "stringId": "56921-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61269,6 +61869,7 @@
     }
   },
   "56922-rebirth.mod": {
+    "name": "Cotton Farm S",
     "stringId": "56922-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61394,6 +61995,7 @@
     }
   },
   "62378-rebirth.mod": {
+    "name": "Cotton Auto-Loom",
     "stringId": "62378-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61514,6 +62116,7 @@
     }
   },
   "62379-rebirth.mod": {
+    "name": "Hemp Auto-Loom",
     "stringId": "62379-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61634,6 +62237,7 @@
     }
   },
   "62799-rebirth.mod": {
+    "name": "Ceiling Fan (Broken)",
     "stringId": "62799-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61735,6 +62339,7 @@
     }
   },
   "64596-rebirth.mod": {
+    "name": "Animal Feeder",
     "stringId": "64596-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61891,6 +62496,7 @@
     }
   },
   "64614-rebirth.mod": {
+    "name": "Skeleton Repair Bed",
     "stringId": "64614-rebirth.mod",
     "type": "Building",
     "values": {
@@ -61997,6 +62603,7 @@
     }
   },
   "64653-rebirth.mod": {
+    "name": "No Entry Sign",
     "stringId": "64653-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62084,6 +62691,7 @@
     }
   },
   "96082-__Southern hive.mod": {
+    "name": "Barrier Destroyed",
     "stringId": "96082-__Southern hive.mod",
     "type": "Building",
     "values": {
@@ -62183,6 +62791,7 @@
     }
   },
   "97083-rebirth.mod": {
+    "name": "BUILDING",
     "stringId": "97083-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62257,6 +62866,7 @@
     "references": {}
   },
   "97091-rebirth.mod": {
+    "name": "Engineering Bench",
     "stringId": "97091-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62353,6 +62963,7 @@
     }
   },
   "97243-rebirth.mod": {
+    "name": "Storage: Crossbow Parts",
     "stringId": "97243-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62466,6 +63077,7 @@
     }
   },
   "97246-rebirth.mod": {
+    "name": "Boltbox",
     "stringId": "97246-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62584,6 +63196,7 @@
     }
   },
   "97498-rebirth.mod": {
+    "name": "Thief Training Boxes",
     "stringId": "97498-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62687,6 +63300,7 @@
     }
   },
   "97500-rebirth.mod": {
+    "name": "Thief Training Boxes II",
     "stringId": "97500-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62800,6 +63414,7 @@
     }
   },
   "97501-rebirth.mod": {
+    "name": "Thief Training Boxes III",
     "stringId": "97501-rebirth.mod",
     "type": "Building",
     "values": {
@@ -62916,6 +63531,7 @@
     }
   },
   "97503-rebirth.mod": {
+    "name": "Locksmith Training Box III",
     "stringId": "97503-rebirth.mod",
     "type": "Building",
     "values": {
@@ -63027,6 +63643,7 @@
     }
   },
   "97847-__March 18.mod": {
+    "name": "Invisible Campfire",
     "stringId": "97847-__March 18.mod",
     "type": "Building",
     "values": {
@@ -63109,6 +63726,7 @@
     }
   },
   "99106-Boneyard Wolf.mod": {
+    "name": "Small Copper Resource",
     "stringId": "99106-Boneyard Wolf.mod",
     "type": "Building",
     "values": {
@@ -63191,6 +63809,7 @@
     }
   },
   "99107-Boneyard Wolf.mod": {
+    "name": "Small Iron Resource",
     "stringId": "99107-Boneyard Wolf.mod",
     "type": "Building",
     "values": {
@@ -63273,6 +63892,7 @@
     }
   },
   "1532622-rebirth.mod": {
+    "name": "Crossbow Locker",
     "stringId": "1532622-rebirth.mod",
     "type": "Building",
     "values": {
@@ -63369,6 +63989,7 @@
     }
   },
   "1532831-rebirth.mod": {
+    "name": "Iron Refinery IV",
     "stringId": "1532831-rebirth.mod",
     "type": "Building",
     "values": {
@@ -63470,6 +64091,7 @@
     }
   },
   "1533314-rebirth.mod": {
+    "name": "Automatic Grain Silo",
     "stringId": "1533314-rebirth.mod",
     "type": "Building",
     "values": {

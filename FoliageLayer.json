@@ -1,5 +1,6 @@
 {
   "4422-Newwworld.mod": {
+    "name": "Grass Spikey",
     "stringId": "4422-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -17,6 +18,7 @@
     }
   },
   "1452-vurt.mod": {
+    "name": "paged layer",
     "stringId": "1452-vurt.mod",
     "type": "FoliageLayer",
     "values": {
@@ -164,6 +166,7 @@
     }
   },
   "43884-Newwworld.mod": {
+    "name": "ResourceRock-IRON Easy Reach",
     "stringId": "43884-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -196,6 +199,7 @@
     }
   },
   "5509-Newwworld.mod": {
+    "name": "FOLIAGE_Bone SETS",
     "stringId": "5509-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -268,6 +272,7 @@
     }
   },
   "2215-gamedata.base": {
+    "name": "rocks",
     "stringId": "2215-gamedata.base",
     "type": "FoliageLayer",
     "values": {
@@ -277,6 +282,7 @@
     "references": {}
   },
   "43869-Newwworld.mod": {
+    "name": "MonuRocks Lower slopes",
     "stringId": "43869-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -309,6 +315,7 @@
     }
   },
   "5639-Newwworld.mod": {
+    "name": "Grass FluffyHead",
     "stringId": "5639-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -326,6 +333,7 @@
     }
   },
   "5552-Newwworld.mod": {
+    "name": "Foliage_CYPRUS-STYLE",
     "stringId": "5552-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -343,6 +351,7 @@
     }
   },
   "4429-Newwworld.mod": {
+    "name": "Grass HAND PLANT 01",
     "stringId": "4429-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -360,6 +369,7 @@
     }
   },
   "3204-Newwworld.mod": {
+    "name": "Grass Sliced Twiggy-orange",
     "stringId": "3204-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -377,6 +387,7 @@
     }
   },
   "3423-Newwworld.mod": {
+    "name": "Canyonland_TumbleBouldersKenBowl",
     "stringId": "3423-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -404,6 +415,7 @@
     }
   },
   "3215-Newwworld.mod": {
+    "name": "Plant_FanPalms-BLUE!!",
     "stringId": "3215-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -446,6 +458,7 @@
     }
   },
   "2734-Newwworld.mod": {
+    "name": "Spong Plant",
     "stringId": "2734-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -464,6 +477,7 @@
     }
   },
   "5695-Newwworld.mod": {
+    "name": "ResourceRock_Copper",
     "stringId": "5695-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -481,6 +495,7 @@
     }
   },
   "43891-Newwworld.mod": {
+    "name": "Large Tumble Nodules",
     "stringId": "43891-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -498,6 +513,7 @@
     }
   },
   "16851-Newwworld.mod": {
+    "name": "Vast_Cluster_Pieces",
     "stringId": "16851-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -516,6 +532,7 @@
     }
   },
   "3231-Newwworld.mod": {
+    "name": "Crystal_PINK",
     "stringId": "3231-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -533,6 +550,7 @@
     }
   },
   "5730-Newwworld.mod": {
+    "name": "Outcrop_Star",
     "stringId": "5730-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -580,6 +598,7 @@
     }
   },
   "3417-Newwworld.mod": {
+    "name": "Ashland_Foliage_Shells",
     "stringId": "3417-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -607,6 +626,7 @@
     }
   },
   "4388-Newwworld.mod": {
+    "name": "Boulder_Star01",
     "stringId": "4388-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -624,6 +644,7 @@
     }
   },
   "5592-Newwworld.mod": {
+    "name": "Barkworm_Pillars",
     "stringId": "5592-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -651,6 +672,7 @@
     }
   },
   "2723-Newwworld.mod": {
+    "name": "Canyonland_foliagerocks_BIG",
     "stringId": "2723-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -683,6 +705,7 @@
     }
   },
   "4444-Newwworld.mod": {
+    "name": "ForestFern01",
     "stringId": "4444-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -700,6 +723,7 @@
     }
   },
   "3612-Newwworld.mod": {
+    "name": "Akakus_foliagerocks_ManyDark Small",
     "stringId": "3612-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -717,6 +741,7 @@
     }
   },
   "5590-Newwworld.mod": {
+    "name": "Rocks - FlatSlabs",
     "stringId": "5590-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -759,6 +784,7 @@
     }
   },
   "3622-Newwworld.mod": {
+    "name": "Bleached_Skull01",
     "stringId": "3622-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -777,6 +803,7 @@
     }
   },
   "2809-Newwworld.mod": {
+    "name": "Thin Tree [Wide]",
     "stringId": "2809-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -794,6 +821,7 @@
     }
   },
   "3233-Newwworld.mod": {
+    "name": "Plant-Based_Monster-Plant01",
     "stringId": "3233-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -811,6 +839,7 @@
     }
   },
   "5631-Newwworld.mod": {
+    "name": "FullTree CLiff Type",
     "stringId": "5631-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -828,6 +857,7 @@
     }
   },
   "18957-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_Deep-Fir",
     "stringId": "18957-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -845,6 +875,7 @@
     }
   },
   "14547-Newwworld.mod": {
+    "name": "Crumble-Buildings",
     "stringId": "14547-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -862,6 +893,7 @@
     }
   },
   "5572-Newwworld.mod": {
+    "name": "Floating Seed Plant",
     "stringId": "5572-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -884,6 +916,7 @@
     }
   },
   "4434-Newwworld.mod": {
+    "name": "Grass Coral Grass",
     "stringId": "4434-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -901,6 +934,7 @@
     }
   },
   "14557-Newwworld.mod": {
+    "name": "Spores[Blister]",
     "stringId": "14557-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -918,6 +952,7 @@
     }
   },
   "5567-Newwworld.mod": {
+    "name": "Basic_NEW Grass",
     "stringId": "5567-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -935,6 +970,7 @@
     }
   },
   "5575-Newwworld.mod": {
+    "name": "Thorny Plant 01",
     "stringId": "5575-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -952,6 +988,7 @@
     }
   },
   "4420-Newwworld.mod": {
+    "name": "Grass Crumpled",
     "stringId": "4420-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -969,6 +1006,7 @@
     }
   },
   "3236-Newwworld.mod": {
+    "name": "FOLIAGE_Bones",
     "stringId": "3236-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -996,6 +1034,7 @@
     }
   },
   "2994-Newwworld.mod": {
+    "name": "Grass Sliced Twiggy Cliff",
     "stringId": "2994-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1013,6 +1052,7 @@
     }
   },
   "5721-Newwworld.mod": {
+    "name": "TechRustyJunk",
     "stringId": "5721-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1030,6 +1070,7 @@
     }
   },
   "5547-Newwworld.mod": {
+    "name": "Cactus Types",
     "stringId": "5547-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1047,6 +1088,7 @@
     }
   },
   "14545-Newwworld.mod": {
+    "name": "Spores",
     "stringId": "14545-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1064,6 +1106,7 @@
     }
   },
   "3777-Newwworld.mod": {
+    "name": "Wreckage_CogPieces",
     "stringId": "3777-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1082,6 +1125,7 @@
     }
   },
   "5748-Newwworld.mod": {
+    "name": "TarTownScaff-Towers",
     "stringId": "5748-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1109,6 +1153,7 @@
     }
   },
   "14555-Newwworld.mod": {
+    "name": "LandCables01",
     "stringId": "14555-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1126,6 +1171,7 @@
     }
   },
   "4436-Newwworld.mod": {
+    "name": "Tree_Cascader01K",
     "stringId": "4436-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1143,6 +1189,7 @@
     }
   },
   "4449-Newwworld.mod": {
+    "name": "BoneClusters",
     "stringId": "4449-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1225,6 +1272,7 @@
     }
   },
   "2981-Newwworld.mod": {
+    "name": "DeadPine Type",
     "stringId": "2981-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1242,6 +1290,7 @@
     }
   },
   "3771-Newwworld.mod": {
+    "name": "Metal_Tower_junk",
     "stringId": "3771-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1279,6 +1328,7 @@
     }
   },
   "2721-Newwworld.mod": {
+    "name": "Canyonland_foliagerocks_Standard",
     "stringId": "2721-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1296,6 +1346,7 @@
     }
   },
   "3373-Newwworld.mod": {
+    "name": "DeadPine CanyonlandVersion",
     "stringId": "3373-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1313,6 +1364,7 @@
     }
   },
   "2949-Newwworld.mod": {
+    "name": "DUNE_foliagerocks_small",
     "stringId": "2949-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1330,6 +1382,7 @@
     }
   },
   "1456-vurt.mod": {
+    "name": "Grasslayer",
     "stringId": "1456-vurt.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1347,6 +1400,7 @@
     }
   },
   "4424-Newwworld.mod": {
+    "name": "Tree_SPIKEY SPRITE",
     "stringId": "4424-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1364,6 +1418,7 @@
     }
   },
   "5556-Newwworld.mod": {
+    "name": "Prehistorsetail",
     "stringId": "5556-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1381,6 +1436,7 @@
     }
   },
   "4488-Newwworld.mod": {
+    "name": "Foliage_FineTree01",
     "stringId": "4488-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1403,6 +1459,7 @@
     }
   },
   "3442-Newwworld.mod": {
+    "name": "Foliage_Pyrite01",
     "stringId": "3442-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1420,6 +1477,7 @@
     }
   },
   "14392-Newwworld.mod": {
+    "name": "Blister_Rock01",
     "stringId": "14392-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1437,6 +1495,7 @@
     }
   },
   "3225-Newwworld.mod": {
+    "name": "Plant_BananaStyle01-BLUE",
     "stringId": "3225-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1464,6 +1523,7 @@
     }
   },
   "5812-Newwworld.mod": {
+    "name": "BigGrassClump",
     "stringId": "5812-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1481,6 +1541,7 @@
     }
   },
   "43868-Newwworld.mod": {
+    "name": "Basic_Grass-BlueGrass HIGHER",
     "stringId": "43868-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1498,6 +1559,7 @@
     }
   },
   "2722-Newwworld.mod": {
+    "name": "Canyonland_foliagerocks_small",
     "stringId": "2722-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1515,6 +1577,7 @@
     }
   },
   "3625-Newwworld.mod": {
+    "name": "Foliage_1K_RockStacks",
     "stringId": "3625-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1543,6 +1606,7 @@
     }
   },
   "2821-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-HIGHER",
     "stringId": "2821-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1560,6 +1624,7 @@
     }
   },
   "3606-Newwworld.mod": {
+    "name": "Akakus_foliagerocks_Many-small",
     "stringId": "3606-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1577,6 +1642,7 @@
     }
   },
   "2932-Newwworld.mod": {
+    "name": "DUNE_foliagerocks_Standard",
     "stringId": "2932-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1594,6 +1660,7 @@
     }
   },
   "3439-Newwworld.mod": {
+    "name": "Foliage_Rock_Bouldercluster_MonoTex",
     "stringId": "3439-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1612,6 +1679,7 @@
     }
   },
   "3381-Newwworld.mod": {
+    "name": "DeadPine Type-red",
     "stringId": "3381-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1629,6 +1697,7 @@
     }
   },
   "5543-Newwworld.mod": {
+    "name": "Clover_type_Plant",
     "stringId": "5543-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1646,6 +1715,7 @@
     }
   },
   "2802-Newwworld.mod": {
+    "name": "Basic_Grass",
     "stringId": "2802-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1663,6 +1733,7 @@
     }
   },
   "3444-Newwworld.mod": {
+    "name": "BigTrees [Lush]",
     "stringId": "3444-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1685,6 +1756,7 @@
     }
   },
   "5649-Newwworld.mod": {
+    "name": "RuinBlocksofStone",
     "stringId": "5649-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1727,6 +1799,7 @@
     }
   },
   "5709-Newwworld.mod": {
+    "name": "Tech_Wreckage01",
     "stringId": "5709-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1749,6 +1822,7 @@
     }
   },
   "14386-Newwworld.mod": {
+    "name": "PhantomGrass001",
     "stringId": "14386-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1766,6 +1840,7 @@
     }
   },
   "5518-Newwworld.mod": {
+    "name": "Foliage_PINE_SCRAGGY01",
     "stringId": "5518-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1783,6 +1858,7 @@
     }
   },
   "5846-Newwworld.mod": {
+    "name": "FanTree",
     "stringId": "5846-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1800,6 +1876,7 @@
     }
   },
   "5559-Newwworld.mod": {
+    "name": "FOLIAGE_Longleaf Ferntype",
     "stringId": "5559-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1817,6 +1894,7 @@
     }
   },
   "3203-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-orange-leaves",
     "stringId": "3203-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1834,6 +1912,7 @@
     }
   },
   "5783-Newwworld.mod": {
+    "name": "HugeRuinWalls",
     "stringId": "5783-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1852,6 +1931,7 @@
     }
   },
   "5626-Newwworld.mod": {
+    "name": "Plant_Fluffyhead01",
     "stringId": "5626-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1869,6 +1949,7 @@
     }
   },
   "3448-Newwworld.mod": {
+    "name": "Foliage_HorsetailType",
     "stringId": "3448-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1886,6 +1967,7 @@
     }
   },
   "5554-Newwworld.mod": {
+    "name": "Foliage_CYPRUS-CANYONLAND-version",
     "stringId": "5554-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1903,6 +1985,7 @@
     }
   },
   "5731-Newwworld.mod": {
+    "name": "Boulder_Outcrop-Star_PLAINS",
     "stringId": "5731-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1924,6 +2007,7 @@
     }
   },
   "3385-Newwworld.mod": {
+    "name": "FOLIAGE_GirderGroup_Loose01",
     "stringId": "3385-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1945,6 +2029,7 @@
     }
   },
   "14388-Newwworld.mod": {
+    "name": "PhantomGrass002-no cluster",
     "stringId": "14388-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1966,6 +2051,7 @@
     }
   },
   "3634-Newwworld.mod": {
+    "name": "Foliage-Swamp-Tall_Leafy",
     "stringId": "3634-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -1987,6 +2073,7 @@
     }
   },
   "5534-Newwworld.mod": {
+    "name": "Foliage_HorsetailType LOWER",
     "stringId": "5534-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2008,6 +2095,7 @@
     }
   },
   "3431-Newwworld.mod": {
+    "name": "Foliage_Rock_PileDriver[ROCKSTACK]_Group",
     "stringId": "3431-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2029,6 +2117,7 @@
     }
   },
   "14560-Newwworld.mod": {
+    "name": "Building_Ruins_Newer01",
     "stringId": "14560-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2050,6 +2139,7 @@
     }
   },
   "5520-Newwworld.mod": {
+    "name": "Foliage_PINE_SCRAGGY-Canyonland TOPS",
     "stringId": "5520-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2076,6 +2166,7 @@
     }
   },
   "4427-Newwworld.mod": {
+    "name": "FOLIAGE_HAND-PLANT",
     "stringId": "4427-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2097,6 +2188,7 @@
     }
   },
   "5804-Newwworld.mod": {
+    "name": "Plant_Swamp Floor Leaf grey green",
     "stringId": "5804-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2118,6 +2210,7 @@
     }
   },
   "49570-Newwworld.mod": {
+    "name": "Bulb Grass01",
     "stringId": "49570-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2139,6 +2232,7 @@
     }
   },
   "5807-Newwworld.mod": {
+    "name": "CraggyTree FeatherLeaves SWAMP",
     "stringId": "5807-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2160,6 +2254,7 @@
     }
   },
   "2964-Newwworld.mod": {
+    "name": "FOLIAGE_Plant YuccaBig",
     "stringId": "2964-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2181,6 +2276,7 @@
     }
   },
   "3127-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_ShootClusters",
     "stringId": "3127-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2237,6 +2333,7 @@
     }
   },
   "18942-Newwworld.mod": {
+    "name": "Ghostown_Houses",
     "stringId": "18942-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2258,6 +2355,7 @@
     }
   },
   "5820-Newwworld.mod": {
+    "name": "RuinCliffRocks",
     "stringId": "5820-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2279,6 +2377,7 @@
     }
   },
   "3242-Newwworld.mod": {
+    "name": "Plant_Swamp Floor Leaf",
     "stringId": "3242-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2300,6 +2399,7 @@
     }
   },
   "5733-Newwworld.mod": {
+    "name": "Boulder_Outcrop-Star",
     "stringId": "5733-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2321,6 +2421,7 @@
     }
   },
   "2738-Newwworld.mod": {
+    "name": "Plant_Beantree01",
     "stringId": "2738-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2342,6 +2443,7 @@
     }
   },
   "4482-Newwworld.mod": {
+    "name": "Rocks - Smoothboulders",
     "stringId": "4482-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2388,6 +2490,7 @@
     }
   },
   "4418-Newwworld.mod": {
+    "name": "Foliage_7_Rock_Group",
     "stringId": "4418-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2409,6 +2512,7 @@
     }
   },
   "5523-Newwworld.mod": {
+    "name": "LandLICHEN01",
     "stringId": "5523-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2430,6 +2534,7 @@
     }
   },
   "48688-Newwworld.mod": {
+    "name": "GreenGlasses",
     "stringId": "48688-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2471,6 +2576,7 @@
     }
   },
   "2927-Newwworld.mod": {
+    "name": "WasteMine_Hilltree",
     "stringId": "2927-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2492,6 +2598,7 @@
     }
   },
   "48782-Newwworld.mod": {
+    "name": "VainTree01",
     "stringId": "48782-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2513,6 +2620,7 @@
     }
   },
   "5831-Newwworld.mod": {
+    "name": "BlackRocks",
     "stringId": "5831-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2534,6 +2642,7 @@
     }
   },
   "3244-Newwworld.mod": {
+    "name": "Plant_Swamp Floor Leaf-Stalked",
     "stringId": "3244-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2555,6 +2664,7 @@
     }
   },
   "4432-Newwworld.mod": {
+    "name": "Grass CrumpledCanyonland Version",
     "stringId": "4432-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2576,6 +2686,7 @@
     }
   },
   "3223-Newwworld.mod": {
+    "name": "Plant_BananaStyle01",
     "stringId": "3223-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2607,6 +2718,7 @@
     }
   },
   "47185-Newwworld.mod": {
+    "name": "Yucka01",
     "stringId": "47185-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2628,6 +2740,7 @@
     }
   },
   "44955-Newwworld.mod": {
+    "name": "Skin_Cliff_Ridges",
     "stringId": "44955-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2659,6 +2772,7 @@
     }
   },
   "50570-Newwworld.mod": {
+    "name": "Terrain Tree Broad leafless",
     "stringId": "50570-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2680,6 +2794,7 @@
     }
   },
   "4446-Newwworld.mod": {
+    "name": "Giant_BigWood",
     "stringId": "4446-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2701,6 +2816,7 @@
     }
   },
   "5564-Newwworld.mod": {
+    "name": "Foliage_GungeTree",
     "stringId": "5564-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2722,6 +2838,7 @@
     }
   },
   "46971-Newwworld.mod": {
+    "name": "Skin_Cliff_Ridges CANYONLAND",
     "stringId": "46971-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2753,6 +2870,7 @@
     }
   },
   "5665-Newwworld.mod": {
+    "name": "Tree_Cascader_HIGHER",
     "stringId": "5665-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2774,6 +2892,7 @@
     }
   },
   "3390-Newwworld.mod": {
+    "name": "Ashland WreckWall01",
     "stringId": "3390-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2795,6 +2914,7 @@
     }
   },
   "16844-Newwworld.mod": {
+    "name": "Crumble-Building_ORIG",
     "stringId": "16844-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2816,6 +2936,7 @@
     }
   },
   "4437-Newwworld.mod": {
+    "name": "Plant_Low_Level_Grasses",
     "stringId": "4437-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2842,6 +2963,7 @@
     }
   },
   "5637-Newwworld.mod": {
+    "name": "LandUrchin01",
     "stringId": "5637-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2863,6 +2985,7 @@
     }
   },
   "48729-Newwworld.mod": {
+    "name": "Grass Coral Grass REDDER",
     "stringId": "48729-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2884,6 +3007,7 @@
     }
   },
   "42327-Newwworld.mod": {
+    "name": "Canyonland_TumbleBoulder_wedge",
     "stringId": "42327-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2905,6 +3029,7 @@
     }
   },
   "3437-Newwworld.mod": {
+    "name": "SwampIslanfoliagedHoodoo_01",
     "stringId": "3437-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2926,6 +3051,7 @@
     }
   },
   "5799-Newwworld.mod": {
+    "name": "Plant_Swamp Floor Leaf-Stalked orange",
     "stringId": "5799-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2947,6 +3073,7 @@
     }
   },
   "4495-Newwworld.mod": {
+    "name": "Grass Spikey JUNGLE TALL",
     "stringId": "4495-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2968,6 +3095,7 @@
     }
   },
   "4497-Newwworld.mod": {
+    "name": "Foliage_Tarsand_SPIKES",
     "stringId": "4497-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -2999,6 +3127,7 @@
     }
   },
   "5842-Newwworld.mod": {
+    "name": "CactiTrumpets",
     "stringId": "5842-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3020,6 +3149,7 @@
     }
   },
   "5670-Newwworld.mod": {
+    "name": "FOLIAGE_Bouldersmall-white-inGrass",
     "stringId": "5670-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3041,6 +3171,7 @@
     }
   },
   "5817-Newwworld.mod": {
+    "name": "SKulTree 02",
     "stringId": "5817-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3062,6 +3193,7 @@
     }
   },
   "5793-Newwworld.mod": {
+    "name": "StoneGrass",
     "stringId": "5793-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3083,6 +3215,7 @@
     }
   },
   "14542-Newwworld.mod": {
+    "name": "Vurt's Red Flower",
     "stringId": "14542-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3104,6 +3237,7 @@
     }
   },
   "48728-Newwworld.mod": {
+    "name": "Basic_NEW Grass REDDER",
     "stringId": "48728-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3125,6 +3259,7 @@
     }
   },
   "5577-Newwworld.mod": {
+    "name": "Large_BigBadBoulder",
     "stringId": "5577-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3146,6 +3281,7 @@
     }
   },
   "14398-Newwworld.mod": {
+    "name": "Canyonland_FatTops",
     "stringId": "14398-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3167,6 +3303,7 @@
     }
   },
   "17969-Newwworld.mod": {
+    "name": "Barkworm_- MESA VERSION",
     "stringId": "17969-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3198,6 +3335,7 @@
     }
   },
   "42332-Newwworld.mod": {
+    "name": "BlackRocks TerrainMapped",
     "stringId": "42332-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3234,6 +3372,7 @@
     }
   },
   "5754-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-TarTown",
     "stringId": "5754-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3255,6 +3394,7 @@
     }
   },
   "5561-Newwworld.mod": {
+    "name": "ROCK - Craft_Rock01",
     "stringId": "5561-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3276,6 +3416,7 @@
     }
   },
   "46968-Newwworld.mod": {
+    "name": "JunkBalls",
     "stringId": "46968-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3302,6 +3443,7 @@
     }
   },
   "47748-Newwworld.mod": {
+    "name": "CinderBall01",
     "stringId": "47748-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3323,6 +3465,7 @@
     }
   },
   "5629-Newwworld.mod": {
+    "name": "Cliff Roots 01",
     "stringId": "5629-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3344,6 +3487,7 @@
     }
   },
   "48691-Newwworld.mod": {
+    "name": "Canyon_Block_SmallerTumblesDARKER",
     "stringId": "48691-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3390,6 +3534,7 @@
     }
   },
   "2808-Newwworld.mod": {
+    "name": "Juniper Tree",
     "stringId": "2808-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3411,6 +3556,7 @@
     }
   },
   "3421-Newwworld.mod": {
+    "name": "Canyonland_Foliage-Boulder_GREY",
     "stringId": "3421-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3442,6 +3588,7 @@
     }
   },
   "3632-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-grey-leaves",
     "stringId": "3632-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3463,6 +3610,7 @@
     }
   },
   "49572-Newwworld.mod": {
+    "name": "BulbGrass3D",
     "stringId": "49572-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3484,6 +3632,7 @@
     }
   },
   "5618-Newwworld.mod": {
+    "name": "RUIN_RefineryHeads",
     "stringId": "5618-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3520,6 +3669,7 @@
     }
   },
   "4503-Newwworld.mod": {
+    "name": "BranchTree01",
     "stringId": "4503-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3541,6 +3691,7 @@
     }
   },
   "42324-Newwworld.mod": {
+    "name": "MonuRocks",
     "stringId": "42324-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3577,6 +3728,7 @@
     }
   },
   "3240-Newwworld.mod": {
+    "name": "Plant_Swamp Tree-Beard Canopy",
     "stringId": "3240-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3598,6 +3750,7 @@
     }
   },
   "5805-Newwworld.mod": {
+    "name": "Plant_Swamp Floor Leaf orange",
     "stringId": "5805-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3619,6 +3772,7 @@
     }
   },
   "50576-Newwworld.mod": {
+    "name": "LeafyPlant",
     "stringId": "50576-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3640,6 +3794,7 @@
     }
   },
   "42263-Newwworld.mod": {
+    "name": "Motor_WHOLE",
     "stringId": "42263-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3661,6 +3816,7 @@
     }
   },
   "14541-Newwworld.mod": {
+    "name": "Vurt's Tall Yellow Flower",
     "stringId": "14541-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3682,6 +3838,7 @@
     }
   },
   "3445-Newwworld.mod": {
+    "name": "Bush01 [Brown]",
     "stringId": "3445-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3703,6 +3860,7 @@
     }
   },
   "48750-Newwworld.mod": {
+    "name": "MoltenCliffStrings",
     "stringId": "48750-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3744,6 +3902,7 @@
     }
   },
   "5815-Newwworld.mod": {
+    "name": "SKulTree Pair",
     "stringId": "5815-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3770,6 +3929,7 @@
     }
   },
   "5764-Newwworld.mod": {
+    "name": "Tar Gems",
     "stringId": "5764-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3806,6 +3966,7 @@
     }
   },
   "4486-Newwworld.mod": {
+    "name": "Plant_BananaStyle01GREEN",
     "stringId": "4486-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3837,6 +3998,7 @@
     }
   },
   "3207-Newwworld.mod": {
+    "name": "Basic_Grass-BlueGrass",
     "stringId": "3207-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3858,6 +4020,7 @@
     }
   },
   "5565-Newwworld.mod": {
+    "name": "Grass-Lowtype",
     "stringId": "5565-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3879,6 +4042,7 @@
     }
   },
   "3615-Newwworld.mod": {
+    "name": "SageBrush",
     "stringId": "3615-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3905,6 +4069,7 @@
     }
   },
   "45553-Newwworld.mod": {
+    "name": "Foliage_Pyrite Scarcer",
     "stringId": "45553-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3926,6 +4091,7 @@
     }
   },
   "5603-Newwworld.mod": {
+    "name": "Fern HIGH SPOTS",
     "stringId": "5603-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3947,6 +4113,7 @@
     }
   },
   "47238-Newwworld.mod": {
+    "name": "CacTreeTu's",
     "stringId": "47238-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3968,6 +4135,7 @@
     }
   },
   "2925-Newwworld.mod": {
+    "name": "WasteMine-Boulder01",
     "stringId": "2925-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -3989,6 +4157,7 @@
     }
   },
   "48473-Newwworld.mod": {
+    "name": "Spore01_TarsandType",
     "stringId": "48473-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4010,6 +4179,7 @@
     }
   },
   "5605-Newwworld.mod": {
+    "name": "Foliage_CYPRUS-100-1216-height",
     "stringId": "5605-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4031,6 +4201,7 @@
     }
   },
   "4386-Newwworld.mod": {
+    "name": "Ejecta-Boulder01",
     "stringId": "4386-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4052,6 +4223,7 @@
     }
   },
   "3429-Newwworld.mod": {
+    "name": "Rock_Horizontal_Outcrop",
     "stringId": "3429-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4073,6 +4245,7 @@
     }
   },
   "48745-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones",
     "stringId": "48745-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4124,6 +4297,7 @@
     }
   },
   "5640-Newwworld.mod": {
+    "name": "SageBrush solo",
     "stringId": "5640-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4145,6 +4319,7 @@
     }
   },
   "48711-Newwworld.mod": {
+    "name": "RoboFoliage",
     "stringId": "48711-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4241,6 +4416,7 @@
     }
   },
   "3393-Newwworld.mod": {
+    "name": "Ashland Tree-like01",
     "stringId": "3393-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4262,6 +4438,7 @@
     }
   },
   "48458-Newwworld.mod": {
+    "name": "Swamp_Head_Clump",
     "stringId": "48458-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4283,6 +4460,7 @@
     }
   },
   "5848-Newwworld.mod": {
+    "name": "FOLIAGE_Plant_KneeLeaf",
     "stringId": "5848-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4304,6 +4482,7 @@
     }
   },
   "4472-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack01",
     "stringId": "4472-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4340,6 +4519,7 @@
     }
   },
   "14549-Newwworld.mod": {
+    "name": "Crumble-Building02",
     "stringId": "14549-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4361,6 +4541,7 @@
     }
   },
   "2973-Newwworld.mod": {
+    "name": "Plant_Swamp Big Leaf",
     "stringId": "2973-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4382,6 +4563,7 @@
     }
   },
   "2745-Newwworld.mod": {
+    "name": "Canyonland_TumbleBoulder01",
     "stringId": "2745-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4403,6 +4585,7 @@
     }
   },
   "47757-Newwworld.mod": {
+    "name": "TreeFall",
     "stringId": "47757-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4444,6 +4627,7 @@
     }
   },
   "3426-Newwworld.mod": {
+    "name": "Plant_Swamp Tree-TwigFrame",
     "stringId": "3426-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4465,6 +4649,7 @@
     }
   },
   "5775-Newwworld.mod": {
+    "name": "Rock01 Foliage-Rockstack01  TerrainMapped",
     "stringId": "5775-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4486,6 +4671,7 @@
     }
   },
   "5739-Newwworld.mod": {
+    "name": "foliagerocks_ManyDark Small DUNES",
     "stringId": "5739-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4527,6 +4713,7 @@
     }
   },
   "4493-Newwworld.mod": {
+    "name": "Grass Crumpled-GREEN",
     "stringId": "4493-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4548,6 +4735,7 @@
     }
   },
   "46969-Newwworld.mod": {
+    "name": "Thorny Plant Singles",
     "stringId": "46969-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4569,6 +4757,7 @@
     }
   },
   "5797-Newwworld.mod": {
+    "name": "CraggyTree FeatherLeaves",
     "stringId": "5797-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4590,6 +4779,7 @@
     }
   },
   "3446-Newwworld.mod": {
+    "name": "Foliage_PlantBall",
     "stringId": "3446-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4611,6 +4801,7 @@
     }
   },
   "5514-Newwworld.mod": {
+    "name": "Foliage_Boulder_Clusters",
     "stringId": "5514-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4637,6 +4828,7 @@
     }
   },
   "5770-Newwworld.mod": {
+    "name": "Cliffnails",
     "stringId": "5770-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4678,6 +4870,7 @@
     }
   },
   "4441-Newwworld.mod": {
+    "name": "FullTree",
     "stringId": "4441-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4699,6 +4892,7 @@
     }
   },
   "3627-Newwworld.mod": {
+    "name": "Thin Tree [Wide]-HIGHERCanyonHeight",
     "stringId": "3627-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4720,6 +4914,7 @@
     }
   },
   "5759-Newwworld.mod": {
+    "name": "Tarsand_Ruin_Tubes",
     "stringId": "5759-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4741,6 +4936,7 @@
     }
   },
   "17952-Newwworld.mod": {
+    "name": "Canyon_Block_SmallerTumbles",
     "stringId": "17952-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4787,6 +4983,7 @@
     }
   },
   "48732-Newwworld.mod": {
+    "name": "Grass Spikey REDDER",
     "stringId": "48732-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4808,6 +5005,7 @@
     }
   },
   "5608-Newwworld.mod": {
+    "name": "Giant_MultiLimbTree",
     "stringId": "5608-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4829,6 +5027,7 @@
     }
   },
   "3619-Newwworld.mod": {
+    "name": "Canyonland_TumbleBoulder3",
     "stringId": "3619-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4850,6 +5049,7 @@
     }
   },
   "2798-Newwworld.mod": {
+    "name": "Canyonland_TumbleBoulder02",
     "stringId": "2798-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4871,6 +5071,7 @@
     }
   },
   "3214-Newwworld.mod": {
+    "name": "Plant_FanPalms",
     "stringId": "3214-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4892,6 +5093,7 @@
     }
   },
   "48701-Newwworld.mod": {
+    "name": "Roctowers",
     "stringId": "48701-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4923,6 +5125,7 @@
     }
   },
   "4491-Newwworld.mod": {
+    "name": "Jungle_TREE&Branches",
     "stringId": "4491-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4944,6 +5147,7 @@
     }
   },
   "5795-Newwworld.mod": {
+    "name": "AirRock01",
     "stringId": "5795-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4965,6 +5169,7 @@
     }
   },
   "5580-Newwworld.mod": {
+    "name": "Lucky Leaf",
     "stringId": "5580-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -4986,6 +5191,7 @@
     }
   },
   "5801-Newwworld.mod": {
+    "name": "Plant_Swamp Floor Leaf-Stalked LightGreen",
     "stringId": "5801-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5007,6 +5213,7 @@
     }
   },
   "5826-Newwworld.mod": {
+    "name": "Basic_Grass-Greener Swamp",
     "stringId": "5826-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5028,6 +5235,7 @@
     }
   },
   "4465-Newwworld.mod": {
+    "name": "Anenomes",
     "stringId": "4465-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5059,6 +5267,7 @@
     }
   },
   "5687-Newwworld.mod": {
+    "name": "ResourceRock-IRON",
     "stringId": "5687-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5080,6 +5289,7 @@
     }
   },
   "2922-Newwworld.mod": {
+    "name": "WADI-Boulder02",
     "stringId": "2922-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5101,6 +5311,7 @@
     }
   },
   "2996-Newwworld.mod": {
+    "name": "Grass FLuffy",
     "stringId": "2996-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5122,6 +5333,7 @@
     }
   },
   "5633-Newwworld.mod": {
+    "name": "Palm Type",
     "stringId": "5633-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5143,6 +5355,7 @@
     }
   },
   "2971-Newwworld.mod": {
+    "name": "Plant_Swamp Nodules",
     "stringId": "2971-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5174,6 +5387,7 @@
     }
   },
   "5824-Newwworld.mod": {
+    "name": "BushTrees",
     "stringId": "5824-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5195,6 +5409,7 @@
     }
   },
   "44938-Newwworld.mod": {
+    "name": "CanyonLand_Pillars",
     "stringId": "44938-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5226,6 +5441,7 @@
     }
   },
   "3246-Newwworld.mod": {
+    "name": "Basic_Grass-Greener",
     "stringId": "3246-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5247,6 +5463,7 @@
     }
   },
   "5738-Newwworld.mod": {
+    "name": "SageBrush_DESERT",
     "stringId": "5738-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5268,6 +5485,7 @@
     }
   },
   "5791-Newwworld.mod": {
+    "name": "CraggyTree",
     "stringId": "5791-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5289,6 +5507,7 @@
     }
   },
   "5839-Newwworld.mod": {
+    "name": "WiryThorns",
     "stringId": "5839-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5310,6 +5529,7 @@
     }
   },
   "48708-Newwworld.mod": {
+    "name": "Canyon_Block_SmallerTumbles_Couloured",
     "stringId": "48708-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5356,6 +5576,7 @@
     }
   },
   "17959-Newwworld.mod": {
+    "name": "FullTree High Flat Ground",
     "stringId": "17959-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5377,6 +5598,7 @@
     }
   },
   "5601-Newwworld.mod": {
+    "name": "Foliage_FineTree01 STRIPES DISTRICT",
     "stringId": "5601-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5403,6 +5625,7 @@
     }
   },
   "40622-Newwworld.mod": {
+    "name": "FlatTop_Hoodoos",
     "stringId": "40622-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5464,6 +5687,7 @@
     }
   },
   "3396-Newwworld.mod": {
+    "name": "DeadPine Type-Flooded Valley",
     "stringId": "3396-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5485,6 +5709,7 @@
     }
   },
   "47182-Newwworld.mod": {
+    "name": "LandTrumpets",
     "stringId": "47182-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5511,6 +5736,7 @@
     }
   },
   "5598-Newwworld.mod": {
+    "name": "Branching_Cactus",
     "stringId": "5598-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5532,6 +5758,7 @@
     }
   },
   "17947-Newwworld.mod": {
+    "name": "Prehistorsetail SEAPIT VERSION",
     "stringId": "17947-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5553,6 +5780,7 @@
     }
   },
   "50636-Newwworld.mod": {
+    "name": "Sticky_Plant01",
     "stringId": "50636-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5574,6 +5802,7 @@
     }
   },
   "50638-Newwworld.mod": {
+    "name": "CanyonLandCrater_Tree",
     "stringId": "50638-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5595,6 +5824,7 @@
     }
   },
   "50644-Newwworld.mod": {
+    "name": "Urchin_Like",
     "stringId": "50644-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5616,6 +5846,7 @@
     }
   },
   "50925-Newwworld.mod": {
+    "name": "RocStakk_Canyon Stacks",
     "stringId": "50925-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5652,6 +5883,7 @@
     }
   },
   "50927-Newwworld.mod": {
+    "name": "ForestFern01 Canyonlands",
     "stringId": "50927-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5673,6 +5905,7 @@
     }
   },
   "50991-Newwworld.mod": {
+    "name": "Canyon_NewBlocksides",
     "stringId": "50991-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5724,6 +5957,7 @@
     }
   },
   "51017-Newwworld.mod": {
+    "name": "SpindleTrees",
     "stringId": "51017-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5765,6 +5999,7 @@
     }
   },
   "51368-Newwworld.mod": {
+    "name": "Human_Skeletons",
     "stringId": "51368-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5786,6 +6021,7 @@
     }
   },
   "51388-Newwworld.mod": {
+    "name": "Jungle_LargeScale_plant",
     "stringId": "51388-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5807,6 +6043,7 @@
     }
   },
   "51391-Newwworld.mod": {
+    "name": "PhantomGrass001_SWAMP",
     "stringId": "51391-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5828,6 +6065,7 @@
     }
   },
   "51392-Newwworld.mod": {
+    "name": "PhantomGrass001_SWAMP-no cluster",
     "stringId": "51392-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5849,6 +6087,7 @@
     }
   },
   "51398-Newwworld.mod": {
+    "name": "SageBrush_DESERT-OASIS",
     "stringId": "51398-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5870,6 +6109,7 @@
     }
   },
   "51400-Newwworld.mod": {
+    "name": "Palm Type OASIS TYPE",
     "stringId": "51400-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5891,6 +6131,7 @@
     }
   },
   "51402-Newwworld.mod": {
+    "name": "Yucka01 OASES",
     "stringId": "51402-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5912,6 +6153,7 @@
     }
   },
   "51404-Newwworld.mod": {
+    "name": "BigGrassClump OASES",
     "stringId": "51404-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5933,6 +6175,7 @@
     }
   },
   "51418-Newwworld.mod": {
+    "name": "CUP-PlantLeaf",
     "stringId": "51418-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5954,6 +6197,7 @@
     }
   },
   "51496-Newwworld.mod": {
+    "name": "Foliage_CoralGrass01_BLACKER",
     "stringId": "51496-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -5975,6 +6219,7 @@
     }
   },
   "51633-Newwworld.mod": {
+    "name": "Canyon_Block_SmallerTumblesFLINT",
     "stringId": "51633-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6021,6 +6266,7 @@
     }
   },
   "51643-Newwworld.mod": {
+    "name": "CanyonLand_Pillars InsetDeeper",
     "stringId": "51643-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6052,6 +6298,7 @@
     }
   },
   "51660-Newwworld.mod": {
+    "name": "Robotics-Junk",
     "stringId": "51660-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6073,6 +6320,7 @@
     }
   },
   "51809-Newwworld.mod": {
+    "name": "Crumble-Building_CORNERS",
     "stringId": "51809-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6099,6 +6347,7 @@
     }
   },
   "51814-Newwworld.mod": {
+    "name": "Canyon_Block_SmallerTumbles_Canyonlands",
     "stringId": "51814-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6145,6 +6394,7 @@
     }
   },
   "51825-Newwworld.mod": {
+    "name": "WaterPlants_A",
     "stringId": "51825-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6176,6 +6426,7 @@
     }
   },
   "51828-Newwworld.mod": {
+    "name": "WaterPlants_B",
     "stringId": "51828-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6197,6 +6448,7 @@
     }
   },
   "51830-Newwworld.mod": {
+    "name": "WaterPlants_C",
     "stringId": "51830-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6233,6 +6485,7 @@
     }
   },
   "51835-Newwworld.mod": {
+    "name": "Canyon_CliffPlant01",
     "stringId": "51835-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6254,6 +6507,7 @@
     }
   },
   "51837-Newwworld.mod": {
+    "name": "YuccaSpiderBushes",
     "stringId": "51837-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6275,6 +6529,7 @@
     }
   },
   "51844-Newwworld.mod": {
+    "name": "ResourceRock_Copper SWAMP",
     "stringId": "51844-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6296,6 +6551,7 @@
     }
   },
   "51849-Newwworld.mod": {
+    "name": "ResourceRock-IRON Easy Reach  SWAMP",
     "stringId": "51849-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6332,6 +6588,7 @@
     }
   },
   "52157-Newwworld.mod": {
+    "name": "Rod Tree",
     "stringId": "52157-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6353,6 +6610,7 @@
     }
   },
   "53192-Newwworld.mod": {
+    "name": "Big4Seed_Tree1",
     "stringId": "53192-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6374,6 +6632,7 @@
     }
   },
   "55114-Newwworld.mod": {
+    "name": "Roaming Trees",
     "stringId": "55114-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6395,6 +6654,7 @@
     }
   },
   "55232-Newwworld.mod": {
+    "name": "MonuRocks Lower slopes SMALLER",
     "stringId": "55232-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6431,6 +6691,7 @@
     }
   },
   "55234-Newwworld.mod": {
+    "name": "WiryThorns Whiteblue",
     "stringId": "55234-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6452,6 +6713,7 @@
     }
   },
   "55236-Newwworld.mod": {
+    "name": "Pale_BigGrass",
     "stringId": "55236-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6523,6 +6785,7 @@
     }
   },
   "55247-Newwworld.mod": {
+    "name": "White_Inlet -white small rocks",
     "stringId": "55247-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6554,6 +6817,7 @@
     }
   },
   "55251-Newwworld.mod": {
+    "name": "Foliage_CoralGrass01",
     "stringId": "55251-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6575,6 +6839,7 @@
     }
   },
   "55252-Newwworld.mod": {
+    "name": "Foliage_CoralGrass01 LIGHTBLUE",
     "stringId": "55252-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6596,6 +6861,7 @@
     }
   },
   "55255-Newwworld.mod": {
+    "name": "FanTree LightBlue",
     "stringId": "55255-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6617,6 +6883,7 @@
     }
   },
   "55257-Newwworld.mod": {
+    "name": "Plant-Based_Monster-Plant01 LIGHT",
     "stringId": "55257-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6638,6 +6905,7 @@
     }
   },
   "55261-Newwworld.mod": {
+    "name": "Barkworm_Pillars KenshiBowl",
     "stringId": "55261-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6669,6 +6937,7 @@
     }
   },
   "55265-Newwworld.mod": {
+    "name": "Foliage_1K_RockStacks KenshiBowl",
     "stringId": "55265-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6700,6 +6969,7 @@
     }
   },
   "55401-Newwworld.mod": {
+    "name": "DesertGrass02",
     "stringId": "55401-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6721,6 +6991,7 @@
     }
   },
   "56187-Newwworld.mod": {
+    "name": "FruitBall_Trees",
     "stringId": "56187-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6742,6 +7013,7 @@
     }
   },
   "56588-Newwworld.mod": {
+    "name": "ResourceRock_Copper EXTRA",
     "stringId": "56588-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6763,6 +7035,7 @@
     }
   },
   "56735-Newwworld.mod": {
+    "name": "TallSpikeyCactus",
     "stringId": "56735-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6784,6 +7057,7 @@
     }
   },
   "56737-Newwworld.mod": {
+    "name": "HydraPlant01",
     "stringId": "56737-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6805,6 +7079,7 @@
     }
   },
   "56742-Newwworld.mod": {
+    "name": "Gulch_Grassclump_01",
     "stringId": "56742-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6826,6 +7101,7 @@
     }
   },
   "56902-Newwworld.mod": {
+    "name": "Rusty Land Extrusions",
     "stringId": "56902-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6873,6 +7149,7 @@
     }
   },
   "57288-Newwworld.mod": {
+    "name": "Canyon_Lichen_Towers",
     "stringId": "57288-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6890,6 +7167,7 @@
     }
   },
   "57307-Newwworld.mod": {
+    "name": "Canyon_Block_SmallerTumbles_Gulchtype",
     "stringId": "57307-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6936,6 +7214,7 @@
     }
   },
   "57314-Newwworld.mod": {
+    "name": "ResourceRock_Copper EXTRA_Gulchtype",
     "stringId": "57314-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -6962,6 +7241,7 @@
     }
   },
   "57317-Newwworld.mod": {
+    "name": "Canyon -Gulch_rounded-insertBigBoulders[terrain]",
     "stringId": "57317-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7013,6 +7293,7 @@
     }
   },
   "57326-Newwworld.mod": {
+    "name": "Gulch_Glow-Plants",
     "stringId": "57326-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7034,6 +7315,7 @@
     }
   },
   "64599-Newwworld.mod": {
+    "name": "Ashland_StructureWrecks",
     "stringId": "64599-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7061,6 +7343,7 @@
     }
   },
   "64606-Newwworld.mod": {
+    "name": "AshCreteChunks",
     "stringId": "64606-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7103,6 +7386,7 @@
     }
   },
   "64866-Newwworld.mod": {
+    "name": "Tech_Wreckage SPARSER",
     "stringId": "64866-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7125,6 +7409,7 @@
     }
   },
   "1532243-Newwworld.mod": {
+    "name": "Pink Tops",
     "stringId": "1532243-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7151,6 +7436,7 @@
     }
   },
   "1532245-Newwworld.mod": {
+    "name": "Pink Top Shoot",
     "stringId": "1532245-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7172,6 +7458,7 @@
     }
   },
   "1533074-Newwworld.mod": {
+    "name": "FOLIAGE_ContourStones mid tex tumbles",
     "stringId": "1533074-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7213,6 +7500,7 @@
     }
   },
   "1533276-Newwworld.mod": {
+    "name": "Thin Craggy Tree",
     "stringId": "1533276-Newwworld.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7230,6 +7518,7 @@
     }
   },
   "47953-rebirth.mod": {
+    "name": "robo drones crooked",
     "stringId": "47953-rebirth.mod",
     "type": "FoliageLayer",
     "values": {
@@ -7252,6 +7541,7 @@
     }
   },
   "47952-rebirth.mod": {
+    "name": "robo drones",
     "stringId": "47952-rebirth.mod",
     "type": "FoliageLayer",
     "values": {

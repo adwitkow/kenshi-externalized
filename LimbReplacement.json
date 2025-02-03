@@ -1,5 +1,6 @@
 {
   "95510-Newwworld.mod": {
+    "name": "Human Left Arm Stump",
     "stringId": "95510-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -60,6 +61,7 @@
     "references": {}
   },
   "95513-Newwworld.mod": {
+    "name": "Human Right Arm Stump",
     "stringId": "95513-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -120,6 +122,7 @@
     "references": {}
   },
   "95514-Newwworld.mod": {
+    "name": "Human Right Leg",
     "stringId": "95514-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -180,6 +183,7 @@
     "references": {}
   },
   "95515-Newwworld.mod": {
+    "name": "Human Left Leg",
     "stringId": "95515-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -240,6 +244,7 @@
     "references": {}
   },
   "95579-Newwworld.mod": {
+    "name": "Stealth Leg (left)",
     "stringId": "95579-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -309,6 +314,7 @@
     }
   },
   "95742-Newwworld.mod": {
+    "name": "Stealth Leg (right)",
     "stringId": "95742-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -378,6 +384,7 @@
     }
   },
   "95747-Newwworld.mod": {
+    "name": "Skeleton Arm (left)",
     "stringId": "95747-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -446,6 +453,7 @@
     }
   },
   "95748-Newwworld.mod": {
+    "name": "Skeleton Arm (right)",
     "stringId": "95748-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -514,6 +522,7 @@
     }
   },
   "96020-Newwworld.mod": {
+    "name": "Scout Leg (left)",
     "stringId": "96020-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -583,6 +592,7 @@
     }
   },
   "96021-Newwworld.mod": {
+    "name": "Scout Leg (right)",
     "stringId": "96021-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -652,6 +662,7 @@
     }
   },
   "96022-Newwworld.mod": {
+    "name": "Industrial Lifter Arm (left)",
     "stringId": "96022-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -720,6 +731,7 @@
     }
   },
   "96024-Newwworld.mod": {
+    "name": "Industrial Lifter Arm (right)",
     "stringId": "96024-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -788,6 +800,7 @@
     }
   },
   "96134-Newwworld.mod": {
+    "name": "Economy Arm (left)",
     "stringId": "96134-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -869,6 +882,7 @@
     }
   },
   "96135-Newwworld.mod": {
+    "name": "Economy Leg (right)",
     "stringId": "96135-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -950,6 +964,7 @@
     }
   },
   "96136-Newwworld.mod": {
+    "name": "Economy Leg (left) ",
     "stringId": "96136-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1031,6 +1046,7 @@
     }
   },
   "96137-Newwworld.mod": {
+    "name": "Economy Arm (right)",
     "stringId": "96137-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1112,6 +1128,7 @@
     }
   },
   "96186-Newwworld.mod": {
+    "name": "KLR Series Arm (left) ",
     "stringId": "96186-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1181,6 +1198,7 @@
     }
   },
   "96187-Newwworld.mod": {
+    "name": "KLR Series Arm (right)",
     "stringId": "96187-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1250,6 +1268,7 @@
     }
   },
   "96188-Newwworld.mod": {
+    "name": "KLR Series Leg (left)",
     "stringId": "96188-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1319,6 +1338,7 @@
     }
   },
   "96189-Newwworld.mod": {
+    "name": "KLR Series Leg (right) ",
     "stringId": "96189-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1388,6 +1408,7 @@
     }
   },
   "96796-Newwworld.mod": {
+    "name": "Hive Left Leg",
     "stringId": "96796-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1448,6 +1469,7 @@
     "references": {}
   },
   "96797-Newwworld.mod": {
+    "name": "Hive Right Leg",
     "stringId": "96797-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1508,6 +1530,7 @@
     "references": {}
   },
   "96798-Newwworld.mod": {
+    "name": "HIVE Left Arm Stump",
     "stringId": "96798-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1568,6 +1591,7 @@
     "references": {}
   },
   "96799-Newwworld.mod": {
+    "name": "HIVE Right Arm Stump",
     "stringId": "96799-Newwworld.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1628,6 +1652,7 @@
     "references": {}
   },
   "95870-rebirth.mod": {
+    "name": "Thief's Arm (right)",
     "stringId": "95870-rebirth.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1696,6 +1721,7 @@
     }
   },
   "95871-rebirth.mod": {
+    "name": "Steady Arm (left)",
     "stringId": "95871-rebirth.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1764,6 +1790,7 @@
     }
   },
   "95872-rebirth.mod": {
+    "name": "Skeleton Leg (left)",
     "stringId": "95872-rebirth.mod",
     "type": "LimbReplacement",
     "values": {
@@ -1833,6 +1860,7 @@
     }
   },
   "96022-rebirth.mod": {
+    "name": "Skeleton Leg (right)",
     "stringId": "96022-rebirth.mod",
     "type": "LimbReplacement",
     "values": {

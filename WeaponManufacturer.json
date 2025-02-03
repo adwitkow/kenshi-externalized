@@ -1,5 +1,6 @@
 {
   "1163-gamedata.base": {
+    "name": "Truth Two-",
     "stringId": "1163-gamedata.base",
     "type": "WeaponManufacturer",
     "values": {
@@ -88,6 +89,7 @@
     }
   },
   "PLAYER_WEAPONS": {
+    "name": "Homemade",
     "stringId": "PLAYER_WEAPONS",
     "type": "WeaponManufacturer",
     "values": {
@@ -336,6 +338,7 @@
     }
   },
   "927-gamedata.base": {
+    "name": "Skeleton Smiths",
     "stringId": "927-gamedata.base",
     "type": "WeaponManufacturer",
     "values": {
@@ -529,6 +532,7 @@
     }
   },
   "912-gamedata.base": {
+    "name": "Unknown",
     "stringId": "912-gamedata.base",
     "type": "WeaponManufacturer",
     "values": {
@@ -717,6 +721,7 @@
     }
   },
   "1057-gamedata.base": {
+    "name": "Catun Scrapmaster",
     "stringId": "1057-gamedata.base",
     "type": "WeaponManufacturer",
     "values": {
@@ -910,6 +915,7 @@
     }
   },
   "1070-gamedata.base": {
+    "name": "Edgewalkers",
     "stringId": "1070-gamedata.base",
     "type": "WeaponManufacturer",
     "values": {
@@ -1098,6 +1104,7 @@
     }
   },
   "917-gamedata.base": {
+    "name": "Ancient",
     "stringId": "917-gamedata.base",
     "type": "WeaponManufacturer",
     "values": {
@@ -1291,6 +1298,7 @@
     }
   },
   "43917-rebirth.mod": {
+    "name": "animal",
     "stringId": "43917-rebirth.mod",
     "type": "WeaponManufacturer",
     "values": {
@@ -1329,6 +1337,7 @@
     }
   },
   "52288-rebirth.mod": {
+    "name": "Cross",
     "stringId": "52288-rebirth.mod",
     "type": "WeaponManufacturer",
     "values": {
@@ -1512,6 +1521,7 @@
     }
   },
   "52294-rebirth.mod": {
+    "name": "Expired-",
     "stringId": "52294-rebirth.mod",
     "type": "WeaponManufacturer",
     "values": {

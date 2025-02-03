@@ -1,5 +1,6 @@
 {
   "579-gamedata.base": {
+    "name": "Steel bars",
     "stringId": "579-gamedata.base",
     "type": "Item",
     "values": {
@@ -59,6 +60,7 @@
     }
   },
   "515-gamedata.base": {
+    "name": "Standard first aid kit",
     "stringId": "515-gamedata.base",
     "type": "Item",
     "values": {
@@ -123,6 +125,7 @@
     }
   },
   "1514-gamedata.base": {
+    "name": "Fuel",
     "stringId": "1514-gamedata.base",
     "type": "Item",
     "values": {
@@ -182,6 +185,7 @@
     }
   },
   "582-gamedata.base": {
+    "name": "Medical Supplies",
     "stringId": "582-gamedata.base",
     "type": "Item",
     "values": {
@@ -234,6 +238,7 @@
     }
   },
   "581-gamedata.base": {
+    "name": "Hacksaw",
     "stringId": "581-gamedata.base",
     "type": "Item",
     "values": {
@@ -286,6 +291,7 @@
     }
   },
   "2288-gamedata.base": {
+    "name": "Armour Plating",
     "stringId": "2288-gamedata.base",
     "type": "Item",
     "values": {
@@ -345,6 +351,7 @@
     }
   },
   "1515-gamedata.base": {
+    "name": "Raw Stone",
     "stringId": "1515-gamedata.base",
     "type": "Item",
     "values": {
@@ -397,6 +404,7 @@
     }
   },
   "2292-gamedata.base": {
+    "name": "Leather",
     "stringId": "2292-gamedata.base",
     "type": "Item",
     "values": {
@@ -456,6 +464,7 @@
     }
   },
   "1230-gamedata.base": {
+    "name": "Hashish",
     "stringId": "1230-gamedata.base",
     "type": "Item",
     "values": {
@@ -520,6 +529,7 @@
     }
   },
   "585-gamedata.base": {
+    "name": "Luxury Goods",
     "stringId": "585-gamedata.base",
     "type": "Item",
     "values": {
@@ -572,6 +582,7 @@
     }
   },
   "16855-nodes_otto1.mod": {
+    "name": "Book",
     "stringId": "16855-nodes_otto1.mod",
     "type": "Item",
     "values": {
@@ -624,6 +635,7 @@
     }
   },
   "1932-gamedata.base": {
+    "name": "Strawflour",
     "stringId": "1932-gamedata.base",
     "type": "Item",
     "values": {
@@ -683,6 +695,7 @@
     }
   },
   "1914-gamedata.base": {
+    "name": "Water",
     "stringId": "1914-gamedata.base",
     "type": "Item",
     "values": {
@@ -735,6 +748,7 @@
     }
   },
   "580-gamedata.base": {
+    "name": "Building Material",
     "stringId": "580-gamedata.base",
     "type": "Item",
     "values": {
@@ -794,6 +808,7 @@
     }
   },
   "2289-gamedata.base": {
+    "name": "Chainmail Sheets",
     "stringId": "2289-gamedata.base",
     "type": "Item",
     "values": {
@@ -853,6 +868,7 @@
     }
   },
   "16856-nodes_otto1.mod": {
+    "name": "Parchment",
     "stringId": "16856-nodes_otto1.mod",
     "type": "Item",
     "values": {
@@ -905,6 +921,7 @@
     }
   },
   "1965-gamedata.base": {
+    "name": "Hemp",
     "stringId": "1965-gamedata.base",
     "type": "Item",
     "values": {
@@ -964,6 +981,7 @@
     }
   },
   "584-gamedata.base": {
+    "name": "Fabrics",
     "stringId": "584-gamedata.base",
     "type": "Item",
     "values": {
@@ -1023,6 +1041,7 @@
     }
   },
   "BLUEPRINT_ITEM": {
+    "name": "Blueprints",
     "stringId": "BLUEPRINT_ITEM",
     "type": "Item",
     "values": {
@@ -1067,6 +1086,7 @@
     "references": {}
   },
   "1359-gamedata.base": {
+    "name": "Advanced First Aid Kit",
     "stringId": "1359-gamedata.base",
     "type": "Item",
     "values": {
@@ -1131,6 +1151,7 @@
     }
   },
   "12617-nodes_otto.mod": {
+    "name": "Water Jug",
     "stringId": "12617-nodes_otto.mod",
     "type": "Item",
     "values": {
@@ -1183,6 +1204,7 @@
     }
   },
   "1866-gamedata.base": {
+    "name": "Raw Iron",
     "stringId": "1866-gamedata.base",
     "type": "Item",
     "values": {
@@ -1235,6 +1257,7 @@
     }
   },
   "1436-gamedata.base": {
+    "name": "Advanced Splint Kit",
     "stringId": "1436-gamedata.base",
     "type": "Item",
     "values": {
@@ -1299,6 +1322,7 @@
     }
   },
   "1913-gamedata.base": {
+    "name": "Wheatstraw",
     "stringId": "1913-gamedata.base",
     "type": "Item",
     "values": {
@@ -1358,6 +1382,7 @@
     }
   },
   "583-gamedata.base": {
+    "name": "Robotics Components",
     "stringId": "583-gamedata.base",
     "type": "Item",
     "values": {
@@ -1422,6 +1447,7 @@
     }
   },
   "209-gamedata.base": {
+    "name": "Basic First Aid Kit",
     "stringId": "209-gamedata.base",
     "type": "Item",
     "values": {
@@ -1481,6 +1507,7 @@
     }
   },
   "1960-gamedata.base": {
+    "name": "Potatoes",
     "stringId": "1960-gamedata.base",
     "type": "Item",
     "values": {
@@ -1541,6 +1568,7 @@
     }
   },
   "2223-gamedata.base": {
+    "name": "Blueprints large",
     "stringId": "2223-gamedata.base",
     "type": "Item",
     "values": {
@@ -1585,6 +1613,7 @@
     "references": {}
   },
   "1016-gamedata.base": {
+    "name": "Rice Bowl",
     "stringId": "1016-gamedata.base",
     "type": "Item",
     "values": {
@@ -1649,6 +1678,7 @@
     }
   },
   "5348-gamedata.base": {
+    "name": "Lantern",
     "stringId": "5348-gamedata.base",
     "type": "Item",
     "values": {
@@ -1715,6 +1745,7 @@
     }
   },
   "1015-gamedata.base": {
+    "name": "Cactus Rum",
     "stringId": "1015-gamedata.base",
     "type": "Item",
     "values": {
@@ -1779,6 +1810,7 @@
     }
   },
   "1946-gamedata.base": {
+    "name": "Bread",
     "stringId": "1946-gamedata.base",
     "type": "Item",
     "values": {
@@ -1843,6 +1875,7 @@
     }
   },
   "179-gamedata.quack": {
+    "name": "Money",
     "stringId": "179-gamedata.quack",
     "type": "Item",
     "values": {
@@ -1888,6 +1921,7 @@
     "references": {}
   },
   "1435-gamedata.base": {
+    "name": "Splint Kit",
     "stringId": "1435-gamedata.base",
     "type": "Item",
     "values": {
@@ -1952,6 +1986,7 @@
     }
   },
   "18020-gamedata.base": {
+    "name": "Skeleton Repair Kit",
     "stringId": "18020-gamedata.base",
     "type": "Item",
     "values": {
@@ -2016,6 +2051,7 @@
     }
   },
   "50518-Newwworld.mod": {
+    "name": "Dried Fish",
     "stringId": "50518-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2068,6 +2104,7 @@
     }
   },
   "48737-Newwworld.mod": {
+    "name": "RoboPiece14",
     "stringId": "48737-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2112,6 +2149,7 @@
     "references": {}
   },
   "46981-Newwworld.mod": {
+    "name": "Pickaxe",
     "stringId": "46981-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2164,6 +2202,7 @@
     }
   },
   "46982-Newwworld.mod": {
+    "name": "Hoe",
     "stringId": "46982-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2216,6 +2255,7 @@
     }
   },
   "48738-Newwworld.mod": {
+    "name": "RoboPiece16",
     "stringId": "48738-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2260,6 +2300,7 @@
     "references": {}
   },
   "48736-Newwworld.mod": {
+    "name": "RoboPiece13",
     "stringId": "48736-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2304,6 +2345,7 @@
     "references": {}
   },
   "48735-Newwworld.mod": {
+    "name": "RoboPiece8",
     "stringId": "48735-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2348,6 +2390,7 @@
     "references": {}
   },
   "50517-Newwworld.mod": {
+    "name": "Thinfish",
     "stringId": "50517-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2400,6 +2443,7 @@
     }
   },
   "50514-Newwworld.mod": {
+    "name": "Grand Fish",
     "stringId": "50514-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2452,6 +2496,7 @@
     }
   },
   "48733-Newwworld.mod": {
+    "name": "RoboPiece4",
     "stringId": "48733-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2496,6 +2541,7 @@
     "references": {}
   },
   "54030-Newwworld.mod": {
+    "name": "Fancy Rug",
     "stringId": "54030-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2548,6 +2594,7 @@
     }
   },
   "54546-Newwworld.mod": {
+    "name": "Cats",
     "stringId": "54546-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2600,6 +2647,7 @@
     }
   },
   "54547-Newwworld.mod": {
+    "name": "Coin",
     "stringId": "54547-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2652,6 +2700,7 @@
     }
   },
   "54549-Newwworld.mod": {
+    "name": "String of Cats",
     "stringId": "54549-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2704,6 +2753,7 @@
     }
   },
   "95872-Newwworld.mod": {
+    "name": "Bolts [Heavies]",
     "stringId": "95872-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2763,6 +2813,7 @@
     }
   },
   "96000-Newwworld.mod": {
+    "name": "Bolts [Longs]",
     "stringId": "96000-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2822,6 +2873,7 @@
     }
   },
   "96001-Newwworld.mod": {
+    "name": "Toothpick Bolt PACK",
     "stringId": "96001-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2882,6 +2934,7 @@
     }
   },
   "96004-Newwworld.mod": {
+    "name": "Ranger bolt PACK",
     "stringId": "96004-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2942,6 +2995,7 @@
     }
   },
   "1534063-Newwworld.mod": {
+    "name": "Simple Rug",
     "stringId": "1534063-Newwworld.mod",
     "type": "Item",
     "values": {
@@ -2994,6 +3048,7 @@
     }
   },
   "49043-Dialogue.mod": {
+    "name": "The Guiding Light IV",
     "stringId": "49043-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3046,6 +3101,7 @@
     }
   },
   "49050-Dialogue.mod": {
+    "name": "Birth Of The Phoenix",
     "stringId": "49050-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3098,6 +3154,7 @@
     }
   },
   "49482-Dialogue.mod": {
+    "name": "Letter From A Swamper IV",
     "stringId": "49482-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3150,6 +3207,7 @@
     }
   },
   "49486-Dialogue.mod": {
+    "name": "Letter From A Swamper V",
     "stringId": "49486-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3202,6 +3260,7 @@
     }
   },
   "50383-Dialogue.mod": {
+    "name": "Book Of Grace",
     "stringId": "50383-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3254,6 +3313,7 @@
     }
   },
   "49047-Dialogue.mod": {
+    "name": "Scripture of Radiance Vol. III",
     "stringId": "49047-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3306,6 +3366,7 @@
     }
   },
   "56685-Dialogue.mod": {
+    "name": "WANTED: Ells",
     "stringId": "56685-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3350,6 +3411,7 @@
     "references": {}
   },
   "49474-Dialogue.mod": {
+    "name": "Letter To Darkbrow",
     "stringId": "49474-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3402,6 +3464,7 @@
     }
   },
   "50961-Dialogue.mod": {
+    "name": "Mega City: The Beginning II",
     "stringId": "50961-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3446,6 +3509,7 @@
     "references": {}
   },
   "49495-Dialogue.mod": {
+    "name": "Memo From Moll",
     "stringId": "49495-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3498,6 +3562,7 @@
     }
   },
   "49480-Dialogue.mod": {
+    "name": "Letter From A Swamper II",
     "stringId": "49480-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3550,6 +3615,7 @@
     }
   },
   "48297-Dialogue.mod": {
+    "name": "The Guiding Light III",
     "stringId": "48297-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3602,6 +3668,7 @@
     }
   },
   "49048-Dialogue.mod": {
+    "name": "Scripture of Radiance Vol. IV",
     "stringId": "49048-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3654,6 +3721,7 @@
     }
   },
   "48298-Dialogue.mod": {
+    "name": "The Little Boy That Got Dismembered By Skeletons",
     "stringId": "48298-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3706,6 +3774,7 @@
     }
   },
   "50381-Dialogue.mod": {
+    "name": "Moll's Speech",
     "stringId": "50381-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3750,6 +3819,7 @@
     "references": {}
   },
   "49477-Dialogue.mod": {
+    "name": "Letter To Hash II",
     "stringId": "49477-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3802,6 +3872,7 @@
     }
   },
   "49493-Dialogue.mod": {
+    "name": "Letter Of Farewell",
     "stringId": "49493-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3854,6 +3925,7 @@
     }
   },
   "49783-Dialogue.mod": {
+    "name": "Ludin's Report III",
     "stringId": "49783-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3906,6 +3978,7 @@
     }
   },
   "49478-Dialogue.mod": {
+    "name": "Memo From Big Grim",
     "stringId": "49478-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -3958,6 +4031,7 @@
     }
   },
   "47185-Dialogue.mod": {
+    "name": "Lantern of Radiance",
     "stringId": "47185-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4023,6 +4097,7 @@
     }
   },
   "49787-Dialogue.mod": {
+    "name": "Priest Tyluig's Note",
     "stringId": "49787-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4075,6 +4150,7 @@
     }
   },
   "49199-Dialogue.mod": {
+    "name": "Maril's Diary II",
     "stringId": "49199-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4127,6 +4203,7 @@
     }
   },
   "49051-Dialogue.mod": {
+    "name": "The Holy Crusade",
     "stringId": "49051-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4179,6 +4256,7 @@
     }
   },
   "48292-Dialogue.mod": {
+    "name": "Way Of The Warrior: The Book Of Kral",
     "stringId": "48292-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4231,6 +4309,7 @@
     }
   },
   "49487-Dialogue.mod": {
+    "name": "WANTED: 'Four-Teeth' Milton",
     "stringId": "49487-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4284,6 +4363,7 @@
     }
   },
   "49780-Dialogue.mod": {
+    "name": "The Guiding Light VI",
     "stringId": "49780-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4336,6 +4416,7 @@
     }
   },
   "49481-Dialogue.mod": {
+    "name": "Letter From A Swamper III",
     "stringId": "49481-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4388,6 +4469,7 @@
     }
   },
   "49055-Dialogue.mod": {
+    "name": "Letter To A Priest",
     "stringId": "49055-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4440,6 +4522,7 @@
     }
   },
   "49046-Dialogue.mod": {
+    "name": "Scripture of Radiance Vol. II",
     "stringId": "49046-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4492,6 +4575,7 @@
     }
   },
   "49786-Dialogue.mod": {
+    "name": "Priest Varloo's Note",
     "stringId": "49786-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4544,6 +4628,7 @@
     }
   },
   "48296-Dialogue.mod": {
+    "name": "The Guiding Light II",
     "stringId": "48296-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4596,6 +4681,7 @@
     }
   },
   "49476-Dialogue.mod": {
+    "name": "Letter To Hash",
     "stringId": "49476-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4648,6 +4734,7 @@
     }
   },
   "49492-Dialogue.mod": {
+    "name": "Letter From A Freedom Fighter",
     "stringId": "49492-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4700,6 +4787,7 @@
     }
   },
   "48294-Dialogue.mod": {
+    "name": "Kral's Last Stand",
     "stringId": "48294-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4752,6 +4840,7 @@
     }
   },
   "49782-Dialogue.mod": {
+    "name": "Ludin's Report II",
     "stringId": "49782-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4804,6 +4893,7 @@
     }
   },
   "49049-Dialogue.mod": {
+    "name": "Scripture of Radiance Vol. V",
     "stringId": "49049-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4856,6 +4946,7 @@
     }
   },
   "49058-Dialogue.mod": {
+    "name": "Forbidden Sympathy",
     "stringId": "49058-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4908,6 +4999,7 @@
     }
   },
   "50382-Dialogue.mod": {
+    "name": "Book Of Sacrifice",
     "stringId": "50382-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -4960,6 +5052,7 @@
     }
   },
   "50960-Dialogue.mod": {
+    "name": "Mega City: The Beginning I",
     "stringId": "50960-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5004,6 +5097,7 @@
     "references": {}
   },
   "49494-Dialogue.mod": {
+    "name": "Suicide Note",
     "stringId": "49494-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5056,6 +5150,7 @@
     }
   },
   "49197-Dialogue.mod": {
+    "name": "Mission Graeme: Status",
     "stringId": "49197-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5108,6 +5203,7 @@
     }
   },
   "49479-Dialogue.mod": {
+    "name": "Letter From A Swamper I",
     "stringId": "49479-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5160,6 +5256,7 @@
     }
   },
   "49054-Dialogue.mod": {
+    "name": "Letter To Priest Ton",
     "stringId": "49054-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5212,6 +5309,7 @@
     }
   },
   "49198-Dialogue.mod": {
+    "name": "Maril's Diary I",
     "stringId": "49198-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5264,6 +5362,7 @@
     }
   },
   "48295-Dialogue.mod": {
+    "name": "The Guiding Light I",
     "stringId": "48295-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5316,6 +5415,7 @@
     }
   },
   "49057-Dialogue.mod": {
+    "name": "Letter To Moll",
     "stringId": "49057-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5368,6 +5468,7 @@
     }
   },
   "49045-Dialogue.mod": {
+    "name": "Scripture of Radiance Vol. I",
     "stringId": "49045-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5420,6 +5521,7 @@
     }
   },
   "49052-Dialogue.mod": {
+    "name": "A Holy Purpose",
     "stringId": "49052-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5472,6 +5574,7 @@
     }
   },
   "50384-Dialogue.mod": {
+    "name": "Letter From Bad Teeth",
     "stringId": "50384-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5516,6 +5619,7 @@
     "references": {}
   },
   "48291-Dialogue.mod": {
+    "name": "Shager's Overthrow",
     "stringId": "48291-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5568,6 +5672,7 @@
     }
   },
   "49056-Dialogue.mod": {
+    "name": "The Guiding Light V",
     "stringId": "49056-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5620,6 +5725,7 @@
     }
   },
   "48293-Dialogue.mod": {
+    "name": "King Shager's Reign",
     "stringId": "48293-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5672,6 +5778,7 @@
     }
   },
   "49488-Dialogue.mod": {
+    "name": "Note From Blue Eyes",
     "stringId": "49488-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5724,6 +5831,7 @@
     }
   },
   "49053-Dialogue.mod": {
+    "name": "Holy Edict",
     "stringId": "49053-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5776,6 +5884,7 @@
     }
   },
   "49781-Dialogue.mod": {
+    "name": "Ludin's Report I",
     "stringId": "49781-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5828,6 +5937,7 @@
     }
   },
   "49200-Dialogue.mod": {
+    "name": "Maril's Diary III",
     "stringId": "49200-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5880,6 +5990,7 @@
     }
   },
   "51294-Dialogue.mod": {
+    "name": "Legend of the Headless Ancient I",
     "stringId": "51294-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5924,6 +6035,7 @@
     "references": {}
   },
   "51295-Dialogue.mod": {
+    "name": "Legend of the Headless Ancient II",
     "stringId": "51295-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -5968,6 +6080,7 @@
     "references": {}
   },
   "51296-Dialogue.mod": {
+    "name": "Legend of the Forsaken Howler",
     "stringId": "51296-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6012,6 +6125,7 @@
     "references": {}
   },
   "51297-Dialogue.mod": {
+    "name": "Legend of the Mist Ghoul",
     "stringId": "51297-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6056,6 +6170,7 @@
     "references": {}
   },
   "51298-Dialogue.mod": {
+    "name": "Legend of the Foulhound",
     "stringId": "51298-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6100,6 +6215,7 @@
     "references": {}
   },
   "51299-Dialogue.mod": {
+    "name": "Legend of the Grievewraith",
     "stringId": "51299-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6144,6 +6260,7 @@
     "references": {}
   },
   "51300-Dialogue.mod": {
+    "name": "The Cannibal Plains: De-evolution Of Man?",
     "stringId": "51300-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6196,6 +6313,7 @@
     }
   },
   "51304-Dialogue.mod": {
+    "name": "Mass Extinction II",
     "stringId": "51304-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6248,6 +6366,7 @@
     }
   },
   "51305-Dialogue.mod": {
+    "name": "Mass Extinction III",
     "stringId": "51305-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6300,6 +6419,7 @@
     }
   },
   "51306-Dialogue.mod": {
+    "name": "Mass Extinction IV",
     "stringId": "51306-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6352,6 +6472,7 @@
     }
   },
   "51307-Dialogue.mod": {
+    "name": "Mass Extinction I",
     "stringId": "51307-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6404,6 +6525,7 @@
     }
   },
   "51308-Dialogue.mod": {
+    "name": "The Mystery Of Skeletech II",
     "stringId": "51308-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6456,6 +6578,7 @@
     }
   },
   "51309-Dialogue.mod": {
+    "name": "The Mystery Of Skeletech I",
     "stringId": "51309-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6508,6 +6631,7 @@
     }
   },
   "51310-Dialogue.mod": {
+    "name": "Okranite Theories In Relation To Findings I",
     "stringId": "51310-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6560,6 +6684,7 @@
     }
   },
   "51311-Dialogue.mod": {
+    "name": "Okranite Theories In Relation To Findings II",
     "stringId": "51311-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6612,6 +6737,7 @@
     }
   },
   "51312-Dialogue.mod": {
+    "name": "Cultural Groupings And Evolution I",
     "stringId": "51312-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6664,6 +6790,7 @@
     }
   },
   "51313-Dialogue.mod": {
+    "name": "Cultural Groupings And Evolution II",
     "stringId": "51313-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6716,6 +6843,7 @@
     }
   },
   "51314-Dialogue.mod": {
+    "name": "The Lost Ancients II",
     "stringId": "51314-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6768,6 +6896,7 @@
     }
   },
   "51315-Dialogue.mod": {
+    "name": "The Lost Ancients I",
     "stringId": "51315-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6820,6 +6949,7 @@
     }
   },
   "53652-Dialogue.mod": {
+    "name": "Beautiful Tengu: A Tribute",
     "stringId": "53652-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6872,6 +7002,7 @@
     }
   },
   "53653-Dialogue.mod": {
+    "name": "The Red Rebellion",
     "stringId": "53653-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6924,6 +7055,7 @@
     }
   },
   "53654-Dialogue.mod": {
+    "name": "Money is Freedom",
     "stringId": "53654-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -6976,6 +7108,7 @@
     }
   },
   "53655-Dialogue.mod": {
+    "name": "The United Cities, A United Power",
     "stringId": "53655-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7028,6 +7161,7 @@
     }
   },
   "53656-Dialogue.mod": {
+    "name": "The Blessing Of Slavery",
     "stringId": "53656-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7080,6 +7214,7 @@
     }
   },
   "53657-Dialogue.mod": {
+    "name": "United Weekly I",
     "stringId": "53657-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7132,6 +7267,7 @@
     }
   },
   "53658-Dialogue.mod": {
+    "name": "United Weekly II",
     "stringId": "53658-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7184,6 +7320,7 @@
     }
   },
   "53659-Dialogue.mod": {
+    "name": "United Weekly III",
     "stringId": "53659-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7236,6 +7373,7 @@
     }
   },
   "53660-Dialogue.mod": {
+    "name": "United Weekly IV",
     "stringId": "53660-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7288,6 +7426,7 @@
     }
   },
   "53661-Dialogue.mod": {
+    "name": "United Weekly V",
     "stringId": "53661-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7340,6 +7479,7 @@
     }
   },
   "53673-Dialogue.mod": {
+    "name": "Legend of Luquin I",
     "stringId": "53673-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7392,6 +7532,7 @@
     }
   },
   "53674-Dialogue.mod": {
+    "name": "Legend of Luquin II",
     "stringId": "53674-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7444,6 +7585,7 @@
     }
   },
   "53675-Dialogue.mod": {
+    "name": "Puppet",
     "stringId": "53675-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7496,6 +7638,7 @@
     }
   },
   "53676-Dialogue.mod": {
+    "name": "Letter Of Parting",
     "stringId": "53676-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7548,6 +7691,7 @@
     }
   },
   "53677-Dialogue.mod": {
+    "name": "Letter Of The Condemned",
     "stringId": "53677-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7600,6 +7744,7 @@
     }
   },
   "56682-Dialogue.mod": {
+    "name": "WANTED: Big Bo",
     "stringId": "56682-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7644,6 +7789,7 @@
     "references": {}
   },
   "56732-Dialogue.mod": {
+    "name": "WANTED: White Eyebrow",
     "stringId": "56732-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7688,6 +7834,7 @@
     "references": {}
   },
   "56733-Dialogue.mod": {
+    "name": "WANTED: Old Grey",
     "stringId": "56733-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7732,6 +7879,7 @@
     "references": {}
   },
   "56735-Dialogue.mod": {
+    "name": "WANTED: Jaegar The Mad",
     "stringId": "56735-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7776,6 +7924,7 @@
     "references": {}
   },
   "56736-Dialogue.mod": {
+    "name": "WANTED: Tinfist",
     "stringId": "56736-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7820,6 +7969,7 @@
     "references": {}
   },
   "56737-Dialogue.mod": {
+    "name": "Captive's Journal I",
     "stringId": "56737-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7872,6 +8022,7 @@
     }
   },
   "56738-Dialogue.mod": {
+    "name": "Captive's Journal II",
     "stringId": "56738-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7924,6 +8075,7 @@
     }
   },
   "56739-Dialogue.mod": {
+    "name": "Captive's Journal III",
     "stringId": "56739-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -7976,6 +8128,7 @@
     }
   },
   "56740-Dialogue.mod": {
+    "name": "Captive's Journal IV",
     "stringId": "56740-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8028,6 +8181,7 @@
     }
   },
   "56786-Dialogue.mod": {
+    "name": "WANTED: The Red Bandit",
     "stringId": "56786-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8072,6 +8226,7 @@
     "references": {}
   },
   "56787-Dialogue.mod": {
+    "name": "WANTED: The Black Dragon Duo",
     "stringId": "56787-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8116,6 +8271,7 @@
     "references": {}
   },
   "56788-Dialogue.mod": {
+    "name": "WANTED: The Preacher",
     "stringId": "56788-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8160,6 +8316,7 @@
     "references": {}
   },
   "56789-Dialogue.mod": {
+    "name": "WANTED: Butcher Of Black Scratch",
     "stringId": "56789-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8204,6 +8361,7 @@
     "references": {}
   },
   "56790-Dialogue.mod": {
+    "name": "WANTED: The Canyonlands Killer",
     "stringId": "56790-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8248,6 +8406,7 @@
     "references": {}
   },
   "56791-Dialogue.mod": {
+    "name": "WANTED: Blue Eyes",
     "stringId": "56791-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8292,6 +8451,7 @@
     "references": {}
   },
   "56792-Dialogue.mod": {
+    "name": "WANTED: Razor",
     "stringId": "56792-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8336,6 +8496,7 @@
     "references": {}
   },
   "57222-Dialogue.mod": {
+    "name": "Chalice Of Fire",
     "stringId": "57222-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8388,6 +8549,7 @@
     }
   },
   "59012-Dialogue.mod": {
+    "name": "Mystery Sack",
     "stringId": "59012-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8440,6 +8602,7 @@
     }
   },
   "59239-Dialogue.mod": {
+    "name": "Membership Pack",
     "stringId": "59239-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8492,6 +8655,7 @@
     }
   },
   "97852-Dialogue.mod": {
+    "name": "United Weekly VI",
     "stringId": "97852-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8544,6 +8708,7 @@
     }
   },
   "63883-Dialogue.mod": {
+    "name": "WANTED: Shade",
     "stringId": "63883-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8588,6 +8753,7 @@
     "references": {}
   },
   "64281-Dialogue.mod": {
+    "name": "The Pacifier: Guidance For A Troublemaker",
     "stringId": "64281-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8632,6 +8798,7 @@
     "references": {}
   },
   "64699-Dialogue.mod": {
+    "name": "WANTED: Ghost",
     "stringId": "64699-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8676,6 +8843,7 @@
     "references": {}
   },
   "64701-Dialogue.mod": {
+    "name": "WANTED: Flying Bull",
     "stringId": "64701-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8720,6 +8888,7 @@
     "references": {}
   },
   "65005-Dialogue.mod": {
+    "name": "WANTED: Simion",
     "stringId": "65005-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8764,6 +8933,7 @@
     "references": {}
   },
   "65002-Dialogue.mod": {
+    "name": "Men of Dirt",
     "stringId": "65002-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8816,6 +8986,7 @@
     }
   },
   "65078-Dialogue.mod": {
+    "name": "Doll",
     "stringId": "65078-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8868,6 +9039,7 @@
     }
   },
   "65254-Dialogue.mod": {
+    "name": "WANTED: Savant the Skin Eater",
     "stringId": "65254-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8912,6 +9084,7 @@
     "references": {}
   },
   "95810-Dialogue.mod": {
+    "name": "WANTED: Valamon",
     "stringId": "95810-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -8956,6 +9129,7 @@
     "references": {}
   },
   "96409-Dialogue.mod": {
+    "name": "Gurgler Head",
     "stringId": "96409-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9008,6 +9182,7 @@
     }
   },
   "97851-Dialogue.mod": {
+    "name": "Unite",
     "stringId": "97851-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9053,6 +9228,7 @@
     "references": {}
   },
   "97853-Dialogue.mod": {
+    "name": "United Weekly VII",
     "stringId": "97853-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9105,6 +9281,7 @@
     }
   },
   "98165-Dialogue.mod": {
+    "name": "WANTED: Tora The Gutless",
     "stringId": "98165-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9149,6 +9326,7 @@
     "references": {}
   },
   "98227-Dialogue.mod": {
+    "name": "WANTED: Gutterhead",
     "stringId": "98227-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9193,6 +9371,7 @@
     "references": {}
   },
   "98228-Dialogue.mod": {
+    "name": "WANTED: Giant King Gurgler",
     "stringId": "98228-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9237,6 +9416,7 @@
     "references": {}
   },
   "98632-Dialogue.mod": {
+    "name": "WANTED: Gorrillo",
     "stringId": "98632-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9289,6 +9469,7 @@
     }
   },
   "98646-Dialogue.mod": {
+    "name": "WANTED: Voodoo Brothers",
     "stringId": "98646-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9333,6 +9514,7 @@
     "references": {}
   },
   "1533014-Dialogue.mod": {
+    "name": "Note From Moll",
     "stringId": "1533014-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9385,6 +9567,7 @@
     }
   },
   "1533445-Dialogue.mod": {
+    "name": "Holy Seal",
     "stringId": "1533445-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9437,6 +9620,7 @@
     }
   },
   "1533966-Dialogue.mod": {
+    "name": "Unknown Old Book",
     "stringId": "1533966-Dialogue.mod",
     "type": "Item",
     "values": {
@@ -9481,6 +9665,7 @@
     "references": {}
   },
   "42315-changes_otto.mod": {
+    "name": "Animal Teeth",
     "stringId": "42315-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -9533,6 +9718,7 @@
     }
   },
   "42319-changes_otto.mod": {
+    "name": "Cup",
     "stringId": "42319-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -9585,6 +9771,7 @@
     }
   },
   "43957-rebirth.mod": {
+    "name": "Gohan",
     "stringId": "43957-rebirth.mod",
     "type": "Item",
     "values": {
@@ -9649,6 +9836,7 @@
     }
   },
   "43863-changes_otto.mod": {
+    "name": "Grind Machine",
     "stringId": "43863-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -9701,6 +9889,7 @@
     }
   },
   "45549-changes_otto.mod": {
+    "name": "Old Map",
     "stringId": "45549-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -9753,6 +9942,7 @@
     }
   },
   "42241-rebirth.mod": {
+    "name": "Animal Skin",
     "stringId": "42241-rebirth.mod",
     "type": "Item",
     "values": {
@@ -9805,6 +9995,7 @@
     }
   },
   "48787-rebirth.mod": {
+    "name": "Lam's Survival Vol.3",
     "stringId": "48787-rebirth.mod",
     "type": "Item",
     "values": {
@@ -9857,6 +10048,7 @@
     }
   },
   "42243-rebirth.mod": {
+    "name": "Raw Meat",
     "stringId": "42243-rebirth.mod",
     "type": "Item",
     "values": {
@@ -9909,6 +10101,7 @@
     }
   },
   "42330-changes_otto.mod": {
+    "name": "Pearl Cup",
     "stringId": "42330-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -9961,6 +10154,7 @@
     }
   },
   "43396-changes_otto.mod": {
+    "name": "Hinge",
     "stringId": "43396-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10020,6 +10214,7 @@
     }
   },
   "42313-changes_otto.mod": {
+    "name": "Animal Claw",
     "stringId": "42313-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10072,6 +10267,7 @@
     }
   },
   "43960-rebirth.mod": {
+    "name": "Meatwrap",
     "stringId": "43960-rebirth.mod",
     "type": "Item",
     "values": {
@@ -10136,6 +10332,7 @@
     }
   },
   "42317-changes_otto.mod": {
+    "name": "Wooden Bowl",
     "stringId": "42317-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10188,6 +10385,7 @@
     }
   },
   "42320-changes_otto.mod": {
+    "name": "Small Emperor Statue ",
     "stringId": "42320-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10240,6 +10438,7 @@
     }
   },
   "42331-changes_otto.mod": {
+    "name": "Pearl Urn",
     "stringId": "42331-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10292,6 +10491,7 @@
     }
   },
   "50323-rebirth.mod": {
+    "name": "Lam's Survival Vol.1",
     "stringId": "50323-rebirth.mod",
     "type": "Item",
     "values": {
@@ -10344,6 +10544,7 @@
     }
   },
   "43391-changes_otto.mod": {
+    "name": "Pearl Sword Holder",
     "stringId": "43391-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10396,6 +10597,7 @@
     }
   },
   "48700-rebirth.mod": {
+    "name": "Rotten Food",
     "stringId": "48700-rebirth.mod",
     "type": "Item",
     "values": {
@@ -10448,6 +10650,7 @@
     }
   },
   "43397-changes_otto.mod": {
+    "name": "Motor",
     "stringId": "43397-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10512,6 +10715,7 @@
     }
   },
   "43393-changes_otto.mod": {
+    "name": "Capacitor",
     "stringId": "43393-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10564,6 +10768,7 @@
     }
   },
   "43395-changes_otto.mod": {
+    "name": "Skeleton Muscle",
     "stringId": "43395-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10628,6 +10833,7 @@
     }
   },
   "42158-gamedata.base": {
+    "name": "Copper",
     "stringId": "42158-gamedata.base",
     "type": "Item",
     "values": {
@@ -10680,6 +10886,7 @@
     }
   },
   "44428-rebirth.mod": {
+    "name": "Empty Rum Bottle",
     "stringId": "44428-rebirth.mod",
     "type": "Item",
     "values": {
@@ -10732,6 +10939,7 @@
     }
   },
   "42159-gamedata.base": {
+    "name": "Iron Plates",
     "stringId": "42159-gamedata.base",
     "type": "Item",
     "values": {
@@ -10791,6 +10999,7 @@
     }
   },
   "43961-rebirth.mod": {
+    "name": "Dustwich",
     "stringId": "43961-rebirth.mod",
     "type": "Item",
     "values": {
@@ -10855,6 +11064,7 @@
     }
   },
   "43404-changes_otto.mod": {
+    "name": "Tools",
     "stringId": "43404-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10907,6 +11117,7 @@
     }
   },
   "42304-changes_otto.mod": {
+    "name": "Cactus",
     "stringId": "42304-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -10959,6 +11170,7 @@
     }
   },
   "43956-rebirth.mod": {
+    "name": "Chewsticks",
     "stringId": "43956-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11023,6 +11235,7 @@
     }
   },
   "49380-rebirth.mod": {
+    "name": "_LETTER TEMPLATE",
     "stringId": "49380-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11067,6 +11280,7 @@
     "references": {}
   },
   "49360-rebirth.mod": {
+    "name": "Tech Hunter's Notes: The Holy Nation",
     "stringId": "49360-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11111,6 +11325,7 @@
     "references": {}
   },
   "42178-rebirth.mod": {
+    "name": "Cotton",
     "stringId": "42178-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11170,6 +11385,7 @@
     }
   },
   "42338-changes_otto.mod": {
+    "name": "Leviathan Pearl",
     "stringId": "42338-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11222,6 +11438,7 @@
     }
   },
   "43959-rebirth.mod": {
+    "name": "Foodcube",
     "stringId": "43959-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11286,6 +11503,7 @@
     }
   },
   "43392-changes_otto.mod": {
+    "name": "AI Core",
     "stringId": "43392-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11338,6 +11556,7 @@
     }
   },
   "42307-changes_otto.mod": {
+    "name": "Riceweed",
     "stringId": "42307-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11390,6 +11609,7 @@
     }
   },
   "42328-changes_otto.mod": {
+    "name": "Carbon",
     "stringId": "42328-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11442,6 +11662,7 @@
     }
   },
   "50567-rebirth.mod": {
+    "name": "Foul Raw Meat",
     "stringId": "50567-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11494,6 +11715,7 @@
     }
   },
   "49381-rebirth.mod": {
+    "name": "Flotsam Safehouse Note",
     "stringId": "49381-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11538,6 +11760,7 @@
     "references": {}
   },
   "42337-changes_otto.mod": {
+    "name": "Ration Pack",
     "stringId": "42337-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11602,6 +11825,7 @@
     }
   },
   "43399-changes_otto.mod": {
+    "name": "Press",
     "stringId": "43399-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11661,6 +11885,7 @@
     }
   },
   "42314-changes_otto.mod": {
+    "name": "Animal Horn",
     "stringId": "42314-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11713,6 +11938,7 @@
     }
   },
   "43951-rebirth.mod": {
+    "name": "Engineering Research",
     "stringId": "43951-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11757,6 +11983,7 @@
     "references": {}
   },
   "42164-gamedata.base": {
+    "name": "Electrical Components",
     "stringId": "42164-gamedata.base",
     "type": "Item",
     "values": {
@@ -11816,6 +12043,7 @@
     }
   },
   "42240-rebirth.mod": {
+    "name": "ITEM",
     "stringId": "42240-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11860,6 +12088,7 @@
     "references": {}
   },
   "42318-changes_otto.mod": {
+    "name": "Gears",
     "stringId": "42318-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -11919,6 +12148,7 @@
     }
   },
   "42083-rebirth.mod": {
+    "name": "Fog Prince Head",
     "stringId": "42083-rebirth.mod",
     "type": "Item",
     "values": {
@@ -11971,6 +12201,7 @@
     }
   },
   "43927-rebirth.mod": {
+    "name": "Damaged Book",
     "stringId": "43927-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12023,6 +12254,7 @@
     }
   },
   "49361-rebirth.mod": {
+    "name": "Tech Hunter's Notes: The Black Desert",
     "stringId": "49361-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12067,6 +12299,7 @@
     "references": {}
   },
   "45557-changes_otto.mod": {
+    "name": "Skeleton Eye",
     "stringId": "45557-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12119,6 +12352,7 @@
     }
   },
   "42316-changes_otto.mod": {
+    "name": "Ceramic Bowl",
     "stringId": "42316-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12171,6 +12405,7 @@
     }
   },
   "43955-rebirth.mod": {
+    "name": "Cooked Vegetables",
     "stringId": "43955-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12235,6 +12470,7 @@
     }
   },
   "43316-rebirth.mod": {
+    "name": "Bloodrum",
     "stringId": "43316-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12299,6 +12535,7 @@
     }
   },
   "42309-changes_otto.mod": {
+    "name": "Greenfruit",
     "stringId": "42309-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12351,6 +12588,7 @@
     }
   },
   "43862-changes_otto.mod": {
+    "name": "Wrench",
     "stringId": "43862-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12403,6 +12641,7 @@
     }
   },
   "42334-changes_otto.mod": {
+    "name": "Dried Meat",
     "stringId": "42334-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12462,6 +12701,7 @@
     }
   },
   "44921-rebirth.mod": {
+    "name": "WANTED: Dust King",
     "stringId": "44921-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12514,6 +12754,7 @@
     }
   },
   "42311-changes_otto.mod": {
+    "name": "Grog",
     "stringId": "42311-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12578,6 +12819,7 @@
     }
   },
   "42332-changes_otto.mod": {
+    "name": "Pearl Vase",
     "stringId": "42332-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12630,6 +12872,7 @@
     }
   },
   "42189-rebirth.mod": {
+    "name": "Generator Core",
     "stringId": "42189-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12694,6 +12937,7 @@
     }
   },
   "50568-rebirth.mod": {
+    "name": "Dried Gristle Flaps",
     "stringId": "50568-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12753,6 +12997,7 @@
     }
   },
   "43398-changes_otto.mod": {
+    "name": "Power Core",
     "stringId": "43398-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12805,6 +13050,7 @@
     }
   },
   "42322-changes_otto.mod": {
+    "name": "The Holy Flame",
     "stringId": "42322-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12857,6 +13103,7 @@
     }
   },
   "44429-rebirth.mod": {
+    "name": "Empty Grog Can",
     "stringId": "44429-rebirth.mod",
     "type": "Item",
     "values": {
@@ -12909,6 +13156,7 @@
     }
   },
   "43394-changes_otto.mod": {
+    "name": "CPU Unit",
     "stringId": "43394-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -12961,6 +13209,7 @@
     }
   },
   "42310-changes_otto.mod": {
+    "name": "Sake",
     "stringId": "42310-changes_otto.mod",
     "type": "Item",
     "values": {
@@ -13025,6 +13274,7 @@
     }
   },
   "43953-rebirth.mod": {
+    "name": "Ancient Science Book",
     "stringId": "43953-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13077,6 +13327,7 @@
     }
   },
   "42160-gamedata.base": {
+    "name": "Copper Alloy Plates",
     "stringId": "42160-gamedata.base",
     "type": "Item",
     "values": {
@@ -13141,6 +13392,7 @@
     }
   },
   "47238-rebirth.mod": {
+    "name": "ITEM",
     "stringId": "47238-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13185,6 +13437,7 @@
     "references": {}
   },
   "50984-rebirth.mod": {
+    "name": "Horn of the Megaraptor",
     "stringId": "50984-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13237,6 +13490,7 @@
     }
   },
   "51372-rebirth.mod": {
+    "name": "Human Teeth",
     "stringId": "51372-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13289,6 +13543,7 @@
     }
   },
   "51391-rebirth.mod": {
+    "name": "WANTED: Bugmaster",
     "stringId": "51391-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13333,6 +13588,7 @@
     "references": {}
   },
   "51393-rebirth.mod": {
+    "name": "WANTED: Moll",
     "stringId": "51393-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13377,6 +13633,7 @@
     "references": {}
   },
   "52282-rebirth.mod": {
+    "name": "Tech Hunter's Notes: The Swamps",
     "stringId": "52282-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13421,6 +13678,7 @@
     "references": {}
   },
   "52283-rebirth.mod": {
+    "name": "Tech ",
     "stringId": "52283-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13465,6 +13723,7 @@
     "references": {}
   },
   "52284-rebirth.mod": {
+    "name": "Tech Hunter's Notes: Leviathan Coast",
     "stringId": "52284-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13509,6 +13768,7 @@
     "references": {}
   },
   "56122-rebirth.mod": {
+    "name": "Megacrab Ganglion",
     "stringId": "56122-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13561,6 +13821,7 @@
     }
   },
   "56645-rebirth.mod": {
+    "name": "Sleeping Bag",
     "stringId": "56645-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13620,6 +13881,7 @@
     }
   },
   "57395-rebirth.mod": {
+    "name": "Tech Hunter's Notes: The Shrieking Forest",
     "stringId": "57395-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13664,6 +13926,7 @@
     "references": {}
   },
   "57396-rebirth.mod": {
+    "name": "Tech Hunter's Notes: Pool of Obedience",
     "stringId": "57396-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13708,6 +13971,7 @@
     "references": {}
   },
   "57728-rebirth.mod": {
+    "name": "Tech Hunter's Notes: The Ashlands",
     "stringId": "57728-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13752,6 +14016,7 @@
     "references": {}
   },
   "62173-rebirth.mod": {
+    "name": "Ancient Nutri-Rations",
     "stringId": "62173-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13816,6 +14081,7 @@
     }
   },
   "64914-rebirth.mod": {
+    "name": "WANTED: Cannibal Leaders",
     "stringId": "64914-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13860,6 +14126,7 @@
     "references": {}
   },
   "64917-rebirth.mod": {
+    "name": "Half-Eaten Ancient Science Book",
     "stringId": "64917-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13912,6 +14179,7 @@
     }
   },
   "95781-rebirth.mod": {
+    "name": "Bolts [Regulars]",
     "stringId": "95781-rebirth.mod",
     "type": "Item",
     "values": {
@@ -13971,6 +14239,7 @@
     }
   },
   "95868-rebirth.mod": {
+    "name": "Tech Hunter's Notes: Shopper's Guide",
     "stringId": "95868-rebirth.mod",
     "type": "Item",
     "values": {
@@ -14015,6 +14284,7 @@
     "references": {}
   },
   "96014-rebirth.mod": {
+    "name": "Bolts [Toothpicks]",
     "stringId": "96014-rebirth.mod",
     "type": "Item",
     "values": {
@@ -14074,6 +14344,7 @@
     }
   },
   "108-limbs.mod": {
+    "name": "Severed Cannibal Left Arm",
     "stringId": "108-limbs.mod",
     "type": "Item",
     "values": {
@@ -14127,6 +14398,7 @@
     }
   },
   "110-limbs.mod": {
+    "name": "Severed Cannibal Left Leg",
     "stringId": "110-limbs.mod",
     "type": "Item",
     "values": {
@@ -14180,6 +14452,7 @@
     }
   },
   "109-limbs.mod": {
+    "name": "Severed Cannibal Right Arm",
     "stringId": "109-limbs.mod",
     "type": "Item",
     "values": {
@@ -14233,6 +14506,7 @@
     }
   },
   "111-limbs.mod": {
+    "name": "Severed Cannibal Right Leg",
     "stringId": "111-limbs.mod",
     "type": "Item",
     "values": {
@@ -14286,6 +14560,7 @@
     }
   },
   "112-limbs.mod": {
+    "name": "Severed Cannibal Skav Left Arm",
     "stringId": "112-limbs.mod",
     "type": "Item",
     "values": {
@@ -14339,6 +14614,7 @@
     }
   },
   "114-limbs.mod": {
+    "name": "Severed Cannibal Skav Left Leg",
     "stringId": "114-limbs.mod",
     "type": "Item",
     "values": {
@@ -14392,6 +14668,7 @@
     }
   },
   "113-limbs.mod": {
+    "name": "Severed Cannibal Skav Right Arm",
     "stringId": "113-limbs.mod",
     "type": "Item",
     "values": {
@@ -14445,6 +14722,7 @@
     }
   },
   "115-limbs.mod": {
+    "name": "Severed Cannibal Skav Right Leg",
     "stringId": "115-limbs.mod",
     "type": "Item",
     "values": {
@@ -14498,6 +14776,7 @@
     }
   },
   "100-limbs.mod": {
+    "name": "Severed Human Left Arm",
     "stringId": "100-limbs.mod",
     "type": "Item",
     "values": {
@@ -14551,6 +14830,7 @@
     }
   },
   "102-limbs.mod": {
+    "name": "Severed Human Left Leg",
     "stringId": "102-limbs.mod",
     "type": "Item",
     "values": {
@@ -14604,6 +14884,7 @@
     }
   },
   "101-limbs.mod": {
+    "name": "Severed Human Right Arm",
     "stringId": "101-limbs.mod",
     "type": "Item",
     "values": {
@@ -14657,6 +14938,7 @@
     }
   },
   "103-limbs.mod": {
+    "name": "Severed Human Right Leg",
     "stringId": "103-limbs.mod",
     "type": "Item",
     "values": {
@@ -14710,6 +14992,7 @@
     }
   },
   "104-limbs.mod": {
+    "name": "Severed Shek Left Arm",
     "stringId": "104-limbs.mod",
     "type": "Item",
     "values": {
@@ -14763,6 +15046,7 @@
     }
   },
   "106-limbs.mod": {
+    "name": "Severed Shek Left Leg",
     "stringId": "106-limbs.mod",
     "type": "Item",
     "values": {
@@ -14816,6 +15100,7 @@
     }
   },
   "105-limbs.mod": {
+    "name": "Severed Shek Right Arm",
     "stringId": "105-limbs.mod",
     "type": "Item",
     "values": {
@@ -14869,6 +15154,7 @@
     }
   },
   "107-limbs.mod": {
+    "name": "Severed Shek Right Leg",
     "stringId": "107-limbs.mod",
     "type": "Item",
     "values": {
@@ -14922,6 +15208,7 @@
     }
   },
   "96354-__Southern hive.mod": {
+    "name": "WANTED: Sand Ninja Oni",
     "stringId": "96354-__Southern hive.mod",
     "type": "Item",
     "values": {
@@ -14966,6 +15253,7 @@
     "references": {}
   },
   "96901-limbs.mod": {
+    "name": "Severed Hive Left Arm",
     "stringId": "96901-limbs.mod",
     "type": "Item",
     "values": {
@@ -15019,6 +15307,7 @@
     }
   },
   "96906-limbs.mod": {
+    "name": "Severed Hive Left Arm",
     "stringId": "96906-limbs.mod",
     "type": "Item",
     "values": {
@@ -15072,6 +15361,7 @@
     }
   },
   "96911-limbs.mod": {
+    "name": "Severed Hive Left Arm",
     "stringId": "96911-limbs.mod",
     "type": "Item",
     "values": {
@@ -15125,6 +15415,7 @@
     }
   },
   "96902-limbs.mod": {
+    "name": "Severed Hive Left Leg",
     "stringId": "96902-limbs.mod",
     "type": "Item",
     "values": {
@@ -15178,6 +15469,7 @@
     }
   },
   "96907-limbs.mod": {
+    "name": "Severed Hive Left Leg",
     "stringId": "96907-limbs.mod",
     "type": "Item",
     "values": {
@@ -15231,6 +15523,7 @@
     }
   },
   "96912-limbs.mod": {
+    "name": "Severed Hive Left Leg",
     "stringId": "96912-limbs.mod",
     "type": "Item",
     "values": {
@@ -15284,6 +15577,7 @@
     }
   },
   "96903-limbs.mod": {
+    "name": "Severed Hive Right Arm",
     "stringId": "96903-limbs.mod",
     "type": "Item",
     "values": {
@@ -15337,6 +15631,7 @@
     }
   },
   "96908-limbs.mod": {
+    "name": "Severed Hive Right Arm",
     "stringId": "96908-limbs.mod",
     "type": "Item",
     "values": {
@@ -15390,6 +15685,7 @@
     }
   },
   "96913-limbs.mod": {
+    "name": "Severed Hive Right Arm",
     "stringId": "96913-limbs.mod",
     "type": "Item",
     "values": {
@@ -15443,6 +15739,7 @@
     }
   },
   "96904-limbs.mod": {
+    "name": "Severed Hive Right Leg",
     "stringId": "96904-limbs.mod",
     "type": "Item",
     "values": {
@@ -15496,6 +15793,7 @@
     }
   },
   "96909-limbs.mod": {
+    "name": "Severed Hive Right Leg",
     "stringId": "96909-limbs.mod",
     "type": "Item",
     "values": {
@@ -15549,6 +15847,7 @@
     }
   },
   "96914-limbs.mod": {
+    "name": "Severed Hive Right Leg",
     "stringId": "96914-limbs.mod",
     "type": "Item",
     "values": {
@@ -15602,6 +15901,7 @@
     }
   },
   "97089-rebirth.mod": {
+    "name": "Crossbow Parts",
     "stringId": "97089-rebirth.mod",
     "type": "Item",
     "values": {
@@ -15666,6 +15966,7 @@
     }
   },
   "97090-rebirth.mod": {
+    "name": "Spring Steel",
     "stringId": "97090-rebirth.mod",
     "type": "Item",
     "values": {
@@ -15730,6 +16031,7 @@
     }
   },
   "97903-rebirth.mod": {
+    "name": "Authentic Skeleton Repair Kit",
     "stringId": "97903-rebirth.mod",
     "type": "Item",
     "values": {
@@ -15794,6 +16096,7 @@
     }
   },
   "98510-rebirth.mod": {
+    "name": "Great White Skin",
     "stringId": "98510-rebirth.mod",
     "type": "Item",
     "values": {
@@ -15846,6 +16149,7 @@
     }
   },
   "1531906-rebirth.mod": {
+    "name": "Tech Hunter's Notes: The Ashlands pt II",
     "stringId": "1531906-rebirth.mod",
     "type": "Item",
     "values": {
@@ -15890,6 +16194,7 @@
     "references": {}
   },
   "BLUEPRINT_ITEM_ARMOUR": {
+    "name": "Blueprints (armour)",
     "stringId": "BLUEPRINT_ITEM_ARMOUR",
     "type": "Item",
     "values": {
@@ -15934,6 +16239,7 @@
     "references": {}
   },
   "BLUEPRINT_ITEM_GEAR": {
+    "name": "Blueprints (gear)",
     "stringId": "BLUEPRINT_ITEM_GEAR",
     "type": "Item",
     "values": {
@@ -15978,6 +16284,7 @@
     "references": {}
   },
   "1533516-rebirth.mod": {
+    "name": "CPU of the Head of Agriculture",
     "stringId": "1533516-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16030,6 +16337,7 @@
     }
   },
   "1533517-rebirth.mod": {
+    "name": "CPU of Rhinobot",
     "stringId": "1533517-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16082,6 +16390,7 @@
     }
   },
   "1533665-rebirth.mod": {
+    "name": "CPU of General Jang",
     "stringId": "1533665-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16134,6 +16443,7 @@
     }
   },
   "1533669-rebirth.mod": {
+    "name": "CPU of General Hat-12",
     "stringId": "1533669-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16186,6 +16496,7 @@
     }
   },
   "1533843-rebirth.mod": {
+    "name": "CPU of Cat-Lon",
     "stringId": "1533843-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16238,6 +16549,7 @@
     }
   },
   "1533855-rebirth.mod": {
+    "name": "Old CPU Unit",
     "stringId": "1533855-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16290,6 +16602,7 @@
     }
   },
   "1533859-rebirth.mod": {
+    "name": "CPU of Cat-Lon",
     "stringId": "1533859-rebirth.mod",
     "type": "Item",
     "values": {
@@ -16342,6 +16655,7 @@
     }
   },
   "1534121-__Fixes.mod": {
+    "name": "Great White Claw",
     "stringId": "1534121-__Fixes.mod",
     "type": "Item",
     "values": {

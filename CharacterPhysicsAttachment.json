@@ -1,5 +1,6 @@
 {
   "5340-gamedata.base": {
+    "name": "Packbeast lantern",
     "stringId": "5340-gamedata.base",
     "type": "CharacterPhysicsAttachment",
     "values": {
@@ -29,6 +30,7 @@
     }
   },
   "5313-gamedata.base": {
+    "name": "lantern hip",
     "stringId": "5313-gamedata.base",
     "type": "CharacterPhysicsAttachment",
     "values": {
@@ -58,6 +60,7 @@
     }
   },
   "5264-lanterns_otto.mod": {
+    "name": "Lantern_Gas_onPole",
     "stringId": "5264-lanterns_otto.mod",
     "type": "CharacterPhysicsAttachment",
     "values": {
@@ -80,6 +83,7 @@
     }
   },
   "5262-lanterns_otto.mod": {
+    "name": "Lantern_Eletrical_onPole",
     "stringId": "5262-lanterns_otto.mod",
     "type": "CharacterPhysicsAttachment",
     "values": {
