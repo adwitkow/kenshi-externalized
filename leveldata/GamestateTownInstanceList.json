@@ -1,0 +1,6929 @@
+[
+  {
+    "changeType": "New",
+    "id": 1,
+    "instances": [
+      {
+        "id": "10-Newwworld-INGAME",
+        "position": {
+          "x": -50978.8,
+          "y": 1533.0828,
+          "z": 2932.4766
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "10-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18919-Newwworld.mod"
+      },
+      {
+        "id": "11-Newwworld-INGAME",
+        "position": {
+          "x": -47333.918,
+          "y": 762.80444,
+          "z": -55622.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "11-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18921-Newwworld.mod"
+      },
+      {
+        "id": "12-Newwworld-INGAME",
+        "position": {
+          "x": 6666.99,
+          "y": 600.3605,
+          "z": -85024.805
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "12-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "13-Newwworld-INGAME",
+        "position": {
+          "x": -56046.645,
+          "y": 1060.4626,
+          "z": -13188.141
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "13-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18925-Newwworld.mod"
+      },
+      {
+        "id": "14-Newwworld-INGAME",
+        "position": {
+          "x": -61088.766,
+          "y": 796.2174,
+          "z": -50757.992
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "14-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44883-rebirth.mod"
+      },
+      {
+        "id": "142-rebirth-INGAME",
+        "position": {
+          "x": 87804.17,
+          "y": 195.03058,
+          "z": -109400.016
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "142-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1076-gamedata.base"
+      },
+      {
+        "id": "146-rebirth-INGAME",
+        "position": {
+          "x": -6638.8438,
+          "y": 1158.4523,
+          "z": -47390.562
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "146-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55657-rebirth.mod"
+      },
+      {
+        "id": "15-Newwworld-INGAME",
+        "position": {
+          "x": -62019.32,
+          "y": 1166.2338,
+          "z": -28584.0
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "15-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18923-Newwworld.mod"
+      },
+      {
+        "id": "16-Newwworld-INGAME",
+        "position": {
+          "x": -52347.203,
+          "y": 1022.8266,
+          "z": -39279.11
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "16-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18923-Newwworld.mod"
+      },
+      {
+        "id": "17-Newwworld-INGAME",
+        "position": {
+          "x": -60654.87,
+          "y": 524.7811,
+          "z": -39050.793
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "17-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "18-Newwworld-INGAME",
+        "position": {
+          "x": -13211.484,
+          "y": 1013.6828,
+          "z": -16755.828
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "18-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44885-rebirth.mod"
+      },
+      {
+        "id": "19-Newwworld-INGAME",
+        "position": {
+          "x": -16217.084,
+          "y": 660.38696,
+          "z": -28897.178
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "19-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44885-rebirth.mod"
+      },
+      {
+        "id": "2-Newwworld-INGAME",
+        "position": {
+          "x": -33384.523,
+          "y": 342.28827,
+          "z": -19952.654
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "2-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18021-Newwworld.mod"
+      },
+      {
+        "id": "20-Newwworld-INGAME",
+        "position": {
+          "x": -40351.492,
+          "y": 1103.597,
+          "z": -12264.478
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "20-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "21-Newwworld-INGAME",
+        "position": {
+          "x": -19720.385,
+          "y": 1002.7612,
+          "z": -2772.0154
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "21-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "22-Newwworld-INGAME",
+        "position": {
+          "x": -25087.406,
+          "y": 792.4379,
+          "z": -34244.89
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "22-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "23-Newwworld-INGAME",
+        "position": {
+          "x": -25892.396,
+          "y": 898.4493,
+          "z": -14735.521
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "23-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "24-Newwworld-INGAME",
+        "position": {
+          "x": -88679.12,
+          "y": 162.35065,
+          "z": -38443.37
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "24-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "25-Newwworld-INGAME",
+        "position": {
+          "x": -81634.1,
+          "y": 436.55487,
+          "z": -26815.879
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "25-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "26-Newwworld-INGAME",
+        "position": {
+          "x": -68826.91,
+          "y": 163.8941,
+          "z": -35226.418
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "26-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "27-Newwworld-INGAME",
+        "position": {
+          "x": -76584.75,
+          "y": 232.3743,
+          "z": -46043.754
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "27-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "28-Newwworld-INGAME",
+        "position": {
+          "x": -75284.42,
+          "y": 538.38617,
+          "z": -42555.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "28-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "29-Newwworld-INGAME",
+        "position": {
+          "x": -86180.125,
+          "y": 172.77917,
+          "z": -28080.785
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "29-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "3-Newwworld-INGAME",
+        "position": {
+          "x": -82558.88,
+          "y": 1542.0273,
+          "z": -37630.145
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "3-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18022-Newwworld.mod"
+      },
+      {
+        "id": "30-Newwworld-INGAME",
+        "position": {
+          "x": -81611.87,
+          "y": 259.5088,
+          "z": -45681.406
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "30-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "31-Newwworld-INGAME",
+        "position": {
+          "x": -80534.29,
+          "y": 240.4486,
+          "z": -29290.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "31-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "32-Newwworld-INGAME",
+        "position": {
+          "x": -71514.68,
+          "y": 510.32565,
+          "z": -49340.98
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "32-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "33-Newwworld-INGAME",
+        "position": {
+          "x": -74683.34,
+          "y": 228.79376,
+          "z": -29826.61
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "33-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "34-Newwworld-INGAME",
+        "position": {
+          "x": -69574.836,
+          "y": 199.07585,
+          "z": -36565.453
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "34-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "35-Newwworld-INGAME",
+        "position": {
+          "x": -89840.07,
+          "y": 137.95114,
+          "z": -42999.152
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "35-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "36-Newwworld-INGAME",
+        "position": {
+          "x": -79155.38,
+          "y": 671.2619,
+          "z": -38918.613
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "36-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "36-rebirth-INGAME",
+        "position": {
+          "x": -25163.906,
+          "y": 334.38153,
+          "z": -103643.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "36-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1222-gamedata.base"
+      },
+      {
+        "id": "37-Newwworld-INGAME",
+        "position": {
+          "x": -75576.59,
+          "y": 443.32913,
+          "z": -39337.89
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "37-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "38-Newwworld-INGAME",
+        "position": {
+          "x": -88379.6,
+          "y": 196.69623,
+          "z": -34050.96
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "38-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "39-Newwworld-INGAME",
+        "position": {
+          "x": -85321.13,
+          "y": 437.29355,
+          "z": -30884.324
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "39-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "4-Newwworld-INGAME",
+        "position": {
+          "x": -37262.41,
+          "y": 674.0783,
+          "z": -43586.984
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "4-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "12628-Newwworld.mod"
+      },
+      {
+        "id": "40-Newwworld-INGAME",
+        "position": {
+          "x": -83921.68,
+          "y": 244.66867,
+          "z": -28589.049
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "40-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "41-Newwworld-INGAME",
+        "position": {
+          "x": -78260.54,
+          "y": 661.8706,
+          "z": -35790.055
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "41-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "42-Newwworld-INGAME",
+        "position": {
+          "x": -85230.016,
+          "y": 225.1273,
+          "z": -46112.844
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "42-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "43-Newwworld-INGAME",
+        "position": {
+          "x": -111540.88,
+          "y": 135.20934,
+          "z": -5132.0938
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "43-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "44-Newwworld-INGAME",
+        "position": {
+          "x": -97280.0,
+          "y": 132.19101,
+          "z": -4285.84
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "44-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "45-Newwworld-INGAME",
+        "position": {
+          "x": -86287.37,
+          "y": 111.76576,
+          "z": 5316.8594
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "45-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "46-Newwworld-INGAME",
+        "position": {
+          "x": -109295.43,
+          "y": 136.33289,
+          "z": 10387.344
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "46-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "47-Newwworld-INGAME",
+        "position": {
+          "x": -106335.88,
+          "y": 452.4715,
+          "z": -41801.676
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "47-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "46401-Newwworld.mod"
+      },
+      {
+        "id": "48-Newwworld-INGAME",
+        "position": {
+          "x": -115304.414,
+          "y": 131.15945,
+          "z": -40205.492
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "48-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "46401-Newwworld.mod"
+      },
+      {
+        "id": "49-Newwworld-INGAME",
+        "position": {
+          "x": 52758.53,
+          "y": 2505.3496,
+          "z": 61799.727
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "49-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "52160-Newwworld.mod"
+      },
+      {
+        "id": "5-Newwworld-INGAME",
+        "position": {
+          "x": -44019.977,
+          "y": 195.60251,
+          "z": -23186.955
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "5-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "51-Newwworld-INGAME",
+        "position": {
+          "x": 8698.1,
+          "y": 644.9133,
+          "z": -13295.174
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "51-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "52210-Newwworld.mod"
+      },
+      {
+        "id": "52-Newwworld-INGAME",
+        "position": {
+          "x": 86971.99,
+          "y": 490.44046,
+          "z": -34333.76
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "52-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "55394-Newwworld.mod"
+      },
+      {
+        "id": "53-Newwworld-INGAME",
+        "position": {
+          "x": -53100.777,
+          "y": 117.447754,
+          "z": 52953.562
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "53-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42272-Newwworld.mod"
+      },
+      {
+        "id": "55-Newwworld-INGAME",
+        "position": {
+          "x": -61979.27,
+          "y": 95.93701,
+          "z": 33880.105
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "55-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42272-Newwworld.mod"
+      },
+      {
+        "id": "56-Newwworld-INGAME",
+        "position": {
+          "x": 97548.61,
+          "y": 105.17251,
+          "z": -25350.91
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "56-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "55396-Newwworld.mod"
+      },
+      {
+        "id": "57-Newwworld-INGAME",
+        "position": {
+          "x": -16822.057,
+          "y": 245.88004,
+          "z": 21953.543
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "57-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42305-Newwworld.mod"
+      },
+      {
+        "id": "58-Newwworld-INGAME",
+        "position": {
+          "x": -31697.496,
+          "y": 1733.0115,
+          "z": 10950.289
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "58-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44854-rebirth.mod"
+      },
+      {
+        "id": "59-Newwworld-INGAME",
+        "position": {
+          "x": -39775.297,
+          "y": 2711.5977,
+          "z": 7753.6616
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "59-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44852-rebirth.mod"
+      },
+      {
+        "id": "6-Newwworld-INGAME",
+        "position": {
+          "x": -50047.62,
+          "y": 678.2641,
+          "z": -31390.188
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "6-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "60-Newwworld-INGAME",
+        "position": {
+          "x": -36143.977,
+          "y": 1266.5643,
+          "z": -676.8428
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "60-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44853-rebirth.mod"
+      },
+      {
+        "id": "61-Newwworld-INGAME",
+        "position": {
+          "x": -27225.143,
+          "y": 2211.5217,
+          "z": -5953.089
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "61-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44884-rebirth.mod"
+      },
+      {
+        "id": "62-Newwworld-INGAME",
+        "position": {
+          "x": -24330.771,
+          "y": 2263.7522,
+          "z": 6874.7646
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "62-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42271-Newwworld.mod"
+      },
+      {
+        "id": "63-Newwworld-INGAME",
+        "position": {
+          "x": -64989.105,
+          "y": 115.91366,
+          "z": -551.62964
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "63-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "64-Newwworld-INGAME",
+        "position": {
+          "x": -79718.586,
+          "y": 1446.2513,
+          "z": -4413.143
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "64-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "66-Newwworld-INGAME",
+        "position": {
+          "x": 85178.7,
+          "y": 269.61475,
+          "z": -47764.668
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "66-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "55397-Newwworld.mod"
+      },
+      {
+        "id": "67-Newwworld-INGAME",
+        "position": {
+          "x": -11320.918,
+          "y": 1136.107,
+          "z": -127874.21
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "67-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "69-Newwworld-INGAME",
+        "position": {
+          "x": 726.6581,
+          "y": 564.8012,
+          "z": -121712.125
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "69-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "7-Newwworld-INGAME",
+        "position": {
+          "x": -36079.906,
+          "y": 563.42126,
+          "z": -30346.535
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "7-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "70-Newwworld-INGAME",
+        "position": {
+          "x": -284.19385,
+          "y": 1149.4684,
+          "z": -91502.8
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "70-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "71-Newwworld-INGAME",
+        "position": {
+          "x": 3647.14,
+          "y": 1085.7909,
+          "z": -96471.51
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "71-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56066-Newwworld.mod"
+      },
+      {
+        "id": "72-Newwworld-INGAME",
+        "position": {
+          "x": 17424.514,
+          "y": 424.37616,
+          "z": -94945.99
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "72-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "73-Newwworld-INGAME",
+        "position": {
+          "x": 3779.4949,
+          "y": 757.70447,
+          "z": -88889.06
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "73-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "74-Newwworld-INGAME",
+        "position": {
+          "x": 11010.113,
+          "y": 529.31683,
+          "z": -90326.57
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "74-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "75-Newwworld-INGAME",
+        "position": {
+          "x": 15448.554,
+          "y": 481.6998,
+          "z": -92542.055
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "75-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "76-Newwworld-INGAME",
+        "position": {
+          "x": 19581.959,
+          "y": 626.4023,
+          "z": -89187.76
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "76-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "77-Newwworld-INGAME",
+        "position": {
+          "x": 14384.893,
+          "y": 508.98254,
+          "z": -100588.74
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "77-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "78-Newwworld-INGAME",
+        "position": {
+          "x": 8744.631,
+          "y": 498.71808,
+          "z": -95672.7
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "78-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "79-Newwworld-INGAME",
+        "position": {
+          "x": 3482.597,
+          "y": 959.2062,
+          "z": -87448.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "79-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56066-Newwworld.mod"
+      },
+      {
+        "id": "8-Newwworld-INGAME",
+        "position": {
+          "x": -21255.084,
+          "y": 564.60706,
+          "z": -43238.875
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "8-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "9-Newwworld-INGAME",
+        "position": {
+          "x": -18228.572,
+          "y": 2249.6345,
+          "z": -57828.54
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "9-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "90-rebirth-INGAME",
+        "position": {
+          "x": -67095.836,
+          "y": 323.72052,
+          "z": 101363.34
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "90-rebirth-INGAME-S5e"
+        ],
+        "targetId": "44854-rebirth.mod"
+      }
+    ],
+    "name": "0",
+    "referenceCategories": [],
+    "stringId": "0-townlist",
+    "type": "GamestateTownInstanceList",
+    "values": {}
+  },
+  {
+    "changeType": "New",
+    "id": 1,
+    "instances": [
+      {
+        "id": "10-Dialogue-INGAME",
+        "position": {
+          "x": 128348.97,
+          "y": 141.28815,
+          "z": 19456.604
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "10-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96157-Dialogue.mod"
+      },
+      {
+        "id": "11-Dialogue-INGAME",
+        "position": {
+          "x": 118076.18,
+          "y": 837.6406,
+          "z": 46239.918
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "11-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96157-Dialogue.mod"
+      },
+      {
+        "id": "12-Dialogue-INGAME",
+        "position": {
+          "x": 15395.537,
+          "y": 1245.9266,
+          "z": -58458.664
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "12-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96159-Dialogue.mod"
+      },
+      {
+        "id": "13-Dialogue-INGAME",
+        "position": {
+          "x": -132020.05,
+          "y": 246.9798,
+          "z": -21315.602
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "13-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96293-Dialogue.mod"
+      },
+      {
+        "id": "14-Dialogue-INGAME",
+        "position": {
+          "x": -16741.94,
+          "y": 124.58932,
+          "z": 130761.734
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "14-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96390-Dialogue.mod"
+      },
+      {
+        "id": "15-Dialogue-INGAME",
+        "position": {
+          "x": -8340.171,
+          "y": 812.0896,
+          "z": 121104.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "15-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96389-Dialogue.mod"
+      },
+      {
+        "id": "16-Dialogue-INGAME",
+        "position": {
+          "x": -71448.055,
+          "y": 618.22504,
+          "z": 29419.613
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "16-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96498-Dialogue.mod"
+      },
+      {
+        "id": "17-Dialogue-INGAME",
+        "position": {
+          "x": -96012.73,
+          "y": 1141.4553,
+          "z": 28453.451
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "17-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96499-Dialogue.mod"
+      },
+      {
+        "id": "18-Dialogue-INGAME",
+        "position": {
+          "x": 73299.39,
+          "y": 533.50793,
+          "z": 2819.226
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "18-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96519-Dialogue.mod"
+      },
+      {
+        "id": "19-Dialogue-INGAME",
+        "position": {
+          "x": 93028.79,
+          "y": 874.7047,
+          "z": -4053.8525
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "19-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "97071-Dialogue.mod"
+      },
+      {
+        "id": "2-Dialogue-INGAME",
+        "position": {
+          "x": -44313.895,
+          "y": 223.21228,
+          "z": 62571.027
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "2-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "66515-Dialogue.mod"
+      },
+      {
+        "id": "20-Dialogue-INGAME",
+        "position": {
+          "x": 61681.35,
+          "y": 1041.1809,
+          "z": -104298.31
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "20-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "97848-__March 18.mod"
+      },
+      {
+        "id": "3-Dialogue-INGAME",
+        "position": {
+          "x": -40577.855,
+          "y": 103.42195,
+          "z": 30658.7
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "3-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "66517-Dialogue.mod"
+      },
+      {
+        "id": "4-Dialogue-INGAME",
+        "position": {
+          "x": 78853.734,
+          "y": 1353.0413,
+          "z": 110491.35
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "4-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "66543-rebirth.mod"
+      },
+      {
+        "id": "5-Dialogue-INGAME",
+        "position": {
+          "x": 91275.83,
+          "y": 1529.9211,
+          "z": 54329.727
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "5-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "62790-rebirth.mod"
+      },
+      {
+        "id": "6-Dialogue-INGAME",
+        "position": {
+          "x": 103272.914,
+          "y": 900.6601,
+          "z": 27076.498
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "6-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "95755-__december17.mod"
+      },
+      {
+        "id": "7-Dialogue-INGAME",
+        "position": {
+          "x": 87118.58,
+          "y": 1924.4131,
+          "z": 34939.04
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "7-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96148-Dialogue.mod"
+      },
+      {
+        "id": "8-Dialogue-INGAME",
+        "position": {
+          "x": 108507.16,
+          "y": 873.0928,
+          "z": 13387.785
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "8-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96148-Dialogue.mod"
+      },
+      {
+        "id": "9-Dialogue-INGAME",
+        "position": {
+          "x": 82111.25,
+          "y": 999.62976,
+          "z": 46994.79
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "9-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "96148-Dialogue.mod"
+      }
+    ],
+    "name": "0",
+    "referenceCategories": [],
+    "stringId": "0-townlist",
+    "type": "GamestateTownInstanceList",
+    "values": {}
+  },
+  {
+    "changeType": "New",
+    "id": 1,
+    "instances": [
+      {
+        "id": "10-Newwworld-INGAME",
+        "position": {
+          "x": -50978.8,
+          "y": 1533.1519,
+          "z": 2932.4766
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "10-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18919-Newwworld.mod"
+      },
+      {
+        "id": "10-rebirth-INGAME",
+        "position": {
+          "x": -58675.516,
+          "y": 127.65105,
+          "z": -82433.96
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "10-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48703-rebirth.mod"
+      },
+      {
+        "id": "100-rebirth-INGAME",
+        "position": {
+          "x": 76097.875,
+          "y": 1011.30756,
+          "z": -85826.5
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "100-rebirth-INGAME-S5e"
+        ],
+        "targetId": "95727-rebirth.mod"
+      },
+      {
+        "id": "101-rebirth-INGAME",
+        "position": {
+          "x": 44496.043,
+          "y": 894.94885,
+          "z": 14531.822
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "101-rebirth-INGAME-S5e"
+        ],
+        "targetId": "96219-rebirth.mod"
+      },
+      {
+        "id": "102-rebirth-INGAME",
+        "position": {
+          "x": -104559.945,
+          "y": 235.87306,
+          "z": 92012.06
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "102-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "103-rebirth-INGAME",
+        "position": {
+          "x": -15941.83,
+          "y": 632.8407,
+          "z": 43439.07
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "103-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49943-rebirth.mod"
+      },
+      {
+        "id": "104-rebirth-INGAME",
+        "position": {
+          "x": 9689.362,
+          "y": 1126.5215,
+          "z": 86014.55
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "104-rebirth-INGAME-S5e"
+        ],
+        "targetId": "63140-rebirth.mod"
+      },
+      {
+        "id": "105-rebirth-INGAME",
+        "position": {
+          "x": 13729.846,
+          "y": 731.95074,
+          "z": -112421.37
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "105-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55662-rebirth.mod"
+      },
+      {
+        "id": "106-rebirth-INGAME",
+        "position": {
+          "x": 77732.25,
+          "y": 221.7952,
+          "z": -6569.212
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "106-rebirth-INGAME-S5e"
+        ],
+        "targetId": "961-gamedata.base"
+      },
+      {
+        "id": "107-rebirth-INGAME",
+        "position": {
+          "x": -114335.88,
+          "y": 32.735546,
+          "z": 60708.5
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "107-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47958-rebirth.mod"
+      },
+      {
+        "id": "108-rebirth-INGAME",
+        "position": {
+          "x": 23826.102,
+          "y": 1147.2146,
+          "z": 17893.418
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "108-rebirth-INGAME-S5e"
+        ],
+        "targetId": "95726-rebirth.mod"
+      },
+      {
+        "id": "109-rebirth-INGAME",
+        "position": {
+          "x": 24883.72,
+          "y": 143.04312,
+          "z": 10498.453
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "109-rebirth-INGAME-S5e"
+        ],
+        "targetId": "56152-rebirth.mod"
+      },
+      {
+        "id": "11-Newwworld-INGAME",
+        "position": {
+          "x": -47333.918,
+          "y": 724.07153,
+          "z": -55622.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "11-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18921-Newwworld.mod"
+      },
+      {
+        "id": "11-rebirth-INGAME",
+        "position": {
+          "x": -61574.273,
+          "y": 1644.1929,
+          "z": -103557.54
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "11-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50243-rebirth.mod"
+      },
+      {
+        "id": "110-rebirth-INGAME",
+        "position": {
+          "x": -41625.13,
+          "y": 151.67744,
+          "z": 100239.125
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "110-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1081-gamedata.base"
+      },
+      {
+        "id": "111-rebirth-INGAME",
+        "position": {
+          "x": 12507.244,
+          "y": 956.0521,
+          "z": 65253.223
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "111-rebirth-INGAME-S5e"
+        ],
+        "targetId": "963-gamedata.base"
+      },
+      {
+        "id": "112-rebirth-INGAME",
+        "position": {
+          "x": 61290.41,
+          "y": 1038.3026,
+          "z": -31012.273
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "112-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1073-gamedata.base"
+      },
+      {
+        "id": "113-rebirth-INGAME",
+        "position": {
+          "x": 399.6232,
+          "y": 785.0525,
+          "z": 14393.266
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "113-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55660-rebirth.mod"
+      },
+      {
+        "id": "116-rebirth-INGAME",
+        "position": {
+          "x": 49562.977,
+          "y": 1366.1814,
+          "z": -43045.016
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "116-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55661-rebirth.mod"
+      },
+      {
+        "id": "117-rebirth-INGAME",
+        "position": {
+          "x": -128097.086,
+          "y": 127.82963,
+          "z": 99190.48
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "117-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "118-rebirth-INGAME",
+        "position": {
+          "x": -114719.555,
+          "y": 329.26086,
+          "z": 78755.45
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "118-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49765-rebirth.mod"
+      },
+      {
+        "id": "119-rebirth-INGAME",
+        "position": {
+          "x": -124955.81,
+          "y": 152.22224,
+          "z": 83581.01
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "119-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "12-Newwworld-INGAME",
+        "position": {
+          "x": 6666.99,
+          "y": 600.3605,
+          "z": -85024.805
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "12-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "12-rebirth-INGAME",
+        "position": {
+          "x": -71933.16,
+          "y": 1647.4727,
+          "z": -107596.91
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "12-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "120-rebirth-INGAME",
+        "position": {
+          "x": -130954.44,
+          "y": 372.42664,
+          "z": 88838.805
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "120-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "121-rebirth-INGAME",
+        "position": {
+          "x": -109689.984,
+          "y": 712.5016,
+          "z": 77712.65
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "121-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "122-rebirth-INGAME",
+        "position": {
+          "x": -115197.78,
+          "y": 0.0,
+          "z": 110779.766
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "122-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51423-rebirth.mod"
+      },
+      {
+        "id": "123-rebirth-INGAME",
+        "position": {
+          "x": -104158.805,
+          "y": 106.27039,
+          "z": 111027.13
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "123-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1221-gamedata.base"
+      },
+      {
+        "id": "124-rebirth-INGAME",
+        "position": {
+          "x": -102551.195,
+          "y": 141.21762,
+          "z": 138826.92
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "124-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1221-gamedata.base"
+      },
+      {
+        "id": "125-rebirth-INGAME",
+        "position": {
+          "x": -116471.55,
+          "y": 145.60162,
+          "z": 95342.32
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "125-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "126-rebirth-INGAME",
+        "position": {
+          "x": -95711.164,
+          "y": 151.84744,
+          "z": 103491.266
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "126-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "127-rebirth-INGAME",
+        "position": {
+          "x": -94353.74,
+          "y": 339.4921,
+          "z": 122138.41
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "127-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51423-rebirth.mod"
+      },
+      {
+        "id": "128-rebirth-INGAME",
+        "position": {
+          "x": -53269.336,
+          "y": 2.370392,
+          "z": 74019.79
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "128-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1365-gamedata.base"
+      },
+      {
+        "id": "129-rebirth-INGAME",
+        "position": {
+          "x": -124120.984,
+          "y": 62.197445,
+          "z": -13333.071
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "129-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48446-rebirth.mod"
+      },
+      {
+        "id": "13-Newwworld-INGAME",
+        "position": {
+          "x": -56046.645,
+          "y": 1060.4626,
+          "z": -13188.141
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "13-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18925-Newwworld.mod"
+      },
+      {
+        "id": "13-rebirth-INGAME",
+        "position": {
+          "x": -79751.984,
+          "y": 318.5391,
+          "z": -137662.86
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "13-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "130-rebirth-INGAME",
+        "position": {
+          "x": -130786.66,
+          "y": 205.12752,
+          "z": 7525.0283
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "130-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51817-rebirth.mod"
+      },
+      {
+        "id": "131-rebirth-INGAME",
+        "position": {
+          "x": 29505.824,
+          "y": 1115.986,
+          "z": -10506.784
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "131-rebirth-INGAME-S5e"
+        ],
+        "targetId": "44854-rebirth.mod"
+      },
+      {
+        "id": "132-rebirth-INGAME",
+        "position": {
+          "x": -15883.316,
+          "y": 766.31433,
+          "z": 50946.957
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "132-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51398-rebirth.mod"
+      },
+      {
+        "id": "133-rebirth-INGAME",
+        "position": {
+          "x": 13529.988,
+          "y": 138.47208,
+          "z": -20555.75
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "133-rebirth-INGAME-S5e"
+        ],
+        "targetId": "64919-rebirth.mod"
+      },
+      {
+        "id": "134-rebirth-INGAME",
+        "position": {
+          "x": -1770.0173,
+          "y": 120.24627,
+          "z": -26696.611
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "134-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55644-rebirth.mod"
+      },
+      {
+        "id": "135-rebirth-INGAME",
+        "position": {
+          "x": 2096.5437,
+          "y": 407.42517,
+          "z": -34452.848
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "135-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "136-rebirth-INGAME",
+        "position": {
+          "x": 9022.715,
+          "y": 973.54895,
+          "z": -24365.855
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "136-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "137-rebirth-INGAME",
+        "position": {
+          "x": 656.9636,
+          "y": 138.47256,
+          "z": -11055.609
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "137-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55644-rebirth.mod"
+      },
+      {
+        "id": "138-rebirth-INGAME",
+        "position": {
+          "x": 9936.24,
+          "y": 119.56502,
+          "z": -4661.23
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "138-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55644-rebirth.mod"
+      },
+      {
+        "id": "139-rebirth-INGAME",
+        "position": {
+          "x": 14874.592,
+          "y": 597.5942,
+          "z": -5988.0654
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "139-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49765-rebirth.mod"
+      },
+      {
+        "id": "14-Newwworld-INGAME",
+        "position": {
+          "x": -61088.766,
+          "y": 812.8685,
+          "z": -50757.992
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "14-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44883-rebirth.mod"
+      },
+      {
+        "id": "14-rebirth-INGAME",
+        "position": {
+          "x": -84647.6,
+          "y": 1204.0088,
+          "z": -89729.58
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "14-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48446-rebirth.mod"
+      },
+      {
+        "id": "140-rebirth-INGAME",
+        "position": {
+          "x": 1180.0203,
+          "y": 106.567986,
+          "z": -1389.0618
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "140-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "141-rebirth-INGAME",
+        "position": {
+          "x": 87627.34,
+          "y": 159.47302,
+          "z": -89296.07
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "141-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55396-rebirth.mod"
+      },
+      {
+        "id": "142-rebirth-INGAME",
+        "position": {
+          "x": 87804.17,
+          "y": 195.03058,
+          "z": -109400.016
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "142-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1076-gamedata.base"
+      },
+      {
+        "id": "143-rebirth-INGAME",
+        "position": {
+          "x": 57346.164,
+          "y": 103.063675,
+          "z": -119231.26
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "143-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1220-gamedata.base"
+      },
+      {
+        "id": "144-rebirth-INGAME",
+        "position": {
+          "x": 25026.537,
+          "y": 1175.97,
+          "z": -98033.67
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "144-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55653-rebirth.mod"
+      },
+      {
+        "id": "145-rebirth-INGAME",
+        "position": {
+          "x": 5895.284,
+          "y": 626.57947,
+          "z": -99867.3
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "145-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55654-rebirth.mod"
+      },
+      {
+        "id": "146-rebirth-INGAME",
+        "position": {
+          "x": -6638.8438,
+          "y": 1157.7423,
+          "z": -47390.562
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "146-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55657-rebirth.mod"
+      },
+      {
+        "id": "147-rebirth-INGAME",
+        "position": {
+          "x": -4692.193,
+          "y": 1824.9398,
+          "z": -79399.18
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "147-rebirth-INGAME-S5e"
+        ],
+        "targetId": "53084-rebirth.mod"
+      },
+      {
+        "id": "148-rebirth-INGAME",
+        "position": {
+          "x": 12475.137,
+          "y": 759.8539,
+          "z": -87292.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "148-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55655-rebirth.mod"
+      },
+      {
+        "id": "149-rebirth-INGAME",
+        "position": {
+          "x": 27200.928,
+          "y": 1722.264,
+          "z": -42287.535
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "149-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1200-gamedata.base"
+      },
+      {
+        "id": "15-Newwworld-INGAME",
+        "position": {
+          "x": -62019.32,
+          "y": 1177.6813,
+          "z": -28584.0
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "15-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18923-Newwworld.mod"
+      },
+      {
+        "id": "15-rebirth-INGAME",
+        "position": {
+          "x": -60014.734,
+          "y": 72.78627,
+          "z": -76027.71
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "15-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51398-rebirth.mod"
+      },
+      {
+        "id": "150-rebirth-INGAME",
+        "position": {
+          "x": 25227.105,
+          "y": 1255.7014,
+          "z": -127999.43
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "150-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55649-rebirth.mod"
+      },
+      {
+        "id": "151-rebirth-INGAME",
+        "position": {
+          "x": 134551.73,
+          "y": 552.188,
+          "z": -18086.127
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "151-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62846-rebirth.mod"
+      },
+      {
+        "id": "152-rebirth-INGAME",
+        "position": {
+          "x": 85123.07,
+          "y": 1481.8186,
+          "z": 4446.305
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "152-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55656-rebirth.mod"
+      },
+      {
+        "id": "153-rebirth-INGAME",
+        "position": {
+          "x": 61813.32,
+          "y": 1143.5419,
+          "z": 5530.787
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "153-rebirth-INGAME-S5e"
+        ],
+        "targetId": "962-gamedata.base"
+      },
+      {
+        "id": "154-rebirth-INGAME",
+        "position": {
+          "x": 11190.413,
+          "y": 460.35333,
+          "z": -13888.295
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "154-rebirth-INGAME-S5e"
+        ],
+        "targetId": "56153-rebirth.mod"
+      },
+      {
+        "id": "155-rebirth-INGAME",
+        "position": {
+          "x": 53831.55,
+          "y": 1055.6185,
+          "z": -94596.984
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "155-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55651-rebirth.mod"
+      },
+      {
+        "id": "156-rebirth-INGAME",
+        "position": {
+          "x": 48029.59,
+          "y": 1503.5914,
+          "z": -41953.01
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "156-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1074-gamedata.base"
+      },
+      {
+        "id": "157-rebirth-INGAME",
+        "position": {
+          "x": 34745.375,
+          "y": 985.5063,
+          "z": -71308.34
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "157-rebirth-INGAME-S5e"
+        ],
+        "targetId": "2601-gamedata.base"
+      },
+      {
+        "id": "158-rebirth-INGAME",
+        "position": {
+          "x": 51537.953,
+          "y": 1150.7305,
+          "z": -10402.466
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "158-rebirth-INGAME-S5e"
+        ],
+        "targetId": "964-gamedata.base"
+      },
+      {
+        "id": "16-Newwworld-INGAME",
+        "position": {
+          "x": -52347.203,
+          "y": 1036.1174,
+          "z": -39279.11
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "16-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18923-Newwworld.mod"
+      },
+      {
+        "id": "16-rebirth-INGAME",
+        "position": {
+          "x": -65388.098,
+          "y": 1291.018,
+          "z": -99378.01
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "16-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "160-rebirth-INGAME",
+        "position": {
+          "x": 68772.984,
+          "y": 1068.3344,
+          "z": -71496.61
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "160-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1078-gamedata.base"
+      },
+      {
+        "id": "161-rebirth-INGAME",
+        "position": {
+          "x": 59098.83,
+          "y": 27.675188,
+          "z": 48387.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "161-rebirth-INGAME-S5e"
+        ],
+        "targetId": "58703-rebirth.mod"
+      },
+      {
+        "id": "162-rebirth-INGAME",
+        "position": {
+          "x": 70230.4,
+          "y": 160.96869,
+          "z": 57566.69
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "162-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62770-rebirth.mod"
+      },
+      {
+        "id": "163-rebirth-INGAME",
+        "position": {
+          "x": 72171.14,
+          "y": 512.002,
+          "z": 81614.97
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "163-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62770-rebirth.mod"
+      },
+      {
+        "id": "164-rebirth-INGAME",
+        "position": {
+          "x": 49944.117,
+          "y": 2183.2969,
+          "z": 108475.91
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "164-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62782-rebirth.mod"
+      },
+      {
+        "id": "165-rebirth-INGAME",
+        "position": {
+          "x": 25559.145,
+          "y": 2159.3142,
+          "z": 95179.37
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "165-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62767-rebirth.mod"
+      },
+      {
+        "id": "166-rebirth-INGAME",
+        "position": {
+          "x": 40014.56,
+          "y": 1934.2109,
+          "z": 86530.04
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "166-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62782-rebirth.mod"
+      },
+      {
+        "id": "167-rebirth-INGAME",
+        "position": {
+          "x": 56031.324,
+          "y": 1037.3132,
+          "z": 95077.88
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "167-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62782-rebirth.mod"
+      },
+      {
+        "id": "168-rebirth-INGAME",
+        "position": {
+          "x": 43857.203,
+          "y": 1738.1035,
+          "z": 74411.92
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "168-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62767-rebirth.mod"
+      },
+      {
+        "id": "169-rebirth-INGAME",
+        "position": {
+          "x": 35597.53,
+          "y": 1211.1005,
+          "z": 66135.336
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "169-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49765-rebirth.mod"
+      },
+      {
+        "id": "17-Newwworld-INGAME",
+        "position": {
+          "x": -60654.87,
+          "y": 527.9587,
+          "z": -39050.793
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "17-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "17-rebirth-INGAME",
+        "position": {
+          "x": -50239.016,
+          "y": 560.8756,
+          "z": -104966.195
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "17-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "170-rebirth-INGAME",
+        "position": {
+          "x": 52263.562,
+          "y": 1101.4006,
+          "z": 81922.55
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "170-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49765-rebirth.mod"
+      },
+      {
+        "id": "171-rebirth-INGAME",
+        "position": {
+          "x": 34733.46,
+          "y": 848.45996,
+          "z": 15614.674
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "171-rebirth-INGAME-S5e"
+        ],
+        "targetId": "96403-rebirth.mod"
+      },
+      {
+        "id": "172-rebirth-INGAME",
+        "position": {
+          "x": 71700.125,
+          "y": 25.106367,
+          "z": -21692.219
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "172-rebirth-INGAME-S5e"
+        ],
+        "targetId": "96402-rebirth.mod"
+      },
+      {
+        "id": "173-rebirth-INGAME",
+        "position": {
+          "x": 141393.42,
+          "y": 537.57416,
+          "z": 54120.75
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "173-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62789-rebirth.mod"
+      },
+      {
+        "id": "174-rebirth-INGAME",
+        "position": {
+          "x": 95909.95,
+          "y": 949.88214,
+          "z": 45649.203
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "174-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532814-rebirth.mod"
+      },
+      {
+        "id": "175-rebirth-INGAME",
+        "position": {
+          "x": 91878.305,
+          "y": 600.78217,
+          "z": 24764.04
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "175-rebirth-INGAME-S5e"
+        ],
+        "targetId": "56152-rebirth.mod"
+      },
+      {
+        "id": "176-rebirth-INGAME",
+        "position": {
+          "x": 73294.766,
+          "y": 1402.1777,
+          "z": 35848.68
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "176-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62795-rebirth.mod"
+      },
+      {
+        "id": "177-rebirth-INGAME",
+        "position": {
+          "x": 136389.8,
+          "y": 195.26471,
+          "z": 47464.14
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "177-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "178-rebirth-INGAME",
+        "position": {
+          "x": 123737.79,
+          "y": 192.76921,
+          "z": 68347.88
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "178-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62796-rebirth.mod"
+      },
+      {
+        "id": "179-rebirth-INGAME",
+        "position": {
+          "x": 89092.19,
+          "y": 207.37231,
+          "z": 63056.582
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "179-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62770-rebirth.mod"
+      },
+      {
+        "id": "18-Newwworld-INGAME",
+        "position": {
+          "x": -13211.484,
+          "y": 1014.2517,
+          "z": -16755.828
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "18-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44885-rebirth.mod"
+      },
+      {
+        "id": "18-rebirth-INGAME",
+        "position": {
+          "x": -54304.29,
+          "y": 1618.6251,
+          "z": -93238.14
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "18-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49369-rebirth.mod"
+      },
+      {
+        "id": "180-rebirth-INGAME",
+        "position": {
+          "x": 102972.34,
+          "y": 502.13513,
+          "z": 56286.98
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "180-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "181-rebirth-INGAME",
+        "position": {
+          "x": 125155.484,
+          "y": 634.3813,
+          "z": 54748.094
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "181-rebirth-INGAME-S5e"
+        ],
+        "targetId": "62770-rebirth.mod"
+      },
+      {
+        "id": "182-rebirth-INGAME",
+        "position": {
+          "x": -105157.42,
+          "y": 135.02382,
+          "z": -28044.75
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "182-rebirth-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "183-rebirth-INGAME",
+        "position": {
+          "x": -96778.41,
+          "y": 138.47256,
+          "z": -53226.71
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "183-rebirth-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "186-rebirth-INGAME",
+        "position": {
+          "x": -82246.42,
+          "y": 647.51843,
+          "z": 44768.78
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "186-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49365-rebirth.mod"
+      },
+      {
+        "id": "187-rebirth-INGAME",
+        "position": {
+          "x": 46783.832,
+          "y": 868.1389,
+          "z": -85386.336
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "187-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1785-gamedata.base"
+      },
+      {
+        "id": "19-Newwworld-INGAME",
+        "position": {
+          "x": -16217.084,
+          "y": 659.8939,
+          "z": -28897.178
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "19-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44885-rebirth.mod"
+      },
+      {
+        "id": "19-rebirth-INGAME",
+        "position": {
+          "x": -24416.135,
+          "y": 1758.7699,
+          "z": -69976.46
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "19-rebirth-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "193-rebirth-INGAME",
+        "position": {
+          "x": -5381.415,
+          "y": 494.45874,
+          "z": -132576.14
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "193-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "194-rebirth-INGAME",
+        "position": {
+          "x": 140667.33,
+          "y": 297.46017,
+          "z": -32434.717
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "194-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51398-rebirth.mod"
+      },
+      {
+        "id": "195-rebirth-INGAME",
+        "position": {
+          "x": -9605.506,
+          "y": 202.84967,
+          "z": -143379.34
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "195-rebirth-INGAME-S5e"
+        ],
+        "targetId": "64912-rebirth.mod"
+      },
+      {
+        "id": "196-rebirth-INGAME",
+        "position": {
+          "x": 16720.543,
+          "y": 390.54657,
+          "z": -135768.34
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "196-rebirth-INGAME-S5e"
+        ],
+        "targetId": "64903-rebirth.mod"
+      },
+      {
+        "id": "197-rebirth-INGAME",
+        "position": {
+          "x": 73531.516,
+          "y": 710.1836,
+          "z": 94828.1
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "197-rebirth-INGAME-S5e"
+        ],
+        "targetId": "66543-rebirth.mod"
+      },
+      {
+        "id": "198-rebirth-INGAME",
+        "position": {
+          "x": 80315.69,
+          "y": 1128.1483,
+          "z": 82932.79
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "198-rebirth-INGAME-S5e"
+        ],
+        "targetId": "14539-gamedata.base"
+      },
+      {
+        "id": "199-rebirth-INGAME",
+        "position": {
+          "x": 55798.96,
+          "y": 234.9162,
+          "z": 115410.81
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "199-rebirth-INGAME-S5e"
+        ],
+        "targetId": "66538-rebirth.mod"
+      },
+      {
+        "id": "2-Newwworld-INGAME",
+        "position": {
+          "x": -33384.523,
+          "y": 341.7531,
+          "z": -19952.654
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "2-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18021-Newwworld.mod"
+      },
+      {
+        "id": "2-[basedata]-INGAME",
+        "position": {
+          "x": -3305.8147,
+          "y": 409.50024,
+          "z": 63612.418
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "2-[basedata]-INGAME-S5e"
+        ],
+        "targetId": "1365-gamedata.base"
+      },
+      {
+        "id": "2-rebirth-INGAME",
+        "position": {
+          "x": -50642.35,
+          "y": 1083.0532,
+          "z": -1030.3948
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "2-rebirth-INGAME-S5e"
+        ],
+        "targetId": "44424-rebirth.mod"
+      },
+      {
+        "id": "20-Newwworld-INGAME",
+        "position": {
+          "x": -40351.492,
+          "y": 1103.597,
+          "z": -12264.478
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "20-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "20-rebirth-INGAME",
+        "position": {
+          "x": -46234.61,
+          "y": 1158.1418,
+          "z": -63766.176
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "20-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49366-rebirth.mod"
+      },
+      {
+        "id": "200-rebirth-INGAME",
+        "position": {
+          "x": 66511.91,
+          "y": 391.88126,
+          "z": 77450.26
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "200-rebirth-INGAME-S5e"
+        ],
+        "targetId": "95510-rebirth.mod"
+      },
+      {
+        "id": "201-rebirth-INGAME",
+        "position": {
+          "x": 27281.053,
+          "y": 234.33063,
+          "z": 123867.94
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "201-rebirth-INGAME-S5e"
+        ],
+        "targetId": "64915-rebirth.mod"
+      },
+      {
+        "id": "202-rebirth-INGAME",
+        "position": {
+          "x": 35242.4,
+          "y": 209.06767,
+          "z": 136196.75
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "202-rebirth-INGAME-S5e"
+        ],
+        "targetId": "95510-rebirth.mod"
+      },
+      {
+        "id": "203-rebirth-INGAME",
+        "position": {
+          "x": 101292.24,
+          "y": 1455.8105,
+          "z": 64034.324
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "203-rebirth-INGAME-S5e"
+        ],
+        "targetId": "95510-rebirth.mod"
+      },
+      {
+        "id": "204-rebirth-INGAME",
+        "position": {
+          "x": 110223.516,
+          "y": 1019.6287,
+          "z": 48324.914
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "204-rebirth-INGAME-S5e"
+        ],
+        "targetId": "95725-rebirth.mod"
+      },
+      {
+        "id": "205-rebirth-INGAME",
+        "position": {
+          "x": 107179.58,
+          "y": 93.68231,
+          "z": 79665.836
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "205-rebirth-INGAME-S5e"
+        ],
+        "targetId": "98551-rebirth.mod"
+      },
+      {
+        "id": "206-rebirth-INGAME",
+        "position": {
+          "x": 76136.62,
+          "y": 466.6208,
+          "z": 62271.527
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "206-rebirth-INGAME-S5e"
+        ],
+        "targetId": "98552-rebirth.mod"
+      },
+      {
+        "id": "207-rebirth-INGAME",
+        "position": {
+          "x": 38856.957,
+          "y": 405.9524,
+          "z": 41831.062
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "207-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532823-rebirth.mod"
+      },
+      {
+        "id": "208-rebirth-INGAME",
+        "position": {
+          "x": 56863.867,
+          "y": 142.62987,
+          "z": 34771.082
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "208-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532821-rebirth.mod"
+      },
+      {
+        "id": "21-Newwworld-INGAME",
+        "position": {
+          "x": -19720.385,
+          "y": 1002.7612,
+          "z": -2772.0154
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "21-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "21-rebirth-INGAME",
+        "position": {
+          "x": -35925.81,
+          "y": 0.0,
+          "z": -63443.94
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "21-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49367-rebirth.mod"
+      },
+      {
+        "id": "22-Newwworld-INGAME",
+        "position": {
+          "x": -25087.406,
+          "y": 792.44366,
+          "z": -34244.89
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "22-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "22-rebirth-INGAME",
+        "position": {
+          "x": -24740.506,
+          "y": 5054.2993,
+          "z": -86186.234
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "22-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49386-rebirth.mod"
+      },
+      {
+        "id": "23-Newwworld-INGAME",
+        "position": {
+          "x": -25892.396,
+          "y": 898.4493,
+          "z": -14735.521
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "23-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18948-Newwworld.mod"
+      },
+      {
+        "id": "23-rebirth-INGAME",
+        "position": {
+          "x": -38507.855,
+          "y": 970.83826,
+          "z": -84584.22
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "23-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49368-rebirth.mod"
+      },
+      {
+        "id": "24-Newwworld-INGAME",
+        "position": {
+          "x": -88679.12,
+          "y": 162.35065,
+          "z": -38443.37
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "24-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "24-rebirth-INGAME",
+        "position": {
+          "x": -45404.34,
+          "y": 791.2363,
+          "z": -93069.88
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "24-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49766-rebirth.mod"
+      },
+      {
+        "id": "25-Newwworld-INGAME",
+        "position": {
+          "x": -81634.1,
+          "y": 436.55487,
+          "z": -26815.879
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "25-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "25-rebirth-INGAME",
+        "position": {
+          "x": -42595.035,
+          "y": 423.93323,
+          "z": -99433.49
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "25-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49766-rebirth.mod"
+      },
+      {
+        "id": "26-Newwworld-INGAME",
+        "position": {
+          "x": -68826.91,
+          "y": 163.8941,
+          "z": -35226.418
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "26-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "26-rebirth-INGAME",
+        "position": {
+          "x": -61996.918,
+          "y": 519.33057,
+          "z": -110806.67
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "26-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50522-rebirth.mod"
+      },
+      {
+        "id": "27-Newwworld-INGAME",
+        "position": {
+          "x": -76584.75,
+          "y": 232.3743,
+          "z": -46043.754
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "27-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "27-rebirth-INGAME",
+        "position": {
+          "x": -70680.914,
+          "y": 74.60033,
+          "z": -130822.33
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "27-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "28-Newwworld-INGAME",
+        "position": {
+          "x": -75284.42,
+          "y": 538.38617,
+          "z": -42555.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "28-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "28-rebirth-INGAME",
+        "position": {
+          "x": -57349.56,
+          "y": 99.08291,
+          "z": -136328.66
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "28-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "284-rebirth-INGAME",
+        "position": {
+          "x": 104935.69,
+          "y": 2728.3384,
+          "z": 117664.5
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "284-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532835-rebirth.mod"
+      },
+      {
+        "id": "286-rebirth-INGAME",
+        "position": {
+          "x": 91791.75,
+          "y": 506.3562,
+          "z": 107089.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "286-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1533506-rebirth.mod"
+      },
+      {
+        "id": "287-rebirth-INGAME",
+        "position": {
+          "x": 92081.22,
+          "y": 1669.8132,
+          "z": 117371.195
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "287-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532835-rebirth.mod"
+      },
+      {
+        "id": "288-rebirth-INGAME",
+        "position": {
+          "x": 94354.516,
+          "y": 2674.549,
+          "z": 94195.9
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "288-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532834-rebirth.mod"
+      },
+      {
+        "id": "289-rebirth-INGAME",
+        "position": {
+          "x": 106125.125,
+          "y": 3071.512,
+          "z": 103531.336
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "289-rebirth-INGAME-S5e"
+        ],
+        "targetId": "64561-rebirth.mod"
+      },
+      {
+        "id": "29-Newwworld-INGAME",
+        "position": {
+          "x": -86180.125,
+          "y": 172.77917,
+          "z": -28080.785
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "29-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "29-rebirth-INGAME",
+        "position": {
+          "x": -80209.29,
+          "y": 176.93466,
+          "z": -123700.16
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "29-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49935-rebirth.mod"
+      },
+      {
+        "id": "290-rebirth-INGAME",
+        "position": {
+          "x": 107402.375,
+          "y": 767.3253,
+          "z": 113037.36
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "290-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1533507-rebirth.mod"
+      },
+      {
+        "id": "291-rebirth-INGAME",
+        "position": {
+          "x": 105520.23,
+          "y": 3660.9111,
+          "z": 125640.87
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "291-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532824-rebirth.mod"
+      },
+      {
+        "id": "292-rebirth-INGAME",
+        "position": {
+          "x": 85585.484,
+          "y": 106.50744,
+          "z": 82066.1
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "292-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532822-rebirth.mod"
+      },
+      {
+        "id": "293-rebirth-INGAME",
+        "position": {
+          "x": -53378.51,
+          "y": 145.05377,
+          "z": 109777.28
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "293-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1533495-__world reactions Slavers.mod"
+      },
+      {
+        "id": "294-rebirth-INGAME",
+        "position": {
+          "x": 64741.51,
+          "y": 777.3124,
+          "z": -49500.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "294-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1533492-__world reactions Slavers.mod"
+      },
+      {
+        "id": "295-rebirth-INGAME",
+        "position": {
+          "x": -112609.555,
+          "y": 456.18802,
+          "z": -47698.49
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "295-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1532820-rebirth.mod"
+      },
+      {
+        "id": "296-rebirth-INGAME",
+        "position": {
+          "x": 34743.316,
+          "y": 1016.5309,
+          "z": -120463.55
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "296-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1533962-__SE world states.mod"
+      },
+      {
+        "id": "297-rebirth-INGAME",
+        "position": {
+          "x": 31473.568,
+          "y": 162.24573,
+          "z": -140053.05
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "297-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1533962-__SE world states.mod"
+      },
+      {
+        "id": "298-rebirth-INGAME",
+        "position": {
+          "x": 108907.93,
+          "y": 133.62276,
+          "z": -2322.655
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "298-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1222-gamedata.base"
+      },
+      {
+        "id": "3-Newwworld-INGAME",
+        "position": {
+          "x": -82558.88,
+          "y": 1542.0273,
+          "z": -37630.145
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "3-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18022-Newwworld.mod"
+      },
+      {
+        "id": "3-rebirth-INGAME",
+        "position": {
+          "x": -117142.8,
+          "y": 722.7561,
+          "z": -118984.19
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "3-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1075-gamedata.base"
+      },
+      {
+        "id": "30-Newwworld-INGAME",
+        "position": {
+          "x": -81611.87,
+          "y": 259.5088,
+          "z": -45681.406
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "30-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "30-rebirth-INGAME",
+        "position": {
+          "x": -54781.93,
+          "y": 252.66702,
+          "z": -122366.91
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "30-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49765-rebirth.mod"
+      },
+      {
+        "id": "31-Newwworld-INGAME",
+        "position": {
+          "x": -80534.29,
+          "y": 240.4486,
+          "z": -29290.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "31-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "31-rebirth-INGAME",
+        "position": {
+          "x": -92263.445,
+          "y": 390.45758,
+          "z": -136556.1
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "31-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47958-rebirth.mod"
+      },
+      {
+        "id": "32-Newwworld-INGAME",
+        "position": {
+          "x": -71514.68,
+          "y": 424.5353,
+          "z": -49340.98
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "32-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "32-rebirth-INGAME",
+        "position": {
+          "x": -90700.17,
+          "y": 2650.969,
+          "z": -123526.48
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "32-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47960-rebirth.mod"
+      },
+      {
+        "id": "33-Newwworld-INGAME",
+        "position": {
+          "x": -74683.34,
+          "y": 228.79376,
+          "z": -29826.61
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "33-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "33-rebirth-INGAME",
+        "position": {
+          "x": -37947.035,
+          "y": 1156.855,
+          "z": -60555.895
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "33-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "34-Newwworld-INGAME",
+        "position": {
+          "x": -69574.836,
+          "y": 191.46193,
+          "z": -36565.453
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "34-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "34-rebirth-INGAME",
+        "position": {
+          "x": -9816.922,
+          "y": 1423.3983,
+          "z": -77094.93
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "34-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49942-rebirth.mod"
+      },
+      {
+        "id": "35-Newwworld-INGAME",
+        "position": {
+          "x": -89840.07,
+          "y": 137.95114,
+          "z": -42999.152
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "35-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "35-rebirth-INGAME",
+        "position": {
+          "x": -12521.607,
+          "y": 1291.5549,
+          "z": -90184.94
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "35-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55663-rebirth.mod"
+      },
+      {
+        "id": "36-Newwworld-INGAME",
+        "position": {
+          "x": -79155.38,
+          "y": 671.2619,
+          "z": -38918.613
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "36-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "36-rebirth-INGAME",
+        "position": {
+          "x": -25163.906,
+          "y": 333.47556,
+          "z": -103643.38
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "36-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1222-gamedata.base"
+      },
+      {
+        "id": "37-Newwworld-INGAME",
+        "position": {
+          "x": -75576.59,
+          "y": 443.32913,
+          "z": -39337.89
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "37-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "37-rebirth-INGAME",
+        "position": {
+          "x": -35685.12,
+          "y": 739.0078,
+          "z": -105218.95
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "37-rebirth-INGAME-S5e"
+        ],
+        "targetId": "49387-rebirth.mod"
+      },
+      {
+        "id": "38-Newwworld-INGAME",
+        "position": {
+          "x": -88379.6,
+          "y": 196.69623,
+          "z": -34050.96
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "38-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "38-rebirth-INGAME",
+        "position": {
+          "x": -47040.98,
+          "y": 120.94015,
+          "z": 48137.1
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "38-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50321-rebirth.mod"
+      },
+      {
+        "id": "39-Newwworld-INGAME",
+        "position": {
+          "x": -85321.13,
+          "y": 437.29355,
+          "z": -30884.324
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "39-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "39-rebirth-INGAME",
+        "position": {
+          "x": -118739.17,
+          "y": 138.47256,
+          "z": -62406.01
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "39-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50326-rebirth.mod"
+      },
+      {
+        "id": "4-Newwworld-INGAME",
+        "position": {
+          "x": -37262.41,
+          "y": 652.8847,
+          "z": -43586.984
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "4-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "12628-Newwworld.mod"
+      },
+      {
+        "id": "4-rebirth-INGAME",
+        "position": {
+          "x": -63730.605,
+          "y": 2892.7412,
+          "z": -126621.97
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "4-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47960-rebirth.mod"
+      },
+      {
+        "id": "40-Newwworld-INGAME",
+        "position": {
+          "x": -83921.68,
+          "y": 244.66867,
+          "z": -28589.049
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "40-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "40-rebirth-INGAME",
+        "position": {
+          "x": -43560.6,
+          "y": 90.95686,
+          "z": 40055.36
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "40-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1201-gamedata.base"
+      },
+      {
+        "id": "41-Newwworld-INGAME",
+        "position": {
+          "x": -78260.54,
+          "y": 661.8706,
+          "z": -35790.055
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "41-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "41-rebirth-INGAME",
+        "position": {
+          "x": -6933.4155,
+          "y": 827.7018,
+          "z": 81717.24
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "41-rebirth-INGAME-S5e"
+        ],
+        "targetId": "33-gamedata.quack"
+      },
+      {
+        "id": "42-Newwworld-INGAME",
+        "position": {
+          "x": -85230.016,
+          "y": 225.1273,
+          "z": -46112.844
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "42-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40594-Newwworld.mod"
+      },
+      {
+        "id": "42-rebirth-INGAME",
+        "position": {
+          "x": -117266.555,
+          "y": 1182.6482,
+          "z": 62016.15
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "42-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50995-rebirth.mod"
+      },
+      {
+        "id": "43-Newwworld-INGAME",
+        "position": {
+          "x": -111540.88,
+          "y": 135.20934,
+          "z": -5132.0938
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "43-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "43-rebirth-INGAME",
+        "position": {
+          "x": -89274.62,
+          "y": 1554.8871,
+          "z": 15300.554
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "43-rebirth-INGAME-S5e"
+        ],
+        "targetId": "2608-gamedata.base"
+      },
+      {
+        "id": "44-Newwworld-INGAME",
+        "position": {
+          "x": -97280.0,
+          "y": 132.19101,
+          "z": -4285.84
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "44-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "44-rebirth-INGAME",
+        "position": {
+          "x": 33906.684,
+          "y": 1284.148,
+          "z": 103953.484
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "44-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1032-gamedata.base"
+      },
+      {
+        "id": "45-Newwworld-INGAME",
+        "position": {
+          "x": -86287.37,
+          "y": 111.76576,
+          "z": 5316.8594
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "45-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "45-rebirth-INGAME",
+        "position": {
+          "x": -77580.99,
+          "y": 357.49283,
+          "z": 70359.055
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "45-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51362-rebirth.mod"
+      },
+      {
+        "id": "46-Newwworld-INGAME",
+        "position": {
+          "x": -109295.43,
+          "y": 136.33289,
+          "z": 10387.344
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "46-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "46-rebirth-INGAME",
+        "position": {
+          "x": -62461.043,
+          "y": 328.77905,
+          "z": 16346.798
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "46-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1079-gamedata.base"
+      },
+      {
+        "id": "47-Newwworld-INGAME",
+        "position": {
+          "x": -106335.88,
+          "y": 452.4715,
+          "z": -41801.676
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "47-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "46401-Newwworld.mod"
+      },
+      {
+        "id": "47-rebirth-INGAME",
+        "position": {
+          "x": -80242.49,
+          "y": 1495.441,
+          "z": 16826.936
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "47-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50992-rebirth.mod"
+      },
+      {
+        "id": "48-Newwworld-INGAME",
+        "position": {
+          "x": -115304.414,
+          "y": 131.15945,
+          "z": -40205.492
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "48-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "46401-Newwworld.mod"
+      },
+      {
+        "id": "48-rebirth-INGAME",
+        "position": {
+          "x": -87191.336,
+          "y": 1521.6812,
+          "z": 26186.762
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "48-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51005-rebirth.mod"
+      },
+      {
+        "id": "49-Newwworld-INGAME",
+        "position": {
+          "x": 52758.53,
+          "y": 2530.0286,
+          "z": 61799.727
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "49-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "52160-Newwworld.mod"
+      },
+      {
+        "id": "49-rebirth-INGAME",
+        "position": {
+          "x": -101165.3,
+          "y": 1508.4523,
+          "z": 62129.547
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "49-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51004-rebirth.mod"
+      },
+      {
+        "id": "5-Newwworld-INGAME",
+        "position": {
+          "x": -44019.977,
+          "y": 244.36827,
+          "z": -23186.955
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "5-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "5-rebirth-INGAME",
+        "position": {
+          "x": -62937.414,
+          "y": 99.04933,
+          "z": -77624.84
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "5-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47959-rebirth.mod"
+      },
+      {
+        "id": "50-rebirth-INGAME",
+        "position": {
+          "x": -99798.984,
+          "y": 1459.0999,
+          "z": 11746.405
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "50-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47958-rebirth.mod"
+      },
+      {
+        "id": "51-Newwworld-INGAME",
+        "position": {
+          "x": 8698.1,
+          "y": 644.9133,
+          "z": -13295.174
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "51-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "52210-Newwworld.mod"
+      },
+      {
+        "id": "51-rebirth-INGAME",
+        "position": {
+          "x": -97455.02,
+          "y": 641.5019,
+          "z": 44691.734
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "51-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50994-rebirth.mod"
+      },
+      {
+        "id": "52-Newwworld-INGAME",
+        "position": {
+          "x": 86971.99,
+          "y": 490.44046,
+          "z": -34333.76
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "52-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "55394-Newwworld.mod"
+      },
+      {
+        "id": "52-rebirth-INGAME",
+        "position": {
+          "x": -88565.22,
+          "y": 183.34969,
+          "z": 41912.605
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "52-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48703-rebirth.mod"
+      },
+      {
+        "id": "53-Newwworld-INGAME",
+        "position": {
+          "x": -53100.777,
+          "y": 117.447754,
+          "z": 52953.562
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "53-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42272-Newwworld.mod"
+      },
+      {
+        "id": "53-rebirth-INGAME",
+        "position": {
+          "x": -79326.875,
+          "y": 2303.524,
+          "z": 92089.7
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "53-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50993-rebirth.mod"
+      },
+      {
+        "id": "54-rebirth-INGAME",
+        "position": {
+          "x": -79871.984,
+          "y": 1781.0942,
+          "z": 86963.484
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "54-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1366-gamedata.base"
+      },
+      {
+        "id": "55-Newwworld-INGAME",
+        "position": {
+          "x": -61979.27,
+          "y": 95.93701,
+          "z": 33880.105
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "55-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42272-Newwworld.mod"
+      },
+      {
+        "id": "55-rebirth-INGAME",
+        "position": {
+          "x": -87031.61,
+          "y": 2271.345,
+          "z": 90543.33
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "55-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50993-rebirth.mod"
+      },
+      {
+        "id": "56-Newwworld-INGAME",
+        "position": {
+          "x": 97548.61,
+          "y": 105.17251,
+          "z": -25350.91
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "56-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "55396-Newwworld.mod"
+      },
+      {
+        "id": "56-rebirth-INGAME",
+        "position": {
+          "x": -79519.0,
+          "y": 1156.6616,
+          "z": 81054.1
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "56-rebirth-INGAME-S5e"
+        ],
+        "targetId": "50993-rebirth.mod"
+      },
+      {
+        "id": "57-Newwworld-INGAME",
+        "position": {
+          "x": -16822.057,
+          "y": 246.28279,
+          "z": 21953.543
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "57-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42305-Newwworld.mod"
+      },
+      {
+        "id": "57-rebirth-INGAME",
+        "position": {
+          "x": -55920.832,
+          "y": 108.52193,
+          "z": 44214.953
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "57-rebirth-INGAME-S5e"
+        ],
+        "targetId": "55397-rebirth.mod"
+      },
+      {
+        "id": "58-Newwworld-INGAME",
+        "position": {
+          "x": -31697.496,
+          "y": 1733.0115,
+          "z": 10950.289
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "58-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44854-rebirth.mod"
+      },
+      {
+        "id": "58-rebirth-INGAME",
+        "position": {
+          "x": -62721.668,
+          "y": 103.03007,
+          "z": 62082.668
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "58-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1365-gamedata.base"
+      },
+      {
+        "id": "59-Newwworld-INGAME",
+        "position": {
+          "x": -39775.297,
+          "y": 2711.5977,
+          "z": 7753.6616
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "59-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44852-rebirth.mod"
+      },
+      {
+        "id": "59-rebirth-INGAME",
+        "position": {
+          "x": -105831.61,
+          "y": 1795.7904,
+          "z": 73165.195
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "59-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "6-Dialogue-INGAME",
+        "position": {
+          "x": 102598.05,
+          "y": 929.7689,
+          "z": 27790.768
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "6-Dialogue-INGAME-S5e"
+        ],
+        "targetId": "95755-__december17.mod"
+      },
+      {
+        "id": "6-Newwworld-INGAME",
+        "position": {
+          "x": -50047.62,
+          "y": 680.70825,
+          "z": -31390.188
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "6-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "6-rebirth-INGAME",
+        "position": {
+          "x": -57812.258,
+          "y": 98.452896,
+          "z": -86466.47
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "6-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48447-rebirth.mod"
+      },
+      {
+        "id": "60-Newwworld-INGAME",
+        "position": {
+          "x": -36143.977,
+          "y": 1266.5643,
+          "z": -676.8428
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "60-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44853-rebirth.mod"
+      },
+      {
+        "id": "60-rebirth-INGAME",
+        "position": {
+          "x": -104543.79,
+          "y": 1893.4968,
+          "z": 72598.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "60-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "61-Newwworld-INGAME",
+        "position": {
+          "x": -27225.143,
+          "y": 2211.5217,
+          "z": -5953.089
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "61-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "44884-rebirth.mod"
+      },
+      {
+        "id": "61-rebirth-INGAME",
+        "position": {
+          "x": -103760.16,
+          "y": 1788.3196,
+          "z": 70544.234
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "61-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "62-Newwworld-INGAME",
+        "position": {
+          "x": -24330.771,
+          "y": 2263.7522,
+          "z": 6874.7646
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "62-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "42271-Newwworld.mod"
+      },
+      {
+        "id": "62-rebirth-INGAME",
+        "position": {
+          "x": -106047.82,
+          "y": 1169.4321,
+          "z": 69002.39
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "62-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "63-Newwworld-INGAME",
+        "position": {
+          "x": -64989.105,
+          "y": 115.91366,
+          "z": -551.62964
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "63-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "63-rebirth-INGAME",
+        "position": {
+          "x": -107110.586,
+          "y": 1949.4777,
+          "z": 67675.31
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "63-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "64-Newwworld-INGAME",
+        "position": {
+          "x": -79718.586,
+          "y": 1446.2513,
+          "z": -4413.143
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "64-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "40631-Newwworld.mod"
+      },
+      {
+        "id": "64-rebirth-INGAME",
+        "position": {
+          "x": -104495.27,
+          "y": 1196.5398,
+          "z": 67003.39
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "64-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "65-rebirth-INGAME",
+        "position": {
+          "x": -102555.69,
+          "y": 1391.1321,
+          "z": 65134.918
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "65-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "66-Newwworld-INGAME",
+        "position": {
+          "x": 85178.7,
+          "y": 269.61475,
+          "z": -47764.668
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "66-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "55397-Newwworld.mod"
+      },
+      {
+        "id": "66-rebirth-INGAME",
+        "position": {
+          "x": -101412.92,
+          "y": 1856.5894,
+          "z": 67826.234
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "66-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "67-Newwworld-INGAME",
+        "position": {
+          "x": -11320.918,
+          "y": 1136.107,
+          "z": -127874.21
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "67-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "67-rebirth-INGAME",
+        "position": {
+          "x": -106115.97,
+          "y": 1626.9387,
+          "z": 52882.508
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "67-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "68-rebirth-INGAME",
+        "position": {
+          "x": -107026.9,
+          "y": 1357.2782,
+          "z": 53950.81
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "68-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "69-Newwworld-INGAME",
+        "position": {
+          "x": 726.6581,
+          "y": 564.8012,
+          "z": -121712.125
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "69-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "1224-gamedata.base"
+      },
+      {
+        "id": "69-rebirth-INGAME",
+        "position": {
+          "x": -111021.02,
+          "y": 1677.5004,
+          "z": 53026.56
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "69-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "7-Newwworld-INGAME",
+        "position": {
+          "x": -36079.906,
+          "y": 563.63855,
+          "z": -30346.535
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "7-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "7-rebirth-INGAME",
+        "position": {
+          "x": -60378.29,
+          "y": 112.7927,
+          "z": -78891.16
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "7-rebirth-INGAME-S5e"
+        ],
+        "targetId": "47958-rebirth.mod"
+      },
+      {
+        "id": "70-Newwworld-INGAME",
+        "position": {
+          "x": -284.19385,
+          "y": 1144.1868,
+          "z": -91502.8
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "70-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "70-rebirth-INGAME",
+        "position": {
+          "x": -114306.37,
+          "y": 1611.3206,
+          "z": 50622.414
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "70-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "71-Newwworld-INGAME",
+        "position": {
+          "x": 3647.14,
+          "y": 1085.7909,
+          "z": -96471.51
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "71-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56066-Newwworld.mod"
+      },
+      {
+        "id": "71-rebirth-INGAME",
+        "position": {
+          "x": -115419.02,
+          "y": 1607.2135,
+          "z": 52459.836
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "71-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "72-Newwworld-INGAME",
+        "position": {
+          "x": 17424.514,
+          "y": 424.37616,
+          "z": -94945.99
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "72-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "72-rebirth-INGAME",
+        "position": {
+          "x": -115461.19,
+          "y": 1350.0248,
+          "z": 48397.42
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "72-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "73-Newwworld-INGAME",
+        "position": {
+          "x": 3779.4949,
+          "y": 757.70447,
+          "z": -88889.06
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "73-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "73-rebirth-INGAME",
+        "position": {
+          "x": -113314.586,
+          "y": 1452.5404,
+          "z": 49593.3
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "73-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "74-Newwworld-INGAME",
+        "position": {
+          "x": 11010.113,
+          "y": 529.31683,
+          "z": -90326.57
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "74-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "74-rebirth-INGAME",
+        "position": {
+          "x": -113293.5,
+          "y": 1642.332,
+          "z": 51700.36
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "74-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "75-Newwworld-INGAME",
+        "position": {
+          "x": 15448.554,
+          "y": 481.6998,
+          "z": -92542.055
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "75-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "75-rebirth-INGAME",
+        "position": {
+          "x": -116643.164,
+          "y": 1576.7621,
+          "z": 52119.516
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "75-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "76-Newwworld-INGAME",
+        "position": {
+          "x": 19581.959,
+          "y": 626.4023,
+          "z": -89187.76
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "76-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "76-rebirth-INGAME",
+        "position": {
+          "x": -118244.35,
+          "y": 1706.3738,
+          "z": 52081.64
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "76-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "77-Newwworld-INGAME",
+        "position": {
+          "x": 14384.893,
+          "y": 508.98254,
+          "z": -100588.74
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "77-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "77-rebirth-INGAME",
+        "position": {
+          "x": -117285.484,
+          "y": 1629.5623,
+          "z": 47747.4
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "77-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "78-Newwworld-INGAME",
+        "position": {
+          "x": 8744.631,
+          "y": 498.71808,
+          "z": -95672.7
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "78-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56065-Newwworld.mod"
+      },
+      {
+        "id": "78-rebirth-INGAME",
+        "position": {
+          "x": -119164.66,
+          "y": 1202.8977,
+          "z": 48812.406
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "78-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "79-Newwworld-INGAME",
+        "position": {
+          "x": 3482.597,
+          "y": 959.2062,
+          "z": -87448.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "79-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "56066-Newwworld.mod"
+      },
+      {
+        "id": "79-rebirth-INGAME",
+        "position": {
+          "x": -120163.01,
+          "y": 1925.1934,
+          "z": 51839.727
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "79-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "8-Newwworld-INGAME",
+        "position": {
+          "x": -21255.084,
+          "y": 565.0159,
+          "z": -43238.875
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "8-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "8-rebirth-INGAME",
+        "position": {
+          "x": -59335.47,
+          "y": 83.89479,
+          "z": -72605.516
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "8-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48702-rebirth.mod"
+      },
+      {
+        "id": "80-rebirth-INGAME",
+        "position": {
+          "x": -123997.1,
+          "y": 1685.7788,
+          "z": 50769.652
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "80-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "81-rebirth-INGAME",
+        "position": {
+          "x": -124336.94,
+          "y": 1444.3545,
+          "z": 53955.004
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "81-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "82-rebirth-INGAME",
+        "position": {
+          "x": -125850.33,
+          "y": 1763.1309,
+          "z": 52105.52
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "82-rebirth-INGAME-S5e"
+        ],
+        "targetId": "42025-rebirth.mod"
+      },
+      {
+        "id": "83-rebirth-INGAME",
+        "position": {
+          "x": -138031.44,
+          "y": 1088.0271,
+          "z": 68742.87
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "83-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1075-gamedata.base"
+      },
+      {
+        "id": "84-rebirth-INGAME",
+        "position": {
+          "x": -11476.8,
+          "y": 1139.1978,
+          "z": -36662.047
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "84-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51396-rebirth.mod"
+      },
+      {
+        "id": "85-rebirth-INGAME",
+        "position": {
+          "x": -41373.59,
+          "y": 98.20994,
+          "z": 71775.41
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "85-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51646-rebirth.mod"
+      },
+      {
+        "id": "86-rebirth-INGAME",
+        "position": {
+          "x": -61297.914,
+          "y": 149.17818,
+          "z": 91649.81
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "86-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1364-gamedata.base"
+      },
+      {
+        "id": "87-rebirth-INGAME",
+        "position": {
+          "x": -77400.57,
+          "y": 163.8941,
+          "z": -57732.383
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "87-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51398-rebirth.mod"
+      },
+      {
+        "id": "88-rebirth-INGAME",
+        "position": {
+          "x": -79935.26,
+          "y": 156.35464,
+          "z": 114830.25
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "88-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51402-rebirth.mod"
+      },
+      {
+        "id": "89-rebirth-INGAME",
+        "position": {
+          "x": -34601.992,
+          "y": 105.68024,
+          "z": 40161.895
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "89-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51381-rebirth.mod"
+      },
+      {
+        "id": "9-Newwworld-INGAME",
+        "position": {
+          "x": -18228.572,
+          "y": 2248.5522,
+          "z": -57828.54
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "9-Newwworld-INGAME-S5e"
+        ],
+        "targetId": "18024-Newwworld.mod"
+      },
+      {
+        "id": "9-rebirth-INGAME",
+        "position": {
+          "x": -57781.496,
+          "y": 79.288376,
+          "z": -69732.18
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "9-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48703-rebirth.mod"
+      },
+      {
+        "id": "90-rebirth-INGAME",
+        "position": {
+          "x": -67095.836,
+          "y": 323.72052,
+          "z": 101363.34
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "90-rebirth-INGAME-S5e"
+        ],
+        "targetId": "44854-rebirth.mod"
+      },
+      {
+        "id": "91-rebirth-INGAME",
+        "position": {
+          "x": -59567.918,
+          "y": 86.04046,
+          "z": 63932.926
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "91-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51482-rebirth.mod"
+      },
+      {
+        "id": "92-rebirth-INGAME",
+        "position": {
+          "x": 18961.906,
+          "y": 146.67642,
+          "z": 47372.78
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "92-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1082-gamedata.base"
+      },
+      {
+        "id": "94-rebirth-INGAME",
+        "position": {
+          "x": -30521.793,
+          "y": 366.09644,
+          "z": 83964.13
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "94-rebirth-INGAME-S5e"
+        ],
+        "targetId": "1080-gamedata.base"
+      },
+      {
+        "id": "95-rebirth-INGAME",
+        "position": {
+          "x": -82075.055,
+          "y": 1777.7963,
+          "z": 76922.45
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "95-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51398-rebirth.mod"
+      },
+      {
+        "id": "96-rebirth-INGAME",
+        "position": {
+          "x": -109146.78,
+          "y": 119.70098,
+          "z": 25642.607
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "96-rebirth-INGAME-S5e"
+        ],
+        "targetId": "48796-rebirth.mod"
+      },
+      {
+        "id": "97-rebirth-INGAME",
+        "position": {
+          "x": -71377.28,
+          "y": 1620.0533,
+          "z": 25375.996
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "97-rebirth-INGAME-S5e"
+        ],
+        "targetId": "44854-rebirth.mod"
+      },
+      {
+        "id": "98-rebirth-INGAME",
+        "position": {
+          "x": -57372.695,
+          "y": 103.31212,
+          "z": 57792.312
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "98-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51383-rebirth.mod"
+      },
+      {
+        "id": "99-rebirth-INGAME",
+        "position": {
+          "x": -33581.016,
+          "y": 73.35883,
+          "z": 53465.01
+        },
+        "rotation": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "states": [
+          "99-rebirth-INGAME-S5e"
+        ],
+        "targetId": "51400-rebirth.mod"
+      }
+    ],
+    "name": "0",
+    "referenceCategories": [],
+    "stringId": "0-townlist",
+    "type": "GamestateTownInstanceList",
+    "values": {}
+  }
+]
